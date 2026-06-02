@@ -1,7 +1,5 @@
 # For Teams: Team Members
 
-Source: https://help.quickmail.com/article/517-new-ui-adding-team-members-to-quickmail
-
 In this article:
 
 Types of team access in QuickMail
@@ -100,3 +98,28 @@ However, the workaround is to add them as guests.
 Q:Why can't I generate an invite link?
 
 A: Only team members of the account can generate an invite. If the email address you're using to access QuickMail is not added as a team member of the account, when you try to generate an invite link, it will lead to a permission error.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-fGkmJPZTck.png)
+
+![screenshot](001_file-GNShedeyp8.png)
+
+![screenshot](002_file-FS1vSMTuik.png)
+
+![screenshot](003_file-ZjxWN7cx03.png)
+
+![screenshot](004_file-6TZJaxbY2J.png)
+
+![screenshot](005_file-adAKiAGdOJ.png)
+
+![screenshot](006_file-mKvaea6RQV.png)
+
+![screenshot](007_file-bjKB6Y3ctM.png)
+
+![screenshot](008_file-2hjVh3PQhV.png)
+
+![screenshot](009_file-pA7qXWBzd9.png)
+
+<!-- images-end -->

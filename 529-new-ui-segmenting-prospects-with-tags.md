@@ -1,7 +1,5 @@
 # Segmenting Leads with Tags
 
-Source: https://help.quickmail.com/article/529-new-ui-segmenting-prospects-with-tags
-
 **In this article:**
 
 - How to create Tags?
@@ -57,10 +55,33 @@ Leaving a row blank means the Tag won't be applied.
 
 **Pro-tip:** A lead can have multiple tags and you can also filter specific leads by combining tags.
 
-To learn more about how to filter leads with specific tags, here's a detailed article on how to use advanced filters - [Filtering Leads](https://help.quickmail.com/article/304-filtering-prospects)
+To learn more about how to filter leads with specific tags, here's a detailed article on how to use advanced filters - Filtering Leads
 
 ## How to delete Tags?
 
 To delete tags, navigate to List → Click on the three vertical dots at the upper right-hand corner → Tags
 
 From the Tags page, click on a specific tag → Click on the three vertical dots at the upper right-hand corner → Delete
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-31XKj5EKgC.png)
+
+![screenshot](001_file-edqBGASyUR.png)
+
+![screenshot](002_file-F6t0SbNy90.png)
+
+![screenshot](003_file-psOKw0qqE9.png)
+
+![screenshot](004_file-ZRXk7NsUuA.png)
+
+![screenshot](005_file-nu3nON9fXD.png)
+
+![screenshot](006_file-isUd4OLOP9.png)
+
+![screenshot](007_file-31XKj5EKgC.png)
+
+![screenshot](008_file-k8dQarBPSc.png)
+
+<!-- images-end -->

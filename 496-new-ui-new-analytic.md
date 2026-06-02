@@ -1,7 +1,5 @@
 # Understanding Metrics by Cohort (Advanced Analytics)
 
-Source: https://help.quickmail.com/article/496-new-ui-new-analytic
-
 **In this article:**
 
 - Where can I find Metrics by cohort?
@@ -36,7 +34,7 @@ At the moment, the available data in the metrics are as follows:
 - Opens
 - Clicks
 - Replies
-- Positive & Negative Replies (Based on [Reply Categorization](https://help.quickmail.com/article/449-ai-reply-categorization))
+- Positive & Negative Replies (Based on Reply Categorization)
 - Bounces
 - Unsubscribes
 
@@ -100,3 +98,30 @@ The last time an open was detected was on week 4 which increased the open rate t
 In summary, the open rate of the emails sent on the week of September 4th increased from **50.31%** to **51.57%** in 5 weeks.
 
 Therefore, we can also conclude that more than **51.57%** of the emails were delivered.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-fvWojfrAJD.png)
+
+![screenshot](001_file-Nai2JVRvMU.png)
+
+![screenshot](002_file-m8vFZpXuJM.png)
+
+![screenshot](003_file-NQU2Ii5VHk.png)
+
+![screenshot](004_file-G8YFEdn03E.png)
+
+![screenshot](005_file-LgV9PEPR2w.png)
+
+![screenshot](006_file-xsqKU1oUMH.png)
+
+![screenshot](007_file-6TxrE1czl7.png)
+
+![screenshot](008_file-15AStdXCd4.png)
+
+![screenshot](009_file-Dq4nIJYpcg.png)
+
+![screenshot](010_file-KlwSJNosF7.png)
+
+<!-- images-end -->

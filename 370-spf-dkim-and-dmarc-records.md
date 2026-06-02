@@ -1,7 +1,5 @@
 # Adding SPF, DKIM, and DMARC Records
 
-Source: https://help.quickmail.com/article/370-spf-dkim-and-dmarc-records
-
 **Important:** We don't have our own IP address or servers for sending emails. Instead, we send emails directly from your inbox. As a result, there are no QuickMail-specific records to add to your domain's DNS. The records you need to use should come from your email service provider (e.g., Google, Outlook, etc.).
 
 ## SPF, DKIM, and DMARC records - What are they for?
@@ -38,3 +36,12 @@ The records are added to the DNS records as TXT records.
 The simplest way to check the records is by using a DNS lookup tool like [MXToolbox](https://mxtoolbox.com/) and [UltraTools](https://www.ultratools.com/tools/dnsLookup).
 
 You can also check the records by checking the emails sent from the email account with [Spamtester](https://spamtester.ai/).
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-ba2UCc30LG.jpg)
+
+![screenshot](001_file-nUI87JxvfN.png)
+
+<!-- images-end -->

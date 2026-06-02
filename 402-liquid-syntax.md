@@ -1,7 +1,5 @@
 # Personalizing Emails with Liquid Syntax
 
-Source: https://help.quickmail.com/article/402-liquid-syntax
-
 In this article:
 
 - What is liquid syntax?
@@ -192,4 +190,4 @@ If you get stuck, you can use AI tools like [ChatGPT](https://chatgpt.com/) to d
 
 You can send test emails to test out your liquid syntax.
 
-Check out this [article](https://help.quickmail.com/article/564-new-ui-sending-test-emails) for a detailed guide on sending test emails.
+Check out this article for a detailed guide on sending test emails.

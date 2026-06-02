@@ -1,7 +1,5 @@
 # Adding New Leads 🎥
 
-Source: https://help.quickmail.com/article/528-new-ui-adding-leads
-
 #### In this article:
 
 - Video Demo
@@ -79,7 +77,7 @@ The leads in the sheet can be imported directly into a campaign.
 
 Once the import is completed, an import report will be sent to the email address you're using to log in.
 
-**Tip:** For troubleshooting related to Imports, this guide might come in handy: [Understanding Import Report](https://help.quickmail.com/article/603-understanding-the-import-report)
+**Tip:** For troubleshooting related to Imports, this guide might come in handy: Understanding Import Report
 
 ## Importing Leads from Google Drive
 
@@ -121,6 +119,97 @@ Our integration with LinkedIn Sales Navigator allows you to easily import select
 
 **Note:** While LinkedIn profile URLs and other lead details are imported, email addresses are not included.
 
-**Step 1.** Add a LinkedIn account that has Sales Navigator subscription. Go to Channels → LinkedIn → + LinkedIn. This guide about [Adding LinkedIn accounts](https://help.quickmail.com/article/535-new-ui-adding-linkedin-accounts) might come in handy.
+**Step 1.** Add a LinkedIn account that has Sales Navigator subscription. Go to Channels → LinkedIn → + LinkedIn. This guide about Adding LinkedIn accounts might come in handy.
 
 **Note:** LinkedIn accounts showing a Sales Navigator icon are supported for Sales Navigator.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-DU66icKn6Q.png)
+
+![screenshot](001_file-H5qjdr20Pf.png)
+
+![screenshot](002_file-Z5IdQPW8oo.png)
+
+![screenshot](003_file-mx1wDeNpVM.png)
+
+![screenshot](004_file-659Hm7vJJT.png)
+
+![screenshot](005_file-lc8wZKTs44.jpg)
+
+![screenshot](006_file-1z24aYQuHL.png)
+
+![screenshot](007_file-EdMXtEmmEl.png)
+
+![screenshot](008_file-PTMFInFB22.png)
+
+![screenshot](009_file-YNlE9KUZYM.png)
+
+![screenshot](010_file-8EnhOSOOt9.png)
+
+![screenshot](011_file-nlszsyRVtL.png)
+
+![screenshot](012_file-PCiMBqWGjj.png)
+
+![screenshot](013_file-6ib0SW8UER.png)
+
+![screenshot](014_file-HNbYpNw45c.png)
+
+![screenshot](015_file-c17eVCksJg.png)
+
+![screenshot](016_file-m935Ssvx8k.png)
+
+![screenshot](017_file-i055Tm1aod.png)
+
+![screenshot](018_file-x6N950B6Ve.png)
+
+![screenshot](019_file-INhQRcS0Q4.png)
+
+![screenshot](020_file-3Hl6qhZXyD.png)
+
+![screenshot](021_file-pCc72jL8b9.png)
+
+![screenshot](022_file-PCiMBqWGjj.png)
+
+![screenshot](023_file-ap7Qg6Ue3m.png)
+
+![screenshot](024_file-l4ybGfFXUi.png)
+
+![screenshot](025_file-BwTSeKBFRm.png)
+
+![screenshot](026_file-Wy6JlfWmhI.png)
+
+![screenshot](027_file-6xTLvuRQHU.png)
+
+![screenshot](028_file-QSgxWzJRxo.png)
+
+![screenshot](029_file-u04xOzQS8u.png)
+
+![screenshot](030_file-WodoXIZ5X3.png)
+
+![screenshot](031_file-99FuoqOvCX.png)
+
+![screenshot](032_file-ztNp74NRPC.png)
+
+![screenshot](033_file-5jYDaUAI1K.png)
+
+![screenshot](034_file-0IUhGnhYeo.png)
+
+![screenshot](035_file-ap7Qg6Ue3m.png)
+
+![screenshot](036_file-l4ybGfFXUi.png)
+
+![screenshot](037_file-BwTSeKBFRm.png)
+
+![screenshot](038_file-ieorzlCzcf.png)
+
+![screenshot](039_file-3e1bBS7BRr.png)
+
+![screenshot](040_file-qV9MyXug6H.png)
+
+![screenshot](041_file-HtJRW1v0pr.png)
+
+![screenshot](042_file-opNbf6bGa4.png)
+
+<!-- images-end -->

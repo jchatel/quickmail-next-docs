@@ -1,7 +1,5 @@
 # Integrating Twilio with QuickMail (SMS)
 
-Source: https://help.quickmail.com/article/342-sms-steps
-
 In addition to Email Steps in a campaign, QuickMail can send SMS messages via a service called [Twilio](https://www.twilio.com)
 
 ## How to setup Twilio?
@@ -41,3 +39,20 @@ When a lead replies to an SMS step, it is visible in the Programmable SMS Dashbo
 **Important:** Unlike emails, SMS Replies are not detected by QuickMail and will not prevent any subsequent steps from being sent in the campaign.
 
 After receiving the reply, the lead in the SMS campaign needs to be marked as 'Replied' to prevent additional steps from being sent.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-VsVtsQrCq5.png)
+
+![screenshot](001_file-Li2nE1Wqfl.png)
+
+![screenshot](002_file-ag6P5iv2DL.png)
+
+![screenshot](003_file-UyW68J31OE.png)
+
+![screenshot](004_file-84ff2q6uZ6.png)
+
+![screenshot](005_file-51paKhmvv5.png)
+
+<!-- images-end -->

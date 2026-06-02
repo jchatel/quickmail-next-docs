@@ -1,7 +1,5 @@
 # Setting up an email alias (Replace Sent-From&Reply-to)
 
-Source: https://help.quickmail.com/article/383-how-to-set-up-an-alias-replace-sent-fromreply-to
-
 In this article:
 
 - Why set up an alias?
@@ -38,3 +36,14 @@ Setting up an alias allows users to send emails from or receive a reply to a dif
 - [FastMail](https://www.fastmail.help/hc/en-us/articles/360060591073-How-to-set-up-aliases)
 
 2. After setting up an alias in your email account, go to your QuickMail account → Channels → Emails → Click on an email account → Sending Tab → Add your preferred email under "Send-From" or "Reply-To"
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-2E0CSv0ijm.png)
+
+![screenshot](001_file-uIxVeAjxo0.png)
+
+![screenshot](002_file-Uh54BjhxFA.png)
+
+<!-- images-end -->

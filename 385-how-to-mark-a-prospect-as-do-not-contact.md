@@ -1,14 +1,12 @@
 # Handling Unsubscribes
 
-Source: https://help.quickmail.com/article/385-how-to-mark-a-prospect-as-do-not-contact
-
 ## Why manually mark a prospect as Do Not Contact?
 
 If an unsubscribe link is added to your email and a prospect clicks it, we automatically mark the journey as unsubscribed.
 
 Additionally, we also mark the prospect as Do Not Contact, and prospects marked as Do Not Contact can't be added to any campaign or bucket anymore.
 
-**Pro tip:** To learn about how to add an unsubscribe link to your emails in QuickMail, check out this [article](https://help.quickmail.com/article/331-how-to-include-an-unsubscribe-link).
+**Pro tip:** To learn about how to add an unsubscribe link to your emails in QuickMail, check out this article.
 
 Although it can be automated, there are some instances when you need to do it manually such as the following:
 
@@ -59,7 +57,7 @@ After updating the CSV, import it to QuickMail.
 
 Make sure to map the column DoNotContact with the tag in QuickMail before clicking import.
 
-Check out this article for a more detailed guide on [how to use tags](https://help.quickmail.com/article/301-how-to-use-tags).
+Check out this article for a more detailed guide on how to use tags.
 
 **Note:** If prospects already exist, make sure to check the checkbox Update Prospect if Exists.
 
@@ -71,6 +69,31 @@ To do that, go to the Prospects page -> Advanced filter -> Tags -> Under Has ANY
 
 After filtering prospects with DoNotContact tag, simply select all -> Actions -> Mark as Do Not Contact.
 
-Here's a detailed guide on [how to filter prospects in QuickMail](https://help.quickmail.com/article/304-filtering-prospects).
+Here's a detailed guide on how to filter prospects in QuickMail.
 
-**Pro tip:** You can also mark a domain as Do Not Contact by adding it to the [DNC domain list](https://help.quickmail.com/article/358-do-not-contact-domains).
+**Pro tip:** You can also mark a domain as Do Not Contact by adding it to the DNC domain list.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-BP1NwMhvQH.png)
+
+![screenshot](001_file-Kb7V5Yvsgu.png)
+
+![screenshot](002_file-rLaTPpCo8T.png)
+
+![screenshot](003_file-9el3A95MtB.png)
+
+![screenshot](004_file-AVYctknt8O.png)
+
+![screenshot](005_file-AlPZoarLMC.png)
+
+![screenshot](006_file-2P52KLbFEh.png)
+
+![screenshot](007_file-FmaWOyKIBU.png)
+
+![screenshot](008_file-T5D9ShACd6.png)
+
+![screenshot](009_file-YXMfIJpAvt.png)
+
+<!-- images-end -->

@@ -1,7 +1,5 @@
 # Mailflow Autowarmer
 
-Source: https://help.quickmail.com/article/447-mailflow-integration
-
 **Autowarmer is coming back to QuickMail, and it's better than ever!**
 
 It's currently only available for Google email accounts purchased directly through QuickMail, but all users will have full access soon.
@@ -21,3 +19,10 @@ With a paid QuickMail subscription, these limits increase:
 - 50 for Expert / Agency Plan
 
 **IMPORTANT:** The increase in daily auto-warmer limit is not automatic. After paying for a subscription in QuickMail and creating a Mailflow account, you need to subscribe each of your pools to Mailflow's free plan. Then, email **support@quickmail.io**, and we will raise your limits accordingly.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-MpDwTYQCag.png)
+
+<!-- images-end -->

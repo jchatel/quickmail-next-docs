@@ -1,7 +1,5 @@
 # Custom Fields for Personalizing Emails
 
-Source: https://help.quickmail.com/article/530-new-ui-highly-personalized-emails-with-custom-properties
-
 #### In this article:
 
 - Why use properties?
@@ -113,7 +111,7 @@ Inbox properties allow you to include the email address information in an email.
 
 For example, if you are rotating 2 email addresses for a campaign, each email being sent by a specific email address can include the inbox signature by using the Signature Property.
 
-More about inbox signatures here - [Email Signatures in QuickMail](https://help.quickmail.com/article/324-email-signatures-in-quickmail)
+More about inbox signatures here - Email Signatures in QuickMail
 
 ## Precomputed properties
 
@@ -125,7 +123,7 @@ Allows you to include an unsubscribe link to your emails.
 
 Allows you to mention the lead's colleagues in emails.
 
-Here's a more detailed article about the [Colleagues' Property](https://help.quickmail.com/article/355-colleagues-attribute).
+Here's a more detailed article about the Colleagues' Property.
 
 - ### Day and Business Day Property
 
@@ -133,7 +131,7 @@ Day Property allows you to mention the current day of the week.
 
 On the other hand, the Business Day Property only applies to weekdays.
 
-More about the Day and Business Day properties [here](https://help.quickmail.com/article/335-how-to-use-day-and-bday-attributes).
+More about the Day and Business Day properties here.
 
 You can also type the properties manually as long as they follow the same format as when you click the button.
 
@@ -152,3 +150,40 @@ Finally, confirm delete.
 For example, if a lead has no company value, but is added to a campaign with an email step that uses the company property {{company.name}}, the property will be unable to fill in a value.
 
 Because of this, the email will not be sent and will result in an error.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-wiFMnALKr7.png)
+
+![screenshot](001_file-f8qvDPKQvu.png)
+
+![screenshot](002_file-UoYefE8471.png)
+
+![screenshot](003_file-vbl5rffuum.png)
+
+![screenshot](004_file-rsKNcBrxCu.png)
+
+![screenshot](005_file-3dF6cUKs97.png)
+
+![screenshot](006_file-d3iQBWTExn.png)
+
+![screenshot](007_file-h1KPFpq5uz.png)
+
+![screenshot](008_file-BHkXk5Kj2m.png)
+
+![screenshot](009_file-bivYRQesmk.png)
+
+![screenshot](010_file-la1M5siIQb.png)
+
+![screenshot](011_file-n2sLqwJUJ9.png)
+
+![screenshot](012_file-f8qvDPKQvu.png)
+
+![screenshot](013_file-5VSE2xkUk7.png)
+
+![screenshot](014_file-OhCH6peGR9.png)
+
+![screenshot](015_file-ygHb1vws9I.png)
+
+<!-- images-end -->

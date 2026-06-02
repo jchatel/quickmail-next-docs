@@ -1,7 +1,5 @@
 # LinkedIn: Adding LinkedIn Accounts 🔑
 
-Source: https://help.quickmail.com/article/535-new-ui-adding-linkedin-accounts
-
 **In this article:**
 
 - How to add a LinkedIn account?
@@ -55,3 +53,50 @@ If you don't see the cookie icon on your browser, click the puzzle icon and it s
 **Step 4.** Add the country and paste the cookies → Add → LinkedIn account will be added immediately
 
 **Important:** Logging out of your LinkedIn account will disconnect it from QuickMail by invalidating the cookies, preventing us from sending LinkedIn connection requests. To avoid this, simply log in through an incognito window and close the window after without logging out.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-znKjozYnKB.png)
+
+![screenshot](001_file-RkXI5ujSrt.png)
+
+![screenshot](002_file-ifIH7aiakm.png)
+
+![screenshot](003_file-I5fEjWQC7X.png)
+
+![screenshot](004_file-9oNghscw7E.png)
+
+![screenshot](005_file-2NuFHHEszI.png)
+
+![screenshot](006_file-lhG8HFvNDv.png)
+
+![screenshot](007_file-CF3xfuJ6QY.png)
+
+![screenshot](008_file-9IenA8f9ar.png)
+
+![screenshot](009_file-x9ENHeaRw5.png)
+
+![screenshot](010_file-fppqpXggfL.png)
+
+![screenshot](011_file-MRVdGF97hf.png)
+
+![screenshot](012_file-svUcHvGl31.png)
+
+![screenshot](013_file-OBX4uUKWU1.png)
+
+![screenshot](014_file-somKzW5S4L.png)
+
+![screenshot](015_file-DlpgcGjmQz.png)
+
+![screenshot](016_file-kgP4FEjLCV.png)
+
+![screenshot](017_file-MZE02f3trn.png)
+
+![screenshot](018_file-WYJko8bdbP.png)
+
+![screenshot](019_file-DQ1I4mVLAR.png)
+
+![screenshot](020_file-kNApQCUuzf.png)
+
+<!-- images-end -->

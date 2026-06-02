@@ -1,7 +1,5 @@
 # Adding Email Accounts for Sending
 
-Source: https://help.quickmail.com/article/532-neback-to-article-list-vieww-ui-adding-email-accounts-for-sending
-
 **In this article:**
 
 - Why add an email account?
@@ -9,7 +7,7 @@ Source: https://help.quickmail.com/article/532-neback-to-article-list-vieww-ui-a
 - I'm having difficulties adding an inbox, what should I do?
 - How many inboxes can I add?
 
-Adding email accounts for sending is different than adding team members to your account. For step-by-step guidance on adding team members, check out [this guide](https://help.quickmail.com/article/517-new-ui-adding-team-members-to-quickmail).
+Adding email accounts for sending is different than adding team members to your account. For step-by-step guidance on adding team members, check out this guide.
 
 # Why add an email account?
 
@@ -77,7 +75,7 @@ There are several ways to fix this:
 - Generate an invite link and open it in an incognito window. Since incognito windows don't have any data, instead of loading any email account, you will need to enter the correct email and password.
 - Temporarily use a different browser
 
-**Note:** Custom email addresses can cause different errors. To troubleshoot them, please go to this [article](https://help.quickmail.com/article/397-errors-with-adding-an-inbox). If you can't find any of the errors on the list, please contact your email service provider.
+**Note:** Custom email addresses can cause different errors. To troubleshoot them, please go to this article. If you can't find any of the errors on the list, please contact your email service provider.
 
 # How many inboxes can I add?
 
@@ -85,4 +83,13 @@ The number of inboxes that can be added to an account depends on the account's p
 
 Here's a detailed guide on our pricing to learn more about it: https://quickmail.io/pricing/
 
-**Pro tip:** If you want to increase the volume of emails the account can send daily, the best way to go about it is to use multiple inboxes. Having multiple inboxes is a good way to spread out the volume of messages coming from a single campaign through [Inbox Rotation](https://help.quickmail.com/article/583-new-ui-using-multiple-emails-to-scale-campaigns).
+**Pro tip:** If you want to increase the volume of emails the account can send daily, the best way to go about it is to use multiple inboxes. Having multiple inboxes is a good way to spread out the volume of messages coming from a single campaign through Inbox Rotation.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-TV6cmQfgjH.png)
+
+![screenshot](001_file-j5a2uYDFwW.png)
+
+<!-- images-end -->

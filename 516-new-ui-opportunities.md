@@ -1,7 +1,5 @@
 # Handling Replies with Opportunities
 
-Source: https://help.quickmail.com/article/516-new-ui-opportunities
-
 **In this article:**
 
 - Why use the Opportunities?
@@ -51,7 +49,7 @@ To respond to the lead's reply, click the message in the Opportunities list, the
 
 Once you've sent your reply, the opportunity will automatically be marked as pending and will no longer appear in bold.
 
-**Tip:** If you're having a hard time composing a reply, or following a long email thread with the lead, [Drafting Replies with AI](https://help.quickmail.com/article/634-new-draft-with-ai) might help.
+**Tip:** If you're having a hard time composing a reply, or following a long email thread with the lead, Drafting Replies with AI might help.
 
 ## Selecting an email account to send from
 
@@ -99,7 +97,7 @@ If you'd like to manually categorize replies, go to the opportunity → menu (ve
 
 **Note:** It's not yet possible to personalize the reply categories available to choose from
 
-**Tip:** If you'd like to learn more about AI Reply Categorization, check out this guide:[Categorizing Replies with AI](https://help.quickmail.com/article/550-categorize-replies-with-ai)
+**Tip:** If you'd like to learn more about AI Reply Categorization, check out this guide:Categorizing Replies with AI
 
 ## Attaching Files
 
@@ -115,7 +113,7 @@ Call tasks are automatically generated when a lead goes into a call step. To com
 
 **Tip:** You can make calls from QuickMail as long as you have a phone dialer app installed on your computer. Moreover, the lead must have a phone number attached to its info.
 
-Check out this guide for more info: [Call Steps](https://help.quickmail.com/article/364-call-steps)
+Check out this guide for more info: Call Steps
 
 ## Completing a Draft
 
@@ -144,3 +142,54 @@ QuickMail will automatically assign the replies to the owner of the email accoun
 Inboxes added via an invite link do not have an owner, so replies from these inboxes will appear under the 'Unassigned' tab.
 
 If you'd like to automatically assign new opportunities from a specific inbox to a specific team member, go to Channels → Email Accounts → Change Inbox owner
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-BCWQRQXyJ6.png)
+
+![screenshot](001_file-pXJTV3iy5f.png)
+
+![screenshot](002_file-qPbEMyh91h.png)
+
+![screenshot](003_file-KcOPVLG7Od.png)
+
+![screenshot](004_file-2ePKZLAjCB.png)
+
+![screenshot](005_file-p932KfXRPA.png)
+
+![screenshot](006_file-5JRnUaTJ88.png)
+
+![screenshot](007_file-W7IYVG5auF.png)
+
+![screenshot](008_file-XipR5BFPIc.png)
+
+![screenshot](009_file-G3xuciEB9i.png)
+
+![screenshot](010_file-rXTuhG32m6.png)
+
+![screenshot](011_file-BSbbZtU7UO.png)
+
+![screenshot](012_file-Ox2zbF9XP0.png)
+
+![screenshot](013_file-WOeX2VdVjJ.png)
+
+![screenshot](014_file-APOmlm8m0A.png)
+
+![screenshot](015_file-1ifxR1e89k.png)
+
+![screenshot](016_file-N9Wc3EGnBG.png)
+
+![screenshot](017_file-pxNeJecWDt.png)
+
+![screenshot](018_file-GYIMwklH4R.png)
+
+![screenshot](019_file-zqQGSwzBDF.png)
+
+![screenshot](020_file-SknhR65PT0.png)
+
+![screenshot](021_file-A7AvLeCLmx.png)
+
+![screenshot](022_file-bOVUhxDYlR.png)
+
+<!-- images-end -->

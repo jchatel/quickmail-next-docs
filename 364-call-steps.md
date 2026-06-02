@@ -1,7 +1,5 @@
 # Creating Call Steps in a Campaign
 
-Source: https://help.quickmail.com/article/364-call-steps
-
 ## What are Call Steps?
 
 Call Steps are non-email campaign steps that allow users to make calls to leads. Like a Task Step, the lead's progress in the campaign will be paused when they reach the Call Step in the campaign.
@@ -16,7 +14,7 @@ After that, click on 'Call Step'.
 
 **Step 2.** Compose a call script that will be available to read when a lead goes into the Call step.
 
-**Tip:** You can use [attributes](https://help.quickmail.com/article/299-how-to-use-attributes) to automatically populate lead details in the script.
+**Tip:** You can use attributes to automatically populate lead details in the script.
 
 ## How to make a call?
 
@@ -32,3 +30,16 @@ Once the call is completed, you have two options:
 
 - Mark as complete to resume the campaign progress so it will proceed to the next step
 - Archive the Call item (conversation)
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-Br3ze8OMaj.png)
+
+![screenshot](001_file-IFxtZzyMuj.png)
+
+![screenshot](002_file-WOgcEGhz32.png)
+
+![screenshot](003_file-JR7D3Z3ipE.png)
+
+<!-- images-end -->

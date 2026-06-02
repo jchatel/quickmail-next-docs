@@ -1,7 +1,5 @@
 # Campaign Building: Step by step
 
-Source: https://help.quickmail.com/article/531-new-ui-sending-automated-emails-with-campaigns
-
 ### **In this article:**
 
 - What are campaigns?
@@ -13,7 +11,7 @@ Source: https://help.quickmail.com/article/531-new-ui-sending-automated-emails-w
 - Editing Send Times
 - Starting Leads
 
-If you prefer watching video tutorials, check this out: [Campaign Building Guide 🎥](https://help.quickmail.com/article/570-campaign-building-video-guide)
+If you prefer watching video tutorials, check this out: Campaign Building Guide 🎥
 
 # What are campaigns?
 
@@ -61,7 +59,7 @@ To see the whole list, click "View All" when adding steps.
 
 We don't have our own server for sending emails, so users must add their own email account for sending. Without an email account, the campaign can't send emails.
 
-To add an email account for sending, please follow this guide: [Adding Email Accounts for Sending](https://help.quickmail.com/article/532-new-ui-adding-email-accounts-for-sending)
+To add an email account for sending, please follow this guide: Adding Email Accounts for Sending
 
 Once an email account is added, go to the campaign → Channels tab → Under Emails, toggle your preferred email address on
 
@@ -75,7 +73,7 @@ Without leads, your campaign automation won't work. So you need to ensure your c
 
 To import leads to the campaign, go to the campaign → Menu → Import leads
 
-**Tip:** You can learn more about importing leads [here](https://help.quickmail.com/article/528-new-ui-adding-leads)
+**Tip:** You can learn more about importing leads here
 
 **Pro tip**: if your leads are already added to the Workspace you can simply re-import the same sheet. When re-importing, make sure to check the checkbox "Update lead if it Exists"
 
@@ -95,7 +93,7 @@ Once the campaign is live, emails will be sent based on when leads start the cam
 
 To set the campaign live, go to the campaign → click the paused dropdown → choose Live
 
-**Tip:** If your campaign is not sending emails, please check out this [guide](https://help.quickmail.com/article/616-troubleshooting-campaign-is-not-sending) for troubleshooting
+**Tip:** If your campaign is not sending emails, please check out this guide for troubleshooting
 
 ## Editing Send Times
 
@@ -105,7 +103,7 @@ For a newly created campaign, the initial send times are based on the send time 
 
 However, you can edit the Send Times by going to the campaign → Automation tab → Make sure to select your preferred time zone → Shade your preferred send times and days
 
-**Tip:** For more info about Send Time, check out this guide: [Optimizing Send Times](https://help.quickmail.com/article/629-optimizing-send-times)
+**Tip:** For more info about Send Time, check out this guide: Optimizing Send Times
 
 **Note:** By default, there's a 60-second plus a 15-second random delay between sending emails. Ensure the campaign has enough time to accommodate your preferred email volume.
 
@@ -136,3 +134,54 @@ In case you make any mistake with choosing the day, times, and/or leads to start
 ⚠️ The number of leads in the Triggers are divided and assigned equally among the inboxes assigned to the campaign.
 
 ⚠️ Triggers can't be applied retroactively, so you'll need to wait for the next scheduled time when they will start new leads.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-9TRpWq0g3s.png)
+
+![screenshot](001_file-9uPSUyKFlh.png)
+
+![screenshot](002_file-US0zjOxlTk.png)
+
+![screenshot](003_file-ARqTuZArwV.png)
+
+![screenshot](004_file-jeQ9giv6g7.png)
+
+![screenshot](005_file-FWK1SQpXsQ.png)
+
+![screenshot](006_file-SPb2ge5IUh.png)
+
+![screenshot](007_file-EmewbFObHo.png)
+
+![screenshot](008_file-UeK2gibtix.png)
+
+![screenshot](009_file-7rOj9QMSxj.png)
+
+![screenshot](010_file-chuLiESoyz.png)
+
+![screenshot](011_file-WtXTjS3bAS.png)
+
+![screenshot](012_file-OIPpnywzQG.png)
+
+![screenshot](013_file-GPZjoSzJos.png)
+
+![screenshot](014_file-zt95Vm1NVy.png)
+
+![screenshot](015_file-qf3UxwNKjh.png)
+
+![screenshot](016_file-ECzU6obnyS.png)
+
+![screenshot](017_file-OfNrjVxqJi.png)
+
+![screenshot](018_file-u7UxzOsKQS.png)
+
+![screenshot](019_file-007XTQM0cS.png)
+
+![screenshot](020_file-97na9GPYqT.png)
+
+![screenshot](021_file-yWTHnJ8ga0.png)
+
+![screenshot](022_file-YWsdWzcURi.png)
+
+<!-- images-end -->

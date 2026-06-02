@@ -1,7 +1,5 @@
 # Days of the Week Attributes
 
-Source: https://help.quickmail.com/article/335-how-to-use-day-and-bday-attributes
-
 The `{{=day+0}}` and `{{=bday+0}}` attributes let you include a specific day of the week in your email body or subject line based on the date the email is sent, adding real-time relevance to your messages.
 
 **Note:** Offsets can also be added to transform to a specific day of the week after a certain number of days the email was sent.
@@ -29,3 +27,10 @@ If the email was sent on a Thursday, it will transform to:
 > Can we set a meeting on Monday?
 
 This is because Saturday and Sunday will be skipped.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-jCvfbFBToe.png)
+
+<!-- images-end -->

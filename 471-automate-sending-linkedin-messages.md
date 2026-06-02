@@ -1,7 +1,5 @@
 # LinkedIn: Sending LinkedIn Messages 💬
 
-Source: https://help.quickmail.com/article/471-automate-sending-linkedin-messages
-
 💡 The number of LinkedIn accounts that you can add will depend on your plan. It's 1 for Basic, 5 for Pro, and 15 for Expert.
 
 **In this Article:**
@@ -18,7 +16,7 @@ In QuickMail, you can seamlessly create custom-tailored messages for your Linked
 
 By incorporating LinkedIn Message steps into your campaigns, you have the capability to send multiple personalized messages to your prospects.
 
-**IMPORTANT:** It's not yet possible to send a LinkedIn message to prospects you're not connected with. So a LinkedIn Connection request must be sent first. To send a LinkedIn Connection request, check out this [guide](https://help.quickmail.com/article/472-automate-sending-linkedin-connection-request)
+**IMPORTANT:** It's not yet possible to send a LinkedIn message to prospects you're not connected with. So a LinkedIn Connection request must be sent first. To send a LinkedIn Connection request, check out this guide
 
 ## How many LinkedIn Messages can I send?
 
@@ -30,7 +28,7 @@ On the other hand, you can also set a limit to the LinkedIn messages you send da
 
 ## How to send LinkedIn Messages?
 
-**Step 1.** Setup [LinkedIn Automation](https://help.quickmail.com/article/461-linkedin-automation)
+**Step 1.** Setup LinkedIn Automation
 
 **Step 2.** From your campaign, go to Steps and add a LinkedIn Message step
 
@@ -45,3 +43,16 @@ Go to Channels → LinkedIn → Select a LinkedIn account → Sending Tab → Ma
 Once a LinkedIn account is added to QuickMail, we will automatically scan it for replies every 15 minutes.
 
 The replies are then collected and displayed on the Global page, allowing direct responses to LinkedIn messages.
+
+<!-- images-start -->
+## Screenshots
+
+![screenshot](000_file-OcCxBzMRTL.png)
+
+![screenshot](001_file-0ByZBa3AdA.png)
+
+![screenshot](002_file-t04v78PS0k.png)
+
+![screenshot](003_file-ND4LbCykov.png)
+
+<!-- images-end -->
