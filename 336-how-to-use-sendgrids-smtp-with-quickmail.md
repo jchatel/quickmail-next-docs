@@ -2,8 +2,11 @@
 
 Using a custom SMTP like SendGrid with QuickMail lets you send emails without relying on your email account's default sending service. This means you can send a higher volume of emails while reducing the risk of being flagged by your email provider.
 
+<<<<<<< HEAD
 **Important:** Using Custom SMTP has Pros and Cons. If you'd like to know more, check out this guide: Should I use Custom SMTP?
 
+=======
+>>>>>>> 910cb1ed6f6b830f8f43f3328efbcb5b359da688
 ## How to use QuickMail with SendGrid's SMTP?
 
 **Step 1**. Log in to your SendGrid account → Dashboard → Create sender identity
