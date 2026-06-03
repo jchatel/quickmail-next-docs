@@ -52,8 +52,7 @@ Generate and copy the shareable link to reauthenticate the email account. Provid
 
 ## Custom Email Accounts
 
-Option 1:** To reauthenticate custom email accounts individually, go to Channels → Emails → Select an email account → Sending Settings → Update the SMTP details if needed → Test Sending**.**
-
+Option 1:** To reauthenticate custom email accounts individually, go to Channels → Emails → Select an email account → Sending Settings → Update the SMTP details if needed → Test Sending**.
 ![screenshot](../images/004_file-OH3ZMlL998.png)
 
 After that, go to Receiving Settings → Update the IMAP details if needed → Test Receiving

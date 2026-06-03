@@ -110,9 +110,9 @@ Here's what the client portal looks like for your clients:
 
 ## FAQS:
 
-- *Are the stats reflected in real time in the client portal?*** - Yes
+- *Are the stats reflected in real time in the client portal?** - Yes
 
-- **Does the shareable link expire? ***-* Nope
+- **Does the shareable link expire? **-* Nope
 
 - **Can I create multiple views?** - Yes
 

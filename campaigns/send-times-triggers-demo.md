@@ -2,8 +2,7 @@
 
 ## What are Send Times and Triggers?
 
-To automate campaigns in QuickMail, you need to set up 2 things: Triggers **and **Send times**
-
+To automate campaigns in QuickMail, you need to set up 2 things: Triggers **and **Send times
 - **Send times **dictate when the campaign can send emails.
 
 - **Triggers** allow you to control when and how many leads will start the campaign, but they don't control the email volume.

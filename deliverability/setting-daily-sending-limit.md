@@ -31,7 +31,7 @@ Email service providers put email limits in place to avoid the abuse of their sy
 If you've used up all your daily email limit in QuickMail,
 you won't be able to send manual emails and follow-ups outside QuickMail.
 
-**Note: If you need to control the times and days a campaign can send emails, you can use send times. If you need to control the number of leads starting the campaign daily, you can use send times and triggers respectively. Here's a ***video guide*** on that.**
+**Note: If you need to control the times and days a campaign can send emails, you can use send times. If you need to control the number of leads starting the campaign daily, you can use send times and triggers respectively. Here's a **video guide** on that.**
 
 # How does the daily sending limiter work?
 

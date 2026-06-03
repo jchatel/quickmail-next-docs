@@ -32,27 +32,27 @@ your account is not compromised. It's just us testing the deliverability of your
 
 Here are some examples of the names of the recipients of those messages:
 
-*** Everlyne**
+** Everlyne**
 
-*** Everlyne Green**
+** Everlyne Green**
 
-*** Richard**
+** Richard**
 
-*** Richard Hendricks**
+** Richard Hendricks**
 
-*** noreply**
+** noreply**
 
-*** qmnorep**
+** qmnorep**
 
 Here are some examples of subject lines for those messages:
 
-*** Coffee next Monday?**
+** Coffee next Monday?**
 
-*** Meeting Next Wednesday?**
+** Meeting Next Wednesday?**
 
-*** Hi from (yourname)**
+** Hi from (yourname)**
 
-*** Everlyne Green / (yourname)**
+** Everlyne Green / (yourname)**
 
 *** Quick question Everlyne Green?**
 
