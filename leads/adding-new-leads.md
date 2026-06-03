@@ -312,10 +312,10 @@ To enable this option, go to Channels → LinkedIn → Click on the Linkedin acc
 
 ## FAQs:
 
-*Q:* *How do I know if the import process has been completed?*
-**A: **You will receive an email about the details of the import similar to other import methods - Import Report Email
+**Q:** *How do I know if the import process has been completed?*
+**A:** **You will receive an email about the details of the import similar to other import methods - Import Report Email
 
-*Q:* *What will happen if leadsthat are already on the list are imported?*
+**Q:** *What will happen if leadsthat are already on the list are imported?*
 **A:** Leads that are already on the list will be skipped/rejected.
 
 That's because each lead should have a unique email address to be imported or added.

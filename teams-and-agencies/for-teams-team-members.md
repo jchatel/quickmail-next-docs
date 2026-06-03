@@ -28,7 +28,7 @@ In QuickMail, users can easily grant access to colleagues or clients by utilizin
 
 # What are the types of team access in QuickMail?
 
-There are three types of team access in QuickMail: **Admins**,** Team Members**, and **Guests**
+There are three types of team access in QuickMail: **Admins**, Team Members**, and **Guests**
 
 ## Admins
 
@@ -124,12 +124,12 @@ Change the Sharing Settings to 'Shared'
 
 # FAQs
 
-**Q:*****Can I limit my team member's activity? ***
+**Q:** **Can I limit my team member's activity? ***
 
 A: Nope, that's not possible yet. Please send an email to support@quickmail.io about why you'd need to have that option so we can check what we can do.
 
 However, the workaround is to add them as guests.
 
-***Q:******Why can't I generate an invite link?***
+**Q:** **Why can't I generate an invite link?**
 
 A: Only team members of the account can generate an invite.  If the email address you're using to access QuickMail is not added as a team member of the account, when you try to generate an invite link, it will lead to a permission error.

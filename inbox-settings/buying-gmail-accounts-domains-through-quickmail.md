@@ -155,10 +155,3 @@ When your domains are approaching their expiration date, you will be notified bo
 The interface notification will include a **“Renew”** button, which allows you to easily extend your domain before it expires.
 
 ![screenshot](../images/013_file-PuAosTg6XC.png)
-
-## My purchased emails lost authentication, what should I do?
-
-If an email purchased from lost authentication, you can re-authenticate them.
-To get the credentials, please go to channels -> emails -> open the email -> go to general settings -> you can find the password and 2FA there.
-
-If it keeps losing permission, please contact support at support@quickmail.io so we can check what's happening.

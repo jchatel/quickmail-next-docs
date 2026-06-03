@@ -112,10 +112,10 @@ Here's what the client portal looks like for your clients:
 
 - *Are the stats reflected in real time in the client portal?*** - Yes
 
-- ***Does the shareable link expire? ****-* Nope
+- **Does the shareable link expire? ***-* Nope
 
-- ***Can I create multiple views?*** - Yes
+- **Can I create multiple views?** - Yes
 
-- ***Is there a limit with creating views? ***- Nope
+- **Is there a limit with creating views? **- Nope
 
-- ***Is there a way to share stats per campaign? ****- *This is not yet available
+- **Is there a way to share stats per campaign? ***- *This is not yet available

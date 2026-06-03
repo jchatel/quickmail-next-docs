@@ -60,7 +60,7 @@ Then go to Advanced settings -> Match prospect email provider
 You can manually toggle the email off from the same page where you assigned the email.
 
 Pro tip: If you want to do it automatically, we have a Deliverability AI that allows you to group emails and automatically swap the campaign to use the good emails and put bad emails in recovery.
-**Learn more about it ****here****.**
+**Learn more about it ***here***.**
 
 # I already assigned the inbox from the campaigns but it's still sending emails?
 

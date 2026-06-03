@@ -56,7 +56,7 @@ Here's how to do that:
 
 ![screenshot](../images/004_file-xr6bJbuZBR.png)
 
-**Pro tip: You can personalize your emails using properties. Learn more about that ****here****.**
+**Pro tip: You can personalize your emails using properties. Learn more about that ***here***.**
 
 # Can I add personalized images?
 

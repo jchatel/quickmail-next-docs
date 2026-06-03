@@ -40,7 +40,7 @@ It has 99% delivered emails; out of delivered emails 44% have opened; out of tho
 
 ![screenshot](../images/003_file-McDfaKiMYC.png)
 
-Pro tip: To get an accurate number of open, reply, and positive reply rate, you can look at the ****analytics**** page.**
+Pro tip: To get an accurate number of open, reply, and positive reply rate, you can look at the ***analytics*** page.**
 
 For example, this account has an average open rate of ~44% this month.
 

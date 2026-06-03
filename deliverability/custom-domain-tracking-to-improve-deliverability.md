@@ -73,7 +73,7 @@ Once the CNAME record is properly propagated, go to your QuickMail account Setti
 
 The format of custom domain tracking should be CNAME host + domain
 
-For example, if the CNAME hostname is *hello* and the domain is *domain.com*, the custom domain tracking should be ***hello.domain.com****.*
+For example, if the CNAME hostname is *hello* and the domain is *domain.com*, the custom domain tracking should be **hello.domain.com***.*
 
 ![screenshot](../images/003_file-wDcdm4n2wf.png)
 
