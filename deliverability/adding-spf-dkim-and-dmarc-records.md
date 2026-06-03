@@ -1,22 +1,156 @@
 # Adding SPF, DKIM, and DMARC Records
 
-**Important:** We don't have our own IP address or servers for sending emails. Instead, we send emails directly from your inbox. As a result, there are no QuickMail-specific records to add to your domain's DNS. The records you need to use should come from your email service provider (e.g., Google, Outlook, etc.).
+Proper email authentication protects your domain from spoofing and improves deliverability. This article explains the three core DNS records you need to set up — SPF, DKIM, and DMARC — and what each one does.
 
-## SPF, DKIM, and DMARC records - What are they for?
+---
 
-Setting up SPF and DKIM records is crucial for good email deliverability. Good deliverability means your emails are more likely to land in the recipient's inbox rather than their spam or promotional folder.
+## Why email authentication matters
 
-**SPF**, **DKIM**, and **DMARC** are standard authentication methods used to fight spam and other malicious email practices. These records are added to your domain's DNS to help email providers verify that the emails are sent by the domain owner.
+Without authentication records, anyone can send email that appears to come from your domain. This damages your sender reputation, reduces deliverability, and puts your recipients at risk of phishing attacks. Most modern email providers (Gmail, Outlook, Yahoo) use these records to decide whether to deliver, filter, or reject incoming mail.
 
-- **SPF (Sender Policy Framework)**: This is an email validation record added to the DNS as a text record to confirm that the emails sent from your email service are authorized by the domain owner.
+---
 
-- **DKIM (DomainKeys Identified Mail)**: This method links a domain name to an email message, allowing the sender to claim responsibility for it.
+## SPF (Sender Policy Framework)
 
-- **DMARC (Domain-based Message Authentication, Reporting, and Conformance)**: DMARC tells ISPs how to handle emails that spoof your domain, such as quarantining or blocking them.
+### What it is
 
-## How to Add SPF, DKIM, and DMARC Records?
+SPF is a DNS record that lists which mail servers are authorized to send email on behalf of your domain. When a receiving server gets an email from you, it checks your SPF record to confirm the sending server is on the approved list.
 
-The process for adding records to your DNS may vary based on your email provider and domain host. Here’s how to do it for different services:
+### Why it matters
+
+Without SPF, spammers can forge your domain as the "From" address. SPF gives receiving servers a way to verify the email actually came from you.
+
+### How to add it
+
+Add a TXT record to your domain's DNS:
+
+| Field | Value |
+|-------|-------|
+| Type | TXT |
+| Name | @ (or your domain) |
+| Value | `v=spf1 include:yourmailprovider.com ~all` |
+
+**Common provider values:**
+
+| Provider | Include value |
+|----------|---------------|
+| Google Workspace | `include:_spf.google.com` |
+| Microsoft 365 | `include:spf.protection.outlook.com` |
+| Mailchimp | `include:servers.mcsv.net` |
+
+**Tail options:**
+
+- `~all` — Soft fail. Suspicious mail is accepted but marked. Recommended when starting out.
+- `-all` — Hard fail. Mail from unauthorized servers is rejected. Use this once you're confident your SPF record is complete.
+- `+all` — Allows all. Never use this.
+
+> **Note:** You can only have one SPF record per domain. If you send from multiple providers, combine them into one record: `v=spf1 include:_spf.google.com include:spf.protection.outlook.com ~all`
+
+---
+
+## DKIM (DomainKeys Identified Mail)
+
+### What it is
+
+DKIM adds a cryptographic signature to every outgoing email. The signature is generated using a private key on your mail server and verified by recipients using a public key published in your DNS.
+
+### Why it matters
+
+DKIM proves that the email content has not been tampered with in transit and that it genuinely originated from your domain. It also helps build sender reputation over time, which improves deliverability.
+
+### How to add it
+
+DKIM setup depends on your email provider. They will generate the keys and give you a TXT record to add to your DNS.
+
+**General format:**
+
+| Field | Value |
+|-------|-------|
+| Type | TXT |
+| Name | `selector._domainkey.yourdomain.com` |
+| Value | `v=DKIM1; k=rsa; p=YOUR_PUBLIC_KEY` |
+
+The `selector` is a label chosen by your provider (e.g. `google`, `selector1`, `s1`).
+
+**Where to enable DKIM:**
+
+- **Google Workspace:** Admin Console → Apps → Google Workspace → Gmail → Authenticate email
+- **Microsoft 365:** Security portal → Email & Collaboration → Policies → Email Authentication Settings → DKIM
+- **Other providers:** Check your provider's documentation for the exact DNS record to add
+
+### How to verify DKIM is working
+
+Use [MXToolbox DKIM Lookup](https://mxtoolbox.com/dkim.aspx). Enter your domain and the selector provided by your mail provider. If a key is returned, DKIM is active.
+
+---
+
+## DMARC (Domain-based Message Authentication, Reporting & Conformance)
+
+### What it is
+
+DMARC ties SPF and DKIM together. It tells receiving servers what to do when an email fails SPF or DKIM checks — and sends you reports so you can monitor what's happening with your domain.
+
+### Why it matters
+
+DMARC gives you visibility and control. Without it, even with SPF and DKIM in place, there is no instruction for what to do with mail that fails authentication. DMARC also unlocks BIMI support and is increasingly required by major providers for bulk senders.
+
+### How to add it
+
+Add a TXT record to your DNS:
+
+| Field | Value |
+|-------|-------|
+| Type | TXT |
+| Name | `_dmarc.yourdomain.com` |
+| Value | `v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com` |
+
+### Key parameters
+
+| Parameter | What it does | Example |
+|-----------|--------------|---------|
+| `p=` | Policy — what to do with failing mail | `none`, `quarantine`, `reject` |
+| `pct=` | Percentage of mail the policy applies to | `pct=100` |
+| `rua=` | Email address for aggregate reports | `rua=mailto:dmarc@yourdomain.com` |
+| `ruf=` | Email address for forensic (failure) reports | `ruf=mailto:dmarc@yourdomain.com` |
+| `sp=` | Policy for subdomains | `sp=reject` |
+
+### Recommended rollout
+
+Start with a monitor-only policy and tighten it gradually once you have confirmed your legitimate mail is passing authentication.
+
+**Step 1 — Monitor (start here)**
+```
+v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com
+```
+
+**Step 2 — Quarantine (after reviewing reports)**
+```
+v=DMARC1; p=quarantine; pct=100; rua=mailto:dmarc@yourdomain.com
+```
+
+**Step 3 — Reject (full enforcement)**
+```
+v=DMARC1; p=reject; pct=100; rua=mailto:dmarc@yourdomain.com
+```
+
+> **Important:** Do not jump to `p=reject` without first reviewing DMARC reports. If any legitimate mail streams are missing SPF or DKIM alignment, they will be rejected.
+
+### Reading DMARC reports
+
+Reports arrive as XML files sent to the address in `rua=`. They are hard to read manually. Use a free tool like [DMARC Analyzer](https://www.dmarcanalyzer.com) or [Google Postmaster Tools](https://postmaster.google.com) to parse and visualize them.
+
+---
+
+## Summary
+
+| Record | What it does | Required for deliverability |
+|--------|--------------|----------------------------|
+| SPF | Authorizes sending servers | Yes |
+| DKIM | Signs email content | Yes |
+| DMARC | Enforces SPF + DKIM and sends reports | Strongly recommended |
+| BIMI | Displays brand logo in inbox | No (but requires DMARC enforcement) |
+
+**Setup order:** SPF → DKIM → DMARC (`p=none`) → review reports → DMARC (`p=reject`) → BIMI (optional)
 
 - **For Outlook**:
 
@@ -57,3 +191,24 @@ You can also check the records by checking the emails sent from the email accoun
 Here' an example of an SPF record check on MXToolbox:
 
 ![screenshot](../images/001_file-nUI87JxvfN.png)
+
+### BIMI (Brand Indicators for Message Identification)
+
+BIMI is an extension that lets your brand logo appear next to emails in supported inboxes, including Gmail, Yahoo Mail, and Apple Mail.
+
+#### Requirements
+
+Before BIMI will work, you need:
+
+1. A DMARC record with `p=quarantine` or `p=reject` at 100% enforcement (`pct=100`)
+2. Your logo in SVG Tiny PS format
+3. A publicly accessible URL hosting that logo
+4. Optionally, a VMC (Verified Mark Certificate) — required for Gmail logo display
+
+#### FAQs
+
+Q: Do I need DMARC to add a BIMI record?
+Yes, BIMI record requires a DMARC record.
+
+**Note:** BIMI is cosmetic and not required for email deliverability. Focus on SPF, DKIM, and DMARC first. 
+Add BIMI once your DMARC policy is fully enforced.
