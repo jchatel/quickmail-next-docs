@@ -297,3 +297,9 @@ It's possible to handle multiple opportunities in bulk to streamline actions. Th
 To do this, select multiple replies: you can select them one by one, by page, or select all. Then, click on the action from the different options.
 
 ![screenshot](../images/022_file-bOVUhxDYlR.png)
+
+FYI: Leads who replied in a campaign will be marked as replied to all campaigns.
+This is done by design to prevent leads from receiving automated emails continuously.
+
+The opportunities might show a different campaign attribution.
+However, the stats will be attributed to the correct campaign.
