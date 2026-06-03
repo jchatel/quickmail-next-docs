@@ -124,12 +124,15 @@ Change the Sharing Settings to 'Shared'
 
 # FAQs
 
-**Q:** **Can I limit my team member's activity? ***
+Q:Can I limit my team member's activity?
 
 A: Nope, that's not possible yet. Please send an email to support@quickmail.io about why you'd need to have that option so we can check what we can do.
 
 However, the workaround is to add them as guests.
 
-**Q:** **Why can't I generate an invite link?**
+Q: Why can't I generate an invite link?**
 
 A: Only team members of the account can generate an invite.  If the email address you're using to access QuickMail is not added as a team member of the account, when you try to generate an invite link, it will lead to a permission error.
+
+Q: How many team members can I add?
+There's no limit to the number of team members you can add.
