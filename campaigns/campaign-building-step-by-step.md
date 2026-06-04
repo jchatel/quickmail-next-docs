@@ -249,3 +249,9 @@ Example:
 - It should send on the **next allowed window**, usually **Monday** during your selected sending hours/timezone
 
 FYI: If you set your Wait Step to be business days, no leads will end up getting assigned to a weekend.
+
+Q: I mistakenly deleted the campaign, can I recover it?
+Every deleted data in QuickMail can't be recovered anymore, that includes campaigns, campaigns steps, leads, etc.
+This is done for data and security handling compliance.
+
+To avoid losing data, please archive the campaign instead.
