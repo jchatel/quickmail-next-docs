@@ -255,3 +255,16 @@ Every deleted data in QuickMail can't be recovered anymore, that includes campai
 This is done for data and security handling compliance.
 
 To avoid losing data, please archive the campaign instead.
+
+Q: Can I add an image to my campaigns?
+Yes, you can upload directly or via image URL.
+To do that, go to the step or signature > click image icon > choose between upload or img url.
+
+At the moment, there's no option yet to resize images in QuickMail.
+To make sure that the size is correct, simply resize it before adding it to the email steps.
+
+As for resizing the image, Windows and Mac actually have a built-in photo application
+where you can resize an image with ease.
+
+BTW, note as well that images with big file sizes can cause email service providers to consider them as attachments.
+To prevent images from showing as attachments, make sure they don't exceed the file size of 2MB.
