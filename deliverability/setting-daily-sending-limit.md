@@ -56,3 +56,10 @@ Then, input the limit and click confirm.
 **Note: The daily email limiter resets every midnight of the account's timezone. To check the account timezone, go to the general settings.**
 
 ![screenshot](../images/003_file-1VN1pIeZ4q.png)
+
+# What's the recommended volume for each email?
+
+We don't recommend sending more than 15 emails/inbox daily, especially on the 1st month.
+Once you start receiving replies, you can eventually scale depending on how many replies you are receiving.
+
+The thing about cold outreach is that it's tricky to give a specific volume since it's not exact science.
