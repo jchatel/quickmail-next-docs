@@ -85,3 +85,11 @@ After the reassignment is complete, the old inboxes can then be added back to th
 If deleting is not an option, you can pause the inboxes to stop sending emails from them.
 
 Just note that that could delay the leads assigned to them.
+
+# I assigned more emails to the campaign but only 1 email is sending still
+QuickMail assigns an inbox to a lead when the lead starts, and that inbox stays tied to that journey/follow-ups. 
+So even if other inboxes now have capacity, already-started leads may still be waiting behind the queue of the inbox they were originally assigned to.
+
+To solve this, please pause the campaigns > delete the bottleneck email > unpause campaign > re-add email > assign to campaign.
+
+This will reset the assignment so leads will automatically be distributed evenly to all emails assigned to the campaign.
