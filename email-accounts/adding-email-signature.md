@@ -80,3 +80,17 @@ And paste it into your signature.
 ![screenshot](../images/008_file-DAyHJM8J7s.png)
 
 As long as the signature is attribute is inserted into emails, all emails that will be sent will have the translated HTML code.
+
+Q: Can I add a logo or images to my signature?
+Yes, you can add images by uploading directly or via image URL.
+To do that, go to channels > email > 2nd tab > scroll down to signature > click image icon > choose between upload or img url.
+
+At the moment, there's no option yet to resize images in QuickMail.
+To make sure that the size is correct, simply resize it before adding it to the email steps.
+
+As for resizing the image, Windows and Mac actually have a built-in photo application
+where you can resize an image with ease.
+
+BTW, note as well that images with big file sizes can cause email service providers to consider them as attachments.
+To prevent images from showing as attachments, make sure they don't exceed the file size of 2MB.
+

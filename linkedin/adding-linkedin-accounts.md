@@ -141,3 +141,9 @@ Additionally, you won't be able to edit their settings.
 Please try a different log in to solve the issue.
 
 If you really can't find the account, please contact support and we'll fix it for you.
+
+- My LinkedIn lost permission, how do I reconnect?
+If your LinkedIn is added via cookies, just generate a new cookie and add the new cookie here.
+If it's added via 2FA, you can use the extension browser to reconnect the LinkedIn.
+
+If you can't reconnect the 2FA, please reach out to us at support@quickmail.io.

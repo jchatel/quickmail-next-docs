@@ -197,6 +197,17 @@ After that, select the custom property you would like to delete → Click on the
 Finally, confirm delete.
 
 ![screenshot](../images/014_file-OhCH6peGR9.png)
+To delete custom properties, go to List → Click on the three vertical dots → Properties
+
+![screenshot](../images/012_file-f8qvDPKQvu.png)
+
+# How to edit custom properties?
+go to List → Click on the three vertical dots → Properties
+
+![screenshot](../images/012_file-f8qvDPKQvu.png)
+
+Click the property > edit default value.
+There's no option yet to change the name but you can edit the default value.
 
 ## Why am I getting an error?
 
@@ -207,3 +218,5 @@ For example, if a lead has no company value, but is added to a campaign with an 
 Because of this, the email will not be sent and will result in an error.
 
 ![screenshot](../images/015_file-ygHb1vws9I.png)
+
+
