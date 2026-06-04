@@ -234,3 +234,18 @@ If your campaign includes a large number of leads and multiple email steps, star
 - A backlog of emails waiting in the send queue, causing delays.
 
 Consider using automation by adding the 'number of leads to start daily'
+
+### FAQs
+Q: If leads will land on a weekend because of my wait step setting, how will QuickMail handle that?
+If your campaign Send Times are set to Monday–Friday only, QuickMail will not send the next email on Saturday or Sunday.
+
+The "Wait 2 days" step makes the next step *eligible* after 2 days, but the actual email will only send during your allowed campaign Send Times.
+
+Example:
+- Email 1 sends on **Thursday**
+- Wait step = **2 days**
+- Next email becomes due on **Saturday**
+- Since Saturday/Sunday are not allowed, QuickMail will wait
+- It should send on the **next allowed window**, usually **Monday** during your selected sending hours/timezone
+
+FYI: If you set your Wait Step to be business days, no leads will end up getting assigned to a weekend.
