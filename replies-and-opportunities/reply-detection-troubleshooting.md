@@ -85,3 +85,7 @@ If a lead sends a brand-new email from a different address instead of replying d
 ## Is a Reply Not Being Detected in QuickMail?
 
 If you've confirmed a reply was sent but it isn't showing up, work through the checklist above to identify the most likely cause. If the issue persists, reach out to support with the lead's email address, the campaign name, and the approximate time the reply was sent.
+
+---
+If a lead from a domain replies, can the system automatically cancel all remaining scheduled sends to other leads at that same domain?
+Yes, as long as the "treat replies as company wide" settings is turned on.
