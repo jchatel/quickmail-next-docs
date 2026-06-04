@@ -59,12 +59,14 @@ If a reply wasn't detected and you need to stop follow-ups immediately, mark the
 
 ## Reply Detection: Same Domain vs. Different Domain
 
-QuickMail can detect a reply if it comes from the same domain as the lead and **Treat replies as company-wide** is enabled.
+QuickMail can detect a reply if it comes from the same domain as the lead, as long as the **Treat replies as company-wide** is enabled.
 
 | Scenario | Detected? |
 |---|---|
 | Lead: `peter@mycompany.com` replies as `peter.s@mycompany.com` | Yes — same domain |
 | Lead: `peter@mycompany.com` replies from `peter@anotherdomain.com` | Unlikely — different domain |
+
+To enable this, please go to general settings > turn on treat replies as company-wide.
 
 ---
 
