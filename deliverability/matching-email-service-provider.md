@@ -6,7 +6,12 @@ Matching an Email Service Provider (ESP) allows users to automatically send emai
 
 ## How it works?
 
-In QuickMail, leads are automatically assigned to inboxes when they start a campaign. This ensures that all follow-up emails come from the same email address for consistency. When the "Match Email Service Provider" feature is enabled, leads are only assigned to inboxes that use the same email provider as the lead. As a result, if the leads and inboxes belong to different email providers, the distribution may be uneven, meaning some inboxes may send more emails than the others.
+In QuickMail, leads are automatically assigned to inboxes when they start a campaign. This ensures that all follow-up emails come from the same email address for consistency. 
+
+When the "Match Email Service Provider" feature is enabled, leads are only assigned to inboxes that use the same email provider as the lead. As a result, if the leads and inboxes belong to different email providers, the distribution may be uneven, meaning some inboxes may send more emails than the others.
+
+Note: If an lead doesn't match any of the providers assigned to the campaign, they will be assigned to any emails.
+So no leads will be stuck with no inbox assignment.
 
 **Important:** This feature will only apply to new leads added to the campaign. Existing leads won't be affected.
 
