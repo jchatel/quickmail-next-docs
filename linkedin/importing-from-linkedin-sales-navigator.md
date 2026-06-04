@@ -60,7 +60,7 @@ Auto-Import continuously monitors your saved Sales Navigator search. When a new 
 
 ![screenshot](../images/009_file-woqPbu21S4.png)
 
-**Step 4.** Paste the URL copied from Sales Navigator → Follow the on screen instructions to setup import
+ Paste the URL copied from Sales Navigator → Follow the on screen instructions to setup import
 
 ![screenshot](../images/010_file-eKLGupsdHA.png)
 
@@ -71,3 +71,18 @@ Auto-Import continuously monitors your saved Sales Navigator search. When a new 
 ![screenshot](../images/011_file-qV9MyXug6H.png)
 
 When a new lead appears, it’s automatically added to your list or campaign, so you can engage them right away without having to search again.
+
+**FAQs**
+Q: I tried importing via Sales Navigator and it keeps showing 0 leads found.
+Most of the time it's because of this error "2FA Login challenge not found"
+
+This error means LinkedIn is adding an extra security step, like emailing you a login code or triggering a captcha whenever you attempt to log in.
+
+You can try to log out and log back in to your LinkedIn account using your browser to see if it will trigger the security step.
+If that doesn't do the trick, you can log in to an incognito window to see the log in challenge and complete it.
+
+If neither works, you’ll need to wait until LinkedIn stops sending those codes before you can connect it to QuickMail.
+Unfortunately, we can’t bypass it since the code is sent somewhere we have no access to (like email or captcha).
+
+Here's a more detailed guide on it:
+https://www.linkedin.com/help/linkedin/answer/a1339220/security-verification-when-signing-in?lang=en
