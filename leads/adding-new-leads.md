@@ -311,17 +311,29 @@ To enable this option, go to Channels → LinkedIn → Click on the Linkedin acc
 ![screenshot](../images/042_file-opNbf6bGa4.png)
 
 ## FAQs:
-**Q:** How do I know if the import process has been completed?
-**A:** **You will receive an email about the details of the import similar to other import methods - Import Report Email
-**Q:** What will happen if leadsthat are already on the list are imported?
-**A:** Leads that are already on the list will be skipped/rejected.
+Q: How do I know if the import process has been completed?
+A:You will receive an email about the details of the import similar to other import methods - Import Report Email
+Q:What will happen if leadsthat are already on the list are imported?
+A:Leads that are already on the list will be skipped/rejected.
 
 That's because each lead should have a unique email address to be imported or added.
 
 If you want to update the details of the existing leads, you can tick the box "Update Lead if it exists" before hitting the import button. This can be useful when moving existing Leads to a different bucket or when adding new details to Leads (such as custom attribute values).
 
-**Note:** "Update Lead if it exists" only works for manual imports.
+Note: "Update Lead if it exists" only works for manual imports.
 
 Auto-imports will always skip leads that already exist.
 
-**Important:** When updating leads upon import, make sure to map the Company information. If the company information is not mapped, the company name will default to the domain name which can have skewed capitalization (e.g. Abc instead of ABC).
+Important:** When updating leads upon import, make sure to map the Company information. If the company information is not mapped, the company name will default to the domain name which can have skewed capitalization (e.g. Abc instead of ABC).
+
+Q: Special characters are not showing in QuickMail
+A: To import special characters, the CSV must be formatted as UTF-8.
+
+This article might come in handy when converting the CSV to use UTF-8 encoding:
+https://support.meistertask.com/hc/en-us/articles/4406395262354-How-Do-I-Encode-My-CSV-File-Using-the-UTF-8-Format-
+
+After correcting the CSV, simply re-import the CSV.
+
+When re-importing, make sure to check the checkbox "update prospects if exist"
+Otherwise, prospects will be rejected to prevent duplicates.
+
