@@ -63,3 +63,9 @@ To upgrade your plan, go to Settings → Billing/Plan → Choose Plan (Note that
 **Fix: **The list of permanently deleted leads must be cleared. To do that, go to Settings → General → At the bottom of the page, click "Clean List"
 
 ![screenshot](../images/004_file-zwiMdN4sMU.png)
+
+## Total number of leads in the import report, doesn't match the total number of leads in the workspace/campaign
+
+Reason:
+- The import has duplicated leads. Duplicated leads show as updated leads if you auto-update upon import
+- The campaign is set to reject leads that are not valid so not all leads got added to the campaign
