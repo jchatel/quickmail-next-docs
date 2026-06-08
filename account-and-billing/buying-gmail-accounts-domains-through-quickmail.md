@@ -155,3 +155,7 @@ When your domains are approaching their expiration date, you will be notified bo
 The interface notification will include a **“Renew”** button, which allows you to easily extend your domain before it expires.
 
 ![screenshot](../images/013_file-PuAosTg6XC.png)
+
+## Do you have region-specific domains like .uk, .eu, etc.
+No, we only sell .com, .io, .co, .net.
+However, you can use these domains in your country/region as they're not region-locked.

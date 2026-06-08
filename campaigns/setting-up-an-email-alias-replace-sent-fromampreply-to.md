@@ -20,6 +20,12 @@ No, it's not possible to add an alias email account (or an email account without
 
 **Note:** Changing the send-from & reply-to email address may cause replies to not get detected in QuickMail. So it's best to add the send-from & reply-to email address in QuickMail so we can also scan that email account for replies.
 
+Note that aliases still affect the deliverability of the primary email since aliases are technically still sending from the primary email.
+
+So if the goal is to prevent getting flagged, using an alias is not the best way to go.
+Additionally, emails sent from aliases are not signed with SPF and DKIM records.
+So they're more likely to land in spam.
+
 ## How to use an alias with a Gmail inbox?
 
 1. Set up an alias directly in your Gmail account. Here’s a [guide](https://support.google.com/mail/answer/22370?hl=en) on how to set up an alias in Gmail.

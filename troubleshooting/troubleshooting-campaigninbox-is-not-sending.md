@@ -89,3 +89,9 @@ When a workspace is paused, no leads and automation will be processed. This incl
 To solve the issue, please go to the general settings of your campaign and uncheck the checkbox "pause outbound automations for this workspace."
 
 ![screenshot](../images/007_file-FDlhauj2LX.png)
+
+- ## My campaign has leads but it says "no new leads left to start." Why is that?
+This only refers to leads who are in the "Not Started" status.
+So if your leads are already running the campaign, it's normal to see this.
+
+If you don't have any more leads to add to the campaign, you can safely ignore this.

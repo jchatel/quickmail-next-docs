@@ -18,6 +18,8 @@ If you need to send more emails without compromising deliverability, consider ad
 
 Here's how it works Using Multiple Emails to Scale Campaigns (Inbox Rotation)
 
+Each email should not send more than 15-20 emails daily, especially new ones.
+
 ## Reduce Bounces
 
 Verifying leads in QuickMail is essential to minimize bounce rates and protect your sender reputation. Leads must be verified before sending emails to prevent bounces that could damage that reputation.
@@ -106,7 +108,7 @@ The readability score shows up when composing emails and replies, helping to ens
 
 For tips to improve the readability scores of your emails, check out this guide: Readability Scores
 
-## Stealtthmode
+## Stealth mode
 
 Stealthmode prevents Google from detecting that emails are being sent from a third-party platform, which helps improve deliverability. Note, however, that Stealthmode is only available to inboxes purchased from QuickMail. It’s automatically enabled.
 

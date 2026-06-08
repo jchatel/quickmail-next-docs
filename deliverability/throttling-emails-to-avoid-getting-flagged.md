@@ -18,22 +18,31 @@ To moderate the volume of emails sent by your email address, emails can be throt
 
 Emails need to be throttled in the following instances:
 
-- **To ensure good email deliverability. **
+1. To ensure good email deliverability.
 Email service providers put a limit on the number of emails you can send. This is to prevent spam or abuse.
 Free Gmail accounts have a 500 daily email limit, Outlook accounts have a 300 daily email limit, and G-suite accounts have a 2,000 daily email limit.
+
 Once you reach your daily email limit, you can’t send any more emails for a certain period.
+
 Usually, when you reach your daily email limit, you will receive email notifications from nobody@gmail.com.
 These notifications don't have the email address of the prospects who didn't receive your emails.
 So there's no way to know which prospects you need to reach out again.
+
 Additionally, it's not recommended to max out the limit right off the bat. Email service providers don't like a sudden spike in email volume so doing so will raise spam suspicions.
+
+Because of that, we don't recommend exceeding more than 15 emails per inbox per day, especially for new emails.
+
 When your email address raises spam suspicions, the email address might be disabled from sending and receiving emails temporarily or worse, shut down permanently.
+
 If your emails are shut down, all communication with your existing leads and campaigns will be put to a halt, and recovering them will be difficult, if not impossible.
 
-- To moderate the sending of accumulated emails to send from an email account.
+2. To moderate the sending of accumulated emails to send from an email account.
 Email to leads accumulate in an email account when a scheduled campaign and/or the inbox assigned to a scheduled campaign is paused.
 Follow-up schedules will still continue to count even if the emails or the campaigns are paused.
+
 That's why pausing campaigns or pausing inboxes may result in an accumulation of pending follow-ups.
 The longer the inboxes/campaigns are paused, the more follow-ups may accumulate (especially if you're running multiple campaigns with multiple email steps).
+
 If you're not throttling emails, accumulated emails in an email account could lead to a sudden spike in the email volume.
 
 # How to throttle emails?
