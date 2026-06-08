@@ -327,6 +327,7 @@ Auto-imports will always skip leads that already exist.
 Important:** When updating leads upon import, make sure to map the Company information. If the company information is not mapped, the company name will default to the domain name which can have skewed capitalization (e.g. Abc instead of ABC).
 
 Q: Special characters are not showing in QuickMail
+
 A: To import special characters, the CSV must be formatted as UTF-8.
 
 This article might come in handy when converting the CSV to use UTF-8 encoding:
