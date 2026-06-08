@@ -107,3 +107,28 @@ The number of inboxes that can be added to an account depends on the account's p
 Here's a detailed guide on our pricing to learn more about it: [https://quickmail.io/pricing/](https://quickmail.io/pricing/)
 
 **Pro tip:** If you want to increase the volume of emails the account can send daily, the best way to go about it is to use multiple inboxes. Having multiple inboxes is a good way to spread out the volume of messages coming from a single campaign through Inbox Rotation.
+
+# My inbox keeps getting paused due to the error 550 5.1.8 Access denied, bad outbound sender. What does it mean?
+
+The bounce code 550 5.1.8 Access denied, bad outbound sender often indicates that Microsoft is flagging the inbox's sending habits, temporarily blocking the email account. 
+
+When we detect these bounces, we automatically pause the email to prevent more bounces from happening.
+
+This issue isn't caused by QuickMail but rather by Microsoft’s actions. 
+It’s also not due to invalid email addresses among your leads.
+
+This can occur if the inbox sends too many emails with identical content, has a low sender reputation, or appears spammy.
+
+Microsoft’s algorithm may flag accounts it suspects of being hacked, compromised, or sending spam. To resolve this, please reach out to Microsoft Support to request an unblock.
+
+If you have admin access or an IT admin, you can follow this guide to Restore restricted users in Defender for Office 365
+
+Once the inbox is unblocked by Microsoft, remember to unpause it in QuickMail. We automatically pause the inbox if we detect sender-related bounces to prevent further issues.
+
+To avoid future blocks, consider these best practices:
+- Throttle email sending: Set a daily limit and increase the delay between emails. 
+- Use AI for variations: Add unique variations to your emails to enhance deliverability and avoid flags. 
+- Create text and email variations: This helps prevent ESPs from easily flagging your content. 
+- Avoid spam trigger words: Use tools like Mailmeteor's spam checker to analyze your email content.
+- Use custom domain tracking: This can maximize deliverability. 
+- Verify emails: Clean your list of invalid addresses. 
