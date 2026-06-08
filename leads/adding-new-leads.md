@@ -64,7 +64,7 @@ There are different ways to add leads to QuickMail:
 
 ![screenshot](../images/002_file-Z5IdQPW8oo.png)
 
-**Step 4. (Optional) **If you would also like to add Tags, click on the "Tags" section. Type in the name of the tag you'd like to create.
+**Step 4.** (Optional) **If you would also like to add Tags, click on the "Tags" section. Type in the name of the tag you'd like to create.
 
 ![screenshot](../images/003_file-mx1wDeNpVM.png)
 
