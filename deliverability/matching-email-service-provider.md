@@ -24,3 +24,5 @@ To enable this feature, go to the Campaign → Menu → Settings
 After that, go to the Advanced tab (4th tab) → Match prospect email provider
 
 ![screenshot](../images/001_file-Rfdw5bK0Tq.png)
+
+FYI: If there are no inboxes that match the provider of the leads, the leads will randomly be assigned to any inbox added to the campaign.
