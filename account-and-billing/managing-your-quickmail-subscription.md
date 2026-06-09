@@ -162,6 +162,14 @@ To upgrade or downgrade your plan, go to the **Billing/Plan** page → click the
 
 **Tip:** If you’re on an old/legacy pricing plan and would like **unlimited email accounts**, **higher lead storage**, or an **increased email sending limit**, we can move you to our new pricing structure (Starter, Growth, Agency). Email us at **support@quickmail.io** to request the switch.
 
+FYI: our pricing changes from time to time so if you're seeing a pricing on this article that's no longer available on your account, it's highly likely an old pricing.
+
+We can't put anyone on the old pricing once it's discontinued but we grandfather plans.
+So if you are on the old pricing, you will stay there unless you cancel and resubscribe or request support to switch you.
+
+For a more detailed guide on our pricing, please check here:
+https://quickmail.com/pricing/
+
 ## How to Cancel Your Subscription?
 
 To cancel your plan, go to the **Billing/Plan** page → click the **Manage** button → click **Cancel Subscription** → follow the on-screen instructions to confirm the cancellation.
