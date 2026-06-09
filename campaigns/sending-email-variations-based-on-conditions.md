@@ -18,6 +18,8 @@ Conditions help you send the right email to each prospect based on specific crit
 
 By using conditions, you can control which email variation a lead receives when they move to a step in a campaign.
 
+For example, if you want to stop follow-ups when a lead opens, you can set the follow-up to only send to 0 opens.
+
 ## What are the Conditions available?
 
 At the moment, users can add Conditions based on:
