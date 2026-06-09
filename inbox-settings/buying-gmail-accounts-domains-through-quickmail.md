@@ -155,3 +155,8 @@ When your domains are approaching their expiration date, you will be notified bo
 The interface notification will include a **“Renew”** button, which allows you to easily extend your domain before it expires.
 
 ![screenshot](../images/013_file-PuAosTg6XC.png)
+
+## Can we change the DNS records of the domain?
+
+No, it's not possible to change the DNS records of the domain.
+The domain creation is automated fully so we can't log in to the domain and manually change it.
