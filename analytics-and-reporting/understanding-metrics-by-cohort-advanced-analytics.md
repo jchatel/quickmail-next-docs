@@ -190,3 +190,12 @@ For the connection requests, you can choose the data type acceptance rate.
 There's currently no option to filter the stats based on the sender.
 
 You can look at the outbox and filter based on emails. However, the outbox only shows the last 30 days of emails sent.
+
+## Why does my lead count doesn't reflect the total number of leads in the campaign stats?
+
+This could be caused by bounces.
+Since bounced emails didn't really reach the leads, we don't count them in the stats.
+
+## Do my canceled leads count in the stats?
+
+Yes, canceled leads still count in the stats.
