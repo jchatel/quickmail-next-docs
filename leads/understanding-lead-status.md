@@ -83,3 +83,9 @@ It's the campaign filtering out your leads based on your conditions.
 3. "System Exception: 404 Not Found"
 These are temporary issues coming from your email service provider.
 What to do: Try to resume them. If the issue on provider's side is solved, the error should be solved.
+
+4. "Can't send emails, no more reword credits to use"
+If reword with AI is turned on for your account, it uses reword credits.
+You have 1,000 by default but you can buy more for $10 for every 10,000 credits.
+
+Alternatively (less recommended), turn off reword with AI and resume all leads that ran into an error.
