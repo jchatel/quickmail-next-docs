@@ -40,12 +40,31 @@ There are other recipient bounces that can't be predicted, for example:
 
 Sender-related bounces occur when issues on your end prevent your emails from reaching recipients. These can include:
 
-•Poor Sending Reputation**: Your domain or IP address may have been flagged for spammy behavior.
+•**Poor Sending Reputation**: Your domain or IP address may have been flagged for spammy behavior.
 
 •**Authentication Issues**: Misconfigured SPF, DKIM, or DMARC records can cause your emails to be rejected.
 
 •**High Volume or Speed**: Sending too many emails too quickly can trigger rate limits or blacklisting.
 
+**550 5.1.8 Access denied, bad outbound sender**
+This indicates that Microsoft is flagging the inbox's sending habits, temporarily blocking the email account. 
+
+This issue isn't caused by QuickMail but rather by Microsoft’s actions. 
+It’s also not due to invalid email addresses among your prospects.
+
+This can occur if the inbox sends too many emails with identical content, has a low sender reputation, or appears spammy.
+
+Microsoft’s algorithm may flag accounts it suspects of being hacked, compromised, or sending spam. 
+To resolve this, please reach out to Microsoft Support to request an unblock.
+
+If you have admin access or an IT admin, you can follow this guide to Restore restricted users in Defender for Office 365
+
+Once the inbox is unblocked by Microsoft, remember to unpause it in QuickMail. 
+We automatically pause the inbox if we detect sender-related bounces to prevent further issues.
+
+To solve it, please revisit your cold email strategy to avoid bounces from happening again.
+
+
 For detailed fixes on these issues, refer to our Fixing Bounces Guide**.
 
--
+-https://help.quickmail.com/deliverability/troubleshooting-handling-sender-related-bounces/
