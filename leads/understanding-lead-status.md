@@ -61,3 +61,25 @@ When a lead completes all steps in the campaign without replying, their status w
 **Note:** If you add a new step to a campaign that already has leads marked as **Completed**, those leads will not automatically proceed to the new step.
 
 To include them in the new email step, you’ll need to manually resume the leads who have already completed the campaign.
+
+## Has errors
+
+There are different reasons why a lead will run into an error.
+To know the error, you can hover your pointer on the error running status.
+
+Here are some of the errors and how to troubleshoot them:
+1. "This email will bounce." 
+Leads marked as invalid will cause bounces, so we stop emails from going out to those leads.
+What to do: Ignore it or delete them from the campaign.
+
+2. "No variations found."
+This could happen if the step is paused or the step has conditions but the lead doesn't match that condition.
+What to do: Double-check the steps and activate them.
+If it's an issue related to conditions, recheck your conditions to make sure you set it up properly.
+
+If it's set up properly, you can ignore those leads that ran into an error.
+It's the campaign filtering out your leads based on your conditions.
+
+3. "System Exception: 404 Not Found"
+These are temporary issues coming from your email service provider.
+What to do: Try to resume them. If the issue on provider's side is solved, the error should be solved.
