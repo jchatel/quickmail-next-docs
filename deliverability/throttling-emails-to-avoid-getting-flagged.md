@@ -50,6 +50,7 @@ If you're not throttling emails, accumulated emails in an email account could le
 ## Option 1: Increase the delay between emails.
 
 To slow down the rate of emails going out, you can increase the delay between emails.
+The default is 60 seconds with 15-second variation.
 
 To increase the delay between emails, go to channels → emails → click the email you want the delay adjusted → go to sending tab→ scroll down and under throttling enter your preferred minimum time delay.
 
