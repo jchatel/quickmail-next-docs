@@ -64,7 +64,7 @@ Pro tip: If you want to do it automatically, we have a Deliverability AI that al
 
 # I already assigned the inbox from the campaigns but it's still sending emails?
 
-When a lead starts a campaign, QuickMail assigns that lead to a specific inbox, and all follow-ups for that lead continue to be sent from the same inbox.
+When a lead starts a campaign, QuickMail assigns that lead to a specific inbox, and all emails for that lead continue to be sent from the same inbox.
 
 So if some leads in a campaign originally started from the unassigned inbox, their follow-ups will remain tied to those inboxes unless the assignment is reset.
 
@@ -85,3 +85,13 @@ After the reassignment is complete, the old inboxes can then be added back to th
 If deleting is not an option, you can pause the inboxes to stop sending emails from them.
 
 Just note that that could delay the leads assigned to them.
+
+# I have assigned more emails to the campaign but they're not sending emails
+
+It's similar to the topic above.
+
+When a lead starts a campaign, QuickMail assigns that lead to a specific inbox, and all emails for that lead continue to be sent from the same inbox.
+So if some leads in a campaign originally started from the inbox first assigned to the campaign, all leads will remain tied to those inboxes.
+
+This means that the queue won't get reassigned to other emails automatically.
+
