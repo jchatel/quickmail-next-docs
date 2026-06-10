@@ -52,6 +52,8 @@
 
 Additionally, Opportunities leverages AI to summarize your conversations, suggest responses, and categorize replies, helping you stay organized and focus on what matters most. With these smart insights, managing and nurturing your leads becomes much simpler!
 
+Note: You can insert properties to your replies and they will translate properly.
+
 ## What can I do with Opportunities?
 
 - Respond to, view, and manage email replies
@@ -238,7 +240,7 @@ Replies are detected when we scan your email accounts for responses. As a result
 
 Enabling Opportunity Reports is only available in the old interface. So if you're using the new interface, follow these steps:
 
-**Step 1** . get your workspace number from the URL. For example, on the Opportunities page, you’ll see a URL like this - The number after workspace/ is your workspace number (in this case, it's 15).
+**Step 1.** get your workspace number from the URL. For example, on the Opportunities page, you’ll see a URL like this - The number after workspace/ is your workspace number (in this case, it's 15).
 
 *https://next.quickmail.com/workspace/15/opportunities/list*
 
