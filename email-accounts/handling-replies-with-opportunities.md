@@ -104,6 +104,11 @@ Once you've sent your reply, the opportunity will automatically be marked as pen
 
 ![screenshot](../images/002_file-qPbEMyh91h.png)
 
+FYI: If you send a reply via LinkedIn, it will not send immediately.
+Instead, it will wait for 35 seconds before it sends. That's normal.
+
+This is done by design to handle temporary LinkedIn errors and prevent you from retrying manually.
+
 ## Selecting an email account to send from
 
 To select which channel to send, select one of the options in the "From:" field.
