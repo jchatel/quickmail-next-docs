@@ -8,6 +8,8 @@ For convenience, we have a web app that you can use to test your integrations wi
 
 API rate limit is 10 requests per 10 seconds
 
+FYI: API access is not available on trial.
+
 **In this article:**
 
 - Creating an API Key
