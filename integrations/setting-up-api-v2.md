@@ -116,7 +116,7 @@ This URL is different from the GraphiQL page URL: https://api.quickmail.com/v2/g
 
 ### Getting Agency information including name, ID, and URL
 
-,,,,
+```
 {
 agency {
 id
@@ -124,11 +124,11 @@ name
 appUrl
 }
 }
-''''
+```
 
 ### Getting workspaces IDs, names, and URLs
 
-''''
+```
 {
 agency {
 id
@@ -143,11 +143,11 @@ appUrl
 }
 }
 }
-''''
+```
 
 ### Getting campaign IDs, names, and URLs
 
-''''
+```
 {
 agency {
 id
@@ -162,11 +162,11 @@ appUrl
 }
 }
 }
-''''
+```
 
 ### Getting campaign stats based on a specific campaign
 
-''''
+```
 {
 agency {
 id
@@ -186,11 +186,11 @@ repliesNegative
 }
 }
 }
-''''
+```
 
 ### Getting email account IDs
 
-''''
+```
 {
 agency {
 id
@@ -210,13 +210,13 @@ id
 }
 }
 }
-''''
+```
 
 This only pulls up the list of inboxes/email sender in the account. It doesn't pull up the stats related to the inboxes such as open, clicks, replies, sent emails, etc.
 
 ### Creating campaigns
 
-''''
+```
 mutation createCampaign {
 createCampaign(
 input: {
@@ -230,11 +230,11 @@ name
 }
 }
 }
-''''
+```
 
 ### Creating email steps
 
-''''
+```
 mutation createEmailStep {
 createEmailStep(
 input: {
@@ -258,11 +258,11 @@ id
 }
 }
 }
-''''
+```
 
 ### Creating email variation
 
-''''
+```
 mutation addEmailVariation {
 addEmailVariation(
 input: {
@@ -286,11 +286,11 @@ id
 }
 }
 }
-''''
+```
 
 ### Creating Wait step
 
-''''
+```
 mutation createWaitStep {
 createWaitStep(
 input: {
@@ -304,11 +304,11 @@ id
 }
 }
 }
-''''
+```
 
 ### Updating send times
 
-''''
+```
 mutation updateCampaignAutomation {
 updateCampaignAutomation(
 input: {
@@ -336,11 +336,11 @@ id
 }
 }
 }
-''''
+```
 
 ### Assigning/unassigning email accounts to/from campaigns
 
-''''
+```
 mutation setCampaignEmailAccounts {
 setCampaignEmailAccounts(
 input: {
@@ -357,11 +357,11 @@ id
 }
 }
 }
-''''
+```
 
 ### Creating custom properties
 
-''''
+```
 mutation createCustomProperty {
 createCustomProperty(
 input: {
@@ -376,11 +376,11 @@ name
 }
 }
 }
-''''
+```
 
 ### Setting Custom Properties
 
-''''
+```
 mutation setCustomProperty {
 setCustomProperty(
 input: {
@@ -405,11 +405,11 @@ value
 }
 }
 }
-''''
+```
 
 ### Creating Tags
 
-''''
+```
 mutation createTag {
 createTag(input: { workspaceId: "workspace_xxxxx", name: "newtag"} ) {
 tag {
@@ -418,11 +418,11 @@ name
 }
 }
 }
-''''
+```
 
 ### Setting Tags
 
-''''
+```
 mutation setTags {
 setTags(
 input: {
@@ -449,11 +449,11 @@ name
 }
 }
 }
-''''
+```
 
 ### Getting number of available, active, and completed leads in a campaign
 
-''''
+```
 {
 campaigns {
 nodes {
@@ -468,11 +468,11 @@ completed
 }
 }
 }
-''''
+```
 
 ### Getting number of leads that ran into an error
 
-''''
+```
 {
 campaigns {
 nodes {
@@ -484,10 +484,11 @@ failed
 }
 }
 }
-''''
+```
 
 ### Getting leads
 
+```
 query getLeads {
 leads {
 edges {
@@ -508,9 +509,11 @@ appUrl
 }
 }
 }
+```
 
 ### Deleting leads
 
+```
 # {
 #   leads {
 #     nodes {
@@ -519,12 +522,15 @@ appUrl
 #     }
 #   }
 # }
+```
 
+```
 mutation {
 deleteLeads(input: { workspaceId: "workspace_a3ZyeOmKbzDXAiLzMXDY5APE", leadIds: ["lead_r6zQLkOd0pnQiGVERvwaj14g", "lead_KQdYzj8W7OnJiY90AbaBeL6p"], permanent: false }) {
 clientMutationId
 }
 }
+```
 
 ### Moving to the next page
 
@@ -532,6 +538,7 @@ We only show the 1st 10 items on the 1st page.
 
 So you need to use this JSON to move to the next page.
 
+```
 {
 agency {
 campaigns(first: 10, after: "MTA") {
@@ -546,6 +553,7 @@ hasNextPage
 }
 }
 }
+```
 
 To move to the next pages, use the endCursor code and insert it into
 
@@ -555,6 +563,7 @@ campaigns(first: 10, after: "endCursor")
 
 ### Filtering: Exclude/Include Workspace IDs
 
+```
 {
 agency {
 campaigns(first: 10, after: "MTA") {
@@ -569,11 +578,13 @@ hasNextPage
 }
 }
 }
+```
 
 ## Ruby Samples
 
 ### Creating a lead
 
+```
 quickmail_key = 'your api key'
 workspace_id = 'workspace_yourworkspace_id'
 
@@ -588,6 +599,9 @@ email
 }
 }
 }
+```
+
+```
 TEMPLATE
 
 variables = { input: { workspaceId: workspace_id, leads: [{firstName: 'John', email: 'john@ibm.com'}] } }
@@ -632,8 +646,10 @@ email
 }
 }
 }
-TEMPLATE
+```
 
+TEMPLATE
+```
 query = { query: payload }
 
 options = {
@@ -646,6 +662,7 @@ content_type: 'application/json'
 method: :post,
 payload: query.to_json
 }
+```
 
 response = RestClient::Request.execute(options)
 
