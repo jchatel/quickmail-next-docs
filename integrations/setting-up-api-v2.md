@@ -85,6 +85,8 @@ To get started, paste this on the headers:
 ![screenshot](../images/000_file-0cY6cjydhP.png)
 
 Then, generate your API in QuickMail and replace the word *<API_KEY>* with it.
+FYI: If you have 1 workspace, please go to Settings > Integrations > generate API key.
+If you have multiple workspaces (agency), please go to your agency dashboard > settings > generate API key.
 
 Here’s an **article** to help you generate an API key.
 
@@ -114,6 +116,7 @@ This URL is different from the GraphiQL page URL: https://api.quickmail.com/v2/g
 
 ### Getting Agency information including name, ID, and URL
 
+,,,,
 {
 agency {
 id
@@ -121,9 +124,11 @@ name
 appUrl
 }
 }
+''''
 
 ### Getting workspaces IDs, names, and URLs
 
+''''
 {
 agency {
 id
@@ -138,9 +143,11 @@ appUrl
 }
 }
 }
+''''
 
 ### Getting campaign IDs, names, and URLs
 
+''''
 {
 agency {
 id
@@ -155,9 +162,11 @@ appUrl
 }
 }
 }
+''''
 
 ### Getting campaign stats based on a specific campaign
 
+''''
 {
 agency {
 id
@@ -177,9 +186,11 @@ repliesNegative
 }
 }
 }
+''''
 
 ### Getting email account IDs
 
+''''
 {
 agency {
 id
@@ -199,11 +210,13 @@ id
 }
 }
 }
+''''
 
 This only pulls up the list of inboxes/email sender in the account. It doesn't pull up the stats related to the inboxes such as open, clicks, replies, sent emails, etc.
 
 ### Creating campaigns
 
+''''
 mutation createCampaign {
 createCampaign(
 input: {
@@ -217,9 +230,11 @@ name
 }
 }
 }
+''''
 
 ### Creating email steps
 
+''''
 mutation createEmailStep {
 createEmailStep(
 input: {
@@ -243,9 +258,11 @@ id
 }
 }
 }
+''''
 
 ### Creating email variation
 
+''''
 mutation addEmailVariation {
 addEmailVariation(
 input: {
@@ -269,9 +286,11 @@ id
 }
 }
 }
+''''
 
 ### Creating Wait step
 
+''''
 mutation createWaitStep {
 createWaitStep(
 input: {
@@ -285,9 +304,11 @@ id
 }
 }
 }
+''''
 
 ### Updating send times
 
+''''
 mutation updateCampaignAutomation {
 updateCampaignAutomation(
 input: {
@@ -315,9 +336,11 @@ id
 }
 }
 }
+''''
 
 ### Assigning/unassigning email accounts to/from campaigns
 
+''''
 mutation setCampaignEmailAccounts {
 setCampaignEmailAccounts(
 input: {
@@ -334,9 +357,11 @@ id
 }
 }
 }
+''''
 
 ### Creating custom properties
 
+''''
 mutation createCustomProperty {
 createCustomProperty(
 input: {
@@ -351,9 +376,11 @@ name
 }
 }
 }
+''''
 
 ### Setting Custom Properties
 
+''''
 mutation setCustomProperty {
 setCustomProperty(
 input: {
@@ -378,9 +405,11 @@ value
 }
 }
 }
+''''
 
 ### Creating Tags
 
+''''
 mutation createTag {
 createTag(input: { workspaceId: "workspace_xxxxx", name: "newtag"} ) {
 tag {
@@ -389,9 +418,11 @@ name
 }
 }
 }
+''''
 
 ### Setting Tags
 
+''''
 mutation setTags {
 setTags(
 input: {
@@ -418,9 +449,11 @@ name
 }
 }
 }
+''''
 
 ### Getting number of available, active, and completed leads in a campaign
 
+''''
 {
 campaigns {
 nodes {
@@ -435,9 +468,11 @@ completed
 }
 }
 }
+''''
 
 ### Getting number of leads that ran into an error
 
+''''
 {
 campaigns {
 nodes {
@@ -449,6 +484,7 @@ failed
 }
 }
 }
+''''
 
 ### Getting leads
 
