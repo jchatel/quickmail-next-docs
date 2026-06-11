@@ -1,6 +1,6 @@
 # Starting Campaigns Immediately
 
-### In this article:
+**In this article:**
 
 - Why set a campaign to start immediately?
 
@@ -10,56 +10,48 @@
 
 - Troubleshooting
 
-- I set up my campaign to start immediately but leads are not starting, why?
+  - Leads are not starting after enabling instant start — why?
 
-- Where did my triggers go?
+  - Where did my triggers go?
 
-# Why set a campaign to start immediately?
+## Why Set a Campaign to Start Immediately?
 
-- **Immediate Execution** – Your emails start sending right away, great for urgent outreach.
+- **Immediate execution** — emails start sending right away, which is useful for urgent outreach.
 
-- **Faster Testing** – Quickly test new email copies, subject lines, or lead lists without waiting for automation triggers.
+- **Faster testing** — quickly test new email copy, subject lines, or lead lists without waiting for triggers.
 
-- **Better Control** – You decide exactly when the campaign starts and can make adjustments in real-time.
+- **Better control** — you decide exactly when the campaign starts and can make adjustments in real time.
 
-# How does it work?
+## How Does It Work?
 
-When leads are added to the campaign, they will be on a Not Started status. So leads must be started either manually or by using Triggers.
+When leads are added to a campaign, they are placed in a "Not Started" status and must be started either manually or through triggers.
 
-Instant start allows you to automatically start the leads as soon as they are added to the campaign.
+Instant start automatically starts leads as soon as they are added to the campaign, without needing to set up triggers.
 
-# How to enable it?
+## How to Enable It?
 
-To enable Instant Start, go to the Campaign → Automation → Toggle on 'Start campaign immediately'
+Go to the campaign → **Automation** tab → toggle on **Start Campaign Immediately**.
 
 ![screenshot](../images/000_file-PSfFstKebQ.png)
 
-# Troubleshooting
+## Troubleshooting
 
-## I set up my campaign but leads are not starting, why?
+### Leads Are Not Starting After Enabling Instant Start — Why?
 
-Note that this setting only applies to leads that will be added to the campaign once the settings are turned on.
+This setting only applies to leads added to the campaign after it is enabled. Leads that were already in "Not Started" status before the setting was turned on will not start automatically.
 
-This means that leads that are already in "Not Started" status will not automatically start.
-
-To make sure they start, please resume them.
-
-To get started, filter them first.
+To start existing leads, filter them first.
 
 ![screenshot](../images/001_file-W41RB4ZwZ5.png)
 
-Then, select all -> resume -> resume immediately.
+Then select all → **Resume** → **Resume Immediately**.
 
 ![screenshot](../images/002_file-Iga1yymHfN.png)
 
-Important: Resuming a lot of leads can lead to a sudden spike in the email volume. To make sure your emails will not send mass volume, please set up daily email limit. Here's a detailed guide on that: https://help.quickmail.com/article/591-new-ui-setting-daily-email-limit
+**Important:** Resuming a large number of leads at once can cause a sudden spike in email volume. To avoid sending in high volumes, set up a daily email limit. Here is a detailed guide: https://help.quickmail.com/article/591-new-ui-setting-daily-email-limit
 
-## Where did my triggers go?
+### Where Did My Triggers Go?
 
-Turning this setting on will hide all your triggers.
+Enabling instant start hides your triggers since they are not needed when leads start automatically.
 
-Basically, there's no need for them if leads are starting immediately.
-
-However, if you decide not to start leads immediately, you can toggle it off.
-
-Then, all your triggers will show up again.
+If you decide to stop using instant start, toggle the setting off and your triggers will reappear.
