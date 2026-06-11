@@ -48,6 +48,7 @@ And an average bounced rate of ~1%.
 
 ![screenshot](../images/005_file-Vh6wbOyw6y.png)
 
-So you can set my delivered emails to 99% and the open rate to 44%. Like this:
+So you can set your delivered emails to 99% and the open rate to 44%. 
+Like this:
 
 ![screenshot](../images/006_file-Nww44kZANJ.png)
