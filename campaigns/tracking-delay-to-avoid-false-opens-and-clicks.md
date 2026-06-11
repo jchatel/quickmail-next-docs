@@ -1,18 +1,22 @@
 # Tracking Delay to Avoid False Opens and Clicks
 
-### In this article:
+**In this article:**
 
 - What causes false opens and clicks?
 
 - How to prevent false opens and clicks?
 
-- How to set up tracking delay?
+  - Option 1: Set up a tracking delay
 
-# What causes false opens and clicks?
+  - Option 2: Enable improved click detection accuracy
 
-- Sometimes, email security systems automatically scan incoming emails immediately after delivery, which can trigger false open or click events.
+  - Option 3: Avoid opening emails in your sent folder
 
-- Domains ending in `.edu`   and `.org`   commonly have stricter email filtering systems, which makes automated opens and clicks more frequent.
+## What Causes False Opens and Clicks?
+
+- Email security systems sometimes automatically scan incoming emails immediately after delivery, which can trigger false open or click events.
+
+- Domains ending in `.edu` and `.org` commonly have stricter email filtering systems, which makes automated opens and clicks more frequent.
 
 - Large organizations such as hospitals, government agencies, and schools often use advanced email protection tools because they are common targets for phishing attacks.
 
@@ -20,44 +24,42 @@
 
 - Some email applications automatically preload images in the background, which can trigger open tracking pixels even if the recipient did not read the email.
 
-- Because of these automated checks, open and click tracking should be treated as estimated engagement rather than exact human activity.
+- False opens and clicks can also occur when the sender opens the email or clicks links in their own sent folder.
 
-- False opens and clicks can also happen when the email is opened and links are clicked by the user/sender in the Sent folder.
+- Because of these automated checks, open and click tracking should be treated as an estimate of engagement rather than exact human activity.
 
-# How to prevent false opens and clicks?
+## How to Prevent False Opens and Clicks?
 
-To prevent false opens and clicks, just set up a tracking delay.
+### Option 1: Set Up a Tracking Delay
 
-Tracking Delay adds a delay after sending an email before tracking opens and clicks for that email.  Thus making click and open tracking more accurate and reliable.
+Tracking delay adds a delay after sending an email before opens and clicks are tracked, making tracking more accurate and reliable.
 
 ![screenshot](../images/000_file-jtvFvCyxUT.png)
 
-# How to set up tracking delay?
+Go to **Settings** → **General** → adjust the **Tracking Delay in seconds**.
 
-In your QuickMail account, go to Settings → General → Adjust the "Tracking Delay in seconds"
-
-**Note:** It's set to 3 seconds by default.
+**Note:** The default value is 5 seconds.
 
 ![screenshot](../images/001_file-IBTLy2ESEx.png)
 
-The delay can be adjusted from 0 to 600 seconds and will apply to any email sent from the account. You can enter 0 if you want to disable the tracking delay.
+The delay can be set anywhere from 0 to 600 seconds and applies to all emails sent from the account. Set it to 0 to disable tracking delay entirely.
 
-**Warning:** Having a long delay might lead to real opens and clicks from getting missed. Usually, users leave the delay to 3 seconds but some users set it up for up to a minute.
+**Warning:** Setting a long delay may cause real opens and clicks to be missed. Most users leave it at 3 seconds, though some set it to up to 60 seconds.
 
 ![screenshot](../images/002_file-jtvFvCyxUT.png)
 
-# How to prevent false opens and clicks?
+### Option 2: Enable Improved Click Detection Accuracy
 
-**Option 1: **To improve click tracking accuracy, you can enable the campaign setting called “Improved click detection accuracy.”
+To improve click tracking accuracy, enable the **Improved Click Detection Accuracy** setting on the campaign.
 
-When this setting is enabled, QuickMail adds the word “unsubscribe” to tracked links because most security bots avoid clicking unsubscribe links. This helps reduce false click activity caused by automated email scanners.
+When enabled, QuickMail appends the word "unsubscribe" to tracked links. Since most security bots avoid clicking unsubscribe links, this helps reduce false click activity caused by automated email scanners.
 
-This does not unsubscribe leads from the campaign, since unsubscribe handling is managed separately by the system.
+**Note:** This does not unsubscribe leads from the campaign. Unsubscribe handling is managed separately by the system.
 
-To enable this setting:
-
-Campaign → Triple-dot icon → Settings → 2nd tab → Enable “Improved click detection accuracy”
+To enable this setting, go to the campaign → click the menu icon (three vertical dots) → **Settings** → second tab → enable **Improved Click Detection Accuracy**.
 
 ![screenshot](../images/003_file-jtvFvCyxUT.png)
 
-**Option 2:** Avoid opening the emails in your sent folders as this can trigger false open and clicks
+### Option 3: Avoid Opening Emails in Your Sent Folder
+
+Opening emails or clicking links in your sent folder can trigger false opens and clicks. Avoid doing this to keep your tracking data accurate.
