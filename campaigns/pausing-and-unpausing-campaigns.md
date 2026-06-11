@@ -1,15 +1,21 @@
 # Pausing and Unpausing Campaigns
 
-There are two ways to pause and unpause campaigns: **Manually **and **in Bulk.**
+There are two ways to pause and unpause campaigns: **Manually** and **in Bulk**.
 
-**Manual**
+**In this article:**
 
-To manually pause or set a campaign live, go to the Campaign → Click Live or Pause button
+- Manual
+
+- In bulk
+
+## Manual
+
+To manually pause or resume a campaign, go to the campaign → click the **Live** or **Pause** button.
 
 ![screenshot](../images/000_file-vEywAY1PLl.png)
 
-**In Bulk**
+## In Bulk
 
-To pause or set multiple campaigns live at the same time, go to Campaigns → Select your preferred campaigns → Click Pause or Resume button
+To pause or resume multiple campaigns at the same time, go to **Campaigns** → select your preferred campaigns → click the **Pause** or **Resume** button.
 
 ![screenshot](../images/001_file-QxrL5Bw6P8.png)
