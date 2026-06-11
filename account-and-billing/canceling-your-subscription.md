@@ -1,6 +1,6 @@
 # Canceling your subscription
 
-### In this account:
+### In this article:
 
 - Single workspace
 
