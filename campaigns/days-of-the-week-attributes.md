@@ -1,35 +1,33 @@
-# Days of the Week Attributes
+# Days of the Week Properties
 
-The `{{=day+0}}` and `{{=bday+0}}` attributes let you include a specific day of the week in your email body or subject line based on the date the email is sent, adding real-time relevance to your messages.
+The `{{=day+0}}` and `{{=bday+0}}` properties let you include a specific day of the week in your email body or subject line based on the date the email is sent, adding real-time relevance to your messages.
 
 ![screenshot](../images/000_file-jCvfbFBToe.png)
 
-**Note:** Offsets can also be added to transform to a specific day of the week after a certain number of days the email was sent.
+**Note:** Offsets can be added to reference a specific day of the week relative to the date the email was sent.
 
-- ## {{=day+0}}
+## {{=day+0}}
 
-The `{{=day+0}}` attribute can be used to mention the current day of the week in the email body or subject line.
+The `{{=day+0}}` property inserts the current day of the week in the email body or subject line.
 
-For example, you send the email:
+For example, if your email contains:
 
-How are you this fine '{{=day+0}}
+*How are you this fine {{=day+0}}?*
 
-If the email was sent out on Monday, it will transform to:
+And the email is sent on a Monday, it will render as:
 
-How are you this fine Monday?
+*How are you this fine Monday?*
 
-- ## {{=bday+0}}
+## {{=bday+0}}
 
-The '`{{=bday+0}}`' on the other hand, transforms to the current business day.
+The `{{=bday+0}}` property inserts the current business day. Business days are defined as weekdays — Monday through Friday, excluding Saturday and Sunday.
 
-Business days are currently defined as weekdays (all the days of the week except for Saturdays and Sundays).
+For example, if your email contains:
 
-For example, the email contains:
+*Can we set a meeting on {{=bday+2}}?*
 
-Can we set a meeting on '{{=bday+2}}?'
+And the email is sent on a Thursday, it will render as:
 
-If the email was sent on a Thursday, it will transform to:
+*Can we set a meeting on Monday?*
 
-Can we set a meeting on Monday?
-
-This is because Saturday and Sunday will be skipped.
+This is because Saturday and Sunday are skipped when calculating the offset.
