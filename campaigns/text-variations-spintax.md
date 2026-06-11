@@ -1,20 +1,22 @@
 # Text Variations (Spintax)
 
-## Why use text variations?
+**In this article:**
 
-Text Variations can be added to emails to vary the emails going out.
+- Why use text variations?
 
-This is a good way to avoid campaign fatigue where spam filters flag the email account for sending too many emails with the same content.
+- How to add text variations?
 
-## How to add text variations?
+## Why Use Text Variations?
 
-Start with 2 open parentheses "((" add the first text variation and separate each text variation with a vertical bar "|".
+Text variations allow you to vary the content of outgoing emails. This helps avoid campaign fatigue, where spam filters flag an email account for sending too many emails with identical content.
 
-Close the text variation set with 2 close parentheses "))".
+## How to Add Text Variations?
 
-**Example: **
+Use double opening parentheses `((` to start a variation set, separate each variation with a vertical bar `|`, and close the set with double closing parentheses `))`.
 
-(( Hi | Hello | Hey | Greetings ))
+**Example:**
+
+`(( Hi | Hello | Hey | Greetings ))`
 
 ![screenshot](../images/000_file-0d7u4rAPnt.png)
 
@@ -22,14 +24,12 @@ Phrases and sentences work too:
 
 ![screenshot](../images/001_file-ePFS24ZTUV.png)
 
-It's also possible to add multiple text variation sets in the email to vary the emails even more!
+You can also add multiple variation sets in a single email to create even more variety:
 
 ![screenshot](../images/002_file-DvBWR6VONr.png)
 
-Any text variations added can be picked randomly when prospects get to the email step.
-
-So the example above may send an email like:
+Each time a lead reaches the email step, one variation from each set is picked at random. For example, the variations above may produce an email like this:
 
 ![screenshot](../images/003_file-yABVGpvaNf.png)
 
-**Pro tip:** Aside from text variations, you can also have email variations if you want to do A/Z testing and track which copy is working best. Check this out.
+**Pro tip:** In addition to text variations, you can also create email variations for A/Z testing to track which copy performs best. Check this out.
