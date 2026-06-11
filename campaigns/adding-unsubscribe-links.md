@@ -70,4 +70,4 @@ When a lead clicks the unsubscribe link, they will be redirected to a form where
 
 **Note:** Leads are automatically unsubscribed as soon as they click the link, even if they don't select a reason from the list.
 
-**Note:** There is no option to edit the list or display it in a different language.
+Also FYI: It's not possible to edit the text in the form and change it to another language.
