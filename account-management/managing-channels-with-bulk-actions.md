@@ -17,9 +17,8 @@ To take bulk actions for channels, go to Channels → Select the Channel Select 
 
 ![screenshot](../images/000_file-ywlPc0ZPcw.png)
 
-## Which actions can be taken?
-
-### Email
+## Which bulk actions are available?
+**Email**
 
 - Pause sending
 
@@ -35,6 +34,5 @@ To take bulk actions for channels, go to Channels → Select the Channel Select 
 
 - Delete email accounts
 
-### LinkedIn
-
+**LinkedIn**
 Bulk actions coming soon
