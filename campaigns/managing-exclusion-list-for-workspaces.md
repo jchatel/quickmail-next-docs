@@ -1,83 +1,79 @@
-# Managing Exclusion List (For Workspaces)
+# Managing the Exclusion List
 
 **In this article:**
 
 - Why keep an exclusion list?
 
-- Excluding domains
+- How to exclude domains?
 
-- Excluding email addresses
+- How to exclude email addresses?
 
-- Excluding LinkedIn profiles
+- How to exclude LinkedIn profiles?
 
-- Automatically adding leads to the exclusion list if they unsubscribe
+- How do I automatically add leads to the exclusion list if they unsubscribe?
 
-- Automatically adding domains to the exclusion list if a lead unsubscribes
+- How do I automatically add leads' domains to the exclusion list if they unsubscribe?
 
-# Why keep an exclusion list?
+## Why Keep an Exclusion List?
 
-An exclusion list makes it possible for users to prevent emailing specific email addresses or email addresses from specific domains.
+The exclusion list allows you to prevent emails from being sent to specific email addresses or domains. This is useful if a company has opted out of your campaign, if certain leads are not the right fit, or if you want to prevent contacting free email addresses.
 
-This could come in handy if companies have opted out of your campaign or if there are specific leads from a company that is not the right fit for your campaign.
+**Note:** If a lead's domain is on the exclusion list, the lead will not be able to start any campaign and any active journey will be canceled.
 
-This is also helpful if you want to prevent contacting free email addresses.
+## How to Exclude Domains?
 
-**Note:** If a lead is using a domain listed under the domain exclude list, the lead will not be able to start any campaign in the account and any running journey will also get canceled.
-
-# How to exclude domains?
-
-**Step 1.** Go to List → Menu (Three vertical dots at the upper right hand corner) → click Exclude
+**Step 1.** Go to **List** → click the menu icon (three vertical dots) in the top-right corner → **Exclude**.
 
 ![screenshot](../images/000_file-wdhzeASCN4.png)
 
-**Step 2.** From the domain tab, click +Domain.
+**Step 2.** Go to the **Domain** tab → click **+ Domain**.
 
-**Note:** Don't put https://, http://, or www when adding domains to the exclusion list
+**Note:** Do not include `https://`, `http://`, or `www` when adding domains.
 
 ![screenshot](../images/001_file-fFhS1fvjct.png)
 
-**Step 3.** Multiple domains can be added at a time by entering 1 domain per line → Click Add.
+**Step 3.** Enter one domain per line to add multiple domains at once → click **Add**.
 
 ![screenshot](../images/002_file-VvoR81HKvH.png)
 
-# How to exclude email addresses?
+## How to Exclude Email Addresses?
 
-**Step 1.** Go to your List → click Exclude at the top right side of the page.
+**Step 1.** Go to **List** → click **Exclude** in the top-right corner.
 
 ![screenshot](../images/003_file-DaSNVdEmNe.png)
 
-**Step 2.** Next, go to "Email addresses" tab → click + Emails.
+**Step 2.** Go to the **Email Addresses** tab → click **+ Emails**.
 
 ![screenshot](../images/004_file-iX5Ong2YbH.png)
 
-**Step 3.** Multiple emails can be added at a time by entering 1 email address per line → Finally, click "Add"
+**Step 3.** Enter one email address per line to add multiple addresses at once → click **Add**.
 
 ![screenshot](../images/005_file-VGGbDQSLbW.png)
 
-# How to exclude LinkedIn profiles?
+## How to Exclude LinkedIn Profiles?
 
-**Step 1.** Go to your List → click Exclude at the top right side of the page.
+**Step 1.** Go to **List** → click **Exclude** in the top-right corner.
 
 ![screenshot](../images/006_file-DaSNVdEmNe.png)
 
-**Step 2.** Next, go to "LinkedIn" tab → click + LinkedIn
+**Step 2.** Go to the **LinkedIn** tab → click **+ LinkedIn**.
 
 ![screenshot](../images/007_file-3n1ljPZA8q.png)
 
-**Step 3.** Add the LinkedIn profile IDs. You can enter multiple LinkedIn IDs, 1 profile ID per line → Finally, click "Add"
+**Step 3.** Enter one LinkedIn profile ID per line to add multiple profiles at once → click **Add**.
 
-You can add them in these format:
+Profile IDs can be entered in either of these formats:
 
-- https://www.linkedin.com/in/elaine-quickmail145/
+- `https://www.linkedin.com/in/elaine-quickmail145/`
 
-- elaine-quickmail145
+- `elaine-quickmail145`
 
 ![screenshot](../images/008_file-sbKrI5grnR.png)
 
-# How do I automatically add leads to the exclusion list if they unsubscribe from my campaign?
+## How Do I Automatically Add Leads to the Exclusion List if They Unsubscribe?
 
-No, need to add them manually. Leads automatically get added to the exclusion list if they unsubscribe from your campaign.
+Leads are automatically added to the exclusion list when they unsubscribe from your campaign. No manual action is needed.
 
-# How do I automatically add leads' domains to the exclusion list if they unsubscribe from my campaign?
+## How Do I Automatically Add Leads' Domains to the Exclusion List if They Unsubscribe?
 
-It's not yet possible to automate this. So, you need to manually add the domain to the domain exclude list.
+This is not yet supported. Domains must be added to the exclusion list manually.
