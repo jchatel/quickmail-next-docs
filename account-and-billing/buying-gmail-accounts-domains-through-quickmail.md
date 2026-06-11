@@ -22,23 +22,24 @@
 
 ## Why buy Google Email Accounts in QuickMail?
 
-- Create new Google inboxes in just a few clicks ✨
+**Create new Google inboxes in just a few clicks ✨**
 No need for manual setup, each email account is automatically added to your QuickMail workspace.
 
-- Skip the technical headaches 🤖
+**Skip the technical headaches 🤖**
 QuickMail automatically configures DNS records (SPF, DKIM, DMARC) and custom tracking domains for optimal deliverability, no need to touch complicated settings.
 
-- Built-in Stealth Mode 🥷
+**Built-in Stealth Mode 🥷** 
 Email accounts purchased from QuickMail use their own Gmail API, so Gmail sees emails as sent directly from the user, not a third party. This means less chance of being flagged and better inbox deliverability. This also means that you can use the inbox from day 1, as long as you keep the volume low. No more waiting for 2 weeks.
 
-- Premium Auto-Warmer 🔥
+**Premium Auto-Warmer 🔥**
 QuickMail’s Auto-Warmer is currently only available for inboxes purchased through QuickMail.
 It generates realistic email exchanges within a trusted group of high-deliverability accounts, helping your emails land in the inbox more consistently.
 
-- Lower monthly cost 💰
+**Lower monthly cost 💰**
 Gmail email accounts through QuickMail cost only $4/mo per email account, significantly less than buying directly from Google Workspace and other providers.
 
-**IMPORTANT:** Domains purchased through QuickMail are valid for one year. Please note that they are** non-refundable **and **non-transferable.**
+**IMPORTANT:** Domains purchased through QuickMail are valid for one year. 
+Please note that they are non-refundable and **non-transferable.**
 
 ## How much does it cost?
 
@@ -94,13 +95,13 @@ If you'd like to add more email accounts, click "+Email", otherwise click "Conti
 
 ![screenshot](../images/004_file-pmtdXS7WKf.png)
 
-**Step 5. (Optional) **If you'd like to setup email forwarding, toggle on 'Setup email forwarding' → Add the email address where you'd like to forward emails to → Hit continue. Otherwise, you can skip it.
+**Step 5.** (Optional) If you'd like to setup email forwarding, toggle on 'Setup email forwarding' → Add the email address where you'd like to forward emails to → Hit continue. Otherwise, you can skip it.
 
 **Note:** If you wish to set up email forwarding in the future, you will need to configure it manually in your Gmail settings.
 
 ![screenshot](../images/005_file-gQf9cxHnL0.png)
 
-**Step 6. (Optional) **If you'd like to warm up the email account, toggle on 'Setup auto-warmer' → Change the imaginary company and product name if you'd like → Hit continue
+**Step 6.** (Optional) If you'd like to warm up the email account, toggle on 'Setup auto-warmer' → Change the imaginary company and product name if you'd like → Hit continue
 
 ![screenshot](../images/006_file-cCUrFHho73.png)
 
@@ -127,8 +128,6 @@ You can see pending domain orders by clicking the hourglass icon here:
 You can get the account details of the purchased email accounts by going to Channels → Click on an email account to open quick view → Password / 2FA One-time password
 
 ![screenshot](../images/010_file-AQPyT98Znu.png)
-
-##
 
 ## How to cancel purchased email accounts from QuickMail?
 
