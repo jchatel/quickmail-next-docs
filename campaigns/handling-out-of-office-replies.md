@@ -1,45 +1,57 @@
-# Handling Out-of-office Replies
+# Handling Out-of-Office Replies
 
-## What are Out-of-office Replies?
+**In this article:**
 
-Out-of-office replies are automated email responses that notify the sender that the recipient is temporarily unavailable due to reasons such as vacation, leave, or departure from the company. These replies typically include details such as the expected return date and alternative contact information if necessary.
+- What are out-of-office replies?
 
-## How does QuickMail detect out-of-office replies?
+- How does QuickMail detect out-of-office replies?
 
-QuickMail automatically checks email accounts every 10 minutes for new responses. Our system is designed to identify automated out-of-office replies and distinguish them from regular responses.
+- What happens if a lead is marked as out-of-office?
 
-## What happens if a lead is marked as out-of-office?
+- How do I change the default delay of 14 days?
 
-When a lead is marked as out-of-office, QuickMail automatically delays the next email by an additional 14 days by default on top of the existing Wait Step.
+- Where do I see out-of-office replies?
 
-For example, if the lead's next scheduled email was originally set to be sent in 3 days, QuickMail will instead wait 17 days (3 days + 14-day out-of-office delay) before sending the next email.
+- How do I send emails immediately to leads marked as out-of-office?
 
-This ensures that emails are sent when the recipient is more likely to be available, improving the chances of engagement.
+## What Are Out-of-Office Replies?
 
-## How do I change the default delay of 14 days?
+Out-of-office replies are automated email responses that notify the sender that the recipient is temporarily unavailable. They typically include details such as the expected return date and alternative contact information.
 
-Go to the reply settings of the account and edit out of office delay in days. Here's an example of it set to 3.
+## How Does QuickMail Detect Out-of-Office Replies?
+
+QuickMail automatically checks email accounts every 10 minutes for new responses and is designed to identify automated out-of-office replies and distinguish them from regular replies.
+
+## What Happens if a Lead Is Marked as Out-of-Office?
+
+When a lead is marked as out-of-office, QuickMail automatically adds a 14-day delay on top of the existing wait step before sending the next email.
+
+For example, if the lead's next email was scheduled to send in 3 days, QuickMail will instead wait 17 days (3 days + 14-day out-of-office delay).
+
+This ensures emails are sent when the recipient is more likely to be available, improving the chances of engagement.
+
+## How Do I Change the Default 14-Day Delay?
+
+Go to the account's reply settings and edit the out-of-office delay in days. Here is an example with it set to 3 days:
 
 ![screenshot](../images/000_file-95cRJV47Px.png)
 
-## Where do I see out of office replies?
+## Where Do I See Out-of-Office Replies?
 
-You can view out-of-office replies on the **Opportunities page** in QuickMail. This helps you identify whether a lead is temporarily unavailable or has left the company. Their out-of-office message may also provide useful details, such as their expected return date or an alternate contact person, allowing you to adjust your follow-up strategy accordingly.
+Out-of-office replies can be viewed on the **Opportunities** page. This helps you identify whether a lead is temporarily unavailable or has left the company. Their out-of-office message may also include useful details such as their expected return date or an alternate contact, allowing you to adjust your follow-up strategy accordingly.
 
 ![screenshot](../images/001_file-UAev6XBprf.png)
 
-If you don't want to see out-of-office replies in Opportunities, go to Settings → Replies → uncheck the box 'Out of office replies are added to Opportunities'
+If you do not want out-of-office replies to appear in Opportunities, go to **Settings** → **Replies** → uncheck **Out of office replies are added to Opportunities**.
 
 ![screenshot](../images/002_file-FKWjKuAzwX.png)
 
-## How do I send emails immediately to leads marked as out-of-office?
+## How Do I Send Emails Immediately to Leads Marked as Out-of-Office?
 
 Leads marked as out-of-office can be resumed immediately or on a specific date and time.
 
-To resume out-of-office leads, click the lead's name or thumbnail in the List page to open quick view → Campaigns tab → click the triple-dot icon for the campaign → Resume progress → Select date → Confirm
+To resume a lead, click the lead's name or thumbnail on the **List** page to open the quick view → **Campaigns** tab → click the menu icon (three vertical dots) for the campaign → **Resume Progress** → select a date → **Confirm**.
 
 ![screenshot](../images/003_file-SwXZHHUSCB.png)
 
-**Note:** On rare occasions, an out-of-office reply is detected as a regular reply causing the leads to completely stop receiving emails from the campaign.
-
-In such instances, you can also resume the lead immediately or on a specific date and time.
+**Note:** On rare occasions, an out-of-office reply may be detected as a regular reply, causing the lead to stop receiving emails from the campaign. In this case, you can resume the lead immediately or on a specific date and time using the same steps above.
