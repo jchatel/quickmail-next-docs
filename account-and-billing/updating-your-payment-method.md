@@ -10,6 +10,6 @@ To update the card on file:
 
 - **For teams:** Go to the workspace' Billing/Plan page
 
-Then click '**Update card' **and save your changes.
+Then click '**Update card**' and save your changes.
 
 ![screenshot](../images/000_file-8t3rzCv9im.png)
