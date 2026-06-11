@@ -1,10 +1,10 @@
 # Custom Fields for Personalizing Emails
 
-#### In this article:
+**In this article:**
 
 - Why use properties?
 
-- How to add properties to Email Steps?
+- How to add properties to email steps?
 
 - Lead properties
 
@@ -18,27 +18,21 @@
 
 - How to delete custom properties?
 
+- How to edit custom properties?
+
 - Why am I getting an error?
 
-## Why use properties?
+## Why Use Properties?
 
-Properties are placeholders that can be added to Email Steps.
+Properties are placeholders that can be added to email steps to personalize your emails. Using properties makes it easier to give your emails a personal touch and helps improve email deliverability.
 
-Using properties makes it easier to give your emails a personalized touch and greatly helps with email deliverability.
+## How to Add Properties to Email Steps?
 
-## How to add properties to Email Steps?
+To add properties, go to an email step and click **Properties** on either the email subject or body field. There are several types of properties available to customize your emails.
 
-You can add properties to the email subject or email body by heading to an email step,
+## Lead Properties
 
-then clicking properties on either the email subject or the body.
-
-There are several properties that you can use to customize your email.
-
-## Lead properties
-
-The lead properties are the basic way to personalize your emails.
-
-Using lead properties, you can mention a lead's first and/or last name, email, title, role, phone, and score.
+Lead properties are the basic way to personalize your emails. You can use them to include a lead's first name, last name, email, title, role, phone, and score.
 
 For example:
 
@@ -50,79 +44,69 @@ This will translate to:
 
 ![screenshot](../images/000_file-wiFMnALKr7.png)
 
-## Custom properties
+## Custom Properties
 
-Custom properties enable you to include personalized details in your emails for each lead.
+Custom properties allow you to include personalized details in your emails for each lead, such as their city, industry, or a unique opening line tailored to each individual.
 
-These properties can include specific information about your leads, such as their city or industry.
+**Important:** If you need to use formatting and line breaks in custom properties, you will need to use HTML.
 
-Moreover, custom properties can also incorporate unique sentences tailored to individual leads.
+**Note:** It is not possible to filter leads based on custom property fields.
 
-**Important:** If you'd like to use formatting and line breaks in custom properties, you'll need to use HTML.
-
-Here's a step by step guide on how to use custom properties:
-
-## Step #1: Create custom Properties
+### Step 1: Create Custom Properties
 
 There are two ways to create custom properties:
 
-- **Custom Properties Page**
+**Via the Custom Properties page**
 
-To create a Custom Property, head to List → Click on the three vertical dots → Properties →
+Go to **List** → click the three vertical dots → **Properties**.
 
 ![screenshot](../images/001_file-f8qvDPKQvu.png)
 
-After that, click + Property → Add custom property name → Set a default value (optional) → Confirm
+Click **+ Property** → add a custom property name → set a default value (optional) → **Confirm**.
 
-The default value serves as a fallback in the email if the lead doesn't have a custom property value.
+The default value is used as a fallback if a lead does not have a value assigned for that property.
 
 ![screenshot](../images/002_file-UoYefE8471.png)
 
-**Note:** The name of the custom property should only include numbers, and letters, as well as "-" and "_". If the name of the custom property has spaces, the custom property can not be created.
+**Note:** Custom property names can only contain letters, numbers, hyphens (-), and underscores (_). Names with spaces cannot be created.
 
-- **Via import**
+**Via import**
 
-Another way of creating a custom property is by importing leads.
-
-To do that, head to List → + Leads → Import from CSV or Google Drive → Custom properties tab → + New Property
+Go to **List** → **+ Leads** → **Import from CSV or Google Drive** → **Custom Properties** tab → **+ New Property**.
 
 ![screenshot](../images/003_file-vbl5rffuum.png)
 
-## Step #2: Assign Custom Property Values
+### Step 2: Assign Custom Property Values
 
-After creating a custom properties, the custom property value must be assigned to the leads.
+After creating a custom property, values must be assigned to each lead.
 
-There are two ways to do this:
+**Via CSV or Google Sheet**
 
-- **Via CSV or Google Sheet**
-
-Here's an example of a Google sheet with Custom properties, like City and Opening_Line
-
-The default value of the Custom properties is the one that will be used for leads who have no custom property value in the Google sheet/CSV.
+Below is an example of a Google Sheet with custom properties such as City and Opening_Line. Leads without a value in the sheet will use the default value set for that property.
 
 ![screenshot](../images/004_file-rsKNcBrxCu.png)
 
-Upon importing the CSV/Google sheet, you will be able to map the custom properties under Lead properties. Here's an example of mapping the custom properties when importing:
+When importing, you can map custom properties under **Lead Properties**. Here is an example:
 
 ![screenshot](../images/005_file-3dF6cUKs97.png)
 
-**Note:** When adding custom properties for leads already in QuickMail, ensure to check *'Update lead if it exists (slows the import process)*' when re-importing. Failure to do so will result in the import being rejected to prevent duplicates.
+**Note:** When updating custom properties for leads already in QuickMail, make sure to check **Update lead if it exists (slows the import process)** when re-importing. Without this, the import will be rejected to prevent duplicates.
 
 ![screenshot](../images/006_file-d3iQBWTExn.png)
 
-- **Lead's Quickview**
+**Via the lead's quick view**
 
-Another way of assigning custom property values to the leads is by opening the lead's quickview
+You can also assign custom property values by opening the lead's quick view.
 
 ![screenshot](../images/007_file-h1KPFpq5uz.png)
 
-## Step #3: Add custom property to emails
+### Step 3: Add Custom Properties to Emails
 
-Once added, the Custom properties will show under the lead's properties.
+Once assigned, custom properties will appear under the lead's properties in the email editor.
 
 ![screenshot](../images/008_file-BHkXk5Kj2m.png)
 
-Here's an example of how custom properties can be used:
+Here is an example of how a custom property can be used in an email:
 
 *Hey,*
 
@@ -132,91 +116,78 @@ This will translate to:
 
 *Hey,*
 
-*Your podcast episode on mobile kitchens helped me pursue my dreams of providing free hot meals to people who need them!  *
+*Your podcast episode on mobile kitchens helped me pursue my dreams of providing free hot meals to people who need them!*
 
 ## Company Properties
 
-Similar to Lead properties, the Company properties allow you to mention the lead's company information.
+Company properties allow you to include a lead's company information in your emails.
 
 For example:
 
-Is {{company.name}} still hiring? Saw the job posting at  {{company.domain}}!
+*Is {{company.name}} still hiring? Saw the job posting at {{company.domain}}!*
 
 This will translate to:
 
-*Is Pied Piper still hiring? Saw the job posting at *[*www.piedpiper.com*](http://www.piedpiper.com/)*!*
+*Is Pied Piper still hiring? Saw the job posting at [www.piedpiper.com](http://www.piedpiper.com)!*
 
 ![screenshot](../images/009_file-bivYRQesmk.png)
 
-## Inbox properties
+## Inbox Properties
 
-These are properties unique to the email address that is used to send an email in a campaign.
+Inbox properties are unique to the email address used to send an email in a campaign. They allow you to include sender-specific information, such as a signature, in your emails.
 
-Inbox properties allow you to include the email address information in an email.
+For example, if you are rotating two email addresses for a campaign, each email can include the correct inbox signature using the Signature property.
 
-For example, if you are rotating 2 email addresses for a campaign, each email being sent by a specific email address can include the inbox signature by using the Signature Property.
-
-More about inbox signatures here - Email Signatures in QuickMail
+More about inbox signatures here: Email Signatures in QuickMail
 
 ![screenshot](../images/010_file-la1M5siIQb.png)
 
-## Precomputed properties
+## Precomputed Properties
 
-- ### Unsubscribe Property
+**Unsubscribe property**
 
-Allows you to include an unsubscribe link to your emails.
+Allows you to include an unsubscribe link in your emails.
 
-- ### Colleagues Property
+**Colleagues property**
 
-Allows you to mention the lead's colleagues in emails.
+Allows you to mention a lead's colleagues in emails. More details here: Colleagues Property.
 
-Here's a more detailed article about the Colleagues' Property.
+**Day and Business Day property**
 
-- ### Day and Business Day Property
-
-Day Property allows you to mention the current day of the week.
-
-On the other hand, the Business Day Property only applies to weekdays.
-
-More about the Day and Business Day properties here.
+The Day property inserts the current day of the week. The Business Day property works the same way but only applies to weekdays. More details here: Day and Business Day Properties.
 
 ![screenshot](../images/011_file-n2sLqwJUJ9.png)
 
-You can also type the properties manually as long as they follow the same format as when you click the button.
+You can also type properties manually as long as they follow the same format used when inserting them via the properties button.
 
-# How to delete custom properties?
+## How to Delete Custom Properties?
 
-To delete custom properties, go to List → Click on the three vertical dots → Properties
+Go to **List** → click the three vertical dots → **Properties**.
 
 ![screenshot](../images/012_file-f8qvDPKQvu.png)
 
-After that, select the custom property you would like to delete → Click on the three vertical dots → Delete
+Select the custom property you would like to delete → click the three vertical dots → **Delete**.
 
 ![screenshot](../images/013_file-5VSE2xkUk7.png)
 
-Finally, confirm delete.
+Confirm the deletion.
 
 ![screenshot](../images/014_file-OhCH6peGR9.png)
-To delete custom properties, go to List → Click on the three vertical dots → Properties
+
+## How to Edit Custom Properties?
+
+Go to **List** → click the three vertical dots → **Properties**.
 
 ![screenshot](../images/012_file-f8qvDPKQvu.png)
 
-# How to edit custom properties?
-go to List → Click on the three vertical dots → Properties
+Click the property → edit the default value.
 
-![screenshot](../images/012_file-f8qvDPKQvu.png)
+**Note:** It is not currently possible to change the name of a custom property, but the default value can be edited.
 
-Click the property > edit default value.
-There's no option yet to change the name but you can edit the default value.
+## Why Am I Getting an Error?
 
-## Why am I getting an error?
+Some properties will prevent an email from sending if the property cannot resolve to a value.
 
-**Note:** Some properties will stop an email from sending if the property cannot transform to any value.
-
-For example, if a lead has no company value, but is added to a campaign with an email step that uses the company property {{company.name}}, the property will be unable to fill in a value.
-
-Because of this, the email will not be sent and will result in an error.
+For example, if a lead has no company value but is in a campaign with an email step that uses `{{company.name}}`, the property will have nothing to fill in and the email will not be sent, resulting in an error.
 
 ![screenshot](../images/015_file-ygHb1vws9I.png)
-
-
