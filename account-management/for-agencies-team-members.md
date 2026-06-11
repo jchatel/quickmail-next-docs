@@ -5,21 +5,13 @@
 - Types of team access in QuickMail
 
 - Admins
-
 - Team Members
-
 - Guests
-
 - How to add a Team Member?
-
 - How to change Team Member roles?
-
 - How to add Guests?
-
 - Where can I see each Team Member's activities?
-
 - Why are campaigns, replies, or email accounts not visible to other team members?
-
 - FAQs
 
 In QuickMail, users can easily grant access to colleagues or clients by utilizing their own email addresses. This allows seamless collaboration in managing an account without the need to share logins.
@@ -28,7 +20,8 @@ In QuickMail, users can easily grant access to colleagues or clients by utilizin
 
 # What are the types of team access in QuickMail?
 
-There are three types of team access in QuickMail: **Admins**, Team Members**, and **Guests
+There are three types of team access in QuickMail: **Admins**, **Team Members**, and **Guests**.
+
 ## Admins
 
 Admins can do everything except for:
@@ -40,11 +33,8 @@ Admins can do everything except for:
 Team members can do everything except for:
 
 - Manage private inboxes and campaigns owned by a different team member
-
 - Change the card on the billing page
-
 - Purchase or update the subscription
-
 - Buy email verification credits
 
 ## Guests
@@ -52,7 +42,6 @@ Team members can do everything except for:
 Guests can or cannot have edit access. If a guest has an edit access, they can do everything except for:
 
 - Manage private inboxes and campaigns owned by a different team member
-
 - Access other workspaces in the organization dashboard (Agency accounts)
 
 # How to Add a Team Member?
