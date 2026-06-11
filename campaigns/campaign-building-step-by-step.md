@@ -1,4 +1,4 @@
-# Campaign Building: Step by step
+# Campaign Building: Step by Step
 
 ### In this article:
 
@@ -6,265 +6,246 @@
 
 - **Step 1:** Create a campaign
 
-- **Step 2:** Create Steps
+- **Step 2:** Create steps
 
-- **Step 3:** Assign Accounts for Sending
+- **Step 3:** Assign accounts for sending
 
 - **Step 4:** Add leads to the campaign
 
-- Importing leads to the campaign
+  - Importing leads to the campaign
 
-- Manually adding leads to campaigns
+  - Manually adding leads to campaigns
 
-- **Step 6:** Activate the campaign
+- **Step 5:** Activate the campaign
 
-- Editing Send Times
+- Editing send times
 
-- Starting Leads
+- Starting leads
 
-- Triggers
+  - Triggers
 
-- Manual Start
+  - Manual start
 
-- Instant Start
+  - Instant start
 
 - Troubleshooting: Why is my campaign not sending?
 
 If you prefer watching video tutorials, check this out: Campaign Building Guide 🎥
 
-# What are campaigns?
+# What Are Campaigns?
 
-Campaigns are a series of emails and tasks that you can use to reach out to your leads and get replies. In QuickMail, you can run omni-channel campaigns that include email, calls, SMS, and LinkedIn actions, among others.
+Campaigns are a series of emails and tasks used to reach out to leads and get replies. In QuickMail, you can run omni-channel campaigns that include email, calls, SMS, and LinkedIn actions, among others.
 
-## Step #1: Create a campaign
+## Step 1: Create a Campaign
 
-To get started, go to Campaigns → click + Campaign
+To get started, go to **Campaigns** → click **+ Campaign**.
 
 ![screenshot](../images/000_file-9TRpWq0g3s.png)
 
-After clicking + Campaign:
+When creating a campaign, you will need to:
 
-- Give the Campaign a name
+- Give the campaign a name
 
-- Choose whether it's for everyone (Shared) or only you (Private)
+- Choose whether it is shared (visible to everyone) or private (only visible to you)
 
 - Choose the days you'd like to send
 
-- Specify Timezone for sending
+- Specify the timezone for sending
 
-- Specific Send times
+- Set specific send times
 
 - Add the number of leads you'd like to start daily
 
-**Warning:** "Start campaign immediately" will begin sending emails as soon as leads are added.
+**Warning:** Enabling "Start campaign immediately" will begin sending emails as soon as leads are added. If your campaign includes a large number of leads and multiple email steps, this is not recommended. It may result in:
 
-If your campaign includes a large number of leads and multiple email steps, starting it immediately is not recommended. This may result in:
+- A high volume of outgoing emails, which could get your email account flagged.
 
-- A high volume of outgoing emails, which could lead to your email account being flagged.
+- A backlog of emails in the send queue, causing delays.
 
-- A backlog of emails waiting in the send queue, causing delays.
-
-Consider using automation by adding the 'number of leads to start daily'
+Consider using automation by setting the number of leads to start daily instead.
 
 ![screenshot](../images/001_file-9uPSUyKFlh.png)
 
-**Note:** Private campaigns are only visible to the email address that created the campaign. So it's not visible to other team members or even admins.
+**Note:** Private campaigns are only visible to the email address that created them. They are not visible to other team members or admins.
 
-## Step #2: Create steps
+## Step 2: Create Steps
 
-Next, under the steps tab, choose the step that you want to add. Meanwhile, let's take Email as an example.
+Under the **Steps** tab, choose the type of step you want to add. Using email as an example:
 
 ![screenshot](../images/002_file-US0zjOxlTk.png)
 
-Next, add your email subject → email body → Click "Add".
+Add your email subject and body → click **Add**.
 
 ![screenshot](../images/003_file-ARqTuZArwV.png)
 
-**Note:** By default, a 3-day Wait Step will be automatically created when creating any Step. It's possible to change the wait range.
+**Note:** By default, a 3-day wait step is automatically created after each step. The wait duration can be changed.
 
 ![screenshot](../images/004_file-jeQ9giv6g7.png)
 
-You can keep adding follow-ups by clicking "Add new step"
+You can keep adding follow-ups by clicking **Add New Step**.
 
 ![screenshot](../images/005_file-FWK1SQpXsQ.png)
 
-Here's an example of a campaign with multiple follow-ups.
+Here is an example of a campaign with multiple follow-ups.
 
 ![screenshot](../images/006_file-SPb2ge5IUh.png)
 
-Aside from email and LinkedIn steps, QuickMail has a lot of other steps that you can use.
-
-To see the whole list, click "View All" when adding steps.
+QuickMail supports many other step types beyond email and LinkedIn. To see the full list, click **View All** when adding a step.
 
 ![screenshot](../images/007_file-EmewbFObHo.png)
 
 ![screenshot](../images/008_file-UeK2gibtix.png)
 
-## Step #3: Assign emails for sending
+## Step 3: Assign Emails for Sending
 
-We don't have our own server for sending emails, so users must add their own email account for sending. Without an email account, the campaign can't send emails.
+QuickMail does not have its own sending server, so you must add your own email account for sending. Without an email account, the campaign cannot send emails.
 
-To add an email account for sending, please follow this guide: Adding Email Accounts for Sending
+To add an email account, follow this guide: Adding Email Accounts for Sending
 
-Once an email account is added, go to the campaign → Channels tab → Under Emails, toggle your preferred email address on
+Once added, go to the campaign → **Channels** tab → under **Emails**, toggle your preferred email address on.
 
 ![screenshot](../images/009_file-7rOj9QMSxj.png)
 
-**Pro tip:** You can assign multiple Email Accounts to the campaign to scale your campaigns safely. This will distribute the volume of emails from your campaign which will avoid getting flagged by email service providers.
+**Pro tip:** You can assign multiple email accounts to a campaign to safely scale your outreach. This distributes email volume across accounts and reduces the risk of being flagged by email service providers.
 
-## Step #4: Add leads to campaigns
+## Step 4: Add Leads to the Campaign
 
-Without leads, your campaign automation won't work. So you need to ensure your campaigns have leads first. Leads can be added during the import process or manually from the Leads list.
+Leads must be added to the campaign before automation can run. Leads can be added during the import process or manually from the Leads list.
 
-### Step 4 - Option 1: Importing leads to campaign
+### Option 1: Importing Leads to the Campaign
 
-To import leads to the campaign, go to the campaign → Menu → Import leads
+Go to the campaign → **Menu** → **Import Leads**.
 
-**Tip:** You can learn more about importing leads here
+**Tip:** You can learn more about importing leads here.
 
 ![screenshot](../images/010_file-chuLiESoyz.png)
 
-**Pro tip**: if your leads are already added to the Workspace you can simply re-import the same sheet. When re-importing, make sure to check the checkbox "Update lead if it Exists"
-
-Otherwise, leads won't be added to the campaign because they will be rejected for duplicates.
+**Pro tip:** If your leads are already in the workspace, you can re-import the same sheet. When doing so, make sure to check **Update lead if it exists** — otherwise, leads will be rejected as duplicates and will not be added to the campaign.
 
 ![screenshot](../images/011_file-WtXTjS3bAS.png)
 
-### Step 4 - Option 2: Manually adding leads to campaign
+### Option 2: Manually Adding Leads to the Campaign
 
-To add Leads manually just select them from the List → Click on Actions → Add to Campaign → Select the campaign
+Select leads from the list → click **Actions** → **Add to Campaign** → select the campaign.
 
 ![screenshot](../images/012_file-OIPpnywzQG.png)
 
-# Step #5: Activate the campaign
+## Step 5: Activate the Campaign
 
-The last step in setting up campaigns is to activate it.
+Once your campaign is set up, the last step is to activate it.
 
-When leads are added to the campaign, they will be on a 'Not Started' status.
+When leads are added to a campaign, they will have a "Not Started" status. Once the campaign is live, emails will be sent based on when leads are started according to your triggers and allowed send times.
 
-Once the campaign is live, emails will be sent based on when leads start the campaign according to Triggers, and the allowed campaign Send Times.
-
-To set the campaign live, go to the campaign → click the paused dropdown → choose Live
+To set the campaign live, go to the campaign → click the **Paused** dropdown → select **Live**.
 
 ![screenshot](../images/013_file-GPZjoSzJos.png)
 
-**Tip:** If your campaign is not sending emails, please check out this guide for troubleshooting
+**Tip:** If your campaign is not sending emails, check out this guide for troubleshooting.
 
 ## Editing Send Times
 
-Send Times determine the specific hours and days when the campaign is allowed to send emails.
+Send times determine the specific hours and days when the campaign is allowed to send emails. For a newly created campaign, the initial send times are based on the settings and timezone selected during setup.
 
-For a newly created campaign, the initial send times are based on the send time settings and time zone selected during campaign setup.
+To edit send times, go to the campaign → **Automation** tab → select your preferred timezone → shade your preferred send times and days.
 
-![screenshot](../images/014_file-zt95Vm1NVy.png)
-
-However, you can edit the Send Times by going to the campaign → Automation tab → Make sure to select your preferred time zone → Shade your preferred send times and days
-
-**Tip:** For more info about Send Time, check out this guide: Optimizing Send Times
+**Tip:** For more information about send times, check out this guide: Optimizing Send Times
 
 ![screenshot](../images/015_file-qf3UxwNKjh.png)
 
-**Note:** By default, there’s a 60-second plus a 15-second random delay between sending emails. Ensure the campaign has enough time to accommodate your preferred email volume.
+**Note:** By default, there is a 60-second delay plus a 15-second random delay between sending emails. Make sure your campaign has enough send time to accommodate your preferred email volume.
 
 ## Starting Leads
 
-n QuickMail, when leads are added to a campaign, they are initially in a 'Not Started' status. The campaign will only begin sending emails to leads once they are started in the campaign.
+When leads are added to a campaign, they are initially in a "Not Started" status. The campaign will only begin sending emails once leads are started.
 
-Leads can be started either through scheduled triggers or manually:
+Leads can be started in three ways:
 
-- Triggers dictate how many leads begin the campaign on specific days and times.
+- **Triggers** — start leads automatically on specific days and times
 
-- Manual startallows you to start leads at any time
+- **Manual start** — start leads at any time
 
-- Instant start **allows you to automatically start leads as soon as they are added to the campaign
+- **Instant start** — start leads automatically as soon as they are added to the campaign
 
 ### Triggers
 
-Triggers dictate how many leads will start your campaign on specific days and times. The initial triggers are based on the 'Number of leads to start daily' during campaign setup.
+Triggers control how many leads start your campaign on specific days and times. The initial triggers are based on the number of leads to start daily set during campaign setup.
 
 ![screenshot](../images/016_file-ECzU6obnyS.png)
 
-If you'd like to edit Triggers, go to the campaign → Automation tab → Ensure first that you're using the correct timezone.
+To edit triggers, go to the campaign → **Automation** tab → make sure you are using the correct timezone.
 
 ![screenshot](../images/017_file-OfNrjVxqJi.png)
 
-Then, click Triggers → select the days you want Leads to start on the campaign → select the time of the day when you want to start them → set number of leads to start → Apply.
+Then click **Triggers** → select the days → select the time → set the number of leads to start → click **Apply**.
 
 ![screenshot](../images/018_file-u7UxzOsKQS.png)
 
-In case you make any mistake with choosing the day, times, and/or leads to start, you can also clear triggers.
+If you need to clear a trigger, you can do so from the same view.
 
 ![screenshot](../images/019_file-007XTQM0cS.png)
 
-Notes:
-⚠️ Triggers don’t control how many emails are sent, especially if there are follow-ups in the campaign. If you'd like to set a daily email limit, it must be done on the email account settings.
+**Notes:**
 
-⚠️ The number of leads in the Triggers are divided and assigned equally among the inboxes assigned to the campaign.
+⚠️ Triggers control when leads start, not how many emails are sent. If the campaign has follow-ups, total email volume will be higher. To set a daily email limit, configure it in the email account settings.
 
-⚠️ Triggers can’t be applied retroactively, so you’ll need to wait for the next scheduled time when they will start new leads. If you need to start new leads right away, it's possible to start new leads manually.
+⚠️ The number of leads in the triggers is divided equally among the email accounts assigned to the campaign.
 
-⚠️ For more info about Triggers, check out this guide: Automate Starting Leads with Triggers
+⚠️ Triggers cannot be applied retroactively. You will need to wait for the next scheduled time for new leads to start. To start leads right away, use the manual start option.
 
-###
+⚠️ For more information about triggers, check out this guide: Automate Starting Leads with Triggers
 
 ### Manually Starting Leads
 
-To manually start leads, go to the Leads page in the campaign → Select leads → Click the play button
+To manually start leads, go to the **Leads** page in the campaign → select the leads → click the **Play** button.
 
 ![screenshot](../images/020_file-97na9GPYqT.png)
 
 ### Instant Start
 
-Instant Start allows users to automatically start the leads as soon as they are added to the campaign. Note that this won't automatically start leads that have already been added to the campaign before this setting was enabled.
+Instant start automatically starts leads as soon as they are added to the campaign. Note that this setting does not apply retroactively to leads that were already in the campaign before it was enabled.
 
-Instant start is initially enabled when this option is checked upon campaign setup.
+Instant start can be enabled during campaign setup by checking the appropriate option.
 
 ![screenshot](../images/021_file-yWTHnJ8ga0.png)
 
-If not enabled, you can enable it by going the campaign → Automation tab → Toggle on "Start Immediately"
+If it was not enabled during setup, go to the campaign → **Automation** tab → toggle on **Start Immediately**.
 
 ![screenshot](../images/022_file-YWsdWzcURi.png)
 
-**Warning:** "Start campaign immediately" will begin sending emails as soon as leads are added.
+**Warning:** Enabling instant start will begin sending emails as soon as leads are added. If your campaign includes a large number of leads and multiple email steps, this is not recommended. It may result in:
 
-If your campaign includes a large number of leads and multiple email steps, starting it immediately is not recommended. This may result in:
+- A high volume of outgoing emails, which could get your email account flagged.
 
-- A high volume of outgoing emails, which could lead to your email account being flagged.
+- A backlog of emails in the send queue, causing delays.
 
-- A backlog of emails waiting in the send queue, causing delays.
+Consider using triggers and setting the number of leads to start daily instead.
 
-Consider using automation by adding the 'number of leads to start daily'
+## FAQs
 
-### FAQs
-Q: If leads will land on a weekend because of my wait step setting, how will QuickMail handle that?
-If your campaign Send Times are set to Monday–Friday only, QuickMail will not send the next email on Saturday or Sunday.
+**Q: If a lead's next email falls on a weekend due to a wait step, how will QuickMail handle that?**
 
-The "Wait 2 days" step makes the next step *eligible* after 2 days, but the actual email will only send during your allowed campaign Send Times.
+If your campaign send times are set to Monday–Friday only, QuickMail will not send emails on Saturday or Sunday. A wait step makes the next email eligible after the set duration, but the email will only send during your allowed send times.
 
 Example:
+
 - Email 1 sends on **Thursday**
 - Wait step = **2 days**
 - Next email becomes due on **Saturday**
-- Since Saturday/Sunday are not allowed, QuickMail will wait
-- It should send on the **next allowed window**, usually **Monday** during your selected sending hours/timezone
+- Since Saturday and Sunday are not in the allowed send times, QuickMail will wait
+- The email will send on the **next allowed window**, typically **Monday** during your selected sending hours
 
-FYI: If you set your Wait Step to be business days, no leads will end up getting assigned to a weekend.
+**Tip:** If you set your wait step to business days, leads will never be scheduled to send on a weekend.
 
-Q: I mistakenly deleted the campaign, can I recover it?
-Every deleted data in QuickMail can't be recovered anymore, that includes campaigns, campaigns steps, leads, etc.
-This is done for data and security handling compliance.
+**Q: I accidentally deleted a campaign. Can I recover it?**
 
-To avoid losing data, please archive the campaign instead.
+Deleted data in QuickMail cannot be recovered. This includes campaigns, campaign steps, leads, and other data, and is done for data and security compliance reasons.
 
-Q: Can I add an image to my campaigns?
-Yes, you can upload directly or via image URL.
-To do that, go to the step or signature > click image icon > choose between upload or img url.
+To avoid losing data, archive the campaign instead of deleting it.
 
-At the moment, there's no option yet to resize images in QuickMail.
-To make sure that the size is correct, simply resize it before adding it to the email steps.
+**Q: Can I add an image to my campaign emails?**
 
-As for resizing the image, Windows and Mac actually have a built-in photo application
-where you can resize an image with ease.
+Yes. Go to the step or signature → click the image icon → choose between **Upload** or **Image URL**.
 
-BTW, note as well that images with big file sizes can cause email service providers to consider them as attachments.
-To prevent images from showing as attachments, make sure they don't exceed the file size of 2MB.
+Note that there is currently no option to resize images within QuickMail. Resize your image before adding it to ensure it displays correctly.
+
+Also note that images with large file sizes may be treated as attachments by email service providers. To prevent this, keep image file sizes under 2MB.
