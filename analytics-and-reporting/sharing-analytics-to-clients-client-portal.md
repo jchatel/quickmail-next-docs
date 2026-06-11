@@ -30,29 +30,21 @@ The metrics displayed in the client portal shows the overall metrics for all cam
 
 ### Week 1 Stats
 
-Data type:** Open, Click, Reply, Positive Reply, Negative Reply, Bounce, and Unsubscribe
-
-**View:** Percentage, Absolute
-
-**Attribution type:** Per lead, Per email
-
-**Sender provider: **Any, Gmail, Outlook, Custom
-
-**Recipient provider: **Any, Gmail, Outlook
+- **Data type:** Open, Click, Reply, Positive Reply, Negative Reply, Bounce, and Unsubscribe
+- **View:** Percentage, Absolute
+- **Attribution type:** Per lead, Per email
+- **Sender provider:** Any, Gmail, Outlook, Custom
+- **Recipient provider:** Any, Gmail, Outlook
 
 ![screenshot](../images/000_file-CsRu3KyEXi.png)
 
 ### Weekly Stats / Metrics by Cohort
 
-View:** Percentage, Absolute
-
-**Data type:** Open, Click, Reply, Positive Reply, Negative Reply, Bounce, and Unsubscribe
-
-**Attribution type:** Per lead, Per email
-
-**Sender provider: **Any, Gmail, Outlook, Custom
-
-**Recipient provider: **Any, Gmail, Outlook
+- **View:** Percentage, Absolute
+- **Data type:** Open, Click, Reply, Positive Reply, Negative Reply, Bounce, and Unsubscribe
+- **Attribution type:** Per lead, Per email
+- **Sender provider:** Any, Gmail, Outlook, Custom
+- **Recipient provider:** Any, Gmail, Outlook
 
 **Pro Tip:** If you'd like to know more about understanding Metrics by Cohort, check out this guide.
 
@@ -90,7 +82,7 @@ Workspace views are exclusive to the specific workspace where they were created.
 
 # How to add your agency's logo to the Client Portal?
 
-Go to the the Agency Dashboard → Settings → General → Upload File (Max file size is 1MB)
+Go to the Agency Dashboard → Settings → General → Upload File (Max file size is 1MB)
 
 ![screenshot](../images/006_file-YpcJxsALoG.png)
 
@@ -110,12 +102,12 @@ Here's what the client portal looks like for your clients:
 
 ## FAQS:
 
-- *Are the stats reflected in real time in the client portal?** - Yes
+- **Are the stats reflected in real time in the client portal?** - Yes
 
-- **Does the shareable link expire? **-* Nope
+- **Does the shareable link expire?** - Nope
 
 - **Can I create multiple views?** - Yes
 
-- **Is there a limit with creating views? **- Nope
+- **Is there a limit with creating views?** - Nope
 
-- **Is there a way to share stats per campaign? ***- *This is not yet available
+- **Is there a way to share stats per campaign?** - This is not yet available
