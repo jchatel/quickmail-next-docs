@@ -2,42 +2,40 @@
 
 **In this article:**
 
-- What are Send Times for?
+- What are send times for?
 
-- How to Modify Send Times?
+- How to modify send times?
 
-- How to Clear Send Times?
+- How to clear send times?
 
-## What are Send Times for?
+## What Are Send Times For?
 
-Send Times allows users to control when the campaign sends emails, helping to avoid sending at midnight or on weekends. The default Send Times for a campaign are set from 8 AM to 6 PM, Monday to Friday, based on the timezone in which the account was created.
+Send times control when a campaign is allowed to send emails, helping you avoid sending at midnight or on weekends. The default send times are set to 8:00 AM–6:00 PM, Monday to Friday, based on the timezone in which the account was created.
 
 ## How to Modify Send Times?
 
-First, go to your preferred campaign →  Automation tab → Make sure to select your preferred timezone.
+Go to your preferred campaign → **Automation** tab → select your preferred timezone.
 
 ![screenshot](../images/000_file-RAUmWurfsi.png)
 
-After that, drag the send times as you prefer.
+Then, drag to set your preferred send times.
 
 ![screenshot](../images/001_file-Fvk6RcBp4M.png)
 
-Alternatively, you can click on the 'Send time' button and enter your preferred Send Times
+Alternatively, click the **Send Time** button and enter your preferred times manually.
 
 ![screenshot](../images/002_file-elZ4ju9UIV.png)
 
-If you’d like to allow the campaign to send emails at any time during business hours, it's easier to click on the menu next to Triggers and click "Fill All Business Days Send Times."
+To allow the campaign to send emails across all business hours at once, click the menu next to **Triggers** → **Fill All Business Days Send Times**.
 
 ![screenshot](../images/003_file-D3RvojAt3e.png)
 
-**Tip:** The red line in Send Times indicates the current day and time.
+**Tip:** The red line in the send times grid indicates the current day and time.
 
 ## How to Clear Send Times?
 
-To clear send times for a specific day, click on the menu for that day and select 'Clear Send Times.
+To clear send times for a specific day, click the menu for that day → **Clear Send Times**.
 
 ![screenshot](../images/004_file-HpJz9r2YB7.png)
 
-Meanwhile, to clear all send times , it's easier to click on the menu next to Triggers and select "Clear All Send Times."
-
-![screenshot](../images/005_file-yNnbKzkYhx.png)
+To clear all send times at once, click the menu next to **Triggers** → **Clear All Send Times**.
