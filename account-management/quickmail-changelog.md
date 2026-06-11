@@ -64,7 +64,7 @@
 
 ### FEATURES
 
-- New email accounts added to QuickMail’s Auto-warmer pool will now receive 5 autowarmer emails before sending the first autowarmer email, improving email deliverability
+- New email accounts added to QuickMail's Auto-warmer pool will now receive 5 autowarmer emails before sending the first autowarmer email, improving email deliverability
 
 ### FIXES
 
@@ -120,7 +120,7 @@
 
 ### FIXES
 
-- Some LinkedIn replies weren’t being detected. We’ve made reply detection more reliable
+- Some LinkedIn replies weren't being detected. We've made reply detection more reliable
 
 ## March 20, 2026
 
@@ -134,7 +134,7 @@
 
 ### FEATURES
 
-- LinkedIn connection requests are automatically withdrawn after 90 days to comply with LinkedIn’s policies. This also provides an opportunity to retarget leads effectively through LinkedIn outreach campaigns
+- LinkedIn connection requests are automatically withdrawn after 90 days to comply with LinkedIn's policies. This also provides an opportunity to retarget leads effectively through LinkedIn outreach campaigns
 
 ### FIXES
 
@@ -200,13 +200,13 @@
 
 - Clarified LinkedIn error messages when leads encountered an issue, making them more informative
 
-- When 'Wait Until Connection Request is Accepted' was disabled, LinkedIn acceptances didn’t create opportunities
+- When 'Wait Until Connection Request is Accepted' was disabled, LinkedIn acceptances didn't create opportunities
 
 ## January 28, 2026
 
 ### FIXES
 
-- Some users couldn’t send messages or replies on LinkedIn because LinkedIn was deprecating an endpoint.
+- Some users couldn't send messages or replies on LinkedIn because LinkedIn was deprecating an endpoint.
 
 ## January 22, 2026
 
@@ -246,7 +246,7 @@
 
 ### FEATURES
 
-- Opportunity link is now visible in the Lead’s Quick View. This makes it easier for users to access the conversation with the lead, especially when related opportunities are pending or archived, and might otherwise be overlooked.
+- Opportunity link is now visible in the Lead's Quick View. This makes it easier for users to access the conversation with the lead, especially when related opportunities are pending or archived, and might otherwise be overlooked.
 
 ![screenshot](../images/013_file-Wp1k6VKB8h.png)
 
@@ -266,7 +266,7 @@
 
 ### FIXES
 
-- The sent email statistics were calculated using GMT+0 timezone instead of the user’s account timezone, which caused confusion.
+- The sent email statistics were calculated using GMT+0 timezone instead of the user's account timezone, which caused confusion.
 
 ## November 26, 2025
 
@@ -298,7 +298,7 @@
 
 ### FIXES
 
-- We’ve fixed a bug that caused LinkedIn connection request messages to be missing from Opportunities.
+- We've fixed a bug that caused LinkedIn connection request messages to be missing from Opportunities.
 
 ## October 31, 2025
 
@@ -338,13 +338,13 @@
 
 - Domains with the words "gmail" and "google" weren't allowed when buying a domain in QuickMail
 
-- When a lead blocks a LinkedIn user, the journey previously ran into the error “Unable to fetch profile information.” We’ve added better error handling for this scenario, so the message will now clearly indicate that the lead has blocked the LinkedIn user.
+- When a lead blocks a LinkedIn user, the journey previously ran into the error "Unable to fetch profile information." We've added better error handling for this scenario, so the message will now clearly indicate that the lead has blocked the LinkedIn user.
 
 ## October 20, 2025
 
 ### FIXES
 
-- There were still instances where sender email address isn’t automatically selected when replying to Opportunities.
+- There were still instances where sender email address isn't automatically selected when replying to Opportunities.
 
 - Enhanced Opportunities functionality
 
@@ -364,7 +364,7 @@
 
 ### FIXES
 
-- Sometimes, the sender email address isn’t automatically selected when replying to Opportunities.
+- Sometimes, the sender email address isn't automatically selected when replying to Opportunities.
 
 - Improved modal for ordering Google domains
 
@@ -378,19 +378,19 @@
 
 ### FEATURES
 
-- Ability to purchase Reword with AI credits in the Billing/Plan page, so users won’t have to reach out to Support to continue sending emails after running out of AI credits.
+- Ability to purchase Reword with AI credits in the Billing/Plan page, so users won't have to reach out to Support to continue sending emails after running out of AI credits.
 
 - More audit info on the change log
 
 - Attachments can now be added when sending replies from Opportunities
 
-- The *To:* section in Opportunities can now be updated if you’d like to change the initial contact person
+- The *To:* section in Opportunities can now be updated if you'd like to change the initial contact person
 
 ![screenshot](../images/021_file-acERej2AaL.png)
 
 ### FIXES
 
-- The language in HubSpot wasn’t getting updated after updating it in QuickMail.
+- The language in HubSpot wasn't getting updated after updating it in QuickMail.
 
 - Sales Nav import was starting even though the LinkedIn account was paused, which was causing an error.
 
@@ -418,7 +418,7 @@
 
 ### FIXES
 
-- Opportunities will no longer get unarchived without a lead’s reply.
+- Opportunities will no longer get unarchived without a lead's reply.
 
 - Removed duplicate items in Opportunities for a cleaner view.
 
@@ -482,7 +482,7 @@
 
 ### FIXES
 
-- Changed the text in the cancellation window so users can now see the last day they’ll have access to their account, as well as the exact date when the cancellation takes effect.
+- Changed the text in the cancellation window so users can now see the last day they'll have access to their account, as well as the exact date when the cancellation takes effect.
 
 - Fixed an issue where the campaign list in the campaign library failed to load properly when there were 30 or more campaigns due to pagination errors.
 
@@ -498,15 +498,15 @@
 
 - Expired accounts can't resubscribe due to an error
 
-- Clicking a campaign under the Owner and Name columns didn’t open the campaign
+- Clicking a campaign under the Owner and Name columns didn't open the campaign
 
 ## August 4, 2025
 
-FIXES
+### FIXES
 
 - The reply count in the step stats and the total campaign did not match.
 
-- Campaigns with data recorded over several weeks weren’t correctly totaled on the step stats page
+- Campaigns with data recorded over several weeks weren't correctly totaled on the step stats page
 
 - The tooltip to see the complete name of the campaign were not showing.
 
@@ -589,8 +589,6 @@ This helps improves usability and makes multitasking easier.
 
 - Domain forwarding verification process fails to differentiate between .co and .com domains at the time of purchase.
 
-###
-
 ## June 16, 2025
 
 ### FEATURES
@@ -606,8 +604,6 @@ This helps improves usability and makes multitasking easier.
 ### FEATURES
 
 - Premium Autowarmer for Google inboxes purchased from QuickMail
-
-### FIXES
 
 ## May 28, 2025
 
@@ -625,7 +621,7 @@ This helps improves usability and makes multitasking easier.
 
 - The stats showing leads' email provider was flickering
 
-- Events were not logged when a LinkedIn account’s 2FA is invalidated
+- Events were not logged when a LinkedIn account's 2FA is invalidated
 
 - LinkedIn accounts were not being synced when added for the first time
 
@@ -667,9 +663,9 @@ This helps improves usability and makes multitasking easier.
 
 - Made adding LinkedIn accounts via 2FA more robust
 
-- Buying new email accounts from QuickMail when the subscription’s inbox limit was already reached was failing. Email accounts purchased from QuickMail were not counting towards the subscription limit.
+- Buying new email accounts from QuickMail when the subscription's inbox limit was already reached was failing. Email accounts purchased from QuickMail were not counting towards the subscription limit.
 
-- Company name of the leads wasn’t showing up on the lead’s page of campaigns
+- Company name of the leads wasn't showing up on the lead's page of campaigns
 
 ## April 29, 2025
 
@@ -751,4 +747,4 @@ This helps improves usability and makes multitasking easier.
 
 - Replying to opportunities associated with a deleted account was leading to an error
 
-- Users couldn’t change the recovery period for Deliverability AI
+- Users couldn't change the recovery period for Deliverability AI
