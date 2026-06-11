@@ -1,37 +1,45 @@
 # Readability Scores
 
-## Why consider readability scores when composing emails?
+**In this article:**
 
-A readability score is a helpful way to make sure your email is easy to read and understand. It looks at things like sentence length and word choice, helping you write messages that are clear and to the point. By keeping your score high, you’re more likely to engage your readers and get your message across effectively.
+- Why consider readability scores when composing emails?
+
+- Where can I find readability scores?
+
+- How can I improve my readability score?
+
+## Why Consider Readability Scores When Composing Emails?
+
+A readability score helps ensure your email is easy to read and understand. It evaluates factors like sentence length and word choice, helping you write messages that are clear and concise. A higher score generally means better engagement and a greater chance of getting your message across.
 
 ![screenshot](../images/000_file-CkYS5Iiyvf.png)
 
-## Where can I find readability scores?
+## Where Can I Find Readability Scores?
 
-Readability scores can be found when composing:
+Readability scores are available when composing:
 
-- Emails in the email step
+- Emails in an email step
 
 - LinkedIn messages
 
 - LinkedIn connection request messages
 
-- Replies in opportunities
+- Replies in Opportunities
 
-## How can I improve the readability scores of my emails?
+## How Can I Improve My Readability Score?
 
-Several factors can affect readability scores. To improve yours, here are a few simple tips:
+Several factors affect readability. Here are a few tips to improve yours:
 
-- **Keep sentences short and to the point**: Avoid overly long or complicated sentences. Shorter sentences are easier to follow.
+- **Keep sentences short and to the point** — avoid long or complicated sentences. Shorter sentences are easier to follow.
 
-- **Use simple language**: Stick to common, everyday words that everyone can easily understand.
+- **Use simple language** — stick to common, everyday words that are easy to understand.
 
-- **Break up big paragraphs**: Large blocks of text can be overwhelming. Keep paragraphs short and easy to skim.
+- **Break up large paragraphs** — long blocks of text can be overwhelming. Keep paragraphs short and easy to skim.
 
-- **Use bullet points or lists**: Lists are great for organizing information and making it easier for readers to digest.
+- **Use bullet points or lists** — lists make it easier to organize information and help readers digest it quickly.
 
-- **Stick to active voice**: Active voice makes your writing more direct and engaging.
+- **Use active voice** — active voice makes your writing more direct and engaging.
 
-- **Cut out unnecessary words**: If something doesn’t add value, get rid of it. This keeps your message clear and concise.
+- **Cut unnecessary words** — if something does not add value, remove it. This keeps your message clear and concise.
 
-- **Have a clear structure**: Start with a strong opening, present your main points, and wrap it up with a clear conclusion or call to action.
+- **Have a clear structure** — start with a strong opening, present your main points, and end with a clear conclusion or call to action.
