@@ -10,58 +10,46 @@
 
 - Can I add personalized images?
 
-# How do I change font type and sizes?
+## How Do I Change Font Type and Sizes?
 
-At the moment, we don't support highly formatted emails.
+The email editor does not support changing font types and sizes, except for different header styles. This is intentional — highly formatted emails tend to get filtered more often than plain text emails, so the editor is intentionally kept minimal.
 
-This is mainly because highly formatted emails tend to get filtered more often than emails with plain text.
+## How Do I Resize an Image in the Email Editor?
 
-Due to this, the email editor has limited options for formatting and the options don't include changing font types and sizes, except for different headers.
+It is not possible to resize images within QuickMail. Make sure to resize your images before adding them to an email step.
 
-# How do I resize an image in the email editor?
+These articles may help with resizing images on [Windows](https://www.businessinsider.com/how-to-resize-an-image-on-windows) and [Mac](https://www.businessinsider.com/how-to-resize-an-image-on-mac).
 
-It's not possible to resize an image within QuickMail so it would be best to make sure that the images are resized before pasting them on the email step.
+## Can I Use HTML?
 
-These articles might come in handy when resizing an image on [Windows](https://www.businessinsider.com/how-to-resize-an-image-on-windows) and [Mac](https://www.businessinsider.com/how-to-resize-an-image-on-mac).
+The email editor does not support HTML directly, but there is a workaround using custom properties.
 
-# Can I use HTML?
-
-The email editor doesn't support HTML yet; however, there is a workaround and it is to use custom properties.
-
-To create a new property, go to the leads page and import a CSV or Drive.
+To get started, go to the Leads page → **+ Leads** → **Import from CSV or Google Drive**.
 
 ![screenshot](../images/000_file-QkdjlgqCru.png)
 
-**Note: You don't need to complete the import to create a custom property so you can load any CSV.**
+**Note:** You do not need to complete the import to create a custom property. You can load any CSV just to access the custom properties tab.
 
-Just go to the custom properties tab -> add a custom property.
+Go to the **Custom Properties** tab → click **+ New Property**.
 
 ![screenshot](../images/001_file-Fa67KAj19H.png)
 
-Then, name your custom attribute -> paste the HTML code as the default value -> confirm.
+Name your custom property → paste the HTML code as the default value → **Confirm**.
 
 ![screenshot](../images/002_file-GSRW1zMrnE.png)
 
-**Warning:** The custom property name should only contain alphanumeric characters, as well as - and _. Creating a custom property name that has a space will lead to an error.
+**Warning:** Custom property names can only contain letters, numbers, hyphens (-), and underscores (_). Names with spaces cannot be created.
 
 ![screenshot](../images/003_file-Wt5prGXnGk.png)
 
-**Note:** Make sure that the HTML code is finalized before pasting it as a default value of the custom property because there's no option to edit an HTML code.
+**Note:** Make sure your HTML code is finalized before saving it as the default value. Custom property default values cannot be edited after creation.
 
-After creating the custom properties, just insert it into the email step.
-
-Then, the HTML body will be translated once the prospect receives the email.
-
-Here's how to do that:
+Once the custom property is created, insert it into your email step. The HTML will render when the recipient receives the email.
 
 ![screenshot](../images/004_file-xr6bJbuZBR.png)
 
-**Pro tip: You can personalize your emails using properties. Learn more about that **here**.**
+**Pro tip:** You can further personalize your emails using properties. Learn more about that here.
 
-# Can I add personalized images?
+## Can I Add Personalized Images?
 
-Yes, you can!
-
-We have an integration with Hyperise that you can use to create personalized images.
-
-Learn more about setting it up [here](https://support.hyperise.com/email-marketing-integrations/quickmail-integration).
+Yes. QuickMail integrates with Hyperise, which allows you to create personalized images for your emails. Learn more about setting it up [here](https://support.hyperise.com/email-marketing-integrations/quickmail-integration).
