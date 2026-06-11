@@ -5,7 +5,7 @@ In this article:
 
 - What happens after the 14-day trial?
 
-- What’s Included in Each QuickMail Plan?
+- What's Included in Each QuickMail Plan?
 
 - How to View Your Current Subscription?
 
@@ -13,7 +13,7 @@ In this article:
 
 - How to Cancel Your Subscription?
 
-## What’s Included in the 14-Day Trial?
+## What's Included in the 14-Day Trial?
 
 When creating a new account, your workspace is placed on a **14-day free trial by default**.
 
@@ -41,108 +41,34 @@ When creating a new account, your workspace is placed on a **14-day free trial b
 
 You can upgrade at any time or simply leave the account inactive.
 
-## What’s Included in Each QuickMail Plan?
+## What's Included in Each QuickMail Plan?
 
 QuickMail offers three plans designed for different stages of outreach, whether you're just getting started, growing your business, or managing outreach for multiple clients.
 
-Feature
-Starter Plan
-Growth Plan
-Agency Plan
-
-**Price**
-$49/month
-$99/month
-$299/month
-
-**Email Senders**
-Unlimited
-Unlimited
-Unlimited
-
-**LinkedIn Accounts**
-Unlimited
-Unlimited
-Unlimited
-
-**LinkedIn Automation**
-✅
-✅
-✅
-
-**Sales Navigator Import**
-—
-✅
-✅
-
-**Import from LinkedIn Posts**
-—
-✅
-✅
-
-**Send LinkedIn Voice Messages**
-—
-✅
-✅
-
-**Send InMail Messages**
-—
-✅
-✅
-
-**Users**
-Unlimited
-Unlimited
-Unlimited
-
-**Workspaces**
-1 Workspace
-1 Workspace
-2 Workspaces included (+$49 per extra workspace)
-
-**Uploaded Contacts**
-1,000
-25,000
-100,000
-
-**Emails Sent per Month**
-5,000
-100,000
-500,000
-
-**Free AutoWarmer with MailFlow**
-✅
-✅
-✅
-
-**Zapier Integration**
-✅
-✅
-✅
-
-**API Access**
-—
-✅
-✅
-
-**Webhook Access**
-—
-—
-✅
-
-**Support**
-Expert Support
-Priority Expert Support
-Priority Expert Support
-
-**Free Trial**
-14-Day Free Trial
-14-Day Free Trial
-—
+| Feature | Starter Plan | Growth Plan | Agency Plan |
+|---|---|---|---|
+| **Price** | $49/month | $99/month | $299/month |
+| **Email Senders** | Unlimited | Unlimited | Unlimited |
+| **LinkedIn Accounts** | Unlimited | Unlimited | Unlimited |
+| **LinkedIn Automation** | ✅ | ✅ | ✅ |
+| **Sales Navigator Import** | — | ✅ | ✅ |
+| **Import from LinkedIn Posts** | — | ✅ | ✅ |
+| **Send LinkedIn Voice Messages** | — | ✅ | ✅ |
+| **Send InMail Messages** | — | ✅ | ✅ |
+| **Users** | Unlimited | Unlimited | Unlimited |
+| **Workspaces** | 1 Workspace | 1 Workspace | 2 Workspaces included (+$49 per extra workspace) |
+| **Uploaded Contacts** | 1,000 | 25,000 | 100,000 |
+| **Emails Sent per Month** | 5,000 | 100,000 | 500,000 |
+| **Free AutoWarmer with MailFlow** | ✅ | ✅ | ✅ |
+| **Zapier Integration** | ✅ | ✅ | ✅ |
+| **API Access** | — | ✅ | ✅ |
+| **Webhook Access** | — | — | ✅ |
+| **Support** | Expert Support | Priority Expert Support | Priority Expert Support |
+| **Free Trial** | 14-Day Free Trial | 14-Day Free Trial | — |
 
 ## How to View Your Current Subscription?
 
-You can view your subscription by going to the **Billing/Plan** page, or simply check the banner in the **upper left-hand corner** of your workspace to see which plan you’re on or how many days are left in your trial.
+You can view your subscription by going to the **Billing/Plan** page, or simply check the banner in the **upper left-hand corner** of your workspace to see which plan you're on or how many days are left in your trial.
 
 ![screenshot](../images/000_file-uq432O4gIT.png)
 
@@ -160,7 +86,7 @@ To upgrade or downgrade your plan, go to the **Billing/Plan** page → click the
 
 ![screenshot](../images/003_file-ZnEJacrVgg.png)
 
-**Tip:** If you’re on an old/legacy pricing plan and would like **unlimited email accounts**, **higher lead storage**, or an **increased email sending limit**, we can move you to our new pricing structure (Starter, Growth, Agency). Email us at **support@quickmail.io** to request the switch.
+**Tip:** If you're on an old/legacy pricing plan and would like **unlimited email accounts**, **higher lead storage**, or an **increased email sending limit**, we can move you to our new pricing structure (Starter, Growth, Agency). Email us at **support@quickmail.io** to request the switch.
 
 FYI: our pricing changes from time to time so if you're seeing a pricing on this article that's no longer available on your account, it's highly likely an old pricing.
 
