@@ -131,9 +131,9 @@ There were no additional opens the week after, so the open rate remained at **50
 
 The last time an open was detected was on week 4 which increased the open rate to **51.57%**
 
-In summary, the open rate of the emails sent on the week of September 4th increased from 50.31% **to** 51.57% **in 5 weeks.
+In summary, the open rate of the emails sent on the week of September 4th increased from 50.31% to 51.57% in 5 weeks.
 
-Therefore, we can also conclude that more than 51.57%** of the emails were delivered.
+Therefore, we can also conclude that more than 51.57% of the emails were delivered.
 
 ## Why do my stats look off when I manually calculate it?
 
