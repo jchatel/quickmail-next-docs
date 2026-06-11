@@ -23,6 +23,7 @@ Client portal streamline agency workflows by eliminating manual reporting tasks.
 Users can create customized views on the Analytics page by adding tiles and selecting specific metrics. These views can then be shared with clients through a generated link, allowing access only to the relevant stats while restricting visibility to other pages in the workspace.
 
 **Note:** The Client Portal is only available for agencies. For users on the Legacy Pro and Basic plans, this should be available
+Additionally, we don't offer a whitelabeling services.
 
 # What metrics can I share in the Client Portal?
 
