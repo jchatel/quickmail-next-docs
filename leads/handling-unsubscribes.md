@@ -1,97 +1,87 @@
 # Handling Unsubscribes
 
-## Why manually mark a prospect as Do Not Contact?
+**In this article:**
 
-If an unsubscribe link is added to your email and a prospect clicks it, we automatically mark the journey as unsubscribed.
+- Why manually mark a lead as Do Not Contact?
 
-Additionally, we also mark the prospect as Do Not Contact, and prospects marked as Do Not Contact can't be added to any campaign or bucket anymore.
+- How to mark a lead as Do Not Contact?
 
-**Pro tip:** To learn about how to add an unsubscribe link to your emails in QuickMail, check out this article.
+  - Individually
 
-Although it can be automated, there are some instances when you need to do it manually such as the following:
+  - In bulk
 
-- Your emails don't have an unsubscribe link;
+## Why Manually Mark a Lead as Do Not Contact?
 
-- Prospects replied with the word "unsubscribe" instead of clicking the link (we only support unsubscribe link clicks at the moment);
+When a lead clicks an unsubscribe link in your email, QuickMail automatically marks the journey as unsubscribed and adds the lead to the Do Not Contact list. Leads on the Do Not Contact list cannot be added to any campaign.
 
-- You're using multiple software and they unsubscribed from a different platform;
+**Pro tip:** To learn how to add an unsubscribe link to your emails, check out this article.
 
-- You have a master list of unsubscribed prospects and you want to add them to QuickMail.
+There are cases where you may need to do this manually, such as:
 
-## How to mark a prospect as Do Not Contact?
+- Your emails do not have an unsubscribe link.
 
-You can either mark prospects as Do Not Contact individually or in bulk.
+- A lead replied with the word "unsubscribe" instead of clicking the link. Only unsubscribe link clicks are supported at the moment.
+
+- The lead unsubscribed from a different platform and you need to reflect that in QuickMail.
+
+- You have a master list of unsubscribed leads and want to add them to QuickMail.
+
+## How to Mark a Lead as Do Not Contact?
+
+Leads can be marked as Do Not Contact individually or in bulk.
 
 ### Individually
 
-To mark a prospect individually, simply go to the prospect's page and search for the prospect.
-
-Then, select the prospect -> action -> Mark as DoNotContact.
+Go to the **List** page → search for the lead → select the lead → **Actions** → **Mark as Do Not Contact**.
 
 ![screenshot](../images/000_file-BP1NwMhvQH.png)
 
-Prospects can also be manually marked as Do Not Contact from the Prospects preview profile.
+You can also mark a lead as Do Not Contact from their quick view. To open it, click the preview button next to the lead's email address or click their thumbnail.
 
-To go there, simply click the preview button beside the prospect's email address.
-
-Alternatively, you can also click the thumbnail of the prospect.
-
-Then, from the prospect's preview profile, click the triple-dot icon on the top-right corner of the page.
-
-Finally, click Do Not Contact.
+From the quick view, click the menu icon (three vertical dots) in the top-right corner → **Do Not Contact**.
 
 ![screenshot](../images/001_file-Kb7V5Yvsgu.png)
 
-**Pro tip:** You can go to the prospect's preview profile in all pages where prospects exist. This includes Prospects page, Campaign Journeys, Sent Emails, and To-dos.
+**Pro tip:** The quick view is accessible from any page where leads appear, including the List page, Campaign Journeys, Sent Emails, and Tasks.
 
-### In bulk
+### In Bulk
 
-To be able to bulk mark prospects as Do Not Contact, we have to tag them so we can easily filter them.
+To bulk mark leads as Do Not Contact, you first need to tag them so they can be filtered.
 
-To get started, create a tag by going to Prospects -> Tags -> Create New Tag.
+**Step 1.** Create a tag by going to **List** → **Tags** → **Create New Tag**.
 
 ![screenshot](../images/002_file-rLaTPpCo8T.png)
 
-Then, name the tag and save it. DoNotContact is just an example, you can name it anything.
+Name the tag and save it. "DoNotContact" is just an example — you can name it anything.
 
 ![screenshot](../images/003_file-9el3A95MtB.png)
 
-**Note:** When creating a tag, make sure to not put any spaces in the name. At the moment, we only support alphanumeric characters as well as - and _. Because of this, creating a tag with a name with spaces will lead to an error.
+**Note:** Tag names can only contain letters, numbers, hyphens (-), and underscores (_). Names with spaces cannot be created.
 
 ![screenshot](../images/004_file-AVYctknt8O.png)
 
-After creating the tag in QuickMail, go to your CSV and update it.
-
-Simply add a column for Do Not Contact and put x for everyone that must be marked as Do Not Contact.
-
-Then, save the changes.
+**Step 2.** Update your CSV by adding a column for Do Not Contact and entering "x" for every lead that should be marked.
 
 ![screenshot](../images/005_file-AlPZoarLMC.png)
 
-After updating the CSV, import it to QuickMail.
-
-Make sure to map the column DoNotContact with the tag in QuickMail before clicking import.
+**Step 3.** Import the updated CSV into QuickMail. Before clicking **Import**, make sure to map the DoNotContact column to the corresponding tag in QuickMail.
 
 ![screenshot](../images/006_file-2P52KLbFEh.png)
 
-Check out this article for a more detailed guide on how to use tags.
+Check out this article for a more detailed guide on using tags.
 
-**Note:** If prospects already exist, make sure to check the checkbox Update Prospect if Exists.
-
-This is because, by default, we reject prospects that exist to prevent duplicates,
+**Note:** If the leads already exist in QuickMail, make sure to check **Update lead if it exists**. Without this, existing leads will be rejected to prevent duplicates.
 
 ![screenshot](../images/007_file-FmaWOyKIBU.png)
 
-After the import is done, simply filter all prospects with the DoNotContact tag.
-
-To do that, go to the Prospects page -> Advanced filter -> Tags -> Under Has ANY of the following tags, click DoNotContact -> Apply filter.
+**Step 4.** Once the import is complete, filter leads by the DoNotContact tag. Go to the **List** page → **Advanced Filter** → **Tags** → under **Has ANY of the following tags**, select **DoNotContact** → **Apply Filter**.
 
 ![screenshot](../images/008_file-T5D9ShACd6.png)
 
-After filtering prospects with DoNotContact tag, simply select all -> Actions -> Mark as Do Not Contact.
+**Step 5.** Select all filtered leads → **Actions** → **Mark as Do Not Contact**.
 
 ![screenshot](../images/009_file-YXMfIJpAvt.png)
 
-Here's a detailed guide on how to filter prospects in QuickMail.
+Here is a detailed guide on how to filter leads in QuickMail.
 
-**Pro tip:** You can also mark a domain as Do Not Contact by adding it to the DNC domain list.
+**Pro tip:** You can also mark an entire domain as Do Not Contact by adding it to the DNC domain list.
