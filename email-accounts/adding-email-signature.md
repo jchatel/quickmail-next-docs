@@ -1,6 +1,6 @@
-# Adding Email Signature
+# Adding an Email Signature
 
-### In this article:
+**In this article:**
 
 - Why create an email signature in QuickMail?
 
@@ -10,87 +10,72 @@
 
 - How to create an HTML signature?
 
-# Why create an email signature in QuickMail?
+- Can I add a logo or image to my signature?
 
-Signatures in Quickmail are created on a per-email basis, so no matter which email is used, QuickMail will use the appropriate signature when sending the message.
+## Why Create an Email Signature in QuickMail?
 
-That means you don’t need to update the email steps in all your campaigns when changing/updating your contact information, for example.
+Signatures in QuickMail are created on a per-inbox basis. This means that regardless of which email account is used to send a message, QuickMail will automatically apply the correct signature.
 
-Aside from being able to add an email signature to an email campaign, the signature attribute is convenient when you’re using multiple emails to send campaigns.
+This is especially useful when using multiple email accounts across campaigns. Rather than updating the signature in every email step manually, you only need to update it once on the inbox itself.
 
-If you don't use the signature attribute and just add the signature to the body, then the email signatures will be static.
+If you add your signature directly to the email body instead of using the signature attribute, the signature will be static and will not update automatically when the inbox signature changes.
 
-Using the signature attribute allows you to match the signature with the email account being used to send the emails.
+## How to Create a Signature?
 
-# How to create a signature?
-
-Head to any email channels page and click the email thumbnail. It will open the Quickview. Go to the sending settings → scroll down → set signature → save.
+Go to **Channels** → **Email** → click on an email account to open the quick view → **Sending Settings** → scroll down to **Signature** → add your signature → **Save**.
 
 ![screenshot](../images/000_file-e3d3PCwkq2.png)
 
-# What is the signature attribute?
+## What Is the Signature Attribute?
 
-To add the signature attribute, you can type {{inbox.signature}} on the email body or click { } on the email body.
+The signature attribute dynamically inserts the correct inbox signature into each email based on which account is sending it.
 
-Clicking the { } button will open the attributes window. From the attributes window, click inbox and inbox.
+To add the signature attribute, type `{{inbox.signature}}` in the email body, or click the **{ }** button to open the properties panel → click **Inbox** → select **inbox.signature**.
 
 ![screenshot](../images/001_file-V5T0Eehted.png)
 
-Pro tip: The properties under the Inbox heading can also insert other email-specific attributes, like the name of the email owner, their email address, or a specific reply-to address.
+**Pro tip:** Other inbox-specific properties are also available under the Inbox heading, such as the sender's name, email address, and reply-to address.
 
-# How to create an HTML signature?
+## How to Create an HTML Signature?
 
-At the moment, we don't support HTML pasted on the email signature. However, the current workaround is to create a custom attribute and paste the HTML as the default value.
+HTML is not supported directly in the signature field, but you can use a custom property as a workaround by pasting the HTML as the property's default value.
 
-The email editor doesn't support HTML yet; however, there is a workaround and it is to use custom properties.
-
-To create a new property, go to the leads page and import a CSV or Drive.
+**Step 1.** Go to **List** → **+ Leads** → **Import from CSV or Google Drive**.
 
 ![screenshot](../images/002_file-QkdjlgqCru.png)
 
-Note: You don't need to complete the import to create a custom property so you can load any CSV.
-Just go to the custom properties tab -> add a custom property.
+**Note:** You do not need to complete the import to create a custom property. You can load any CSV just to access the custom properties tab.
+
+Go to the **Custom Properties** tab → click **+ New Property**.
 
 ![screenshot](../images/003_file-Fa67KAj19H.png)
 
-Then, name your custom attribute -> paste the HTML code as the default value -> confirm.
+**Step 2.** Name the custom property → paste the HTML code as the default value → **Confirm**.
 
 ![screenshot](../images/004_file-GSRW1zMrnE.png)
 
-**Warning:** The custom property name should only contain alphanumeric characters, as well as - and _. Creating a custom property name that has a space will lead to an error.
+**Warning:** Custom property names can only contain letters, numbers, hyphens (-), and underscores (_). Names with spaces cannot be created.
 
 ![screenshot](../images/005_file-Wt5prGXnGk.png)
 
-**Note:** Make sure that the HTML code is finalized before pasting it as a default value of the custom property because there's no option to edit an HTML code.
+**Note:** Make sure your HTML code is finalized before saving it as the default value. Custom property default values cannot be edited after creation.
 
-After creating the custom properties, just insert it into the email step.
-
-Then, the HTML body will be translated once the prospect receives the email.
-
-Here's how to do that:
-
-![screenshot](../images/006_file-xr6bJbuZBR.png)
-
-Copy the property syntax.
+**Step 3.** Copy the property syntax.
 
 ![screenshot](../images/007_file-4LQyI0ycdT.png)
 
-And paste it into your signature.
+**Step 4.** Paste the property into your signature field.
 
 ![screenshot](../images/008_file-DAyHJM8J7s.png)
 
-As long as the signature is attribute is inserted into emails, all emails that will be sent will have the translated HTML code.
+As long as the signature attribute is included in your emails, the HTML will render correctly for every recipient.
 
-Q: Can I add a logo or images to my signature?
-Yes, you can add images by uploading directly or via image URL.
-To do that, go to channels > email > 2nd tab > scroll down to signature > click image icon > choose between upload or img url.
+![screenshot](../images/006_file-xr6bJbuZBR.png)
 
-At the moment, there's no option yet to resize images in QuickMail.
-To make sure that the size is correct, simply resize it before adding it to the email steps.
+## Can I Add a Logo or Image to My Signature?
 
-As for resizing the image, Windows and Mac actually have a built-in photo application
-where you can resize an image with ease.
+Yes. To add an image, go to **Channels** → **Email** → click on an email account → second tab → scroll down to **Signature** → click the image icon → choose **Upload** or **Image URL**.
 
-BTW, note as well that images with big file sizes can cause email service providers to consider them as attachments.
-To prevent images from showing as attachments, make sure they don't exceed the file size of 2MB.
+Note that there is no option to resize images within QuickMail. Resize your image before adding it to ensure it displays correctly.
 
+Also note that images with large file sizes may be treated as attachments by email service providers. To prevent this, keep image file sizes under 2MB.
