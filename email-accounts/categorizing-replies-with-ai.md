@@ -1,61 +1,57 @@
 # Categorizing Replies with AI
 
-### In this article:
+**In this article:**
 
-- What's the AI Reply Categorization feature?
+- What is the AI Reply Categorization feature?
 
 - How does AI Reply Categorization work?
 
 - How are replies categorized?
 
-# What's the AI Reply Categorization feature?
+## What Is the AI Reply Categorization Feature?
 
-**Note:** The AI Reply Categorization feature is only available for Legacy and Expert Plans
+**Note:** AI Reply Categorization is only available on the Legacy Expert and Agency plans.
 
-AI Reply Categorization is a useful feature that will help you gain insight into the underlying meaning of each reply that you receive.
+AI Reply Categorization automatically analyzes the sentiment of each reply you receive, categorizing it without requiring you to tag replies manually.
 
-The Analysis makes it easy to determine the sentiment of your campaigns **automatically**, without having to perform the work of tagging each reply individually.
-
-Enable it in Settings → Replies → Enable AI Reply Categorization
+To enable it, go to **Settings** → **Replies** → enable **AI Reply Categorization**.
 
 ![screenshot](../images/000_file-m1H8Ts5dLX.png)
 
-# How does AI Reply Categorization work?
+## How Does AI Reply Categorization Work?
 
-With the AI sentiments feature integrated into the Opportunities page, any received reply will undergo automatic AI reply analysis.
+When a reply is received in the Opportunities page, it is automatically analyzed and assigned a category based on its sentiment. The AI sets the sentiment of the journey based on the first reply received.
 
-Each reply is then categorized with the corresponding label, and the AI automatically sets the sentiment of the journey with the first reply.
-
-Once a reply is categorized with AI, it will also be possible to use the feature to start Leads on a new Sub-Campaign.
+Once a reply is categorized, you can also use the result to automatically start the lead on a sub-campaign.
 
 ![screenshot](../images/001_file-aGyHlcNQdy.png)
 
-**Note:** The AI feature will currently only work with English-language text.
+**Note:** AI Reply Categorization currently only works with English-language text.
 
-# How are replies categorized?
+## How Are Replies Categorized?
 
-The analysis will categorize all replies into the following three categories:
+Replies are categorized into the following three groups:
 
-### Positive Sentiments:
+### Positive
 
-- **Interested** - Analysis determined that the Lead is interested.
+- **Interested** — the lead is interested.
 
-- **More information** - The Lead would like to find out more.
+- **More Information** — the lead would like to find out more.
 
-- **Booking Request:** The Lead would like to book a meeting.
+- **Booking Request** — the lead would like to book a meeting.
 
-### Neutral Sentiments:
+### Neutral
 
-- **Not Now** - The Lead might be interested, but this is not the right time.
+- **Not Now** — the lead may be interested but this is not the right time.
 
-- **Confused:** The Lead is not sure why they received this message.
+- **Confused** — the lead is not sure why they received this message.
 
-### Negative Sentiments:
+### Negative
 
-- **Unsubscribe** - The Lead would like to be removed from any future campaigns (Lead is automatically marked as Do Not Contact and opportunity is automatically archived)
+- **Unsubscribe** — the lead would like to be removed from future campaigns. The lead is automatically marked as Do Not Contact and the opportunity is automatically archived.
 
-- **Not the right person:** The Lead is not the right person for this email.
+- **Not the Right Person** — the lead is not the right person for this email.
 
-- **Not interested:** The Lead is not interested.
+- **Not Interested** — the lead is not interested.
 
-- **No need:** The Lead has no need for this right now.
+- **No Need** — the lead has no need for this at this time.
