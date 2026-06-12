@@ -1,17 +1,23 @@
 # Exporting Leads
 
-If you need a backup of your leads or want to use them elsewhere, you can easily export your leads from QuickMail in just a few steps.
+If you need a backup of your leads or want to use them elsewhere, you can export your leads from QuickMail in just a few steps.
+
+**In this article:**
+
+- How to export leads?
+
+- What do I do if I didn't receive the email?
 
 ## How to Export Leads?
 
-Simply go to Campaign List → select the leads → click Export to download a copy.
+Go to **List** → select the leads → click **Export**.
 
 ![screenshot](../images/000_file-uPXJHitJuD.png)
 
-After every import, an email containing the CSV will be sent to the email address you're using to login.
+After the export, a CSV file will be sent to the email address you use to log in.
 
-**Note:** You can use filters to narrow down the list you'd like to export
+**Note:** You can use filters to narrow down the leads you would like to export.
 
-## What do I do if I didn't receive the email?
+## What Do I Do if I Didn't Receive the Email?
 
-If you didn’t receive the email containing the CSV export, it’s possible your email was added to our suppression list. This can happen if QuickMail notification emails to your address bounced more than once. Please contact [support@quickmail.com](mailto:support@quickmail.com) for assistance
+If you did not receive the email containing the CSV export, it is possible your email address was added to the suppression list. This can happen if QuickMail notification emails to your address bounced more than once. Contact [support@quickmail.io](mailto:support@quickmail.io) for assistance.
