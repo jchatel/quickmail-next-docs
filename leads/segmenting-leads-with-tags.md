@@ -1,88 +1,83 @@
 # Segmenting Leads with Tags
 
-In this article:
-- How to create Tags?
+**In this article:**
 
-- How to manually apply tags?
+- Why use tags?
 
-- How to bulk-add tags upon import?
+- How to create tags?
 
-- How to delete Tags?
+- How to apply tags to leads?
 
-## Why use tags?
+- How to bulk-apply tags via import?
 
-Tags are useful for categorizing leads. By tagging leads, you can also quickly search for specific leads using Advanced Filters.
+- How to delete tags?
 
-Tags can also be used as quick filters when searching for specific leads.
+## Why Use Tags?
 
-## How to create Tags?
+Tags are useful for categorizing leads. By tagging leads, you can quickly search for specific leads using Advanced Filters.
 
-### From the List page
+## How to Create Tags?
 
-To create a tag, navigate to List → Click on the three vertical dots at the upper right-hand corner → Tags
+### From the List Page
+
+Go to **List** → click the menu icon (three vertical dots) in the top-right corner → **Tags**.
 
 ![screenshot](../images/000_file-31XKj5EKgC.png)
 
-You'll be directed to the Tags page, from there click on "Add tag" → Name the tag → Confirm
+On the Tags page, click **Add Tag** → name the tag → **Confirm**.
 
 ![screenshot](../images/001_file-edqBGASyUR.png)
 
-### While importing leads
+### While Importing Leads
 
-To create tags while importing leads, simply go to the Tags tab → Add new tag
+Go to the **Tags** tab during import → click **Add New Tag**.
 
 ![screenshot](../images/002_file-F6t0SbNy90.png)
 
-## How to apply Tags to leads?
+## How to Apply Tags to Leads?
 
-There are 3 ways to apply tags to leads:
+There are three ways to apply tags to leads:
 
-### From the List page
+### From the List Page
 
-It's possible to manually add tags to specific leads or in bulk. To do that, go to the List page → Select your preferred leads → Click on the three vertical dots → Add/Remove tags
+Go to the **List** page → select the leads → click the menu icon (three vertical dots) → **Add/Remove Tags**.
 
 ![screenshot](../images/003_file-psOKw0qqE9.png)
 
-### From Lead's Quickview
+### From the Lead's Quick View
 
-The lead's quickview can be accessed by clicking on the lead's thumbnail or email address on the:
+The lead's quick view can be accessed by clicking on the lead's thumbnail or email address from the:
 
 - Campaign's Leads page
 
-- Global inbox page
+- Opportunities page
 
 - List page
 
-From there, users have the option to manually add tags to a specific lead. (Applied tags are in blue)
+From there, you can manually add tags to a specific lead. Applied tags are shown in blue.
 
 ![screenshot](../images/004_file-ZRXk7NsUuA.png)
 
-### Bulk-applying tags by an import
+### Bulk-Applying Tags via Import
 
-When importing leads, tags can also be applied in bulk.
+When importing leads, tags can be applied in bulk by adding tag columns to your CSV. For each lead that should receive a tag, enter any value (such as "x") in the corresponding column. Leaving a row blank means the tag will not be applied.
 
-To get started, make sure that the CSV has columns for tags. After creating the columns for tags, put any value (like x) on the row of the leads that must be tagged.
-
-Leaving a row blank means the Tag won't be applied.
-
-Here's an example of a CSV with columns for Tags.
+Here is an example of a CSV with tag columns:
 
 ![screenshot](../images/005_file-nu3nON9fXD.png)
 
-**Note:** If the leads that will be imported are already in the list, make sure to check the checkbox "Update Lead if Exist." This is so that the tags will be applied to the leads.
+**Note:** If the leads being imported already exist in the list, make sure to check **Update Lead if Exists** so that the tags are applied to them.
 
 ![screenshot](../images/006_file-isUd4OLOP9.png)
 
-**Pro-tip:** A lead can have multiple tags and you can also filter specific leads by combining tags.
+**Pro tip:** A lead can have multiple tags, and you can filter leads by combining tags. To learn more, see: Filtering Leads.
 
-To learn more about how to filter leads with specific tags, here's a detailed article on how to use advanced filters - Filtering Leads
+## How to Delete Tags?
 
-## How to delete Tags?
-
-To delete tags, navigate to List → Click on the three vertical dots at the upper right-hand corner → Tags
+Go to **List** → click the menu icon (three vertical dots) in the top-right corner → **Tags**.
 
 ![screenshot](../images/007_file-31XKj5EKgC.png)
 
-From the Tags page, click on a specific tag → Click on the three vertical dots at the upper right-hand corner → Delete
+On the Tags page, click on the tag you want to delete → click the menu icon (three vertical dots) → **Delete**.
 
 ![screenshot](../images/008_file-k8dQarBPSc.png)
