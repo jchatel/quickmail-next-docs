@@ -1,66 +1,74 @@
 # Zapier Integration
 
-## What is Zapier integration for?
+**In this article:**
 
-Zapier allows integrations of multiple apps by connecting actions and triggers. This makes it possible to automate workflows from within QuickMail and create integration with other apps that are supported by Zapier.
+- What is Zapier integration for?
+
+- How to set up Zapier integration?
+
+- How to create Zaps with QuickMail triggers and actions?
+
+## What Is Zapier Integration For?
+
+Zapier allows you to connect multiple apps by linking triggers and actions, making it possible to automate workflows between QuickMail and other apps supported by Zapier.
 
 Here are the available QuickMail **Triggers:**
 
--  Update Tag
+- Update Tag
 
--  New Reply
+- New Reply
 
--  New Checkpoint reached
+- New Checkpoint Reached
 
--  New Journey Completed
+- New Journey Completed
 
--  New Unsubscribe
+- New Unsubscribe
 
--  New Bounce
+- New Bounce
 
--  New Task
+- New Task
 
--  New Open
+- New Open
 
--  New Click
+- New Click
 
--  New Journey Sentiments or Labels
+- New Journey Sentiments or Labels
 
 - New Inbox Reply Status
 
 Here are the available **Actions:**
 
--  Create or Update a Lead  (This Action can also Add a Lead on a Campaign)
+- Create or Update a Lead (this action can also add a lead to a campaign)
 
--  Cancel Journey
+- Cancel Journey
 
--  Unsubscribe Lead
+- Unsubscribe Lead
 
-Here are the available data that can be extracted:
+Here is the available data that can be extracted:
 
 - Account ID
 
-- Prospect ID
+- Lead ID
 
-- Prospect Email
+- Lead Email
 
-- Prospect First Name
+- Lead First Name
 
-- Prospect Last Name
+- Lead Last Name
 
-- Prospect Titlte
+- Lead Title
 
-- Prospect Role
+- Lead Role
 
-- Prospect Phone
+- Lead Phone
 
-- Prospect Score
+- Lead Score
 
-- Prospect Language
+- Lead Language
 
-- Prospect Unsubscribed
+- Lead Unsubscribed
 
-- Prospect Verified Source
+- Lead Verified Source
 
 - Company ID
 
@@ -76,7 +84,7 @@ Here are the available data that can be extracted:
 
 - Campaign Description
 
-- Inbox Email
+- Email Account
 
 - Journey Opens
 
@@ -88,36 +96,32 @@ Here are the available data that can be extracted:
 
 - Click Link
 
-## How to set up Zapier integration
+## How to Set Up Zapier Integration
 
-On your QuickMail workspace, go to Settings → Integrations → Scroll down to the Zapier Integration section → click Regenerate Zapier API Key → Copy Zapier API Key
+Go to **Settings** → **Integrations** → scroll down to the **Zapier Integration** section → click **Regenerate Zapier API Key** → copy the Zapier API key.
 
 ![screenshot](../images/000_file-NjGZ6Pm0nT.png)
 
-Next, go to Zapier → Go to Apps → Search QuickMail from the apps → click Connect.
+Go to **Zapier** → **Apps** → search for **QuickMail** → click **Connect**.
 
 ![screenshot](../images/001_file-oocYfrG7Gd.png)
 
-After clicking Connect, a new window will pop up. To allow Zapier to access your QuickMail account, paste the Zapier API key that was generated in QuickMail → Yes, Continue to QuickMail
+A new window will appear. Paste the Zapier API key generated in QuickMail → click **Yes, Continue to QuickMail**.
 
 ![screenshot](../images/002_file-Q2g9PBGttM.png)
 
-This is how it should look like once QuickMail has successfully been connected to your Zapier account.
+Here is what it looks like once QuickMail has been successfully connected to your Zapier account:
 
 ![screenshot](../images/003_file-XqpLVA4HKN.png)
 
-## How to create Zaps with QuickMail Triggers and Actions
+## How to Create Zaps with QuickMail Triggers and Actions
 
-Go to Zapier Home Page and click + Create → Select Zaps
+Go to the Zapier home page → click **+ Create** → select **Zaps**.
 
 ![screenshot](../images/004_file-aSWsvqCV6I.png)
 
-When creating a zap, search QuickMail for the Trigger or Action (depending on the automation you want to set up)
+When creating a Zap, search for **QuickMail** to find the trigger or action you need.
 
 ![screenshot](../images/005_file-s0XwvwDuvF.png)
 
-Follow the prompts on the page to create a Zap that does what's needed.
-
-After the Zap is all set, use the switch in the top-right corner to turn it on, and it'll be good to go.
-
-Zapier will take care of the rest!
+Follow the on-screen prompts to finish setting up the Zap. Once it is ready, use the toggle in the top-right corner to turn it on.
