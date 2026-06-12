@@ -1,29 +1,48 @@
-# Resuming and Cancelling Leads
+# Resuming and Canceling Leads
+
+**In this article:**
+
+- Why cancel leads?
+
+- Why resume leads?
+
+- How to resume or cancel leads?
+
+  - From the campaign
+
+  - From the lead's quick view
 
 ## Why Cancel Leads?
 
-Canceling leads allows you to stop sending them emails from the campaign.
+Canceling a lead stops the campaign from sending them further emails. The lead's status will change to "Canceled."
 
 ## Why Resume Leads?
 
-Resuming leads on the other hand, allows you to resume sending emails to leads who have a 'Canceled', 'Replied', 'Completed' status.
+Resuming a lead restarts email sending for leads with a "Canceled," "Replied," or "Completed" status. The lead's status will change to "Running."
 
-**Note:** Resuming leads will change their stage to 'Running' while Canceling leads will change their stage to 'Canceled'
+There are several reasons you may need to resume leads:
+
+- **To bypass a wait step** — if you want a lead to move to the next step earlier than scheduled, resuming them will skip the remaining wait time.
+
+- **To apply an updated wait step** — changing a wait step does not affect leads already scheduled under the old setting. To apply the new wait step, you need to manually resume those leads.
+
+- **To resume out-of-office leads** — if you know when a lead will be back, you can resume them on a specific date so the next email sends at the right time.
+- **To resume leads that ran into an error** - leads don't automatically resume after the error is fixed. So you have to manually resume those.
 
 ## How to Resume or Cancel Leads?
 
-### From the campaign
+### From the Campaign
 
-Resuming or canceling leads from the campaign allows you to do actions in bulk.
+Resuming or canceling from the campaign allows you to take action on multiple leads at once.
 
-To resume or cancel leads from the campaign, go to the Campaigns page → Open a campaign → Leads page → Select leads → Click the Play (to start or resume) or Pause icon (to cancel)
+Go to **Campaigns** → open a campaign → **Leads** page → select the leads → click the **Play** icon to resume or the **Pause** icon to cancel.
 
 ![screenshot](../images/000_file-74xoyJ6kvG.png)
 
-### From the lead's quickview
+### From the Lead's Quick View
 
-Resuming or canceling leads from the lead's quickview allows you to resume or cancel leads on the Leads page, Campaign's Leads page, or Opportunities.
+Resuming or canceling from the quick view allows you to take action on individual leads from the List page, the campaign's Leads page, or Opportunities.
 
-To open quickview, click on the lead's thumbnail → second tab → Cancel progress or Resume progress
+To open the quick view, click the lead's thumbnail → go to the second tab → click **Resume Progress** or **Cancel Progress**.
 
 ![screenshot](../images/001_file-0GKnpKkGYp.png)
