@@ -50,15 +50,22 @@ On the other hand, you can also set a different limit to the LinkedIn connection
 
 **Note:** If your LinkedIn connection message exceeds 150 characters, the journey will run into an error and the request won't get sent. They won't be able to proceed to the next step until it's fixed
 
-To fix this, you will need to shorten your LinkedIn connection request message and resume the journeys manually. (Here's a guide on canceling and resuming journeys.)
+To fix this, you will need to shorten your LinkedIn connection request message and resume the journeys manually. 
+
+Additionally, LinkedIn limits the number of connection requests that you can send with a note.
+We automatically retry those but you can also set the LinkedIn step to send a connection request without a note.
 
 - The system checks the status of the LinkedIn connection request once a day. So when a prospect accepts the LinkedIn connection request and "Wait until the connection is accepted to resume campaign" is checked, the journey of the prospect won't move to the next step in real time.
+
+The setting "Wait until the connected is accepted to resume campaign" is not on by default.
+So you have to turn it on manually.
 
 💡**Pro tip:** You can send additional LinkedIn Messages once you've connected with the prospects.
 
 ## How to cancel a LinkedIn connection request?
 
 To cancel a LinkedIn connection request, go to Prospects → Search for the prospect → Open prospects view → Click X to cancel pending connection request
+FYI: QuickMail automatically withdraws them after 90 days of the connection request.
 
 ## How to see which LinkedIn account sent the connection request?
 
