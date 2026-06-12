@@ -4,7 +4,7 @@ Webhook steps let you send lead data from QuickMail campaigns to external platfo
 
 Each webhook step can have its own unique URL, separate from your account-level webhook.
 
-### In this article:
+**In this article:**
 
 - Setting up a webhook step
 
@@ -18,17 +18,31 @@ Each webhook step can have its own unique URL, separate from your account-level 
 
 - Troubleshooting tips
 
-## Setting up a webhook step
+## Setting Up a Webhook Step
 
-### Request type and payload
+### Request Type and Payload
 
 Use POST requests with a JSON payload to send data to most webhook platforms.
 
 **Example payload:**
 
-{   "first_name": "{{lead.first_name}}",   "last_name": "{{lead.last_name}}",   "email": "{{lead.email}}",   "title": "{{lead.title}}",   "role": "{{lead.role}}",   "company": {     "name": "{{company.name}}",     "domain": "{{company.domain}}"   },   "city": "{{lead.custom.city}}",   "source_campaign_id": "1234" }
+```json
+{
+  "first_name": "{{lead.first_name}}",
+  "last_name": "{{lead.last_name}}",
+  "email": "{{lead.email}}",
+  "title": "{{lead.title}}",
+  "role": "{{lead.role}}",
+  "company": {
+    "name": "{{company.name}}",
+    "domain": "{{company.domain}}"
+  },
+  "city": "{{lead.custom.city}}",
+  "source_campaign_id": "1234"
+}
+```
 
-### Available data fields
+### Available Data Fields
 
 Webhook steps can send the following lead data:
 
@@ -46,35 +60,35 @@ Webhook steps can send the following lead data:
 
 - `{{company.domain}}`
 
-- Custom fields using `{{lead.custom.field_name}}`  (example: `{{lead.custom.city}}` )
+- Custom fields using `{{lead.custom.field_name}}` (example: `{{lead.custom.city}}`)
 
 You can also include static values like campaign IDs or tracking parameters in your payload.
 
-To know the correct fields to use, click this on the webhook step and click the properties:
+To see the correct fields to use, click the properties button on the webhook step:
 
 ![screenshot](../images/000_file-0mmcyjv0jR.png)
 
-## Tracking send dates
+## Tracking Send Dates
 
-While QuickMail does not include send dates in webhook payloads, you can capture approximate send times using your automation platform.
+QuickMail does not include send dates in webhook payloads, but you can capture approximate send times using your automation platform.
 
-### The workaround
+### The Workaround
 
-Place your webhook step immediately after an email step in your campaign. When the webhook fires, your automation platform (like Make or Zapier) can record the timestamp it receives the webhook. Since the webhook triggers right after the email sends, this timestamp will be very close to the actual send time.
+Place your webhook step immediately after an email step in your campaign. When the webhook fires, your automation platform can record the timestamp it receives the webhook. Since the webhook triggers right after the email sends, this timestamp will be very close to the actual send time.
 
 **In Make:**
 
-- Use the `now`  function to capture the current timestamp
+- Use the `now` function to capture the current timestamp.
 
-- Configure your scenario to add a timestamp field when the webhook is received
+- Configure your scenario to add a timestamp field when the webhook is received.
 
-- Send that timestamp to your destination platform as the send date
+- Send that timestamp to your destination platform as the send date.
 
 **In Zapier:**
 
-- Similar timestamp functions are available to capture when the webhook is received
+- Similar timestamp functions are available to capture when the webhook is received.
 
-## Common webhook errors
+## Common Webhook Errors
 
 ### 404 Not Found
 
@@ -82,11 +96,11 @@ This error means the webhook URL could not be found on the receiving server.
 
 **How to fix:**
 
-- Verify you copied the complete webhook URL from your platform
+- Verify you copied the complete webhook URL from your platform.
 
-- Make sure you are using the correct webhook type in your automation platform
+- Make sure you are using the correct webhook type in your automation platform.
 
-- Confirm the URL is still active and has not been deleted or regenerated
+- Confirm the URL is still active and has not been deleted or regenerated.
 
 ### 301 Moved Permanently
 
@@ -94,68 +108,66 @@ This error means the webhook reached the server but is being redirected to a dif
 
 **How to fix:**
 
-- Ensure your webhook URL starts with `https://`  (not `http://` )
+- Ensure your webhook URL starts with `https://` (not `http://`).
 
-- Copy the exact URL from your platform without adding or removing any characters
+- Copy the exact URL from your platform without adding or removing any characters.
 
-- Do not add or remove trailing slashes
+- Do not add or remove trailing slashes.
 
-- If the issue persists, regenerate a new webhook URL in your platform and paste it exactly as provided
+- If the issue persists, regenerate a new webhook URL in your platform and paste it exactly as provided.
 
-### Missing protocol (https://)
+### Missing Protocol (https://)
 
-Some platforms provide webhook URLs without the `https://`  prefix. If your URL looks incomplete (example: `hook.us2.make.com/path` ), check your automation platform's documentation or contact their support to confirm the correct format.
+Some platforms provide webhook URLs without the `https://` prefix. If your URL looks incomplete (example: `hook.us2.make.com/path`), check your automation platform's documentation or contact their support to confirm the correct format.
 
-## Webhook steps vs account webhook
+## Webhook Steps vs Account Webhook
 
 QuickMail has two types of webhooks:
 
-**Webhook steps** (campaign-level):
+**Webhook steps (campaign-level):**
 
-- Each step can have its own unique URL
+- Each step can have its own unique URL.
 
-- Can be added multiple times within campaigns
+- Can be added multiple times within a campaign.
 
-- Triggers when a lead enters that specific step
+- Triggers when a lead enters that specific step.
 
-- Limited to the available data fields listed above
+- Limited to the available data fields listed above.
 
-**Account webhook** (account-level):
+**Account webhook (account-level):**
 
-- Only one webhook URL per account
+- Only one webhook URL per account.
 
-- Captures events across all campaigns
+- Captures events across all campaigns.
 
-- Can track opens, clicks, and other engagement events
+- Can track opens, clicks, and other engagement events.
 
-- Different payload structure and capabilities
+- Different payload structure and capabilities.
 
-You can use both types simultaneously.
+Both types can be used simultaneously.
 
-## How webhook steps with conditions trigger
+## How Webhook Steps with Conditions Trigger
 
 Webhook steps trigger when a lead enters the step, not when an event occurs.
 
-**Example:** If you create a webhook step with a condition "at least one open," the step will:
+**Example:** If you create a webhook step with the condition "at least one open," the step will:
 
-- Let leads through if they already have an open at the time they reach the step
+- Let leads through if they already have an open at the time they reach the step.
 
-- Skip leads that do not have an open yet
+- Skip leads that do not have an open yet.
 
-The step will not wait for a future open to happen.
-
-It filters leads based on what they have already done at the moment they enter the step.
+The step will not wait for a future open to happen — it filters leads based on what they have already done at the moment they enter the step.
 
 **To track opens and clicks:** Use the account-level webhook or a platform like Zapier instead of webhook steps.
 
-## Troubleshooting tips
+## Troubleshooting Tips
 
-- **Test your webhook URL** in your automation platform before adding it to QuickMail
+- **Test your webhook URL** in your automation platform before adding it to QuickMail.
 
-- **Use POST requests** unless your platform specifically requires GET
+- **Use POST requests** unless your platform specifically requires GET.
 
-- **Copy URLs exactly** as provided by your automation platform
+- **Copy URLs exactly** as provided by your automation platform.
 
-- **Check your automation platform's documentation** for webhook requirements
+- **Check your automation platform's documentation** for webhook requirements.
 
-- **Contact your platform's support** if errors persist after verifying the URL and request type
+- **Contact your platform's support** if errors persist after verifying the URL and request type.
