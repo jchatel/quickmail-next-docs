@@ -1,119 +1,111 @@
 # HubSpot Integration
 
-HubSpot CRM can now be connected to QuickMail to improve your workflow.
+HubSpot CRM can be connected to QuickMail to improve your workflow. It allows you to export, import, and automatically sync leads, and view lead activity in HubSpot.
 
-It allows users to export, import, automatically sync, and see the lead's activities in HubSpot.
+**In this article:**
 
-#### In this article:
+- What is supported in the two-way sync?
 
-- What is Supported in the Two-Way Sync?
+- How to set up the HubSpot integration?
 
-- How to Setup HubSpot Integration?
+- How to manually trigger an import from HubSpot?
 
-- How to Manually Trigger an Import from HubSpot?
+- How to see leads' activities in HubSpot?
 
-- How to See Leads' Activities in Hubspot?
+- How to pause the HubSpot integration?
 
-- How to Pause HubSpot Integration?
-
-- How to Remove HubSpot Integration?
-
-- How to See Synced Leads?
+- How to remove the HubSpot integration?
 
 ## What Is Supported in the Two-Way Sync?
 
-Updating and adding leads are automatically synced in real time. Note that importing a large list may take some time for all data to be synced.
+Leads are automatically synced in real time. Note that importing a large list may take some time for all data to be synced.
 
-Currently, here's how two-way sync is triggered for Leads:
+**Lead sync is triggered by:**
 
-- Adding or Importing Leads
+- Adding or importing leads
 
-- Editing First Name or Last Name
+- Editing first name or last name
 
-- Editing Job Title
+- Editing job title
 
-- Editing Phone Number
+- Editing phone number
 
-- Events include Opens, Clicks, Replies, Unsubscribes, and Bounces.
+- Events: opens, clicks, replies, unsubscribes, and bounces
 
-- Assigning or Unassigning Tags and Custom Attributes
+- Assigning or unassigning tags and custom properties
 
-Here's how two-way sync is triggered for Tags & Custom Attributes
+**Tag and custom property sync behavior:**
 
-- Editing a tag in QuickMail updates the QuickMail properties in HubSpot
+- Editing a tag in QuickMail updates the corresponding QuickMail properties in HubSpot
 
-- Deleting a tag in QuickMail puts a tag (deleted) on the QuickMail properties in HubSpot
+- Deleting a tag in QuickMail marks the QuickMail property in HubSpot as "(deleted)"
 
-- Editing a tag in HubSpot doesn't reflect in QuickMail
+- Editing a tag in HubSpot does not reflect in QuickMail
 
-Currently, our HubSpot integration doesn't support recording sent emails.
+The HubSpot integration does not currently support recording sent emails. If you need to log sent emails in HubSpot, use the BCC setting. For more details, see: Logging Sent Emails in HubSpot
 
-If the goal is to record all the sent emails in HubSpot, it's necessary to use the BCC setting.
+**Note:** Editing lead information will not create a new contact in HubSpot.
 
-Please refer to this article for more details: Logging Sent Emails in HubSpot
+## How to Set Up the HubSpot Integration?
 
-**Note:** Editing lead information won't create a new contact in Hubspot.
-
-## How to Setup HubSpot Integration?
-
-To Setup Hubspot Integration in QuickMail, go to Settings →  Integrations → Look for HubSpot
+Go to **Settings** → **Integrations** → find **HubSpot**.
 
 ![screenshot](../images/000_file-RXjnKSYKps.png)
 
-You'll be prompted to sign in, or create a new HubSpot account
+You will be prompted to sign in or create a new HubSpot account.
 
 ![screenshot](../images/001_file-5XowInCyyG.png)
 
-After signing in, select the HubSpot account you would like to connect to QuickMail
+After signing in, select the HubSpot account you would like to connect to QuickMail.
 
 ![screenshot](../images/002_file-5KdQoiNgHb.png)
 
-This is what it looks like in QuickMail once a HubSpot account has been connected
+Here is what it looks like in QuickMail once a HubSpot account has been connected:
 
 ![screenshot](../images/003_file-3PBb65PuLd.png)
 
 ## How to Manually Trigger an Import from HubSpot?
 
-Existing leads in HubSpot and QuickMail won't automatically sync after setting up the integration. Only the new leads created after the integration is set up will be synced automatically. So the leads must be manually imported via the integration.
+Existing leads in HubSpot and QuickMail will not automatically sync after the integration is set up. Only new leads created after the integration is configured will sync automatically. Existing leads must be manually imported.
 
-**Note:** It's not possible to filter the list of leads that will be imported from HubSpot to QuickMail.
+**Note:** It is not possible to filter which leads are imported from HubSpot to QuickMail.
 
-To manually import all Leads from HubSpot, go to Settings → HubSpot → Import all existing Leads in HubSpot
+To manually import all leads from HubSpot, go to **Settings** → **HubSpot** → **Import all existing leads in HubSpot**.
 
 ![screenshot](../images/004_file-6zEdSLkatL.png)
 
-Importing all leads to QuickMail may take some time. Once the import has finished, you will receive an email notification about the import.
+Importing all leads may take some time. Once complete, you will receive an email notification.
 
 ![screenshot](../images/005_file-yFUsBv71uc.png)
 
-## How to See a Leads' Activity in Hubspot?
+## How to See Leads' Activity in HubSpot?
 
-To see a Leads' activity in Hubspot, go to a specific contact → Filter Activity → Enable filter for QuickMail Integration.
+Go to the specific contact in HubSpot → **Filter Activity** → enable the filter for **QuickMail Integration**.
 
 ![screenshot](../images/006_file-p2IxZJqfkC.png)
 
-After enabling the filter for QuickMail Integration, Leads' activities are displayed under the Activity tab.
+Lead activity will then be displayed under the **Activity** tab.
 
 ![screenshot](../images/007_file-GttmJOqHWb.png)
 
-## How to Pause HubSpot Integration?
+## How to Pause the HubSpot Integration?
 
-Creating new Leads will no longer sync when integration is paused. However, these actions will still sync:
+When the integration is paused, new leads will no longer sync. However, the following actions will still sync:
 
 - Updating tag names
 
-- Creating and Deleting Custom Attributes from QuickMail to HubSpot
+- Creating and deleting custom properties from QuickMail to HubSpot
 
-- Creating and Deleting Tags from QuickMail to HubSpot
+- Creating and deleting tags from QuickMail to HubSpot
 
-To pause integration, Go to Settings → Integrations → Under HubSpot Integration, check the box "Pause Integration"
+To pause the integration, go to **Settings** → **Integrations** → under **HubSpot Integration**, check the box **Pause Integration**.
 
 ![screenshot](../images/008_file-eRsqTkYjcJ.png)
 
-## How to Remove HubSpot Integration?
+## How to Remove the HubSpot Integration?
 
-Two-way sync will permanently stop once HubSpot Integration is removed in QuickMail.
+Removing the HubSpot integration will permanently stop the two-way sync.
 
-Go to Settings → Integrations → Under HubSpot Integration, click "Remove HubSpot Integration"
+Go to **Settings** → **Integrations** → under **HubSpot Integration**, click **Remove HubSpot Integration**.
 
 ![screenshot](../images/009_file-iebQosZCvz.png)
