@@ -1,19 +1,15 @@
-# FAQ: What are your available CRM integrations?
+# FAQ: What Are Your Available CRM Integrations?
 
-We have an integration with HubSpot and PipeDrive.
+QuickMail has native integrations with HubSpot and Pipedrive.
 
-Our HubSpot and PipeDrive integration allows you to export, import, automatically sync tags and attributes, and see your lead's campaign activities (opens, clicks, replies, bounces, and unsubscribe) in HubSpot. Here's a quick breakdown of how the two-way sync works:
+Both integrations allow you to export and import leads, automatically sync tags and properties, and view lead campaign activity (opens, clicks, replies, bounces, and unsubscribes) directly in HubSpot or Pipedrive. Here's a quick breakdown of how the two-way sync works:
 
 - Integrating HubSpot and QuickMail
 
-- Integrating PipeDrive with QuickMail
+- Integrating Pipedrive with QuickMail
 
-If you need more than this, we have a Zapier integration and Webhooks.
+For tools beyond HubSpot and Pipedrive, QuickMail also has a Zapier integration and Webhooks.
 
-Zapier allows you to use QuickMail with tools we don't have a native integration with, as long as the tool has Zapier integration too.
+Zapier allows you to connect QuickMail with any tool that has a Zapier integration. Available trigger events include opens, clicks, replies, unsubscribes, bounces, and tags applied. Available actions include updating leads and adding them to a campaign.
 
-Some trigger events that we have on Zapier are opens, clicks, replies, unsubscribes, bounces, and tags applied to name some.
-
-As for the actions, you can update leads and add them to a campaign.
-
-Here's a detailed guide on integrating Zapier in QuickMail.
+Here is a detailed guide on integrating Zapier with QuickMail: https://help.quickmail.com/integrations/zapier-integration/.
