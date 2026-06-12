@@ -1,6 +1,8 @@
 # Adding New Leads
 
-### In this article:
+**IMPORTANT:** When leads are imported to a campaign in QuickMail, they are also added to your main lead list. Leads can be filtered by engagement, tags, and more to narrow down targeted follow-up lists for further outreach or export.
+
+**In this article:**
 
 - What are leads?
 
@@ -12,7 +14,7 @@
 
 - Importing leads from Sales Navigator
 
-- Importing leads from a LinkedIn Post
+- Importing leads from a LinkedIn post
 
 - Auto-importing via Google Sheet
 
@@ -24,317 +26,272 @@
 
 - FAQs
 
-**IMPORTANT:** When leads are imported to a campaign in QuickMail, they are also added to your main Lead list. Leads can be filtered by engagement, tags, and more to narrow down targeted follow-up lists for further outreach or export.
-
-## What are leads?
+## What Are Leads?
 
 Leads are the people you will send emails or LinkedIn messages to. An email address is required to add a lead in QuickMail.
 
-There are different ways to add leads to QuickMail:
+## Creating Leads Manually
 
-- Adding Leads Manually
-
-- Importing Leads from CSV
-
-- Importing Leads from Google Drive
-
-- Importing Leads from Sales Navigator
-
-- Importing Leads from LinkedIn Posts
-
-- Auto-importing via Google Sheet
-
-- Auto-importing via Sales Navigator
-
-- Importing leads from emails received
-
-- Importing leads who viewed your LinkedIn profile
-
-## Creating Leads manually
-
-**Step 1.** Head to List → + Leads →  Add Lead Manually
+**Step 1.** Go to **List** → **+ Leads** → **Add Lead Manually**.
 
 ![screenshot](../images/000_file-DU66icKn6Q.png)
 
-**Step 2.** Enter the lead's information including the email address
+**Step 2.** Enter the lead's information including their email address.
 
 ![screenshot](../images/001_file-H5qjdr20Pf.png)
 
-**Step 3.** **(Optional) I**f you would like to add custom properties like location, custom notes, etc., click on "Custom Properties" section. Add the name of the custom property and default value.
+**Step 3. (Optional)** To add custom properties such as location or custom notes, click the **Custom Properties** section → add the property name and default value.
 
 ![screenshot](../images/002_file-Z5IdQPW8oo.png)
 
-**Step 4.** (Optional) **If you would also like to add Tags, click on the "Tags" section. Type in the name of the tag you'd like to create.
+**Step 4. (Optional)** To add tags, click the **Tags** section → type the name of the tag you would like to create.
 
 ![screenshot](../images/003_file-mx1wDeNpVM.png)
 
-**Step 5.** Click on the tag syou'd like to add and finally, once all of the lead's information is entered, click on "Add"
+**Step 5.** Select the tags you would like to add → once all information is entered, click **Add**.
 
 ![screenshot](../images/004_file-659Hm7vJJT.png)
 
 ## Importing Leads from CSV
 
-Leads can be imported from a CSV (comma-separated value) file to your Leads list.
+Leads can be imported from a CSV file directly into your lead list or a campaign.
 
-The leads in the sheet can be imported directly into a campaign
+**CSV specifications:**
 
-#### IMPORTANT CSV specifications:
+- The file must be comma-delimited. Other delimiters such as semicolons are not supported.
 
-- CSV file should be comma-delimited. Other delimiters (such as semicolons) are not supported.
+- File size must not exceed 20 MB.
 
-- File size should not exceed 20 MB
+- Number of rows must not exceed 49,999. For large files, you can use this [free tool](https://www.splitcsv.com/).
 
-- Number of rows should not exceed 49,999. If you have a large CSV, you can use this[free tool.](https://www.splitcsv.com/)
+- Each lead must have a unique email address.
 
-- Each lead entry should have a unique email
-
-- The CSV file should contain a header row
+- The file must contain a header row.
 
 ![screenshot](../images/005_file-lc8wZKTs44.jpg)
 
-**Step 1.** To start importing from a CSV, head to the List → +Leads → Import from CSV
+**Step 1.** Go to **List** → **+ Leads** → **Import from CSV**.
 
 ![screenshot](../images/006_file-1z24aYQuHL.png)
 
-**Step 2.** Drag and drop the CSV file to the box or click "Load File"
+**Step 2.** Drag and drop the CSV file into the box or click **Load File**.
 
 ![screenshot](../images/007_file-EdMXtEmmEl.png)
 
-**Step 3.** Use the dropdown menu to map the correct headers in the CSV to the properties in QuickMail.
-
-→ After that, click "Next"
+**Step 3.** Use the dropdown menu to map the CSV headers to the correct properties in QuickMail → click **Next**.
 
 ![screenshot](../images/008_file-PTMFInFB22.png)
 
-**Tip:** The headers can be named exactly as the lead properties (e.g. Email, Firstname, Lastname, etc.) to automatically map them to the same properties when importing.
+**Tip:** Naming your CSV headers to match lead properties exactly (e.g. Email, Firstname, Lastname) will allow them to be mapped automatically on import.
 
-**Step 4. (Optional) **You'll be directed to the "Custom Properties" section. If needed, create custom properties and map the headers in the CSV column for the custom properties → After that, click "Next"
+**Step 4. (Optional)** In the **Custom Properties** section, create custom properties and map the relevant CSV columns → click **Next**.
 
 ![screenshot](../images/009_file-YNlE9KUZYM.png)
 
-**Step 5. (Optional) **You'll be directed to the "Tags" section. If needed, create tags and map the headers in the CSV column for the tags → After that, click "Next"
+**Step 5. (Optional)** In the **Tags** section, create tags and map the relevant CSV columns → click **Next**.
 
 ![screenshot](../images/010_file-8EnhOSOOt9.png)
 
-**Step 6. (Optional)** You'll be directed to the "Options" section. Select a campaign if you would like to directly add the leads to the campaign → Finally, click "Import"
+**Step 6. (Optional)** In the **Options** section, select a campaign if you would like to add the leads directly to it → click **Import**.
 
-**Tip:** Check the box '**Update Lead if it exists'** if you would like to reimport the list of leads and update their information. Otherwise, the import will be rejected
+**Tip:** Check **Update Lead if it exists** if you are re-importing a list to update existing lead information. Without this, the import will be rejected for existing leads.
 
 ![screenshot](../images/011_file-nlszsyRVtL.png)
 
-Once the import is completed, an import report will be sent to the email address you're using to log in.
+Once the import is complete, an import report will be sent to the email address you use to log in.
 
 ![screenshot](../images/012_file-PCiMBqWGjj.png)
 
-**Tip:** For troubleshooting related to Imports, this guide might come in handy: Understanding Import Report
+**Tip:** For troubleshooting import issues, check out this guide: Understanding Import Report.
 
 ## Importing Leads from Google Drive
 
-Leads can be imported from a Google Sheet that is added to Google Drive.  The leads in the Google Sheet can be imported directly into a campaign.
+Leads can be imported from a Google Sheet linked to a Google Drive account. The leads can be imported directly into a campaign.
 
-#### Google Sheet Specifications
+**Google Sheet specifications:**
 
-- Each Lead entry should have a unique email
+- Each lead must have a unique email address.
 
-- The Google Sheet should contain a header row
+- The sheet must contain a header row.
 
-- The Google Sheet should be in a Google Drive that you have access to or a shared Google Drive folder that you have access to
+- The sheet must be in a Google Drive or shared Google Drive folder that you have access to.
 
 ![screenshot](../images/013_file-6ib0SW8UER.png)
 
-### Step 1. Add a Google Drive
-
-To import from a Google Sheet, the Google Drive must be added to QuickMail first. To do that, go to Settings → Google Drive → +Drive
+**Step 1.** Add the Google Drive to QuickMail. Go to **Settings** → **Google Drive** → **+ Drive**.
 
 ![screenshot](../images/014_file-HNbYpNw45c.png)
 
-**Step 2.** Log in with the Google account associated with the Google Drive account. Once the Google account is added, it'll show on the list of available drives in your account
+**Step 2.** Log in with the Google account associated with the Google Drive. Once added, it will appear in the list of available drives.
 
 ![screenshot](../images/015_file-c17eVCksJg.png)
 
-#### Step 3.  Select a Google Sheet for import
-
-To start importing, go to List → click + Leads → Import from Google Drive
+**Step 3.** Go to **List** → **+ Leads** → **Import from Google Drive**.
 
 ![screenshot](../images/016_file-m935Ssvx8k.png)
 
-**Step 4.** Select the Google Sheet you would like to use for import
+**Step 4.** Select the Google Sheet you would like to import from → use the dropdown menu to map the sheet headers to the correct properties in QuickMail → click **Next**.
 
 ![screenshot](../images/017_file-i055Tm1aod.png)
 
-Use the dropdown menu to map the correct headers in the CSV to the properties in QuickMail.
-
-→ After that, click "Next"
-
 ![screenshot](../images/018_file-x6N950B6Ve.png)
 
-**Step 5.** You'll be directed to the "Custom Properties" section. If needed, create custom properties and map the headers in the CSV column for the custom properties → After that, click "Next"
+**Step 5. (Optional)** In the **Custom Properties** section, create custom properties and map the relevant columns → click **Next**.
 
 ![screenshot](../images/019_file-INhQRcS0Q4.png)
 
-**Step 6.** You'll be directed to the "Tags" section. If needed, create tags and map the headers in the CSV column for the tags → After that, click "Next"
+**Step 6. (Optional)** In the **Tags** section, create tags and map the relevant columns → click **Next**.
 
 ![screenshot](../images/020_file-3Hl6qhZXyD.png)
 
-**Step 7.** You'll be directed to the "Options" section. Select a campaign if you would like to directly add the leads to the campaign → Finally, click "Import"
+**Step 7. (Optional)** In the **Options** section, select a campaign if you would like to add the leads directly to it → click **Import**.
 
-**Tip:** Check the box "Update Lead if it exists" if you would like to reimport the list of leads and update their information. Otherwise, the import will be rejected
+**Tip:** Check **Update Lead if it exists** if you are re-importing a list to update existing lead information. Without this, the import will be rejected for existing leads.
 
 ![screenshot](../images/021_file-pCc72jL8b9.png)
 
-**Step 8.** Once the import is completed, an import report will be sent to the email address you're using to log in.
+**Step 8.** Once the import is complete, an import report will be sent to the email address you use to log in.
 
 ![screenshot](../images/022_file-PCiMBqWGjj.png)
 
-## Importing From Sales Navigator
+## Importing Leads from Sales Navigator
 
-Our integration with LinkedIn Sales Navigator allows you to easily import selected leads into QuickMail. This is especially useful for running LinkedIn outreach.
+QuickMail's integration with LinkedIn Sales Navigator allows you to import selected leads directly into QuickMail. This is especially useful for LinkedIn outreach.
 
 **Note:** While LinkedIn profile URLs and other lead details are imported, email addresses are not included.
 
-**Step 1.** Add a LinkedIn account that has Sales Navigator subscription. Go to Channels → LinkedIn → + LinkedIn. This guide about Adding LinkedIn accounts might come in handy.
+**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
 
 ![screenshot](../images/023_file-ap7Qg6Ue3m.png)
 
-**Note:** LinkedIn accounts showing a Sales Navigator icon are supported for Sales Navigator. If there's no Sales Navigator icon, it means the account is not compatible.
+**Note:** LinkedIn accounts showing a Sales Navigator icon are supported. If there is no Sales Navigator icon, the account is not compatible.
 
 ![screenshot](../images/024_file-l4ybGfFXUi.png)
 
-**Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) → Search for the leads you'd like to import → Use filters to narrow down your search if needed → Copy the URL
+**Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) → search for the leads you would like to import → use filters to narrow down your search if needed → copy the URL.
 
-**Note:** Recent Search links are not yet support. The URL Should start with [https://www.linkedin.com/sales/search/people?query=](https://www.linkedin.com/sales/search/people?query=) from fresh search.
+**Note:** Recent Search links are not yet supported. The URL must start with `https://www.linkedin.com/sales/search/people?query=` from a fresh search.
 
 ![screenshot](../images/025_file-BwTSeKBFRm.png)
 
-**Step 3.** Go to Leads → + Add Leads → Import from Sales Navigator
+**Step 3.** Go to **List** → **+ Add Leads** → **Import from Sales Navigator**.
 
 ![screenshot](../images/026_file-Wy6JlfWmhI.png)
 
-**Step 4.** Paste the URL copied from Sales Navigator → Follow the on screen instructions to setup import
+**Step 4.** Paste the URL copied from Sales Navigator → follow the on-screen instructions to set up the import.
 
 ![screenshot](../images/027_file-6xTLvuRQHU.png)
 
-**Step 5.** An import report will be sent shortly via email where you can see how many leads have been imported or rejected.
+**Step 5.** An import report will be sent via email showing how many leads were imported or rejected.
 
 ## Importing Leads from a LinkedIn Post
 
-**Tip:** You can also import leads from a different person's LinkedIn post
+**Tip:** You can also import leads from another person's LinkedIn post.
 
-**Step 1.** Add a LinkedIn accoun. Go to Channels → LinkedIn → + LinkedIn. This guide about Adding LinkedIn accounts might come in handy.
+**Step 1.** Add a LinkedIn account. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
 
 ![screenshot](../images/028_file-QSgxWzJRxo.png)
 
-**Step 2.** Copy the LinkedIn post link and paste it into QuickMail.
+**Step 2.** Go to **List** → **+ Leads** → **Import from LinkedIn Post** → paste the LinkedIn post link.
 
 ![screenshot](../images/029_file-u04xOzQS8u.png)
 
-**Step 3.** Map the leads' properties and add custom properties or tags if you'd like.
+**Step 3.** Map the lead properties and add custom properties or tags if needed.
 
 ![screenshot](../images/030_file-WodoXIZ5X3.png)
 
-**Step 4.** Select the campaign where you would like to add the leads (optional) and click 'Import'
+**Step 4. (Optional)** Select the campaign where you would like to add the leads → click **Import**.
 
 ![screenshot](../images/031_file-99FuoqOvCX.png)
 
-**Step 5.** An import report will be sent shortly via email where you can see how many leads have been imported or rejected.
+**Step 5.** An import report will be sent via email showing how many leads were imported or rejected.
 
 ![screenshot](../images/032_file-ztNp74NRPC.png)
 
-## Auto-import with Google Sheet
+## Auto-Import with Google Sheet
 
-**Important:** Make sure that the sharing settings of the Google Sheet is Shared and it isn't saved in a Shared Drive. Otherwise, permission issues may occur and auto-import may not work.
+**Important:** Make sure the sharing settings of the Google Sheet are set to Shared and that it is not saved in a Shared Drive. Otherwise, permission issues may occur and auto-import may not work.
 
-Every time you add a new lead to your Google Sheet, they'll be added automatically to your list or campaign automatically. ust keep your sheet updated, and we’ll handle the rest.
+Every time you add a new lead to your Google Sheet, they will be automatically added to your list or campaign.
 
-**Step 1** . To setup auto-import with Google Sheet, first, Add a Google Drive for auto-import. Head to Settings → Google Drive → +Drive
+**Step 1.** Add a Google Drive. Go to **Settings** → **Google Drive** → **+ Drive**.
 
 ![screenshot](../images/033_file-5jYDaUAI1K.png)
 
-**Step 2.** Import from the Google Sheet you'd like to use for auto-import. Go to List > + Leads > Google Drive > Tick the box 'Auto-import automatically if spreadsheet changes'
+**Step 2.** Go to **List** → **+ Leads** → **Google Drive** → tick the box **Auto-import automatically if spreadsheet changes**.
 
-**Note:** Auto-import will only import new leads added to the Google Sheet after it was setup. Existing leads in the Google Sheet need to be imported separately.
+**Note:** Auto-import will only import new leads added to the Google Sheet after it is set up. Existing leads in the sheet must be imported separately.
 
 ![screenshot](../images/034_file-0IUhGnhYeo.png)
 
-QuickMail will scan the Google sheets for any change every hour - and if new Leads are detected, those leads will automatically get imported.
+QuickMail scans the Google Sheet for changes every hour. If new leads are detected, they will be imported automatically.
 
 **Note:** There is a limit to the number of auto-import sheets that can be added: 1 for the Basic plan, 10 for the Pro plan, and 30 for the Expert plan.
 
-## Auto-import via Sales Navigator
+## Auto-Import via Sales Navigator
 
-Auto-Import continuously monitors your saved Sales Navigator search. When a new lead appears, it’s automatically pulled into your list or campaign so you can engage without lifting a finger.
+Auto-Import continuously monitors your saved Sales Navigator search. When a new lead appears, it is automatically added to your list or campaign.
 
-**Step 1.** To setup auto-import with Sales Navigator, first, add a LinkedIn account that has Sales Navigator subscription. Go to Channels → LinkedIn → + LinkedIn. This guide about Adding LinkedIn accounts might come in handy.
+**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
 
 ![screenshot](../images/035_file-ap7Qg6Ue3m.png)
 
-**Note:** LinkedIn accounts showing a Sales Navigator are supported for Sales Navigator. If there's no Sales Navigator icon, the account is not compatible.
+**Note:** LinkedIn accounts showing a Sales Navigator icon are supported. If there is no Sales Navigator icon, the account is not compatible.
 
 ![screenshot](../images/036_file-l4ybGfFXUi.png)
 
-**Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) > Search for the leads you'd like to import → Use filters to narrow down your search if needed → Copy the URL
+**Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) → search for the leads you would like to import → use filters to narrow down your search if needed → copy the URL.
 
-**Note:** Recent Search links are not yet support. The URL Should start with [https://www.linkedin.com/sales/search/people?query=](https://www.linkedin.com/sales/search/people?query=) from fresh search.
+**Note:** Recent Search links are not yet supported. The URL must start with `https://www.linkedin.com/sales/search/people?query=` from a fresh search.
 
 ![screenshot](../images/037_file-BwTSeKBFRm.png)
 
-**Step 3.** Go to Leads → + Add Leads → Import from Sales Navigator
+**Step 3.** Go to **List** → **+ Add Leads** → **Import from Sales Navigator**.
 
 ![screenshot](../images/038_file-ieorzlCzcf.png)
 
-**Step 4.** Paste the URL copied from Sales Navigator → Follow the on screen instructions to setup import
+**Step 4.** Paste the URL copied from Sales Navigator → follow the on-screen instructions to set up the import.
 
 ![screenshot](../images/039_file-3e1bBS7BRr.png)
 
-**Step 5.** Setup the auto-import and under Options, check the box 'Re-run this import at regular intervals' → Then select preferred interval
+**Step 5.** Under **Options**, check the box **Re-run this import at regular intervals** → select your preferred interval.
 
-**Tip:** You can select a campaign in the **“Add to campaign”** dropdown to automatically add new leads from Auto-Import to that campaign.
+**Tip:** You can select a campaign in the **Add to Campaign** dropdown to automatically add new leads from Auto-Import to a campaign.
 
 ![screenshot](../images/040_file-qV9MyXug6H.png)
 
-When a new lead appears, it’s automatically added to your list or campaign, so you can engage them right away without having to search again.
+## Importing Leads from Emails Received
 
-## Importing Leads From Emails Received
+You can automatically import email addresses of people who have sent you emails. Note that this may include personal or marketing email addresses.
 
-You can automatically import email addresses who sent you emails. Note, however, that this can include personal or marketing email addresses who sent you emails.
-
-To enable this option, go to Channels → Emails → Click on an email account → Receiving tab → Check the box 'Create leads from emails received' → Choose campaign where you'd like to add the leads (Optional)
+To enable this, go to **Channels** → **Emails** → click on an email account → **Receiving** tab → check **Create leads from emails received** → optionally select a campaign to add the leads to.
 
 ![screenshot](../images/041_file-HtJRW1v0pr.png)
 
 ## Importing Leads Who Viewed Your LinkedIn Profile
 
-It's now possible to automatically import LinkedIn IDs of people who viewed your LinkedIn profile.
+You can automatically import LinkedIn profiles of people who viewed your LinkedIn profile.
 
-To enable this option, go to Channels → LinkedIn → Click on the Linkedin account → Receiving tab → Check the box 'Create leads from profile viewers' → Choose campaign where you'd like to add the leads (Optional)
+To enable this, go to **Channels** → **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
 
 ![screenshot](../images/042_file-opNbf6bGa4.png)
 
-## FAQs:
-Q: How do I know if the import process has been completed?
-A:You will receive an email about the details of the import similar to other import methods - Import Report Email
-Q:What will happen if leadsthat are already on the list are imported?
-A:Leads that are already on the list will be skipped/rejected.
+## FAQs
 
-That's because each lead should have a unique email address to be imported or added.
+**Q: How do I know if the import has been completed?**
 
-If you want to update the details of the existing leads, you can tick the box "Update Lead if it exists" before hitting the import button. This can be useful when moving existing Leads to a different bucket or when adding new details to Leads (such as custom attribute values).
+A: You will receive an email with the import details.
 
-Note: "Update Lead if it exists" only works for manual imports.
+**Q: What happens if leads that are already on the list are imported?**
 
-Auto-imports will always skip leads that already exist.
+A: Leads that already exist will be skipped. Each lead must have a unique email address.
 
-Important:** When updating leads upon import, make sure to map the Company information. If the company information is not mapped, the company name will default to the domain name which can have skewed capitalization (e.g. Abc instead of ABC).
+If you want to update existing lead details, check **Update Lead if it exists** before importing. Note that this only works for manual imports — auto-imports will always skip leads that already exist.
 
-Q: Special characters are not showing in QuickMail
+**Important:** When updating leads on import, make sure to map the company information. If it is not mapped, the company name will default to the domain name, which may have unexpected capitalization (e.g. "Abc" instead of "ABC").
 
-A: To import special characters, the CSV must be formatted as UTF-8.
+**Q: Special characters are not showing correctly in QuickMail. How do I fix this?**
 
-This article might come in handy when converting the CSV to use UTF-8 encoding:
-https://support.meistertask.com/hc/en-us/articles/4406395262354-How-Do-I-Encode-My-CSV-File-Using-the-UTF-8-Format-
+A: The CSV must be formatted as UTF-8. This article may help with converting your file: [https://support.meistertask.com/hc/en-us/articles/4406395262354-How-Do-I-Encode-My-CSV-File-Using-the-UTF-8-Format-](https://support.meistertask.com/hc/en-us/articles/4406395262354-How-Do-I-Encode-My-CSV-File-Using-the-UTF-8-Format-)
 
-After correcting the CSV, simply re-import the CSV.
-
-When re-importing, make sure to check the checkbox "update prospects if exist"
-Otherwise, prospects will be rejected to prevent duplicates.
-
+After correcting the CSV, re-import it and make sure to check **Update Lead if it exists** to avoid leads being rejected as duplicates.
