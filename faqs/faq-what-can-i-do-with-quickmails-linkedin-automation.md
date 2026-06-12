@@ -1,48 +1,66 @@
-# FAQ: What can I do with QuickMail’s LInkedIn automation?
+# FAQ: What Can I Do with QuickMail's LinkedIn Automation?
 
-We have 9 features available in our Linkedin Automation:
+QuickMail offers 9 LinkedIn automation features:
 
-## Generate profile views
+**In this article:**
 
-Helps create familiarity and boost connection and reply rates by making your approach feel more natural.
+- Generate profile views
+
+- Send LinkedIn connection requests
+
+- Send LinkedIn messages
+
+- Send instant follow-up LinkedIn messages
+
+- Send attachments
+
+- Send LinkedIn InMails
+
+- Send LinkedIn voice messages
+
+- Import leads who viewed your profile
+
+- Import leads from a LinkedIn post
+
+## Generate Profile Views
+
+Generates profile views on your leads to create familiarity and boost connection and reply rates by making your approach feel more natural.
 
 ![screenshot](../images/000_file-usCu91lmvL.png)
 
-##
+## Send LinkedIn Connection Requests
 
-## Send LinkedIn connection requests
-
-Allows you to connect to the leads, without having to do it manually
+Allows you to send connection requests to leads without having to do it manually.
 
 ![screenshot](../images/001_file-EskrL7S4sv.png)
 
-**IMPORTANT NOTES:**
+**Important notes:**
 
-- LinkedIn Connection Requests are automatically withdrawn after 90 days and when that happens, the lead status will change from 'Running' to 'Canceled'.
+- LinkedIn connection requests are automatically withdrawn after 90 days. When this happens, the lead's status will change from "Running" to "Canceled."
 
-- You can resend the Connection Requests again after 3 weeks.
+- Connection requests can be resent after 3 weeks.
 
-- LinkedIn doesn't allow sending messages to leads you're yet connected with
+- LinkedIn does not allow sending messages to leads you are not yet connected with.
 
-- Therefore, the setting 'Wait Until Connection Request' on a LinkedIn Connection Request Step is enabled by default. This means that the lead won't proceed to the next step, until the connection request is accepted. You can disable this setting here:
+- Because of this, the **Wait Until Connection Request is Accepted** setting is enabled by default on connection request steps. This means a lead will not proceed to the next step until the connection request is accepted. You can disable this setting here:
 
 ![screenshot](../images/002_file-tE9DeBuMGz.png)
 
-## Send LinkedIn messages
+## Send LinkedIn Messages
 
-Allows you to send LinkedIn Messages (the lead must be connected in order to send a LinkedIn message)
+Allows you to send LinkedIn messages to leads you are already connected with.
 
 ![screenshot](../images/003_file-MjPqGHlmvm.png)
 
-## Send instant follow up LinkedIn message
+## Send Instant Follow-Up LinkedIn Messages
 
-You can also send multiple messages or attachments in quick succession, which helps your outreach feel more natural, like a real conversation.
+Allows you to send multiple messages or attachments in quick succession, making your outreach feel more natural, like a real conversation.
 
 ![screenshot](../images/004_file-8Y2ajwiAOJ.png)
 
-## Send attachments
+## Send Attachments
 
-You can now add attachment to your LinkedIn messages which helps make your outreach more engaging, shows proof of your work, and gives prospects something tangible to review, like a case study, one-pager, or portfolio.
+Allows you to add attachments to your LinkedIn messages. This can make your outreach more engaging and gives leads something tangible to review, such as a case study, one-pager, or portfolio.
 
 ![screenshot](../images/005_file-JHXDH4GAku.png)
 
@@ -52,26 +70,26 @@ Allows you to send LinkedIn InMail messages without needing to be connected to t
 
 ![screenshot](../images/006_file-XcNGStlSgC.png)
 
-## Send LinkedIn voice message
+## Send LinkedIn Voice Messages
 
-Helps you stand out and get more replies because because it feels more personal, grabs attention faster, and builds trust more easily than a text message.
+Allows you to send voice messages to leads. Voice messages can help you stand out, grab attention faster, and build trust more effectively than text messages.
 
 ![screenshot](../images/007_file-R7F71QrhLJ.png)
 
-## Import Leads Who Viewed Your Profile to a Campaign
+## Import Leads Who Viewed Your Profile
 
-You can automatically import leads who viewed your profile to QuickMail.
+Automatically imports leads who viewed your LinkedIn profile into QuickMail.
 
-To enabled this option, go to Channels → LinkedIn → Click on the LinkedIn account → Receiving tab → Check the box 'Create leads from profile viewers' → Choose campaign where you'd like to add the leads (Optional)
+To enable this, go to **Channels** → **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
 
 ![screenshot](../images/008_file-opNbf6bGa4.png)
 
-## Import Leads From LinkedIn Post
+## Import Leads from a LinkedIn Post
 
-**Tip:** You can also import leads from a different person's LinkedIn post
+Allows you to import leads who engaged with a LinkedIn post directly into QuickMail.
 
-Users can now import leads from LinkedIn posts. This makes it easier to capture engaged prospects directly and streamline your outreach efforts.
+**Tip:** You can also import leads from another person's LinkedIn post.
 
-To use this feature, go to List  → Import from LinkedIn post  → Copy the LinkedIn post link and paste it into QuickMail →  Continue with the onscreen prompts.
+To use this feature, go to **List** → **Import from LinkedIn Post** → paste the LinkedIn post link → continue with the on-screen prompts.
 
 ![screenshot](../images/009_file-u04xOzQS8u.png)
