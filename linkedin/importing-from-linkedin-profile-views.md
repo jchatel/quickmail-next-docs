@@ -1,7 +1,13 @@
 # Importing from LinkedIn Profile Views 👀
 
-You can automatically import leads who viewed your profile to QuickMail. This helps you quickly follow up with interested prospects and increase your chances of conversion.
+You can automatically import leads who viewed your LinkedIn profile into QuickMail. This helps you quickly follow up with interested leads and increase your chances of conversion.
 
-To enabled this option, go to Channels → LinkedIn → Click on the LinkedIn account → Receiving tab → Check the box 'Create leads from profile viewers' → Choose campaign where you'd like to add the leads (Optional)
+**In this article:**
+
+- How to enable LinkedIn profile view imports?
+
+## How to Enable LinkedIn Profile View Imports?
+
+Go to **Channels** → **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
 
 ![screenshot](../images/000_file-opNbf6bGa4.png)
