@@ -1,8 +1,8 @@
 # Webhooks
 
-Using QuickMail webhooks makes it easy to fetch all the data you need from the workspaces under your organization and consolidate it.
+Using QuickMail webhooks makes it easy to fetch data from the workspaces under your organization and consolidate it.
 
-Here are the available webhooks at the moment:
+Here are the available webhook events:
 
 - First open
 
@@ -30,48 +30,54 @@ Here are the available webhooks at the moment:
 
 - Opportunity status
 
-# How does it work?
+**In this article:**
 
-Whenever an event occurs in a QuickMail workspace where a webhook is activated (opens, clicks, replies, unsubscribes, completed journeys, etc.), QuickMail will send all the information about this event to your webhook provider (like Zapier, Make.com. Integromat).
+- How does it work?
 
-You can then use this information to automate workflows and perform actions such as recording it in a Google Sheet or sending it to a different app.
+- How to set it up?
 
-# How to set it up?
+## How Does It Work?
 
-## Step 1. Get the webhook endpoint URL
+Whenever an event occurs in a QuickMail workspace where a webhook is enabled, QuickMail sends all the information about that event to your webhook provider, such as Zapier or Make.com.
 
-- ## For Zapier
+You can then use this information to automate workflows and perform actions such as recording data in a Google Sheet or sending it to another app.
 
-To get started, go to your Zapier account and create a Zap
+## How to Set It Up?
+
+### Step 1: Get the Webhook Endpoint URL
+
+**For Zapier**
+
+Go to your Zapier account and create a Zap.
 
 ![screenshot](../images/000_file-RkqCaagOOP.png)
 
-Select Webhook by Zapier as a Trigger → Under *Event, select "Catch Hook" → Continue
+Select **Webhook by Zapier** as the trigger → under **Event**, select **Catch Hook** → click **Continue**.
 
 ![screenshot](../images/001_file-XHRqBPjqnr.png)
 
-Click Continue again → Copy webhook endpoint URL
+Click **Continue** again → copy the webhook endpoint URL.
 
 ![screenshot](../images/002_file-hKzXGaGDKu.png)
 
-## Step 2. Add the webhook endpoint URL to QuickMail
+### Step 2: Add the Webhook Endpoint URL to QuickMail
 
-To add the webhook endpoint URL, go to the Organization Dashboard by clicking the Organization Name at the upper left hand corner of the workspace.
+Go to the Organization Dashboard by clicking the organization name in the upper left corner of the workspace.
 
 ![screenshot](../images/003_file-c0z3HaNc0J.png)
 
-**Note:** Webhooks are only compatible with Agency accounts. If you don't see an option to access the Organization Dashboard, your account is likely a Team account. For switching to an Agency account, please contact us at support@quickmail.io.
+**Note:** Webhooks are only available for Agency accounts. If you do not see an option to access the Organization Dashboard, your account is likely a Team account. To switch to an Agency account, contact support at support@quickmail.io.
 
-On the Organization Dashboard, go to Settings tab → Webhooks → Paste webhook endpoint URL
+Go to the **Settings** tab → **Webhooks** → paste the webhook endpoint URL.
 
 ![screenshot](../images/004_file-r8JZJklMyc.png)
 
-## Step 3. Enable Webhooks
+### Step 3: Enable Webhooks
 
-To enable Webhooks, go to a specific workspace → Settings → Integrations → Enable Webhooks → Choose your preferred Triggers
+Go to the specific workspace → **Settings** → **Integrations** → enable **Webhooks** → select your preferred triggers.
 
 ![screenshot](../images/005_file-ufadQ94tDO.png)
 
-## Step 4. Complete your workflow
+### Step 4: Complete Your Workflow
 
-After setting it up on QuickMail, go back to your webhook provider to complete the workflow and make sure to set the workflow or zap live.
+Go back to your webhook provider to complete the workflow and set it live.
