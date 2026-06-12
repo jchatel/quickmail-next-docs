@@ -27,7 +27,8 @@ There are several reasons you may need to resume leads:
 - **To apply an updated wait step** — changing a wait step does not affect leads already scheduled under the old setting. To apply the new wait step, you need to manually resume those leads.
 
 - **To resume out-of-office leads** — if you know when a lead will be back, you can resume them on a specific date so the next email sends at the right time.
-- **To resume leads that ran into an error** - leads don't automatically resume after the error is fixed. So you have to manually resume those.
+
+- **To resume leads that ran into an error** — leads do not automatically resume after the error is fixed, so you need to manually resume them.
 
 ## How to Resume or Cancel Leads?
 
