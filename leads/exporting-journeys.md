@@ -1,19 +1,25 @@
 # Exporting Journeys
 
-Exporting Journeys allows you to export the leads and see the lead's status in the campaign along with other campaign activities.
+Exporting journeys allows you to export leads and view each lead's status in a campaign along with other campaign activity.
+
+**In this article:**
+
+- How to export journeys?
+
+- What do I do if I didn't receive the email?
 
 ## How to Export Journeys?
 
-Simply go to the Campaign's Leads page → select all leads → click Export
+Go to the campaign's **Leads** page → select all leads → click **Export**.
 
 ![screenshot](../images/000_file-S87MBWufV0.png)
 
-After every import, an email containing the CSV will be sent to the email address you're using to login.
+After the export, a CSV file will be sent to the email address you use to log in.
 
-**Note:** You can use filters to narrow down the list you'd like to export
+**Note:** You can use filters to narrow down the leads you would like to export.
 
-## What do I do if I didn't receive the email?
+## What Do I Do if I Didn't Receive the Email?
 
-If you didn’t receive the email containing the CSV export, you can check the change log in the Teams page to get the export link.
+If you did not receive the email containing the CSV export, check the change log on the **Teams** page to find the export link.
 
-It’s possible your email was added to our suppression list. This can happen if QuickMail notification emails to your address bounced more than once. Please contact [support@quickmail.com](mailto:support@quickmail.com) for assistance
+It is also possible that your email address was added to the suppression list. This can happen if QuickMail notification emails to your address bounced more than once. Contact [support@quickmail.io](mailto:support@quickmail.io) for assistance.
