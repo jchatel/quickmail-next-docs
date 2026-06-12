@@ -1,336 +1,334 @@
 # LinkedIn Automation 🤖
 
-💡 The number of LinkedIn accounts that you can add depends on your [plan.](https://quickmail.com/pricing)
+💡 The number of LinkedIn accounts you can add depends on your [plan](https://quickmail.com/pricing).
 
 **In this article:**
 
-**What can I do with QuickMail's LinkedIn Automation? **
+**What can I do with QuickMail's LinkedIn Automation?**
 
-- Generate Profile View
+- Generate profile views
 
-- Send LinkedIn Connection Request
+- Send LinkedIn connection requests
 
-- Send LinkedIn Message
+- Send LinkedIn messages
 
-- Send Instant Follow-Up LinkedIn Messages
+- Send instant follow-up LinkedIn messages
 
-- Send LinkedIn Voice Message
+- Send LinkedIn voice messages
 
-- Send LinkedIn InMail
+- Send LinkedIn InMails
 
-- Import Leads With Sales Navigator
+- Import leads with Sales Navigator
 
-- Import Leads Who Viewed Your Profile
+- Import leads who viewed your profile
 
-- Import Leads From LinkedIn Post
+- Import leads from a LinkedIn post
 
-**How to set up LinkedIn Automation? **
+**How to set up LinkedIn Automation?**
 
 - Add a LinkedIn account
 
-- Via Browser extension
+  - Via browser extension
 
-- Via cookies
+  - Via cookies
 
-- Via LinkedIn credentials & 2FA
+  - Via LinkedIn credentials + 2FA
 
 - Add the lead's LinkedIn profile URL
 
 - Assign a LinkedIn account to a campaign
 
-- Add a LinkedIn Step to a campaign
+- Add a LinkedIn step to a campaign
 
 **LinkedIn Settings**
 
-- How can I change the daily limit for my LinkedIn Actions?
+- How can I change the daily limit for my LinkedIn actions?
 
 - How can I see the acceptance rate of my LinkedIn campaign?
 
 - How can I check the account for new connections?
 
-- How to reauthenticate a LinkedIn account?
+- How to re-authenticate a LinkedIn account?
 
-- Via cookies
+  - Via cookies
 
-- Via LinkedIn credentials & 2FA
+  - Via LinkedIn credentials + 2FA
 
-- How do I know if a LinkedIn Connection Request has already been sent to a lead?
+- How do I know if a LinkedIn connection request has already been sent to a lead?
 
-- How to delete a LInkedIn account?
+- How to delete a LinkedIn account?
 
 - How can I prevent accepted connection requests from creating Opportunities?
 
 - FAQs
 
-## What can I do with QuickMail's LinkedIn Automation?
+## What Can I Do with QuickMail's LinkedIn Automation?
 
-We have 9 features available in our Linkedin Automation:
+QuickMail offers 9 LinkedIn automation features:
 
-### Generating profile views
+### Generate Profile Views
 
 Helps create familiarity and boost connection and reply rates by making your approach feel more natural.
 
 ![screenshot](../images/000_file-usCu91lmvL.png)
 
-### Sending connection requests
+### Send LinkedIn Connection Requests
 
-Allows you to connect to the leads, without having to do it manually
+Allows you to send connection requests to leads without having to do it manually.
 
 ![screenshot](../images/001_file-EskrL7S4sv.png)
 
-IMPORTANT NOTES:
-- LinkedIn Connection Requests are automatically withdrawn after 90 days and when that happens, the lead status will change from 'Running' to 'Canceled'.
+**Important notes:**
 
-- You can resend the Connection Requests again after 3 weeks.
+- LinkedIn connection requests are automatically withdrawn after 90 days. When this happens, the lead's status will change from "Running" to "Canceled."
 
-- LinkedIn doesn't allow sending messages to leads you're yet connected with
+- Connection requests can be resent after 3 weeks.
 
-- Therefore, the setting 'Wait Until Connection Request' on a LinkedIn Connection Request Step is enabled by default. This means that the lead won't proceed to the next step, until the connection request is accepted. You can disable this setting here:
+- LinkedIn does not allow sending messages to leads you are not yet connected with.
+
+- Because of this, the **Wait Until Connection Request is Accepted** setting is enabled by default on connection request steps. This means a lead will not proceed to the next step until the connection request is accepted. You can disable this setting here:
 
 ![screenshot](../images/002_file-tE9DeBuMGz.png)
 
-### Sending LinkedIn messages
+### Send LinkedIn Messages
 
-Allows you to send LinkedIn Messages (the lead must be connected in order to send a LinkedIn message)
+Allows you to send LinkedIn messages to leads you are already connected with.
 
 ![screenshot](../images/003_file-MjPqGHlmvm.png)
 
-### Sending instant follow up LinkedIn message
+### Send Instant Follow-Up LinkedIn Messages
 
-You can also send multiple messages or attachments in quick succession, which helps your outreach feel more natural, like a real conversation.
+Allows you to send multiple messages or attachments in quick succession, making your outreach feel more natural, like a real conversation.
 
 ![screenshot](../images/004_file-8Y2ajwiAOJ.png)
 
-### Sending attachments
+### Send Attachments
 
-You can now add attachment to your LinkedIn messages which helps make your outreach more engaging, shows proof of your work, and gives prospects something tangible to review, like a case study, one-pager, or portfolio.
+Allows you to add attachments to your LinkedIn messages. This can make your outreach more engaging and gives leads something tangible to review, such as a case study, one-pager, or portfolio.
 
 ![screenshot](../images/005_file-JHXDH4GAku.png)
 
-### Sending LinkedIn InMails
+### Send LinkedIn InMails
 
 Allows you to send LinkedIn InMail messages without needing to be connected to the lead.
 
 ![screenshot](../images/006_file-XcNGStlSgC.png)
 
-### Sending LinkedIn voice message
+### Send LinkedIn Voice Messages
 
-Helps you stand out and get more replies because because it feels more personal, grabs attention faster, and builds trust more easily than a text message.
+Allows you to send voice messages to leads. Voice messages can help you stand out, grab attention faster, and build trust more effectively than text messages.
 
 ![screenshot](../images/007_file-R7F71QrhLJ.png)
 
-### Import Leads Who Viewed Your Profile to a Campaign
+### Import Leads Who Viewed Your Profile
 
-Note: LinkedIn imports do not include email. So if you want to run email campaigns on them, you need to manually look for the emails of your leads and update them in QuickMail. Otherwise, leads will run into an error and will get stuck in the campaign.
-You can automatically import leads who viewed your profile to QuickMail.
+**Note:** LinkedIn imports do not include email addresses. If you want to run email campaigns on imported leads, you will need to manually find and update their email addresses in QuickMail. Otherwise, leads will run into an error and get stuck in the campaign.
 
-To enabled this option, go to Channels → LinkedIn → Click on the LinkedIn account → Receiving tab → Check the box 'Create leads from profile viewers' → Choose campaign where you'd like to add the leads (Optional)
+You can automatically import leads who viewed your profile into QuickMail.
+
+To enable this, go to **Channels** → **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
 
 ![screenshot](../images/008_file-opNbf6bGa4.png)
 
-### Import Leads From LinkedIn Post
+### Import Leads from a LinkedIn Post
 
-**Tip:** You can also import leads from a different person's LinkedIn post
+Allows you to import leads who engaged with a LinkedIn post directly into QuickMail.
 
-Users can now import leads from LinkedIn posts. This makes it easier to capture engaged prospects directly and streamline your outreach efforts.
+**Tip:** You can also import leads from another person's LinkedIn post.
 
-To use this feature, go to List  → Import from LinkedIn post  → Copy the LinkedIn post link and paste it into QuickMail →  Continue with the onscreen prompts.
+To use this feature, go to **List** → **Import from LinkedIn Post** → paste the LinkedIn post link → continue with the on-screen prompts.
 
 ![screenshot](../images/009_file-u04xOzQS8u.png)
 
 ## How to Add a LinkedIn Account for Outreach?
 
-There are two ways to add a LinkedIn account:
+There are three ways to add a LinkedIn account:
 
-- **Via browser extension **– easiest way to add a LinkedIn account
+- **Via browser extension** — the easiest way to add a LinkedIn account.
 
-- **Via cookies** – prone to account disconnection
+- **Via cookies** — prone to account disconnection.
 
-- **Via LinkedIn credentials + 2FA** – more stable, but if you haven’t set up two-step verification yet, the setup process may be trickier.
+- **Via LinkedIn credentials + 2FA** — more stable, but setup may be trickier if two-step verification has not been configured yet.
 
-**Important:** If you don't have access to the LinkedIn account, you can also generate an invite link instead.
+**Important:** If you do not have access to the LinkedIn account directly, you can generate an invite link instead.
 
 ![screenshot](../images/010_file-znKjozYnKB.png)
 
-### OPTION 1: Via browser extension
+### Option 1: Via Browser Extension
 
-**Step 1.** To get started, first login to the LinkedIn account you'd like to add.
+**Step 1.** Log in to the LinkedIn account you want to add.
 
-**Step 2** . On a different tab, go to your QuickMail account → Channels → Click 'Browser Extension
+**Step 2.** In a separate browser tab, go to **Channels** → click **Browser Extension**.
 
 ![screenshot](../images/011_file-RkXI5ujSrt.png)
 
-**Step 3 - **Click 'Install the Chrome extension'
+**Step 3.** Click **Install the Chrome Extension**.
 
 ![screenshot](../images/012_file-ifIH7aiakm.png)
 
-**Step 4** - A new tab will open once the browser extension is installed. The LinkedIn account currently signed in will be detected automatically. Select the account and the workspace where you'd like to add the LinkedIn account.
+**Step 4.** Once the extension is installed, a new tab will open. The LinkedIn account currently signed in will be detected automatically. Select the account and the workspace where you would like to add it.
 
 ![screenshot](../images/013_file-I5fEjWQC7X.png)
 
-**Step 5 -** You'll get a confirmation whether the LinkedIn account was added successfully or not. From the same page, you can also view the LinkedIn account activity.
+**Step 5.** You will receive a confirmation indicating whether the LinkedIn account was added successfully. From the same page, you can also view the LinkedIn account activity.
 
 ![screenshot](../images/014_file-9oNghscw7E.png)
 
-### OPTION 2: Via cookies
+### Option 2: Via Cookies
 
-**Step 1.** Visit this [link](https://chrome.google.com/webstore/detail/copy-cookies/jcbpglbplpblnagieibnemmkiamekcdg) and install the cookies extension on your browser.
+**Step 1.** Install the cookies extension on your browser using this [link](https://chrome.google.com/webstore/detail/copy-cookies/jcbpglbplpblnagieibnemmkiamekcdg).
 
 ![screenshot](../images/015_file-MZE02f3trn.png)
 
-**Step 2.** Once the extension has been added, go back to your LinkedIn profile and click the cookie Icon. Doing so will copy the cookies of the page.
+**Step 2.** Once installed, go to your LinkedIn profile and click the cookie icon to copy the page cookies.
 
-If you don't see the cookie icon on your browser, click the puzzle icon and it should show all extensions you have on the browser.
+If you do not see the cookie icon, click the puzzle icon in your browser toolbar to view all installed extensions.
 
 ![screenshot](../images/016_file-WYJko8bdbP.png)
 
-**Step 3.** After copying the cookies, go to your QuickMail account → Channels → LinkedIn → + LinkedIn → LinkedIn cookies
+**Step 3.** Go to **Channels** → **LinkedIn** → **+ LinkedIn** → **LinkedIn Cookies**.
 
 ![screenshot](../images/017_file-skBCwUQthN.png)
 
-**Step 4.** Add the country and paste the cookies → Add → LinkedIn account will be added immediately
+**Step 4.** Select your country → paste the cookies → click **Add**. The LinkedIn account will be added immediately.
 
-**Important:** Logging out of your LinkedIn account will disconnect it from QuickMail by invalidating the cookies, preventing us from sending LinkedIn connection requests. To avoid this, simply log in through an incognito window and close the window after without logging out.
+**Important:** Logging out of your LinkedIn account will disconnect it from QuickMail by invalidating the cookies. To avoid this, log in through an incognito window and close the window when done without logging out.
 
 ![screenshot](../images/018_file-kNApQCUuzf.png)
 
-### OPTION 3: via LinkedIn credentials + 2FA
+### Option 3: Via LinkedIn Credentials + 2FA
 
-**Step 1.** To get started, log in to your LinkedIn account in a separate browser tab → Click **'Me' **→** 'Settings & Privacy'**.
+**Step 1.** Log in to your LinkedIn account in a separate browser tab → click **Me** → **Settings & Privacy**.
 
 ![screenshot](../images/019_file-2NuFHHEszI.png)
 
-**Step 2.** Go to Sign in & security → Click** 'Two-step verification' **
+**Step 2.** Go to **Sign in & Security** → click **Two-Step Verification**.
 
-- If two-step verification is enabled, temporarily disable it. After that, proceed to the next step.
+- If two-step verification is already enabled, temporarily disable it, then proceed to the next step.
 
 - If two-step verification is not enabled, proceed to the next step to enable it.
 
 ![screenshot](../images/020_file-lhG8HFvNDv.png)
 
-**Step 3.** Enable two-step verification and enter the code sent to your email address, then click 'Submit'
+**Step 3.** Enable two-step verification → enter the code sent to your email address → click **Submit**.
 
 ![screenshot](../images/021_file-CF3xfuJ6QY.png)
 
-**Step 4.** Choose 'Authenticator App' and click 'Continue' → Enter your LinkedIn password to proceed
+**Step 4.** Select **Authenticator App** → click **Continue** → enter your LinkedIn password to proceed.
 
 ![screenshot](../images/022_file-9IenA8f9ar.png)
 
-**Step 5.** Download an authenticator app, such as [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DAndroid) or [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app).
+**Step 5.** Download an authenticator app on your mobile phone, such as [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DAndroid) or [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app).
 
-**Step 6.** In your authenticator app, look for the QR scanner and scan the QR code displayed on your screen. This will add your LinkedIn account to your authenticator app.
+**Step 6.** In your authenticator app, open the QR scanner and scan the QR code displayed on your screen. This will add your LinkedIn account to the authenticator app.
 
 ![screenshot](../images/023_file-fppqpXggfL.png)
 
-**Step 7.** Once authenticator is set up, copy the code below the QR code and **paste it into a Notepad **(or somewhere safe) → Click 'Continue'.
+**Step 7.** Once the authenticator is set up, copy the code shown below the QR code and save it somewhere safe (such as a Notepad file) → click **Continue**.
 
 ![screenshot](../images/024_file-MRVdGF97hf.png)
 
-**Step 8.** Enter the code you see in your authenticator app → Click Verify. Your LinkedIn two factor authentication is now setup!
+**Step 8.** Enter the code shown in your authenticator app → click **Verify**. Two-factor authentication is now set up on your LinkedIn account.
 
 ![screenshot](../images/025_file-svUcHvGl31.png)
 
-**Step 9.** Copy the code from LinkedIn that you pasted into your Notepad.
+**Step 9.** Copy the 2FA code from LinkedIn that you saved earlier.
 
 ![screenshot](../images/026_file-OBX4uUKWU1.png)
 
-**Step 10.** After copying the code, go to your QuickMail account → Channels → LinkedIn → + LinkedIn → LinkedIn credentials + 2FA
+**Step 10.** Go to **Channels** → **LinkedIn** → **+ LinkedIn** → **LinkedIn Credentials + 2FA**.
 
 ![screenshot](../images/027_file-0X5v57qSaq.png)
 
-**Step 11.** Choose country → Add the email address & password associated with your LinkedIn account → Paste the 2FA code → Add
+**Step 11.** Select your country → enter the email address and password associated with your LinkedIn account → paste the 2FA code → click **Add**.
 
 ![screenshot](../images/028_file-DlpgcGjmQz.png)
 
-Note that it may take a few minutes (but not more than an hour) for the LinkedIn account to be added
+It may take a few minutes for the LinkedIn account to be added, but no longer than an hour.
 
 ![screenshot](../images/029_file-kgP4FEjLCV.png)
 
-**Note:** If you have issues adding your LinkedIn account, contact us at support@quickmail.io
+**Note:** If you have trouble adding your LinkedIn account, contact support at support@quickmail.io.
 
-## How to add lead's LinkedIn information?
+## How to Add a Lead's LinkedIn Information?
 
-The LinkedIn account can be added manually or in bulk by importing the leads.
+A lead's LinkedIn information can be added manually or in bulk via import.
 
-**Note:** We don't support leads scraped from a tool with unique URL IDs assigned to LinkedIn profiles. They differ from the actual LinkedIn Profile URL IDs, and scraping violates LinkedIn's policy.
+**Note:** Leads scraped from third-party tools with unique URL IDs assigned to LinkedIn profiles are not supported, as these differ from actual LinkedIn Profile URL IDs. Scraping also violates LinkedIn's policy.
 
-Here's the correct format and where to get the lead's LinkedIn Profile URL ID:
+Here is the correct format and where to find a lead's LinkedIn Profile URL ID:
 
 ![screenshot](../images/030_file-dfXVsY8hIK.png)
 
-- ### Manually adding lead's LinkedIn ID
+### Manually Adding a Lead's LinkedIn ID
 
-To manually add LinkedIn info to a lead, just head List → click on a lead → from quickview, click on + show properties and add the LinkedIn account.
+Go to **List** → click on a lead → from the quick view, click **+ Show Properties** → add the LinkedIn profile URL.
 
 ![screenshot](../images/031_file-n9F9eZGmJd.png)
 
-- ### Bulk-adding leads' LinkedIn IDs
+### Bulk Adding Leads' LinkedIn IDs
 
-To bulk-add leads' LinkedIn IDs, simply go to your CSV/Google sheet and add a LinkedIn column.
-
-Then, upon importing leads, you can map your LinkedIn column with the LinkedIn property in QuickMail.
+Add a LinkedIn column to your CSV or Google Sheet. When importing leads, map the LinkedIn column to the LinkedIn property in QuickMail.
 
 ![screenshot](../images/032_file-UY8qsDnQou.png)
 
-💡 **Pro tip:** If your leads are already in the account, make sure to check the box "Update lead if it exists" when re-importing leads. If this checkbox is not checked, your leads and updates will be rejected to prevent duplicates.
+💡 **Pro tip:** If your leads are already in the account, make sure to check **Update lead if it exists** when re-importing. Without this, updates will be rejected to prevent duplicates.
 
 ![screenshot](../images/033_file-NdJW5hCOfB.png)
 
-## How to assign a LinkedIn account to a campaign?
+## How to Assign a LinkedIn Account to a Campaign?
 
-To assign a LinkedIn account to a campaign, just go to the Campaign → Channels → LinkedIn Tab → Toggle a LinkedIn account on
+Go to the campaign → **Channels** → **LinkedIn** tab → toggle the LinkedIn account on.
 
 ![screenshot](../images/034_file-6jWsvd6wuv.png)
 
-💡 Pro tip: **You can assign as many LinkedIn accounts as you need to the campaign. You can check a LinkedIn account's quickview in the Channels page or in the Channels page of the campaign to easily see the campaigns where it is assigned.
+💡 **Pro tip:** You can assign as many LinkedIn accounts as needed to a campaign. You can check a LinkedIn account's quick view in the Channels page to easily see which campaigns it is assigned to.
 
 ![screenshot](../images/035_file-lmqC4uilyb.png)
 
-## How to create a LinkedIn Step?
+## How to Create a LinkedIn Step?
 
-From your campaign, go to Steps and click the Add Step button, it's show a list of steps you can add. Choose LinkedIn Connection Step or LinkedIn Message Step
+Go to the campaign → **Steps** → click **Add Step** → select **LinkedIn Connection Step** or **LinkedIn Message Step**.
 
 ![screenshot](../images/036_file-aP5yYAR2kL.png)
 
-💡Pro Tip: **If you would like to know more about managing your LinkedIn Outreach with QuickMail, check out these guides:
+💡 **Pro tip:** To learn more about managing LinkedIn outreach in QuickMail, check out these guides:
 
 - Automate Sending LinkedIn Connection Requests
 
 - Automate Sending LinkedIn Messages
 
-## How can I change the daily limits of my LinkedIn actions?
+## How Can I Change the Daily Limits of My LinkedIn Actions?
 
-Go to Channels → LinkedIn → Select a LinkedIn account → Sending tab → LinkedIn actions limit and throttling
+Go to **Channels** → **LinkedIn** → select a LinkedIn account → **Sending** tab → **LinkedIn Actions Limit and Throttling**.
 
-You can update the action limits in settings. While we recommend not exceeding 12 actions per day to avoid LinkedIn restrictions, our system does not have a maximum cap. Each LinkedIn account may have different limits. For more details, click [here](https://www.linkedin.com/help/linkedin/answer/a551012/types-of-restrictions-for-sending-invitations).
+QuickMail recommends not exceeding 12 actions per day to avoid LinkedIn restrictions. There is no maximum cap in the system, and each LinkedIn account may have different limits. For more details, see [LinkedIn's guide on invitation restrictions](https://www.linkedin.com/help/linkedin/answer/a551012/types-of-restrictions-for-sending-invitations).
 
 ![screenshot](../images/037_file-CoC2NxWlMq.png)
 
-## How can I see the acceptance rate of my LinkedIn campaign?
+## How Can I See the Acceptance Rate of My LinkedIn Campaign?
 
-To see the acceptance rate of LinkedIn connection requests, simply check the campaign stats:
+The acceptance rate of LinkedIn connection requests can be found in the campaign stats.
 
 ![screenshot](../images/038_file-OxGV9lZGes.png)
 
-## How do I know if a LinkedIn Connection Request has already been sent to a lead?
+## How Do I Know if a LinkedIn Connection Request Has Already Been Sent to a Lead?
 
-Leads who have already been sent a connection request will have an orange Linkedin icon in their thumbnail. Those that are in blue haven't been sent yet
+Leads who have already been sent a connection request will have an orange LinkedIn icon in their thumbnail. A blue icon means no connection request has been sent yet.
 
 ![screenshot](../images/039_file-jFMgzKtZy0.png)
 
-## How can I check the account for new connections?
+## How Can I Check the Account for New Connections?
 
-**Note:** QuickMail automatically scans for new connections once a LinkedIn account is linked. This is done roughly every hour.
+QuickMail automatically scans for new connections roughly every hour after a LinkedIn account is linked.
 
-However, If you'd prefer not to wait for the automatic check, it's also possible to manually check the account for new connections but can only be done 12 hours after the last check.
+If you prefer not to wait, you can manually trigger a sync. Note that manual syncing can only be done 12 hours after the last check.
 
-To do this, go to Channels → LinkedIn → Select a LinkedIn account → Receiving tab → Scroll down the page and press "Sync Now".
+To do this, go to **Channels** → **LinkedIn** → select a LinkedIn account → **Receiving** tab → scroll down → click **Sync Now**.
 
 ![screenshot](../images/040_file-DK4U6v7MXY.png)
 
-You can also check whether the lead is already connected with you on LinkedIn.
-
-To do this, use the Lead filter and select the LinkedIn network distance filter to view:
+You can also check whether a lead is already connected with you on LinkedIn by using the Lead filter and selecting the **LinkedIn Network Distance** filter to view:
 
 - 1st-degree connections
 
@@ -340,58 +338,58 @@ To do this, use the Lead filter and select the LinkedIn network distance filter 
 
 ![screenshot](../images/041_file-TrVuBZwqQ3.png)
 
-## How to reauthenticate a LinkedIn account?
+## How to Re-authenticate a LinkedIn Account?
 
-- ### For LinkedIn accounts added via 2FA
+### For LinkedIn Accounts Added Via 2FA
 
-Please reach out to [support@quickmail.io](mailto:support@quickmail.io)
+Contact support at [support@quickmail.io](mailto:support@quickmail.io).
 
-- ### For LinkedIn accounts added via Cookies
+### For LinkedIn Accounts Added Via Cookies
 
-Logging out of the LinkedIn account invalidates LinkedIn cookies, preventing the sending of connection requests in QuickMail.
+Logging out of LinkedIn invalidates the cookies, which disconnects the account from QuickMail.
 
-If the account loses permission, a warning appears in Settings on the LinkedIn page, and an email notification is sent to the account owner.
+If the account loses permission, a warning will appear on the LinkedIn page in Settings and an email notification will be sent to the account owner.
 
-To re-authorize the LinkedIn account, log in to the LinkedIn account, open the LinkedIn account settings, and update the Cookies. (See how to add LinkedIn account for steps)
+To re-authenticate, log back in to LinkedIn, then update the cookies in the LinkedIn account settings. See the steps for adding a LinkedIn account via cookies for guidance.
 
 ![screenshot](../images/042_file-16yAi41pXM.png)
 
-## How to delete a LinkedIn account?
+## How to Delete a LinkedIn Account?
 
-To delete a LinkedIn account, go to Channels → Select a LinkedIn account → Click on the three vertical dots → Delete
+Go to **Channels** → select the LinkedIn account → click the menu icon (three vertical dots) → **Delete**.
 
 ![screenshot](../images/043_file-JnKzwC0ijf.png)
 
-## How can I prevent accepted connection requests from creating Opportunities?
+## How Can I Prevent Accepted Connection Requests from Creating Opportunities?
 
-By default, opportunities are created when leads accept connection request. If you'd like to prevent this from happening, simply disable 'New connections create new opportunities' from the Replies Settings.
+By default, an opportunity is created when a lead accepts a connection request. To disable this, go to **Replies Settings** → disable **New connections create new opportunities**.
 
 ![screenshot](../images/044_file-ZqOeZCPx1k.png)
 
 ## FAQs
 
-### Can I send a LinkedIn message to people I’m not connected with?
+### Can I send a LinkedIn message to people I'm not connected with?
 
-No, LinkedIn doesn't allow sending messages to people you're not connected with unless your LinkedIn account has InMail credits, which require a premium LinkedIn subscription.
+No. LinkedIn does not allow sending messages to people you are not connected with unless your LinkedIn account has InMail credits, which require a premium LinkedIn subscription.
 
-### What will happen if I try sending a LinkedIn message to people I'm not connected with?
+### What will happen if I try sending a LinkedIn message to someone I'm not connected with?
 
-The lead's status in a campaign will encounter an error, and the sequence will stop.
+The lead's status in the campaign will encounter an error and the sequence will stop.
 
 ### Can I send emails and LinkedIn messages in the same campaign?
 
-Yes, you can send both from the same campaign. However, if the lead hasn't accepted your LinkedIn connection request, it may cause delays since campaigns operate linearly. In that case, it's best to create separate campaigns for LinkedIn and email outreach.
+Yes. However, if a lead has not accepted your LinkedIn connection request, it may cause delays since campaigns run linearly. In that case, it may be better to create separate campaigns for LinkedIn and email outreach.
 
-### My LinkedIn account keeps on disconnecting, why is that?
+### My LinkedIn account keeps disconnecting. Why?
 
-We use cookies to connect to your LinkedIn account. When you log out of your LinkedIn account in your browser, the session cookie will expire, causing us to lose permission to access your LinkedIn account.
+QuickMail uses cookies to connect to your LinkedIn account. When you log out of LinkedIn in your browser, the session cookie expires and QuickMail loses access to the account.
 
-### My LinkedIn account got disconnected, how can I reconnect?
+### My LinkedIn account got disconnected. How can I reconnect?
 
-Please follow this guide
+Please follow this guide.
 
-### I keep getting an error importing my leads because of their LinkedIn profile, how to fix?
+### I keep getting an error importing leads because of their LinkedIn profile. How do I fix it?
 
-If the leads are scraped from a tool, most of the time they assign unique URL IDs to leads for LinkedIn, so they are different from the actual lead's LinkedIn Profile URL ID which we don't support at the moment. Here's the correct format and where to get the lead's LinkedIn Profile URL ID:
+If the leads were scraped from a third-party tool, the tool may have assigned unique URL IDs that differ from the actual LinkedIn Profile URL IDs, which are not supported. Here is the correct format and where to find the LinkedIn Profile URL ID:
 
 ![screenshot](../images/045_file-dfXVsY8hIK.png)
