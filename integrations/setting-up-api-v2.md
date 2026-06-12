@@ -38,18 +38,13 @@ FYI: API access is not available on trial.
   - Deleting Leads
   - Moving to the next page
   - Filtering: Exclude/Include workspace IDs
-    
 - Ruby samples
   - Creating a lead
   - Retrieving a lead's information
 
----
-
-# Creating an API key
+# Creating an API Key
 
 To create an API key, please refer to this guide: Creating an API key in QuickMail
-
----
 
 # Authorization
 
@@ -57,13 +52,13 @@ To get started, paste this on the headers:
 
 ```json
 {
-  "Authorization": "<API_KEY>"
+  "Authorization": ""
 }
 ```
 
 Then, generate your API in QuickMail and replace the word `<API_KEY>` with it.
 
-FYI: If you have 1 workspace, please go to **Settings > Integrations > generate API key**.  
+FYI: If you have 1 workspace, please go to **Settings > Integrations > generate API key**.
 If you have multiple workspaces (agency), please go to your **agency dashboard > settings > generate API key**.
 
 Next, click the play button. If the API key is valid, it should show the name of your agency, as well as the ID.
@@ -74,29 +69,17 @@ If it shows an error, please double-check that the API key pasted is correct and
 
 Once the API key has been corrected or a new one added, just replace the old one on the headers and press the play button again.
 
----
-
 # Documentation
 
 Here's the full documentation: [https://api.quickmail.com/help](https://api.quickmail.com/help)
 
----
-
 # Endpoint
 
 To use the API directly, send POST requests to:
-
-```
 https://api.quickmail.com/v2/graphql
-```
 
 This URL is different from the GraphiQL page URL:
-
-```
 https://api.quickmail.com/v2/graphiql
-```
-
----
 
 ## JSON Samples
 
@@ -111,8 +94,6 @@ https://api.quickmail.com/v2/graphiql
   }
 }
 ```
-
----
 
 ### Getting workspaces IDs, names, and URLs
 
@@ -133,8 +114,6 @@ https://api.quickmail.com/v2/graphiql
 }
 ```
 
----
-
 ### Getting campaign IDs, names, and URLs
 
 ```graphql
@@ -153,8 +132,6 @@ https://api.quickmail.com/v2/graphiql
   }
 }
 ```
-
----
 
 ### Getting campaign stats based on a specific campaign
 
@@ -180,8 +157,6 @@ https://api.quickmail.com/v2/graphiql
 }
 ```
 
----
-
 ### Getting email account IDs
 
 ```graphql
@@ -206,9 +181,7 @@ https://api.quickmail.com/v2/graphiql
 }
 ```
 
-> Note: This only pulls up the list of inboxes/email senders in the account. It doesn't pull up stats related to the inboxes such as opens, clicks, replies, sent emails, etc.
-
----
+> Note: This only pulls up the list of email accounts in the account. It doesn't pull up stats related to them such as opens, clicks, replies, sent emails, etc.
 
 ### Creating campaigns
 
@@ -227,8 +200,6 @@ mutation createCampaign {
   }
 }
 ```
-
----
 
 ### Creating email steps
 
@@ -258,8 +229,6 @@ mutation createEmailStep {
 }
 ```
 
----
-
 ### Creating email variation
 
 ```graphql
@@ -288,8 +257,6 @@ mutation addEmailVariation {
 }
 ```
 
----
-
 ### Creating Wait step
 
 ```graphql
@@ -307,8 +274,6 @@ mutation createWaitStep {
   }
 }
 ```
-
----
 
 ### Updating send times
 
@@ -340,8 +305,6 @@ mutation updateCampaignAutomation {
 }
 ```
 
----
-
 ### Assigning/unassigning email accounts to/from campaigns
 
 ```graphql
@@ -363,8 +326,6 @@ mutation setCampaignEmailAccounts {
 }
 ```
 
----
-
 ### Creating custom properties
 
 ```graphql
@@ -383,8 +344,6 @@ mutation createCustomProperty {
   }
 }
 ```
-
----
 
 ### Setting custom properties
 
@@ -415,8 +374,6 @@ mutation setCustomProperty {
 }
 ```
 
----
-
 ### Creating Tags
 
 ```graphql
@@ -429,8 +386,6 @@ mutation createTag {
   }
 }
 ```
-
----
 
 ### Setting Tags
 
@@ -463,8 +418,6 @@ mutation setTags {
 }
 ```
 
----
-
 ### Getting number of available, active, and completed leads in a campaign
 
 ```graphql
@@ -484,8 +437,6 @@ mutation setTags {
 }
 ```
 
----
-
 ### Getting number of leads that ran into an error
 
 ```graphql
@@ -501,8 +452,6 @@ mutation setTags {
   }
 }
 ```
-
----
 
 ### Getting leads
 
@@ -529,8 +478,6 @@ query getLeads {
 }
 ```
 
----
-
 ### Deleting leads
 
 ```graphql
@@ -546,8 +493,6 @@ mutation {
   }
 }
 ```
-
----
 
 ### Moving to the next page
 
@@ -576,8 +521,6 @@ To move to subsequent pages, take the `endCursor` value from `pageInfo` and pass
 campaigns(first: 10, after: "endCursor")
 ```
 
----
-
 ### Filtering: Exclude workspace IDs
 
 ```graphql
@@ -598,8 +541,6 @@ query {
 }
 ```
 
----
-
 ### Filtering: Include workspace IDs
 
 ```graphql
@@ -619,8 +560,6 @@ query {
   }
 }
 ```
-
----
 
 ## Ruby Samples
 
@@ -661,8 +600,6 @@ body = JSON.parse(response.body)
 errors = body.dig('errors')
 ```
 
----
-
 ### Retrieving a lead's information
 
 ```ruby
@@ -701,4 +638,3 @@ options = {
 response = RestClient::Request.execute(options)
 body = JSON.parse(response.body)
 errors = body.dig('errors')
-```
