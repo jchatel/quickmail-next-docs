@@ -1,127 +1,105 @@
 # Narrowing Down Your List Using Filters
 
-### In this article:
+**In this article:**
 
 - Why filter leads?
 
 - How to filter leads?
 
-- Unsubscribed/do not contact leads
+  - Unsubscribed / Do Not Contact leads
 
-- Leads with specific email validity
+  - Leads with specific email validity
 
-- Leads created on a specific timeframe
+  - Leads created in a specific timeframe
 
-- Leads with and/or without specific tags
+  - Leads with and without specific tags
 
-- Leads in X numbers of campaign
+  - Leads in a specific number of campaigns
 
-- Leads on specific campaigns
+  - Leads in specific campaigns
 
-- Leads status in a campaign
+  - Lead status in a campaign
 
-- Leads with opens
+  - Leads with opens or clicks
 
-- Leads with clicks
-
-- How to share filter leads?
+- How to share filtered leads?
 
 - How to save filters?
 
-# Why filter leads?
+## Why Filter Leads?
 
-Digging through a huge number of leads can be taxing.
+Filters allow you to narrow down your lead list and quickly find the leads you are looking for based on specific criteria. This saves time and helps you find leads more accurately than searching manually.
 
-That's why you can use filters to narrow down your list and easily find the leads you're looking for, based on specific categories.
+## How to Filter Leads?
 
-Aside from being a time-saver, using filters can also help you find your leads more accurately than doing it manually.
+Go to the **Leads** page and click **Filters**. This will open a window showing all available filters.
 
-# How to filter leads?
+### Unsubscribed / Do Not Contact Leads
 
-To get started, go to the Leads page and click filters.
+Leads are marked as Do Not Contact if they unsubscribed from a campaign, or if they were manually marked as Do Not Contact.
 
-It will open this window where you can see all the available filters.
-
-## Here are some filters you can use to find specific leads.
-
-### Unsubscribed/do not contact leads
-
-Leads are marked as Do Not Contact if they unsubscribed from a campaign. You can also manually mark them as Do Not Contact.
-
-To filter leads with Do Not Contact mark, simply click this radio button under the first tab:
+To filter for these leads, click the relevant radio button under the first tab:
 
 ![screenshot](../images/000_file-bjGToEGd4u.png)
 
-On this filter, you can also look for leads with no do not contact mark.
+You can also use this filter to find leads that are not marked as Do Not Contact.
 
 ![screenshot](../images/001_file-q4zHBlI1PG.png)
 
-### Leads with specific email validity
+### Leads with Specific Email Validity
 
-**Pro tip:** To verify emails in QuickMail, you should set up an email verification tool. Here's a detailed guide on email verification.
+Select any status under **Email Verification** to filter leads based on their email validity.
 
-Select any status under email verification to filter emails based on their validity.
+**Pro tip:** To verify emails in QuickMail, set up an email verification tool. Here is a detailed guide on email verification.
 
 ![screenshot](../images/002_file-ZsQNr3DmGo.png)
 
-### Leads created on a specific timeframe
+### Leads Created in a Specific Timeframe
 
-It's possible to add a Start and End date to filter Leads by their creation date in QuickMail.
-
-Use the "After" date as a Starting point and "Before" as the end date for the filter.
+Filter leads by their creation date by setting a start and end date. Use the **After** date as the start and the **Before** date as the end.
 
 ![screenshot](../images/003_file-ocu5oyH3pP.png)
 
-### Leads with and without specific tags
+### Leads with and Without Specific Tags
 
-Filter leads based on specific tags they have or don't have.
+Filter leads based on tags they have or do not have.
 
 ![screenshot](../images/004_file-sOYpmBC3e3.png)
 
-### Leads in X numbers of campaign
+### Leads in a Specific Number of Campaigns
 
-Filter leads that are part of a certain number of campaigns.
+Filter leads based on how many campaigns they are part of.
 
 ![screenshot](../images/005_file-1fdfAdm30s.png)
 
-### Leads on specific campaigns
+### Leads in Specific Campaigns
 
-Filter leads participating in specific campaigns.
+Filter leads based on which campaigns they are participating in.
 
 ![screenshot](../images/006_file-2AWZGxEoeq.png)
 
-### Leads status in a campaign
+### Lead Status in a Campaign
 
-Filter by the status of leads within a campaign, such as replied or in a specific step.
-
-You can also filter by status change date
+Filter leads by their status within a campaign, such as replied or on a specific step. You can also filter by status change date.
 
 ![screenshot](../images/007_file-MnKlAwRuIj.png)
 
-### Leads with opens or clicks
+### Leads with Opens or Clicks
 
 Filter leads based on whether they have opened or clicked emails.
 
 ![screenshot](../images/008_file-Ueb18mjNEy.png)
 
-# How to share filtered leads?
+## How to Share Filtered Leads?
 
-Share filtered leads with team members, or save the results for record keeping.
-
-You can select all the resulting lists of filtered leads and Export it to a CSV file for sharing with the team or record keeping.
-
-Do this by selecting the leads -> "Select All" -> Export to a CSV
+To share filtered leads with team members or save them for record keeping, select all filtered leads → **Select All** → **Export** to download a CSV file.
 
 ![screenshot](../images/009_file-Bt0YAcllQI.png)
 
-# How to save filters?
+## How to Save Filters?
 
-Save your custom filters for future use.
-
-First filter the leads, then click in the bookmark icon in the search bar.
-
-Save the current filter, it will request a filter name.
+To save a custom filter for future use, apply your filters first, then click the bookmark icon in the search bar and enter a name for the filter.
 
 ![screenshot](../images/010_file-fGIKWx8Y59.png)
 
-The saved filters will be available for use in the future, no need to create the same filter repeatedly.
+Saved filters will be available for reuse, so you do not need to recreate the same filter repeatedly.
