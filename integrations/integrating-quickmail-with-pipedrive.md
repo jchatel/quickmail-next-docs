@@ -1,81 +1,83 @@
-# Integrating QuickMail with PipeDrive
+# Integrating QuickMail with Pipedrive
 
-### In this article:
+**In this article:**
 
 - How does the integration work?
 
 - How to set it up?
 
-- How to import prospects from PipeDrive to QuickMail?
+- How to import leads from Pipedrive to QuickMail?
 
-- How to export prospects from QuickMail to PipeDrive?
+- How to export leads from QuickMail to Pipedrive?
 
 - How does the integration work while it's paused?
 
-# How does the integration work?
+- How to delete the integration?
 
-- Adding contacts in QuickMail creates contacts in PipeDrive and vice versa.
+## How Does the Integration Work?
 
-- Editing contact information such as names, companies, phone numbers, tags, and attributes works 2-way.
+- Adding a contact in QuickMail creates a contact in Pipedrive and vice versa.
 
-- Editing tag names and creating tags in QuickMail will edit and create custom fields in PipeDrive.
+- Editing contact information such as names, companies, phone numbers, tags, and custom properties syncs both ways.
 
-- If a tag is deleted in QuickMail, the tag will have (deleted) in its name in PipeDrive.
+- Editing tag names and creating tags in QuickMail will update and create custom fields in Pipedrive.
 
-- Creating and deleting attributes in QuickMail will create and delete them in PipeDrive. Deleted attributes will have (deleted) in their names.
+- If a tag is deleted in QuickMail, the tag name in Pipedrive will have "(deleted)" appended to it.
 
-- Importing existing contacts from PipeDrive to QuickMail and exporting them from QuickMail to PipeDrive.
+- Creating and deleting custom properties in QuickMail will create and delete them in Pipedrive. Deleted properties will have "(deleted)" in their names.
 
-- Editing a synced QuickMail tag and attribute names in PipeDrive will not reflect in QuickMail, but the sync will continue to work.
+- Existing contacts can be imported from Pipedrive to QuickMail and exported from QuickMail to Pipedrive.
 
-# How to set it up?
+- Editing synced QuickMail tag and custom property names in Pipedrive will not reflect in QuickMail, but the sync will continue to work.
 
-Go to settings  → Integrations  → scroll down  → Pipedrive  → Login to your Pipedrive account
+## How to Set It Up?
+
+Go to **Settings** → **Integrations** → scroll down → **Pipedrive** → log in to your Pipedrive account.
 
 ![screenshot](../images/000_file-YyHCWvrW77.png)
 
-**Note:** The 1st PipeDrive installation in the account must be done by a user that is an admin in PipeDrive. Otherwise, you will run into an error.
+**Note:** The first Pipedrive installation must be done by a user who is an admin in Pipedrive. Otherwise, you will encounter an error.
 
-# How to import prospects from PipeDrive to QuickMail?
+## How to Import Leads from Pipedrive to QuickMail?
 
-Under PipeDrive integration on the add-ons page, click Import all existing prospects from PipeDrive.
+Under the Pipedrive integration on the add-ons page, click **Import all existing prospects from Pipedrive**.
 
 ![screenshot](../images/001_file-mhYWIpdtT4.png)
 
-This will add all prospects that you have in PipeDrive to QuickMail, including their name, email address, company, and telephone number.
+This will add all contacts from Pipedrive to QuickMail, including their name, email address, company, and phone number.
 
-# How to export prospects from QuickMail to PipeDrive?
+## How to Export Leads from QuickMail to Pipedrive?
 
-Under the same page, click Export all existing prospects to PipeDrive.
+On the same page, click **Export all existing prospects to Pipedrive**.
 
 ![screenshot](../images/002_file-6ZklKTn8T7.png)
 
-This will add all your prospects in QuickMail to PipeDrive, including their email address, name, company, phone number, tags, and attributes.
+This will add all leads from QuickMail to Pipedrive, including their email address, name, company, phone number, tags, and custom properties.
 
-Note: An import and export can't be done at the same time. So it's normal to get this error if you try to import/export while import/export is ongoing.
+**Note:** An import and export cannot run at the same time. If you try to start one while the other is in progress, you will see an error — this is expected behavior.
 
-# How does the integration work while it’s paused?
+## How Does the Integration Work While It's Paused?
 
-While it’s paused, the following does not happen:
+While paused, the following will not happen:
 
-- Creating a contact in QuickMail doesn’t create a contact in PipeDrive, and vice versa;
+- Creating a contact in QuickMail will not create a contact in Pipedrive, and vice versa.
 
-- The 2-way sync of contact information such as names, phone numbers, tags, and attributes won’t work;
+- Two-way sync of contact information such as names, phone numbers, tags, and custom properties will not work.
 
-On the other hand, while the integration is paused, the following still works:
+The following will still work while the integration is paused:
 
-- Creating tags in QuickMail will create a custom field in PipeDrive;
+- Creating tags in QuickMail will create a custom field in Pipedrive.
 
-- Deleting tags in QuickMail will add (deleted) to the custom field in PipeDrive;
+- Deleting tags in QuickMail will add "(deleted)" to the custom field name in Pipedrive.
 
-- Changing tag names in QuickMail will change the custom field name in PipeDrive;
+- Changing tag names in QuickMail will update the custom field name in Pipedrive.
 
-- Creating attributes in QuickMail will create a custom field in PipeDrive;
+- Creating custom properties in QuickMail will create a custom field in Pipedrive.
 
-- Deleting attributes in QuickMail will add (deleted) to the custom field in PipeDrive.
+- Deleting custom properties in QuickMail will add "(deleted)" to the custom field name in Pipedrive.
 
-## How to delete the integration
+## How to Delete the Integration?
 
-To do that, just go to Settings  → Add-ons  → go to PipeDrive  → Remove PipeDrive Integration.
+Go to **Settings** → **Add-ons** → **Pipedrive** → click **Remove Pipedrive Integration**.
 
 ![screenshot](../images/003_file-tQkttOsOJN.png)
