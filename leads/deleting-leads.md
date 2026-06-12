@@ -1,29 +1,33 @@
 # Deleting Leads
 
-## Why delete leads?
+**In this article:**
 
-Sometimes, leads need to be deleted because they’re no longer needed in the account. They can also be deleted to give space for adding new leads.
+- Why delete leads?
 
-## What happens when a lead gets deleted?
+- What happens when a lead is deleted?
 
-If a lead is deleted, QuickMail will remove all the data of the lead from the account. This is an irrevocable process.
+- How to delete leads?
 
-This means that the leads will be removed from any campaign and will also remove any conversations, or tasks, related to the Leads in the Inbox section in QuickMail.
+## Why Delete Leads?
 
-If the lead has been verified, it will remove its email verification status from QuickMail
+Leads may need to be deleted when they are no longer needed in the account or to make space for new leads.
 
-## How to delete leads?
+## What Happens When a Lead Is Deleted?
 
-There are two ways to delete leads. They can either be deleted temporarily or permanently.
+Deleting a lead removes all of that lead's data from the account. This is an irreversible process.
 
-To delete leads, go to List → Select a lead → Click on the three dots → Delete
+The lead will be removed from any campaigns, and any conversations or tasks related to them in Opportunities will also be removed. If the lead had been verified, their email verification status will also be removed.
+
+## How to Delete Leads?
+
+Leads can be deleted temporarily or permanently.
+
+Go to **List** → select a lead → click the menu icon (three vertical dots) → **Delete**.
 
 ![screenshot](../images/000_file-tWDhUgTOwq.png)
 
-After clicking delete, there's a button that allows you to delete leads permanently.
-
-When a lead gets deleted permanently, they can't be imported back to the account.
+After clicking delete, an option to permanently delete the lead will appear. Permanently deleted leads cannot be imported back into the account.
 
 ![screenshot](../images/001_file-QpYfJayP3i.png)
 
-FYI: Leads don't have to be permanently deleted if the goal is to make space for new leads.
+**Note:** Leads do not need to be permanently deleted if the goal is simply to make space for new leads.
