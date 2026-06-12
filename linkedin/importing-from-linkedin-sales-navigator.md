@@ -1,88 +1,95 @@
 # Importing from LinkedIn Sales Navigator 🧭
 
-Our integration with LinkedIn Sales Navigator allows you to easily import selected leads into QuickMail. This is especially useful for running LinkedIn outreach.
+QuickMail's integration with LinkedIn Sales Navigator allows you to import selected leads directly into QuickMail. This is especially useful for running LinkedIn outreach.
 
 **Note:** While LinkedIn profile URLs and other lead details are imported, email addresses are not included.
 
-# How to import from Sales Navigator?
+**In this article:**
 
-## Option 1: Manual Import
+- How to import from Sales Navigator?
 
-**Step 1.** Add a LinkedIn account that has Sales Navigator subscription. Go to Channels → LinkedIn → + LinkedIn. This guide about Adding LinkedIn accounts might come in handy.
+  - Option 1: Manual import
+
+  - Option 2: Auto-import
+
+- FAQs
+
+## How to Import from Sales Navigator?
+
+### Option 1: Manual Import
+
+**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
 
 ![screenshot](../images/000_file-LWyUKbDRXl.png)
 
-**Note:** LinkedIn accounts showing a brown icon are supported for Sales Navigator. If the icon is blue, the account isn’t compatible.
+**Note:** LinkedIn accounts showing a brown icon are supported for Sales Navigator. If the icon is blue, the account is not compatible.
 
 ![screenshot](../images/001_file-zUrphNSoky.png)
 
-**Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) > Search for the leads you'd like to import → Use filters to narrow down your search if needed → Copy the URL
+**Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) → search for the leads you would like to import → use filters to narrow down your search if needed → copy the URL.
 
-**Note:** Recent Search links are not yet support. The URL Should start with [https://www.linkedin.com/sales/search/people?query=](https://www.linkedin.com/sales/search/people?query=) from fresh search.
+**Note:** Recent Search links are not yet supported. The URL must start with `https://www.linkedin.com/sales/search/people?query=` from a fresh search.
 
 ![screenshot](../images/002_file-BwTSeKBFRm.png)
 
-**Step 3.** Go to Leads → + Add Leads → Import from Sales Navigator
+**Step 3.** Go to **List** → **+ Add Leads** → **Import from Sales Navigator**.
 
 ![screenshot](../images/003_file-woqPbu21S4.png)
 
-**Step 4.** Paste the URL copied from Sales Navigator → Follow the on screen instructions to setup import
+**Step 4.** Paste the URL copied from Sales Navigator → follow the on-screen instructions to set up the import.
 
 ![screenshot](../images/004_file-eKLGupsdHA.png)
 
-## What happens when I lose permission to my LinkedIn account?
+**What happens when I lose permission to my LinkedIn account?**
 
-When we lose permission to access your LinkedIn account, it will be highlighted in red, and it will no longer be possible to import from Sales Navigator.
-
-Click re-authenticate to continue using the LinkedIn account.
+When permission to access your LinkedIn account is lost, it will be highlighted in red and imports from Sales Navigator will no longer be possible. Click **Re-authenticate** to restore access.
 
 ![screenshot](../images/005_file-MuCbqzN2Sy.png)
 
-## Option 2: Auto-import
+### Option 2: Auto-Import
 
-Auto-Import continuously monitors your saved Sales Navigator search. When a new lead appears, it’s automatically pulled into your list or campaign so you can engage without lifting a finger.
+Auto-Import continuously monitors your saved Sales Navigator search. When a new lead appears, it is automatically added to your list or campaign.
 
-**Step 1.** To setup auto-import with Sales Navigator, first, addd a LinkedIn account that has Sales Navigator subscription. Go to Channels → LinkedIn → + LinkedIn. This guide about Adding LinkedIn accounts might come in handy.
+**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
 
 ![screenshot](../images/006_file-LWyUKbDRXl.png)
 
-**Note:** LinkedIn accounts showing a brown icon are supported for Sales Navigator. If the icon is blue, the account isn’t compatible.
+**Note:** LinkedIn accounts showing a brown icon are supported for Sales Navigator. If the icon is blue, the account is not compatible.
 
 ![screenshot](../images/007_file-zUrphNSoky.png)
 
-**Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) > Search for the leads you'd like to import → Use filters to narrow down your search if needed → Copy the URL
+**Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) → search for the leads you would like to import → use filters to narrow down your search if needed → copy the URL.
 
-**Note:** Recent Search links are not yet support. The URL Should start with [https://www.linkedin.com/sales/search/people?query=](https://www.linkedin.com/sales/search/people?query=) from fresh search.
+**Note:** Recent Search links are not yet supported. The URL must start with `https://www.linkedin.com/sales/search/people?query=` from a fresh search.
 
 ![screenshot](../images/008_file-BwTSeKBFRm.png)
 
-**Step 3.** Go to Leads → + Add Leads → Import from Sales Navigator
+**Step 3.** Go to **List** → **+ Add Leads** → **Import from Sales Navigator**.
 
 ![screenshot](../images/009_file-woqPbu21S4.png)
 
- Paste the URL copied from Sales Navigator → Follow the on screen instructions to setup import
+**Step 4.** Paste the URL copied from Sales Navigator → follow the on-screen instructions to set up the import.
 
 ![screenshot](../images/010_file-eKLGupsdHA.png)
 
-**Step 5.** Setup the auto-import and under Options, check the box 'Re-run this import at regular intervals' → Then select preferred interval
+**Step 5.** Under **Options**, check the box **Re-run this import at regular intervals** → select your preferred interval.
 
-**Tip:** You can select a campaign in the **“Add to campaign”** dropdown to automatically add new leads from Auto-Import to that campaign.
+**Tip:** You can select a campaign in the **Add to Campaign** dropdown to automatically add new leads from Auto-Import to a campaign.
 
 ![screenshot](../images/011_file-qV9MyXug6H.png)
 
-When a new lead appears, it’s automatically added to your list or campaign, so you can engage them right away without having to search again.
+## FAQs
 
-**FAQs**
-Q: I tried importing via Sales Navigator and it keeps showing 0 leads found.
-Most of the time it's because of this error "2FA Login challenge not found"
+**Q: I tried importing via Sales Navigator and it keeps showing 0 leads found.**
 
-This error means LinkedIn is adding an extra security step, like emailing you a login code or triggering a captcha whenever you attempt to log in.
+This is most often caused by the error "2FA Login challenge not found." This means LinkedIn is adding an extra security step — such as emailing you a login code or triggering a CAPTCHA — when you attempt to log in.
 
-You can try to log out and log back in to your LinkedIn account using your browser to see if it will trigger the security step.
-If that doesn't do the trick, you can log in to an incognito window to see the log in challenge and complete it.
+To resolve this, try the following:
 
-If neither works, you’ll need to wait until LinkedIn stops sending those codes before you can connect it to QuickMail.
-Unfortunately, we can’t bypass it since the code is sent somewhere we have no access to (like email or captcha).
+1. Log out of your LinkedIn account in your browser and log back in to see if the security challenge is triggered.
 
-Here's a more detailed guide on it:
-https://www.linkedin.com/help/linkedin/answer/a1339220/security-verification-when-signing-in?lang=en
+2. If that does not work, try logging in through an incognito window to complete the login challenge.
+
+3. If neither works, you will need to wait until LinkedIn stops sending those codes before you can reconnect the account to QuickMail. This cannot be bypassed since the code is sent to an address or system that QuickMail does not have access to.
+
+For more details, see: [https://www.linkedin.com/help/linkedin/answer/a1339220/security-verification-when-signing-in?lang=en](https://www.linkedin.com/help/linkedin/answer/a1339220/security-verification-when-signing-in?lang=en)
