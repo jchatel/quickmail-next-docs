@@ -3,63 +3,59 @@
 **In this article:**
 
 - Why delete leads permanently?
-- What specific leads can I permanently delete?
+
+- What leads should I permanently delete?
+
 - How to delete leads permanently?
-- I mistakenly deleted leads permanently, how do I undo it?
+
+- I mistakenly deleted leads permanently. How do I undo it?
+
 - Can I get a list of permanently deleted leads?
+
 - Can I restore permanently deleted leads?
 
-# Why delete leads permanently?
+## Why Delete Leads Permanently?
 
-All accounts have a lead limit based on the plan — 10k for Basic, 50k for Pro, and 100k for Expert.
+All accounts have a lead limit based on their plan — 10,000 for Basic, 50,000 for Pro, and 100,000 for Expert.
 
-When you reach your lead limit, you can permanently delete leads from your account to make room for new ones.
+When you reach your lead limit, you can permanently delete leads to make room for new ones. Permanently deleting leads also helps prevent accidentally re-adding leads you no longer wish to contact.
 
-Permanently deleting leads also helps prevent accidentally re-adding leads you no longer wish to engage with or message.
+## What Leads Should I Permanently Delete?
 
-# What specific leads can I permanently delete?
+The most commonly deleted leads are those who have unsubscribed, are marked as Do Not Contact, or have bounced or invalid email addresses.
 
-It's always up to the user to decide, but some of the most commonly deleted leads are those who have unsubscribed, are marked as "do not contact," or have bounced/invalid email addresses.
-
-To narrow down your list to only show unsubscribed/do not contact leads, go to List →  Filters →  Has "Do Not Contact"
+To filter for unsubscribed or Do Not Contact leads, go to **List** → **Filters** → select **Has "Do Not Contact"**.
 
 ![screenshot](../images/000_file-UVVX8D0UKV.png)
 
-Meanwhile, to get the list of invalid emails, go to List →  Filters → under Email Verification, select 'Invalid'
+To filter for invalid emails, go to **List** → **Filters** → under **Email Verification**, select **Invalid**.
 
 ![screenshot](../images/001_file-oPS0XdOCLa.png)
 
-# How to delete leads permanently?
+## How to Delete Leads Permanently?
 
-To delete leads permanently, first, select all filtered leads.
+Select the leads you would like to delete.
 
 ![screenshot](../images/002_file-pzac6pwTmB.png)
 
-Then, before confirming delete, make sure to toggel 'Delete Permanently' on
+Before confirming, make sure to toggle **Delete Permanently** on.
 
 ![screenshot](../images/003_file-RPL4OLbREt.png)
 
-# I mistakenly deleted leads permanently, how do I undo it?
+## I Mistakenly Deleted Leads Permanently. How Do I Undo It?
 
-From your workspace, go to the general settings → scroll down → clean list.
+Go to workspace **Settings** → scroll down → **Clean List**.
 
 ![screenshot](../images/004_file-1EnSYdfeON.png)
 
-# Can I get a list of permanently deleted leads?
+## Can I Get a List of Permanently Deleted Leads?
 
-It's not possible to retrieve a list of permanently deleted leads.
+It is not possible to retrieve a list of permanently deleted leads. Once permanently deleted, the lead data is encrypted in the database and cannot be read.
 
-Once leads are permanently deleted, their data is stored in the database but encrypted, making it unreadable.
-
-To avoid losing records of permanently deleted leads, it's a good practice to always export the list beforehand.
-
-To export the leads you'd like to delete permanently, select the leads you'd like to delete permanently → Export (CSV will be sent to the email address you're using to login)
+To avoid losing records, export the leads before permanently deleting them. Select the leads → **Export** (a CSV will be sent to the email address you use to log in).
 
 ![screenshot](../images/005_file-YMQm7kuyzy.png)
 
-# Can I restore permanently deleted leads?
+## Can I Restore Permanently Deleted Leads?
 
-It's not possible to restore into the account leads permanently deleted.
-There's currently no workaround to it but to clear the list and re-add the leads.
-
-However, that doesn't restore the data of the leads.
+Permanently deleted leads cannot be restored to the account. The only workaround is to clear the list and re-add the leads manually, though this will not restore any of their original data.
