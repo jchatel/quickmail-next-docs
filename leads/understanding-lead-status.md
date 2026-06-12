@@ -89,3 +89,14 @@ If reword with AI is turned on for your account, it uses reword credits.
 You have 1,000 by default but you can buy more for $10 for every 10,000 credits.
 
 Alternatively (less recommended), turn off reword with AI and resume all leads that ran into an error.
+
+5. Message can't be sent. You are not connected to this lead.
+Send a connection request first.
+
+LinkedIn doesn't allow sending to leads you are not connected yet.
+To prevent this error from happening, please set your LinkedIn step to wait before connection request is accepted.
+
+What to do: These leads can't be resumed until they accept the connection.
+So all you can do is wait.
+
+Leads can't skip a step so if you have email steps in your campaign, they will not be sent until the lead connection request is accepted.
