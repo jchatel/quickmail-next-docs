@@ -36,6 +36,7 @@ FYI: API access is not available on trial.
   - Getting the number of leads that ran into an error
   - Getting leads
   - Deleting Leads
+  - Adding leads to campaign
   - Moving to the next page
   - Filtering: Exclude/Include workspace IDs
 - Ruby samples
@@ -491,6 +492,25 @@ mutation {
   ) {
     clientMutationId
   }
+}
+```
+
+### Adding leads to campaign
+
+```mutation AddLeadsToCampaign {
+  addLeadsToCampaign(input: {
+    campaignId: "campaign_mOoqBn7dQ0NwsBzGXy8KzbR0"
+    leadIds: [
+      "lead_WzMmQXblDNZsM3NAVeqxp74K",
+      "lead_gGrwa2jk809iProak9B8pWQm",
+      "lead_vp40895V0gbCqKLAkM2zgdWn",
+      "lead_1jxqB8ykNQJubZXDlYXzL9AO",
+      "lead_YWAqM2zlxgmCavbm610RZKJG"
+    ]
+  }) {
+    leads { id email }
+    campaign { id name }
+  }
 }
 ```
 
