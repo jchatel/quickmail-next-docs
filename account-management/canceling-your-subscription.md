@@ -1,16 +1,16 @@
 # Canceling your subscription
 
-### In this account:
+### In this article:
 
-- Single workspace
+- Growth and Starter Plan
 
-- Agency account
+- Agency Plan
 
 - Trial account
 
 - I'm having an error canceling my subscription
 
-## Single workspace
+## For Growth and Starter Plan
 
 To cancel your workspace subscription, go to your billing page and click manage.
 
@@ -20,7 +20,7 @@ Then, click cancel subscription.
 
 ![screenshot](../images/001_file-vWuTzIA1WB.png)
 
-## Agency account
+## For Agency Plan
 
 To cancel your agency subscription, go to your agency dashboard by clicking your agency name in one of the workspaces.
 
