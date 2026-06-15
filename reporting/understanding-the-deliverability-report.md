@@ -1,117 +1,99 @@
-# Understanding the Deliverability Report
+# Deliverability Report
 
-Note: Deliverability report is not yet on the new UI. To access it, please go to the old UI by changing your workspace link to account.
+**In this article:**
 
-For example:
+- Why keep track of the Deliverability Report?
 
-https://next.quickmail.com/workspace/1234567890
+- How does it work?
 
-https://next.quickmail.com/account/1234567890
+- How to receive a weekly Deliverability Report?
 
-Please use the old UI only for deliverability report to avoid any confusion.
+- How to manually generate a Deliverability Report?
 
-## Why keep track of the Deliverability Report?
+- Analyzing the Deliverability Report
 
-The deliverability report gives you a sense as to where the emails coming from an inbox are landing (inbox, spam, promotions).
+- How can I improve the deliverability of my inbox?
 
-It also shows whether your SPF and DKIM records are updated.
+## Why Keep Track of the Deliverability Report?
 
-Knowing where your emails are landing can help you quickly rule out deliverability issues and solve them.
+The Deliverability Report shows where emails from an email account are landing — inbox, spam, or promotions. It also shows whether your SPF and DKIM records are configured correctly. Knowing where your emails are landing helps you quickly identify and resolve deliverability issues.
 
-## How does it work?
+## How Does It Work?
 
-If the deliverability testing is on, QuickMail will automatically send occasional test emails from the inbox connected to the QuickMail account to the inboxes that we own and monitor.
+When deliverability testing is enabled, QuickMail automatically sends occasional test emails from your connected email account to monitored inboxes. These tests occur after the email account is first added, and then at the start of each week going forward.
 
-These deliverability testings take place after the inbox has been added, and then at the beginning of the week going forward.
+You may see messages in your Sent Items that you do not recognize, sent to unfamiliar recipients. This is normal — it is QuickMail testing the deliverability of your email account and does not mean your account has been compromised.
 
-In the Sent Items in your Inbox, you may see messages that you don't recognize, sent to people you've never heard of.
+Here are some examples of recipient names used in test emails:
 
-Don't panic because if the recipients and email subjects of the messages are any of the following,
+- Everlyne
 
-your account is not compromised. It's just us testing the deliverability of your inbox.
+- Everlyne Green
 
-Here are some examples of the names of the recipients of those messages:
+- Richard
 
-** Everlyne**
+- Richard Hendricks
 
-** Everlyne Green**
+- noreply
 
-** Richard**
+- qmnorep
 
-** Richard Hendricks**
+Here are some examples of subject lines used in test emails:
 
-** noreply**
+- Coffee next Monday?
 
-** qmnorep**
+- Meeting Next Wednesday?
 
-Here are some examples of subject lines for those messages:
+- Hi from (yourname)
 
-** Coffee next Monday?**
+- Everlyne Green / (yourname)
 
-** Meeting Next Wednesday?**
+- Quick question Everlyne Green?
 
-** Hi from (yourname)**
+## How to Receive a Weekly Deliverability Report?
 
-** Everlyne Green / (yourname)**
+To receive a weekly Deliverability Report for a specific email account, go to **Channels** → **Email** → click the email account → **Deliverability** tab → check **Automatically test deliverability of this inbox each week**.
 
-*** Quick question Everlyne Green?**
+## How to Manually Generate a Deliverability Report?
 
-## How to receive a weekly Deliverability Report?
+To manually generate a Deliverability Report at any time, go to **Channels** → **Email** → click the email account → **Deliverability** tab → click **Generate Report**.
 
-We can automatically generate a weekly Deliverability Report for your inboxes and send it to you via email.
-
-To receive a weekly deliverability report for a specific inbox, go to Settings -> Inboxes -> Select an Inbox -> Deliverability Tab -> Check the box 'Automatically test deliverability of this inbox each week'
-
-![screenshot](../images/000_file-i5zJw3j1tB.jpg)
-
-## How to manually generate a Deliverability Report?
-
-You can manually generate a deliverability report for a specific inbox at any time.
-
-To do that, go to Settings -> Inboxes -> Select an Inbox -> Deliverability Tab -> Generate Report
-
-![screenshot](../images/001_file-dzl5MoAzXj.jpg)
-
-**Note: It may take up to 30 minutes for the deliverability report to generate.**
+**Note:** It may take up to 30 minutes for the report to generate.
 
 ## Analyzing the Deliverability Report
 
-#### SPF
+### SPF
 
-If the SPF test fails, this means that there is something wrong with the inbox' SPF. To fix this, you may check [MxToolbox](https://mxtoolbox.com/) to see what's causing the error in the SPF.
+If the SPF test fails, there is an issue with the email account's SPF record. You can use [MxToolbox](https://mxtoolbox.com/) to identify the cause.
 
-These are the usual SPF errors and how to fix them:
+Common SPF errors and how to fix them:
 
-- Multiple SPFs - Having Multiple SPF is not allowed. To fix it, delete the other SPF records or merged them into one SPF record.
+- **Multiple SPF records** — having more than one SPF record is not allowed. Delete the duplicate records or merge them into a single SPF record.
 
-- SPF Deprecated - SPF or RR DNS type of SPF has been discontinued in 2014. To fix this, Change the SPF record to TXT DNS type.
+- **SPF deprecated** — the SPF DNS record type was discontinued in 2014. Change the SPF record to a TXT DNS type.
 
-- Wrong SPF syntax - If your inbox is from Google or Outlook, you may follow this guide on how to correctly set up the SPF records: SPF, DKIM, and DMARC records. However, if they are from a different email provider, you may search for a help article or contact your email provider.
+- **Wrong SPF syntax** — if the email account is from Google or Outlook, follow this guide: SPF, DKIM, and DMARC Records. For other email providers, check their documentation or contact their support team.
 
-#### DKIM
+### DKIM
 
-We only test DKIM for one email provider each time a deliverability report is generated. So, it's normal to see DKIM in yellow (Skipping test)
+Only one email provider's DKIM is tested per deliverability report. It is normal to see DKIM shown in yellow as "Skipping test."
 
-#### Delivered-to: Inbox
+### Delivered to: Inbox
 
-If the deliverability test email that we sent to our monitor inbox successfully lands in the inbox, the deliverability result will show it was delivered to Inbox.
+If the test email successfully lands in the monitored inbox, the result will show "Delivered to Inbox." This is a good indication that your emails are likely reaching the inbox of that email provider.
 
-This is a good indication that your email will likely land in the inbox of a specific email provider.
+### Delivered to: Spam
 
-#### Delivered-to: Spam
+If the test email lands in spam, the result will show "Delivered to Spam." It is normal for emails from new email accounts to land in spam, especially when the recipient uses Outlook.
 
-If the deliverability test email that we sent to our monitor inbox lands in spam, the deliverability result will show it was delivered to Spam. It's normal for emails from new inboxes to land in Spam especially if the recipient is an Outlook inbox.
+## How Can I Improve the Deliverability of My Email Account?
 
-####
+Emails can land in spam for several reasons, including the volume of emails sent, email content, the age of the email account, or DNS record configuration.
 
-## How can I improve the deliverability of my inbox?
+The following guides may help:
 
-There are several reasons why emails land in spam. It could be because of the volume of emails sent from the inbox, the content of the email, the tenure of the inbox, or how the DNS record of the inbox is configured.
-
-For Starters, these blog articles might come in handy in improving the deliverability of your inbox:
-
-- [Ultimate Guide to Cold Email Deliverability (2022)](https://quickmail.com/cold-email-deliverability)
+- [Ultimate Guide to Cold Email Deliverability](https://quickmail.com/cold-email-deliverability)
 
 - [The Ultimate Cold Email Checklist](https://quickmail.com/checklist)
 
-- [Cold Email: The Definitive Guide For 2022](https://quickmail.com/cold-email)
+- [Cold Email: The Definitive Guide](https://quickmail.com/cold-email)
