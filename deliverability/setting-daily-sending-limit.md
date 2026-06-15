@@ -39,9 +39,7 @@ The email limiter will set how many emails can go out from an email within the d
 
 # How to set it up for each email?
 
-To set up the email limiter in each email, go to Channels → Email → click the email you want to set the email limiter → Sending → Scroll down → Maximum number of emails that QuickMail should send per day from this inbox.
-
-![screenshot](../images/000_file-AmFcYR8M9i.png)
+To set up the email limiter in each email, go to Email → click the email you want to set the email limiter → Sending → Scroll down → Maximum number of emails that QuickMail should send per day from this inbox.
 
 # How to set it up for multiple emails?
 
