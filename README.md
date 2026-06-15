@@ -37,6 +37,7 @@ quickmail-docs/
 ├── linkedin/
 ├── managing-replies/
 ├── reporting/
+├── coaching/
 ├── troubleshooting/
 └── README.md
 ```
@@ -46,6 +47,7 @@ quickmail-docs/
 ## Categories
 
 ### Account Management
+
 Managing your QuickMail account, team members, and workspace settings.
 
 - [Account Timezones](account-management/account-timezones.md)
@@ -71,6 +73,7 @@ Managing your QuickMail account, team members, and workspace settings.
 - [W9 Forms](account-management/w9-forms.md)
 
 ### Billing And Payments
+
 Managing subscriptions, invoices, and payment methods.
 
 - [Downloading Invoices](billing-and-payments/downloading-invoices.md)
@@ -78,6 +81,7 @@ Managing subscriptions, invoices, and payment methods.
 - [Updating Your Payment Method](billing-and-payments/updating-your-payment-method.md)
 
 ### Campaigns
+
 Building, running, and managing outreach campaigns.
 
 - [Automate Starting Leads With Triggers](campaigns/automate-starting-leads-with-triggers.md)
@@ -109,6 +113,7 @@ Building, running, and managing outreach campaigns.
 - [Tracking Delay To Avoid False Opens And Clicks](campaigns/tracking-delay-to-avoid-false-opens-and-clicks.md)
 
 ### Deliverability
+
 Improving email deliverability, DNS setup, AI tools, and monitoring.
 
 - [Adding Spf Dkim And Dmarc Records](deliverability/adding-spf-dkim-and-dmarc-records.md)
@@ -133,6 +138,7 @@ Improving email deliverability, DNS setup, AI tools, and monitoring.
 - [Using Multiple Emails To Scale Campaigns Inbox Rotation](deliverability/using-multiple-emails-to-scale-campaigns-inbox-rotation.md)
 
 ### Email Accounts
+
 Adding, configuring, and managing email accounts for sending.
 
 - [Adding Email Accounts For Sending](email-accounts/adding-email-accounts-for-sending.md)
@@ -143,6 +149,7 @@ Adding, configuring, and managing email accounts for sending.
 - [Setting Up An Email Alias Replace Sent Fromampreply To](email-accounts/setting-up-an-email-alias-replace-sent-fromampreply-to.md)
 
 ### Faqs
+
 Frequently asked questions about QuickMail features and plans.
 
 - [Faq Does Quickmail Have Its Own Auto Warmer](faqs/faq-does-quickmail-have-its-own-auto-warmer.md)
@@ -153,6 +160,7 @@ Frequently asked questions about QuickMail features and plans.
 - [Faq What Can I Do With Quickmails Linkedin Automation](faqs/faq-what-can-i-do-with-quickmails-linkedin-automation.md)
 
 ### For Agencies
+
 Agency-specific features including client portals, templates, and AI tools.
 
 - [Drafting Replies With Ai](for-agencies/drafting-replies-with-ai.md)
@@ -160,18 +168,21 @@ Agency-specific features including client portals, templates, and AI tools.
 - [Webhooks](for-agencies/webhooks.md)
 
 ### Getting Started
+
 Onboarding resources and product overviews for new QuickMail users.
 
 - [Getting Started](getting-started/getting-started.md)
 - [Video Product Tour](getting-started/video-product-tour.md)
 
 ### Inbox Settings
+
 Configuring inbox-level settings including tracking and domain purchases.
 
 - [Buying Gmail Accounts Domains Through Quickmail](inbox-settings/buying-gmail-accounts-domains-through-quickmail.md)
 - [Visible Image Tracking](inbox-settings/visible-image-tracking.md)
 
 ### Integrations
+
 Connecting QuickMail with CRMs, Zapier, webhooks, SMS, and other tools.
 
 - [Adding Bcc To Emails](integrations/adding-bcc-to-emails.md)
@@ -192,6 +203,7 @@ Connecting QuickMail with CRMs, Zapier, webhooks, SMS, and other tools.
 - [Zapmail Integration Discontinued](integrations/zapmail-integration-discontinued.md)
 
 ### Leads
+
 Importing, managing, filtering, and exporting leads.
 
 - [Adding New Leads](leads/adding-new-leads.md)
@@ -209,6 +221,7 @@ Importing, managing, filtering, and exporting leads.
 - [Understanding The Import Report](leads/understanding-the-import-report.md)
 
 ### Linkedin
+
 LinkedIn automation, messaging, importing, and browser extension.
 
 - [Adding Linkedin Accounts](linkedin/adding-linkedin-accounts.md)
@@ -223,6 +236,7 @@ LinkedIn automation, messaging, importing, and browser extension.
 - [Sending Linkedin Voice Messages](linkedin/sending-linkedin-voice-messages.md)
 
 ### Managing Replies
+
 Handling replies, opportunities, out-of-office, and AI categorization.
 
 - [Ai Summaries On Opportunities Agencies Only](managing-replies/ai-summaries-on-opportunities-agencies-only.md)
@@ -230,6 +244,7 @@ Handling replies, opportunities, out-of-office, and AI categorization.
 - [Downloading Replies From Quickmail Eml File](managing-replies/downloading-replies-from-quickmail-eml-file.md)
 
 ### Reporting
+
 Understanding metrics, reports, and campaign analytics.
 
 - [Improving Account Revenues Using The Calculator](reporting/improving-account-revenues-using-the-calculator.md)
@@ -240,6 +255,7 @@ Understanding metrics, reports, and campaign analytics.
 - [Viewing Stats Per Email Step Variation](reporting/viewing-stats-per-email-step-variation.md)
 
 ### Troubleshooting
+
 Diagnosing and fixing common issues in QuickMail.
 
 - [Spam Eating Monkey Sem Blacklist](troubleshooting/spam-eating-monkey-sem-blacklist.md)
@@ -248,3 +264,9 @@ Diagnosing and fixing common issues in QuickMail.
 - [Troubleshooting Handling Sender Related Bounces](troubleshooting/troubleshooting-handling-sender-related-bounces.md)
 - [Troubleshooting Low Open Rate](troubleshooting/troubleshooting-low-open-rate.md)
 - [Troubleshooting Sem Fresh Blacklist](troubleshooting/troubleshooting-sem-fresh-blacklist.md)
+
+### Coaching
+
+Coaching when there is problem with getting results or needs help improving cold outreach.
+
+- [Coaching cold email](coaching/cold-email.md)
