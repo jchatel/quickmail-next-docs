@@ -124,7 +124,7 @@ Allows you to send voice messages to leads. Voice messages can help you stand ou
 
 You can automatically import leads who viewed your profile into QuickMail.
 
-To enable this, go to **Channels** → **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
+To enable this, go to **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
 
 ![screenshot](../images/008_file-opNbf6bGa4.png)
 
@@ -184,7 +184,7 @@ If you do not see the cookie icon, click the puzzle icon in your browser toolbar
 
 ![screenshot](../images/016_file-WYJko8bdbP.png)
 
-**Step 3.** Go to **Channels** → **LinkedIn** → **+ LinkedIn** → **LinkedIn Cookies**.
+**Step 3.** Go to  **LinkedIn** → **+ LinkedIn** → **LinkedIn Cookies**.
 
 ![screenshot](../images/017_file-skBCwUQthN.png)
 
@@ -236,7 +236,7 @@ If you do not see the cookie icon, click the puzzle icon in your browser toolbar
 
 ![screenshot](../images/026_file-OBX4uUKWU1.png)
 
-**Step 11.** Go to **Channels** → **LinkedIn** → **+ LinkedIn** → **LinkedIn Credentials + 2FA**.
+**Step 11.** Go to **LinkedIn** → **+ LinkedIn** → **LinkedIn Credentials + 2FA**.
 
 ![screenshot](../images/027_file-0X5v57qSaq.png)
 
@@ -300,7 +300,7 @@ Go to the campaign → **Steps** → click **Add Step** → select **LinkedIn Co
 
 ## How Can I Change the Daily Limits of My LinkedIn Actions?
 
-Go to **Channels** → **LinkedIn** → select a LinkedIn account → **Sending** tab → **LinkedIn Actions Limit and Throttling**.
+Go to **LinkedIn** → select a LinkedIn account → **Sending** tab → **LinkedIn Actions Limit and Throttling**.
 
 QuickMail recommends not exceeding 12 actions per day to avoid LinkedIn restrictions. There is no maximum cap in the system, and each LinkedIn account may have different limits. For more details, see [LinkedIn's guide on invitation restrictions](https://www.linkedin.com/help/linkedin/answer/a551012/types-of-restrictions-for-sending-invitations).
 
@@ -324,7 +324,7 @@ QuickMail automatically scans for new connections roughly every hour after a Lin
 
 If you prefer not to wait, you can manually trigger a sync. Note that manual syncing can only be done 12 hours after the last check.
 
-To do this, go to **Channels** → **LinkedIn** → select a LinkedIn account → **Receiving** tab → scroll down → click **Sync Now**.
+To do this, go to **LinkedIn** → select a LinkedIn account → **Receiving** tab → scroll down → click **Sync Now**.
 
 ![screenshot](../images/040_file-DK4U6v7MXY.png)
 
@@ -356,7 +356,7 @@ To re-authenticate, log back in to LinkedIn, then update the cookies in the Link
 
 ## How to Delete a LinkedIn Account?
 
-Go to **Channels** → select the LinkedIn account → click the menu icon (three vertical dots) → **Delete**.
+Go to **LinkedIn** → select the LinkedIn account → click the menu icon (three vertical dots) → **Delete**.
 
 ![screenshot](../images/043_file-JnKzwC0ijf.png)
 
