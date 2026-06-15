@@ -497,7 +497,8 @@ mutation {
 
 ### Adding leads to campaign
 
-```mutation AddLeadsToCampaign {
+```
+mutation AddLeadsToCampaign {
   addLeadsToCampaign(input: {
     campaignId: "campaign_mOoqBn7dQ0NwsBzGXy8KzbR0"
     leadIds: [
