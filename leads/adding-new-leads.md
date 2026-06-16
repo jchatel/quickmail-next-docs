@@ -160,7 +160,7 @@ QuickMail's integration with LinkedIn Sales Navigator allows you to import selec
 
 **Note:** While LinkedIn profile URLs and other lead details are imported, email addresses are not included.
 
-**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
+**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
 
 ![screenshot](../images/023_file-ap7Qg6Ue3m.png)
 
@@ -188,7 +188,7 @@ QuickMail's integration with LinkedIn Sales Navigator allows you to import selec
 
 **Tip:** You can also import leads from another person's LinkedIn post.
 
-**Step 1.** Add a LinkedIn account. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
+**Step 1.** Add a LinkedIn account. Go to **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
 
 ![screenshot](../images/028_file-QSgxWzJRxo.png)
 
@@ -232,13 +232,9 @@ QuickMail scans the Google Sheet for changes every hour. If new leads are detect
 
 Auto-Import continuously monitors your saved Sales Navigator search. When a new lead appears, it is automatically added to your list or campaign.
 
-**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
-
-![screenshot](../images/035_file-ap7Qg6Ue3m.png)
+**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **LinkedIn** → **+ LinkedIn**.
 
 **Note:** LinkedIn accounts showing a Sales Navigator icon are supported. If there is no Sales Navigator icon, the account is not compatible.
-
-![screenshot](../images/036_file-l4ybGfFXUi.png)
 
 **Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) → search for the leads you would like to import → use filters to narrow down your search if needed → copy the URL.
 
@@ -264,17 +260,13 @@ Auto-Import continuously monitors your saved Sales Navigator search. When a new 
 
 You can automatically import email addresses of people who have sent you emails. Note that this may include personal or marketing email addresses.
 
-To enable this, go to **Channels** → **Emails** → click on an email account → **Receiving** tab → check **Create leads from emails received** → optionally select a campaign to add the leads to.
-
-![screenshot](../images/041_file-HtJRW1v0pr.png)
+To enable this, go to **Email** → click on an email account → **Receiving** tab → check **Create leads from emails received** → optionally select a campaign to add the leads to.
 
 ## Importing Leads Who Viewed Your LinkedIn Profile
 
 You can automatically import LinkedIn profiles of people who viewed your LinkedIn profile.
 
-To enable this, go to **Channels** → **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
-
-![screenshot](../images/042_file-opNbf6bGa4.png)
+To enable this, go to **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
 
 ## FAQs
 
