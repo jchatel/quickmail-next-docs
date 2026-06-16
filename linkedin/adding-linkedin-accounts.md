@@ -23,7 +23,7 @@
 There are three ways to add a LinkedIn account in QuickMail.
 
 **Tip:** If you do not have access to the LinkedIn account directly, you can generate an invite link instead.
-Go to LinkedIn > +LinkedIn > Get invite link.
+Go to LinkedIn > +LinkedIn > Get invite link (The invite link can be reused and will expire after 30 days)
 
 ### Option 1: Via Browser Extension (Recommended)
 
