@@ -1,5 +1,7 @@
 # LinkedIn Automation 🤖
 
+💡 The number of LinkedIn accounts you can add depends on your [plan](https://quickmail.com/pricing).
+
 **In this article:**
 
 **What can I do with QuickMail's LinkedIn Automation?**
@@ -150,13 +152,11 @@ There are three ways to add a LinkedIn account:
 
 **Important:** If you do not have access to the LinkedIn account directly, you can generate an invite link instead.
 
-![screenshot](../images/010_file-znKjozYnKB.png)
-
 ### Option 1: Via Browser Extension
 
 **Step 1.** Log in to the LinkedIn account you want to add.
 
-**Step 2.** In a separate browser tab, go to **Channels** → click **Browser Extension**.
+**Step 2.** In a separate browser tab, open QuickMail and go to **LinkedIn** → click **Browser Extension**.
 
 ![screenshot](../images/011_file-RkXI5ujSrt.png)
 
@@ -184,7 +184,7 @@ If you do not see the cookie icon, click the puzzle icon in your browser toolbar
 
 ![screenshot](../images/016_file-WYJko8bdbP.png)
 
-**Step 3.** Go to  **LinkedIn** → **+ LinkedIn** → **LinkedIn Cookies**.
+**Step 3.** Go to **LinkedIn** → **+ LinkedIn** → **LinkedIn Cookies**.
 
 ![screenshot](../images/017_file-skBCwUQthN.png)
 
@@ -232,23 +232,17 @@ If you do not see the cookie icon, click the puzzle icon in your browser toolbar
 
 **Step 9.** Log out of your LinkedIn account, then log back in.
 
-**Step 10.** Copy the 2FA code from LinkedIn that you saved earlier.
+**Step 10.** Copy the 2FA code you saved earlier.
 
 ![screenshot](../images/026_file-OBX4uUKWU1.png)
 
 **Step 11.** Go to **LinkedIn** → **+ LinkedIn** → **LinkedIn Credentials + 2FA**.
 
-![screenshot](../images/027_file-0X5v57qSaq.png)
-
 **Step 12.** Select your country → enter the email address and password associated with your LinkedIn account → paste the 2FA code → click **Add**.
-
-![screenshot](../images/028_file-DlpgcGjmQz.png)
 
 It may take a few minutes for the LinkedIn account to be added, but no longer than an hour.
 
-![screenshot](../images/029_file-kgP4FEjLCV.png)
-
-**Note:** If you have trouble adding your LinkedIn account, contact support at support@quickmail.io.
+**Note:** If you have trouble adding your LinkedIn account, contact support at support@quickmail.io and tell them the error you're getting.
 
 ## How to Add a Lead's LinkedIn Information?
 
@@ -304,8 +298,6 @@ Go to **LinkedIn** → select a LinkedIn account → **Sending** tab → **Linke
 
 QuickMail recommends not exceeding 12 actions per day to avoid LinkedIn restrictions. There is no maximum cap in the system, and each LinkedIn account may have different limits. For more details, see [LinkedIn's guide on invitation restrictions](https://www.linkedin.com/help/linkedin/answer/a551012/types-of-restrictions-for-sending-invitations).
 
-![screenshot](../images/037_file-CoC2NxWlMq.png)
-
 ## How Can I See the Acceptance Rate of My LinkedIn Campaign?
 
 The acceptance rate of LinkedIn connection requests can be found in the campaign stats.
@@ -350,19 +342,16 @@ Logging out of LinkedIn invalidates the cookies, which disconnects the account f
 
 If the account loses permission, a warning will appear on the LinkedIn page in Settings and an email notification will be sent to the account owner.
 
-To re-authenticate, log back in to LinkedIn, then update the cookies in the LinkedIn account settings. See the steps for adding a LinkedIn account via cookies for guidance.
-
-![screenshot](../images/042_file-16yAi41pXM.png)
+To re-authenticate, log back in to LinkedIn, then update the cookies in the LinkedIn account settings. 
+See the steps for adding a LinkedIn account via cookies for guidance.
 
 ## How to Delete a LinkedIn Account?
 
 Go to **LinkedIn** → select the LinkedIn account → click the menu icon (three vertical dots) → **Delete**.
 
-![screenshot](../images/043_file-JnKzwC0ijf.png)
+## How Can I Prevent Accepted Connection Requests from Creating Inbox Items?
 
-## How Can I Prevent Accepted Connection Requests from Creating Opportunities?
-
-By default, an opportunity is created when a lead accepts a connection request. To disable this, go to **Replies Settings** → disable **New connections create new opportunities**.
+By default, an item is created in the Inbox when a lead accepts a connection request. To disable this, go to **Replies Settings** → disable **New connections create new opportunities**.
 
 ![screenshot](../images/044_file-ZqOeZCPx1k.png)
 
