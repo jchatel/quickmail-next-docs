@@ -35,3 +35,11 @@ The following factors are not yet taken into account:
 - Send times
 
 - Out-of-office leads
+
+FYI: Future emails only show emails that will be sent tomorrow and the following days. 
+It doesn't show how many emails will be sent today. 
+
+It's also not very accurate at the moment and still needs further improvement.
+
+To get an idea on how many emails will be sent today, you can check when will the leads move to the next step.
+Go to campaign > look under the next step column and count it manually.
