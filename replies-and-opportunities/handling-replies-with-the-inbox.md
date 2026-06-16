@@ -192,9 +192,7 @@ QuickMail automatically assigns replies to the owner of the email account that r
 
 Email accounts added via an invite link do not have an owner, so replies from those accounts will appear under the **Unassigned** tab.
 
-To automatically assign new conversations from a specific email account to a team member, go to **Channels** → **Email Accounts** → **Change Inbox Owner**.
-
-![screenshot](../images/015_file-1ifxR1e89k.png)
+To automatically assign new conversations from a specific email account to a team member, go to **Email Accounts** → **Change Inbox Owner**.
 
 To manually assign a team member to an existing conversation, go to the **Inbox** → select the conversation → assign a team member.
 
@@ -238,9 +236,7 @@ Status changes logged include: Active, Pending, Won, Lost, and reassignment to a
 
 ## Bulk Actions
 
-Multiple conversations can be managed in bulk. 
-
-Available bulk actions include:
+Multiple conversations can be managed in bulk. Available bulk actions include:
 
 - Snoozing
 
