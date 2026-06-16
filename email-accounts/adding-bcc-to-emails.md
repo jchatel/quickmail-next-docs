@@ -1,27 +1,33 @@
 # Adding BCC to Emails
 
-# What is it for?
+**In this article:**
 
-**BCC emails (blind carbon copy)** allow users to send copies of all outgoing emails in QuickMail another address.
+- What is it for?
 
-Some users use the BCC field to send copies of their emails to a CRM address (like SalesForce or Hubspot) so that they can automatically log all the emails they are sending out.
+- How to set up a BCC email?
 
-**Careful: **Setting an address that is added as an inbox in QuickMail as BCC will cause sent emails to be detected as campaign replies. This can cause all journeys to be marked as replied.
+  - Workspace level
 
-# How to set up BCC Email?
+  - Email account level
+
+## What Is It For?
+
+**BCC (blind carbon copy)** allows you to send copies of all outgoing emails in QuickMail to another address. This is commonly used to log emails in a CRM such as Salesforce or HubSpot.
+
+**Warning:** Setting an address that is already added as an email account in QuickMail as a BCC will cause sent emails to be detected as campaign replies, which can mark all journeys as replied.
+
+## How to Set Up a BCC Email?
 
 ### Workspace Level
 
-Setting a BCC email at the workspace level ensures it's included in every campaign, eliminating the need to apply it to each inbox individually.
+Setting a BCC email at the workspace level ensures it is included in every campaign, eliminating the need to apply it to each email account individually.
 
-To set up a BCC email at the workspace level, go to Settings → General → under BCC email, fill out the "BCC Email" field
+Go to **Settings** → **General** → under **BCC Email**, fill in the BCC Email field.
 
 ![screenshot](../images/000_file-9yNUix4Ye1.png)
 
-### Inbox Level
+### Email Account Level
 
-Setting a BCC email at the inbox level will add the BCC email to all emails sent from that specific inbox. If the workspace has multiple inboxes, only the inbox with the BCC setting will include the BCC email.
+Setting a BCC email at the email account level adds the BCC address to all emails sent from that specific account. If the workspace has multiple email accounts, only the one with the BCC setting will include the BCC address.
 
-Go to Settings → Channels → Emails → click the email account → under sending settings, fill out the "BCC Email" field.
-
-![screenshot](../images/001_file-Mdw2qoZG4L.png)
+Go to **Email** → click the email account → under **Sending Settings**, fill in the BCC Email field.
