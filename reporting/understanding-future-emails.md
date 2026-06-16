@@ -1,37 +1,37 @@
 # Understanding Future Emails
 
+Future Emails helps you forecast the email volume of your campaigns, streamline your planning process, and optimize resources efficiently.
+
 **In this article:**
 
-- Where can I see Future Emails?
+- Where can I see future emails?
 
-- How are Future Emails calculated?
+- How are future emails calculated?
 
-Future Emails helps you to forecast the email volume of your campaigns, streamline your planning process, and optimize resources efficiently.
+## Where Can I See Future Emails?
 
-## Where can I see future emails
-
-To check Future Emails, go to Campaigns → Select a campaign → And in the Dashboard, you'll see Future Emails
+Go to **Campaigns** → select a campaign → view the **Future Emails** section in the campaign dashboard.
 
 ![screenshot](../images/000_file-KL5qJiEVIH.png)
 
-## How are Future Emails calculated?
+## How Are Future Emails Calculated?
 
-Future emails are calculated based on different factors such as:
+Future emails are calculated based on the following factors:
 
 - The number of leads in an active campaign
 
-- The number of leads that will start the campaign based on the triggers (Campaign Automation)
+- The number of leads that will start the campaign based on triggers
 
 - The number of follow-up emails
 
-- Wait Steps
+- Wait steps
 
-Certain factors are not yet taken into account by Future Emails. These include:
+The following factors are not yet taken into account:
 
-- Type of the first step in a campaign (e.g. if it's not an email step)
+- The type of the first step in a campaign (for example, if it is not an email step)
 
 - Time delay between sending emails
 
-- Sending times
+- Send times
 
-- Out of office leads
+- Out-of-office leads
