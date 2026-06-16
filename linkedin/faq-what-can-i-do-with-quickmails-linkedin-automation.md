@@ -80,9 +80,7 @@ Allows you to send voice messages to leads. Voice messages can help you stand ou
 
 Automatically imports leads who viewed your LinkedIn profile into QuickMail.
 
-To enable this, go to **Channels** → **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
-
-![screenshot](../images/008_file-opNbf6bGa4.png)
+To enable this, go to **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
 
 ## Import Leads from a LinkedIn Post
 
