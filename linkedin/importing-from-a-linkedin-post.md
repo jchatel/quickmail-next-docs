@@ -10,7 +10,8 @@ You can import leads who engaged with a LinkedIn post directly into QuickMail.
 
 ## How to Import Leads from a LinkedIn Post?
 
-**Step 1.** Add a LinkedIn account to QuickMail. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
+**Step 1.** Add a LinkedIn account to QuickMail. Go to **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
+https://help.quickmail.com/linkedin/adding-linkedin-accounts/
 
 **Step 2.** On a separate browser tab, go to the LinkedIn post you would like to import leads from and copy the post link.
 
