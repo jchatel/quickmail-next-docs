@@ -8,6 +8,4 @@ You can automatically import leads who viewed your LinkedIn profile into QuickMa
 
 ## How to Enable LinkedIn Profile View Imports?
 
-Go to **Channels** → **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
-
-![screenshot](../images/000_file-opNbf6bGa4.png)
+Go to **LinkedIn** → click on the LinkedIn account → **Receiving** tab → check **Create leads from profile viewers** → optionally select a campaign to add the leads to.
