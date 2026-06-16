@@ -1,19 +1,27 @@
-# AI Summaries on Opportunities (Agencies only)
+# AI Summaries in the Inbox
 
-# Why use AI summary?
+**In this article:**
 
-- **Saves Time** – Quickly extracts key points from opportunities, especially those with a long conversation history.
+- Why use AI summaries?
 
-- **Improves Decision-Making** – Provides concise insights that help users quickly understand and address remaining action points in the conversation
+- How to turn it on?
 
-# How to turn it on?
+- Where can I find them?
 
-AI summaries are on by default but it's only available on Agency accounts that are on the Expert Plan.
+## Why Use AI Summaries?
 
-# Where can I find them?
+- **Saves time** — quickly extracts key points from conversations, especially those with a long history.
 
-They are added at the top of each opportunity with contents divided into Summary and Remaining Action points.
+- **Improves decision-making** — provides concise insights to help you quickly understand and address remaining action points in a conversation.
 
-Here's an example:
+## How to Turn It On?
+
+AI summaries are on by default.
+
+## Where Can I Find Them?
+
+AI summaries appear at the top of each email in your Inbox. Each summary is divided into two parts: **Summary** and **Remaining Action Points**.
+
+Here is an example:
 
 ![screenshot](../images/000_file-vT5i64mB4I.png)
