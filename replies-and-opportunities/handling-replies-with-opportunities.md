@@ -1,58 +1,58 @@
-# Handling Replies with Opportunities
+# Handling Replies with the Inbox
 
 **In this article:**
 
-- Why use the Opportunities?
+- Why use the Inbox?
 
-- What can I do with Opportunities?
+- What can I do with the Inbox?
 
-- What are the types of Opportunities?
+- What are the types of items in the Inbox?
 
-- Where can I find Opportunities?
+- Where can I find the Inbox?
 
-- Responding to a Lead's Reply
+- Responding to a lead's reply
 
 - Selecting an email account to send from
 
-- Marking Replies as Pending (Mark as read)
+- Marking replies as pending
 
-- Marking Replies as Won or Lost
+- Marking replies as won or lost
 
-- Snoozing/Unsnoozing Conversations
+- Snoozing and unsnoozing conversations
 
-- Viewing or Download Original Email (EML)
+- Viewing or downloading the original email (EML)
 
-- Categorizing Replies
+- Categorizing replies
 
-- Completing a Task
+- Attaching files
 
-- Completing a Call
+- Completing a task
 
-- Completing a Draft
+- Completing a call task
 
-- Managing Opportunities
+- Completing a draft
 
-- Opportunity Reports
+- Filtering the Inbox
 
-- Filtering Opportunities
+- Assigning conversations to team members
 
-- Assigning Opportunities to team members
+- Inbox reports
 
-- Adding Notes
+- Adding notes
 
-- Exporting Opportunities
+- Exporting conversations
 
-- Status Bar
+- Status bar
 
-- Bulk Actions
+- Bulk actions
 
-## Why use Opportunities?
+## Why Use the Inbox?
 
-"Opportunities" is a handy tool that keeps all your lead replies from different campaigns and email accounts in one place, so you never miss a response. It lets you see your whole conversation with a lead in one thread, making it easier to keep track of what’s going on. You can also manage tasks, calls, or even draft emails right from the same spot.
+The Inbox keeps all your lead replies from different campaigns and email accounts in one place, so you never miss a response. Each conversation is displayed as a single thread, making it easy to track the full history with a lead. You can also manage tasks, calls, and draft emails directly from the same view.
 
-Additionally, Opportunities leverages AI to summarize your conversations, suggest responses, and categorize replies, helping you stay organized and focus on what matters most. With these smart insights, managing and nurturing your leads becomes much simpler!
+The Inbox also uses AI to summarize conversations, suggest responses, and categorize replies, helping you stay organized and focus on the leads that matter most.
 
-## What can I do with Opportunities?
+## What Can I Do with the Inbox?
 
 - Respond to, view, and manage email replies
 
@@ -60,143 +60,113 @@ Additionally, Opportunities leverages AI to summarize your conversations, sugges
 
 - Complete tasks
 
-- Complete call tasks and make calls directly via third-party phone dialers (like Aircall)
+- Complete call tasks and make calls via third-party phone dialers such as Aircall
 
 - Edit and send drafts for manual emails
 
 - Send attachments
 
-## Types of Opportunities
+## What Are the Types of Items in the Inbox?
 
-- Email replies (Envelope icon)
+- Email replies (envelope icon)
 
-- Linkedin replies (LinkedIn icon in lead's thumbnail)
+- LinkedIn replies (LinkedIn icon in lead's thumbnail)
 
-- Accepted Linkedin connection requests
+- Accepted LinkedIn connection requests
 
-- Tasks (Clipboard icon)
+- Tasks (clipboard icon)
 
-- Call tasks (Phone icon)
+- Call tasks (phone icon)
 
-- Drafts (Leaf icon)
+- Drafts (leaf icon)
 
-- Sent emails (Paperplane icon)
+- Sent emails (paper plane icon)
 
 ![screenshot](../images/000_file-BCWQRQXyJ6.png)
 
-## Where Can I Find Opportunities?
+## Where Can I Find the Inbox?
 
-You can find Opportunities either on the Opportunities page** or in a lead’s **Quickview**. Note that it will only appear in the lead’s Quickview if there’s an opportunity associated with that lead.
-
-![screenshot](../images/001_file-pXJTV3iy5f.png)
+The Inbox can be found on the **Inbox** page or in a lead's quick view. Note that it will only appear in the quick view if there is a conversation associated with that lead.
 
 ## Responding to Replies
 
-All the replies that are in bold text mean are active Inbox items that need to be addressed. Simply opening the reply will not unbold it.
+Replies displayed in bold are active items that need to be addressed. Opening a reply will not remove the bold formatting on its own.
 
-To respond to the lead's reply, click the message in the Opportunities list, then select "Reply."
+To respond, click the message in the Inbox → click **Reply**.
 
-Once you've sent your reply, the opportunity will automatically be marked as pending and will no longer appear in bold.
+Once you send your reply, the conversation will automatically be marked as pending and will no longer appear in bold.
 
-**Tip:** If you're having a hard time composing a reply, or following a long email thread with the lead, Drafting Replies with AI might help.
+**Tip:** If you are having difficulty composing a reply or following a long email thread, Drafting Replies with AI may help.
 
-![screenshot](../images/002_file-qPbEMyh91h.png)
+## Selecting an Email Account to Send From
 
-## Selecting an email account to send from
+To select which account to send from, choose one of the options in the **From** field.
 
-To select which channel to send, select one of the options in the "From:" field.
+**Tip:** When an email account is deleted, the lead replies from that account are not deleted. You can still reply to the lead using a different email account.
 
-![screenshot](../images/003_file-KcOPVLG7Od.png)
+## Marking Replies as Pending
 
-Tip: When an inbox gets deleted, the leads replies from that inbox won't get deleted. You can still reply to the lead using a different inbox
+Once you respond to a conversation, it is automatically marked as pending and will no longer appear in bold.
 
-## Marking Replies as Pending (Mark as read)
+To mark a conversation as pending without replying, open the reply in the Inbox → click the **Active** button → set to **Pending**.
 
-Once you’ve responded to an opportunity, it will automatically be marked as pending and will no longer appear in bold.
-
-If you want to mark a conversation as read without replying, simply set it to pending.
-
-This action moves the conversation to the bottom of the list and removes the bold text from the subject, making replies easier to differentiate.
-
-To do this, open a reply in Opportunities → Click the "Active" button → Set to Pending
-
-![screenshot](../images/004_file-2ePKZLAjCB.png)
+This moves the conversation to the bottom of the list and removes the bold formatting, making it easier to differentiate active from pending replies.
 
 ## Marking Replies as Won or Lost
 
-Each reply can be marked as Won or Lost, to easily identify and close potential replies.
+Replies can be marked as Won or Lost to help identify and close potential deals.
 
-**Note:** Marking a reply as won or lost will automatically archive it. If you'd like to see archived opportunities, simply use filters.
+**Note:** Marking a reply as Won or Lost will automatically archive it. To view archived conversations, use the filters.
 
-To mark a reply as lost or won, open a reply in Opportunities → Click the "Status" button → Select Won or Lost
+To mark a reply as Won or Lost, open the reply in the Inbox → click the **Status** button → select **Won** or **Lost**.
 
-![screenshot](../images/005_file-p932KfXRPA.png)
+## Snoozing and Unsnoozing Conversations
 
-## Snoozing/Unsnoozing Conversations
+If a reply does not need immediate attention, you can snooze it to focus on more urgent conversations.
 
-If a reply doesn’t need your attention yet, you can snooze it so that you can focus on more urgent conversations that need to be replied to immediately.
+**Note:** Snoozed replies will not appear in your list until the snooze ends or the lead sends another reply. To view snoozed conversations, use the filters.
 
-**Note:** Snoozed replies will not show on your list until the snooze ends or until the prospect sends another reply. If you'd like to see snoozed opportunities, simply use filters.
+To snooze or unsnooze a conversation, select it from the Inbox → click the **Snooze** or **Unsnooze** button.
 
-To snooze or unsnooze an opportunity, go to the opportunity list and select an opportunity → Snooze/Unsnooze button
+## Viewing or Downloading the Original Email (EML)
 
-![screenshot](../images/006_file-5JRnUaTJ88.png)
+The Inbox displays a readable version of each email, including the subject and message content. You can also view or download the original email for additional details such as the email source, attachments, and other information not shown in the preview.
 
-## Viewing or Downloading Original Email (EML)
-
-By default, the Opportunities page shows a readable version of the email, including the full subject and the message content. However, you can also view the original email in its entirety for additional details, such as the email’s source, attachments, and any other relevant information not displayed in the preview.
-
-To do that, go to the opportunity → menu (vertical ellipsis) → Download or Show original
-
-![screenshot](../images/007_file-W7IYVG5auF.png)
+To do this, go to the conversation → click the menu icon (vertical ellipsis) → select **Download** or **Show Original**.
 
 ## Categorizing Replies
 
-Categorizing replies generates stats for positive and negative replies in the analytics. If you are on the Expert Plan, replies will be categorized automatically.
+Categorizing replies generates stats for positive and negative replies in the analytics. If you are on the Expert plan, replies will be categorized automatically.
 
-![screenshot](../images/008_file-XipR5BFPIc.png)
+To manually categorize a reply, go to the conversation → click the menu icon (vertical ellipsis) → **Change Reply Type** → select a reply category.
 
-If you'd like to manually categorize replies, go to the opportunity → menu (vertical ellipsis) → change reply type → select reply category
+**Note:** It is not yet possible to customize the available reply categories.
 
-**Note:** It's not yet possible to personalize the reply categories available to choose from
-
-![screenshot](../images/009_file-G3xuciEB9i.png)
-
-**Tip:** If you'd like to learn more about AI Reply Categorization, check out this guide:Categorizing Replies with AI
+**Tip:** To learn more about AI Reply Categorization, check out this guide: Categorizing Replies with AI.
 
 ## Attaching Files
 
-You can attach files to opportunities if you'd like to send files to a lead. To do this, simply click on the "Attach File" button
-
-![screenshot](../images/010_file-rXTuhG32m6.png)
+To attach a file to a conversation, click the **Attach File** button in the reply editor.
 
 ## Completing a Task
 
-Tasks are automatically generated when a lead goes into a task step. To complete tasks in opportunities, open the opportunity with a clipboard icon → click "Mark as complete"
-
-![screenshot](../images/011_file-BSbbZtU7UO.png)
+Tasks are automatically generated when a lead reaches a task step. To complete a task, open the conversation with the clipboard icon → click **Mark as Complete**.
 
 ## Completing a Call Task
 
-Call tasks are automatically generated when a lead goes into a call step. To complete tasks in opportunities, open the opportunity with a phone icon → click "Mark as complete"
+Call tasks are automatically generated when a lead reaches a call step. To complete a call task, open the conversation with the phone icon → click **Mark as Complete**.
 
-**Tip:** You can make calls from QuickMail as long as you have a phone dialer app installed on your computer. Moreover, the lead must have a phone number attached to its info.
-
-Check out this guide for more info: Call Steps
-
-![screenshot](../images/012_file-Ox2zbF9XP0.png)
+**Tip:** You can make calls from QuickMail as long as you have a phone dialer app installed on your computer. The lead must also have a phone number saved to their profile. For more information, check out this guide: Call Steps.
 
 ## Completing a Draft
 
-If you set an email step to be manually sent, a draft will be generated. From the opportunities, you can view, edit, and send the draft.
+If an email step is set to be sent manually, a draft will be generated. From the Inbox, you can view, edit, and send the draft.
 
-To complete drafts in opportunities, open the opportunity with a lead icon → click "Mark as complete"
+To complete a draft, open the conversation with the leaf icon → click **Mark as Complete**.
 
-![screenshot](../images/013_file-WOeX2VdVjJ.png)
+## Filtering the Inbox
 
-## Filtering Opportunities
-
-Opportunities can be filtered for ease of access to specific types or replies. Many different criteria can be used to filter replies such as:
+The Inbox can be filtered to quickly find specific conversations. Available filter criteria include:
 
 - State (All, Active, Pending, Archived)
 
@@ -204,87 +174,77 @@ Opportunities can be filtered for ease of access to specific types or replies. M
 
 - Snoozed
 
-- Last Updated
+- Last updated
 
-- Team members assigned
+- Team member assigned
 
 - Campaign
 
 - Email account
 
-- Type of To-dos
+- Type of task
 
-- Incomplete/Complete To-dos
+- Incomplete or complete tasks
 
-![screenshot](../images/014_file-APOmlm8m0A.png)
+## Assigning Conversations to Team Members
 
-## Assigning Opportunities to Team Members
+QuickMail automatically assigns replies to the owner of the email account that received them. The team member who added the email account becomes its owner by default.
 
-QuickMail will automatically assign the replies to the owner of the email account that received the reply. The team member who added the email account becomes its owner by default.
+Email accounts added via an invite link do not have an owner, so replies from those accounts will appear under the **Unassigned** tab.
 
-Inboxes added via an invite link do not have an owner, so replies from these inboxes will appear under the 'Unassigned' tab.
-
-If you'd like to automatically assign new opportunities from a specific inbox to a specific team member, go to Channels → Email Accounts → Change Inbox owner
+To automatically assign new conversations from a specific email account to a team member, go to **Channels** → **Email Accounts** → **Change Inbox Owner**.
 
 ![screenshot](../images/015_file-1ifxR1e89k.png)
 
-Meanwhile, if you'd like to manually assign a team member to an existing opportunity, go to Opportunities → select opportunity → assign team member
+To manually assign a team member to an existing conversation, go to the **Inbox** → select the conversation → assign a team member.
 
-![screenshot](../images/016_file-N9Wc3EGnBG.png)
+## Inbox Reports
 
-## Opportunity Reports
+Replies are detected when QuickMail scans your email accounts for new responses. As a result, no email notifications are sent for new conversations. To receive a daily summary instead, you can enable Inbox Reports.
 
-Replies are detected when we scan your email accounts for responses. As a result, no email notifications are sent for new opportunities. However, if you'd like to receive a daily summary of opportunities, simply enable Opportunity Reports.
+Enabling Inbox Reports is currently only available in the old interface. If you are using the new interface, follow these steps:
 
-Enabling Opportunity Reports is only available in the old interface. So if you're using the new interface, follow these steps:
-
-**Step 1** . get your workspace number from the URL. For example, on the Opportunities page, you’ll see a URL like this - The number after workspace/ is your workspace number (in this case, it's 15).
+**Step 1.** Get your workspace number from the URL. On the Inbox page, the URL will look like this:
 
 *https://next.quickmail.com/workspace/15/opportunities/list*
 
-**Step 2.** Once you have your workspace number, go to this URL and replace XXX with your workspace number:
+The number after `workspace/` is your workspace number (in this case, 15).
 
-https://next.quickmail.com/account/XXX/settings/replies
+**Step 2.** Replace `XXX` in the URL below with your workspace number and open it in your browser:
 
-**Step 3.** Check the 'Opportunity Reports' box → select the days and times you'd like to receive the reports → Make sure to click 'Update'
+`https://next.quickmail.com/account/XXX/settings/replies`
 
-![screenshot](../images/017_file-pxNeJecWDt.png)
+**Step 3.** Check the **Opportunity Reports** box → select the days and times you would like to receive reports → click **Update**.
 
-## Adding Notes to the Conversations
+## Adding Notes
 
-Notes are internal memos that can be added to any conversation. To add a note, from the conversation click on the "Add Note" button.
+Notes are internal memos that can be added to any conversation. To add a note, open the conversation → click **Add Note**.
 
-This will open a text editor where you will be able to edit the text and add a note directly in the conversation thread.
+A text editor will open where you can write and format your note directly in the conversation thread.
 
-![screenshot](../images/018_file-GYIMwklH4R.png)
+## Exporting Conversations
 
-## Exporting Opportunities
+Exporting allows you to download a CSV containing detailed information about your conversations, including message history, sender and recipient addresses, and the date each message was received.
 
-This feature allows you to download detailed information about your opportunities, including message history, sender and recipient addresses, and the dates each message was received into a CSV/
+To export, go to the **Inbox** → select the conversations you want to export → click **Export**.
 
-To export Opportunities, go to Opportunities → Select Opportunities → Export.
-
-![screenshot](../images/019_file-zqQGSwzBDF.png)
-
-CSV will be sent to the email address you're using to login
-
-![screenshot](../images/020_file-SknhR65PT0.png)
+The CSV will be sent to the email address you use to log in.
 
 ## Status Bar
 
-Whenever there is a change in the status of the reply, the change will be logged and displayed in a status bar. This will allow users to see which team members have previously managed the opportunity.
+Whenever the status of a conversation changes, the change is logged and displayed in a status bar at the top of the latest reply. This allows team members to see who has previously managed the conversation and what actions were taken.
 
-A status bar will appear on top of the last reply, showing whether the opportunity was changed to Active, Pending, Won, Lost, or assigned to a different team member
-
-![screenshot](../images/021_file-A7AvLeCLmx.png)
+Status changes logged include: Active, Pending, Won, Lost, and reassignment to a different team member.
 
 ## Bulk Actions
 
-It's possible to handle multiple opportunities in bulk to streamline actions. These includes:
+Multiple conversations can be managed in bulk. 
+
+Available bulk actions include:
 
 - Snoozing
 
-- Un-snoozing
+- Unsnoozing
 
 - Adding an assignee
 
@@ -294,6 +254,4 @@ It's possible to handle multiple opportunities in bulk to streamline actions. Th
 
 - Deleting
 
-To do this, select multiple replies: you can select them one by one, by page, or select all. Then, click on the action from the different options.
-
-![screenshot](../images/022_file-bOVUhxDYlR.png)
+To use bulk actions, select multiple conversations — one by one, by page, or all at once — then click the desired action.
