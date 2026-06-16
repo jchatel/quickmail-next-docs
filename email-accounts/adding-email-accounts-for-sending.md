@@ -30,7 +30,7 @@ If you do not have inboxes for sending yet, QuickMail sells Google email account
 
 In the left-hand navigation menu, go to the **Email** page.
 
-![screenshot](../images/000_file-TV6cmQfgjH.png)
+<img width="1353" height="694" alt="image" src="https://github.com/user-attachments/assets/fce67649-cb65-4b56-a42a-f4969521ea4f" />
 
 ### Option 1: I Have Access to the Email Account
 
