@@ -1,5 +1,15 @@
 # QuickMail Changelog
 
+## June 15, 2026
+
+### FIXES
+- Leads can now only be added to campaigns within the workspace where they were originally created. This prevents errors that could occur when attempting to add a lead to a campaign in a different workspace.
+
+## June 11, 2026
+
+### FEATURES
+- LinkedIn Opportunity replies are now processed asynchronously
+
 ## June 9, 2026
 
 ### FEATURES
