@@ -1,5 +1,20 @@
 # QuickMail Changelog
 
+## June 9, 2026
+
+### FEATURES
+- Ability to manually import leads from a LinkedIn post to a QuickMail campaign
+<img width="1287" height="701" alt="image" src="https://github.com/user-attachments/assets/bfa7780e-fb01-438d-ae39-adbe75afc66f" />
+  
+
+## June 2, 2026
+
+### FEATURES
+- Common lead errors related to LinkedIn now include clearer explanations and context
+- Deliverability reports are now available in the email account settings
+  
+<img width="844" height="703" alt="image" src="https://github.com/user-attachments/assets/9b740713-4801-4bd3-ae56-ea93993b4b06" />
+
 ## May 27, 2026
 
 ### FEATURES
@@ -9,6 +24,7 @@
 - Ability to buy email verification credits
 
 ![screenshot](../images/000_file-l0vajJdbEN.png)
+
 
 ## May 23, 2026
 
@@ -21,6 +37,7 @@
 ### FIXES
 
 - Rolled out improvements to the LinkedIn browser extension to ensure a smoother user experience.
+
 
 ## May 15, 2026
 
@@ -36,6 +53,7 @@
 
 - Improved LinkedIn account syncing
 
+
 ## May 10, 2026
 
 ### FEATURES
@@ -43,6 +61,7 @@
 - Ability to broadcast emails by simply selecting multiple leads in the main Leads page. This also creates a one-step email campaign, adds the selected leads, and starts sending immediately
 
 ![screenshot](../images/003_file-cFlRffXsb1.png)
+
 
 ## May 5, 2026
 
@@ -52,6 +71,7 @@
 
 ![screenshot](../images/004_file-NcV42wBnG0.png)
 
+
 ## May 1, 2026
 
 ### FIXES
@@ -59,6 +79,7 @@
 - Importing leads via Sales Navigator was being allowed in the interface, but it was running into an error when it was not included in the plan
 
 - Auto-warmer emails being forwarded were being shown in the auto-warmer report.
+
 
 ## April 25, 2026
 
@@ -69,6 +90,7 @@
 ### FIXES
 
 - Users were unable to set the campaign live when the campaign name was too long
+
 
 ## April 23, 2026
 
@@ -92,6 +114,7 @@
 
 - Optimized auto-warmer content to increase email deliverability performance
 
+
 ## April 8, 2026
 
 ### FEATURES
@@ -112,6 +135,7 @@
 
 - Opportunities were not infinitely scrolling
 
+
 ## March 31, 2026
 
 ### FEATURES
@@ -122,6 +146,7 @@
 
 - Some LinkedIn replies weren’t being detected. We’ve made reply detection more reliable
 
+
 ## March 20, 2026
 
 ### FEATURES
@@ -129,6 +154,7 @@
 - Ability to import profile viewers automatically
 
 ![screenshot](../images/009_file-87GQgyEE37.png)
+
 
 ## March 17, 2026
 
@@ -140,6 +166,7 @@
 
 - Lead progress were running into an error when generating a LinkedIn Profile View
 
+
 ## March 5, 2026
 
 ### FIXES
@@ -150,11 +177,13 @@
 
 - Improved performance for bulk deleting leads
 
+
 ## March 3, 2026
 
 ### FIXES
 
 - Improved autowarmer content
+
 
 ## March 1, 2026
 
@@ -164,11 +193,13 @@
 
 - Ability to filter campaigns by excluded and included workspace via API
 
+
 ## February 26, 2026
 
 ### FIXES
 
 - Users were not able to reply to leads with LinkedIn profile IDs that contained special characters
+
 
 ## February 24, 2026
 
@@ -183,6 +214,7 @@
 - When manually uploading a LinkedIn Voice message, the 'Add' or 'Update' button was disabled
 
 - Optimized system to prevent system latency
+
 
 ## February 5, 2026
 
@@ -202,11 +234,13 @@
 
 - When 'Wait Until Connection Request is Accepted' was disabled, LinkedIn acceptances didn’t create opportunities
 
+
 ## January 28, 2026
 
 ### FIXES
 
 - Some users couldn’t send messages or replies on LinkedIn because LinkedIn was deprecating an endpoint.
+
 
 ## January 22, 2026
 
@@ -220,6 +254,7 @@
 
 - When a lead replied and was added to another campaign, the lead did not start if the campaign used triggers.
 
+
 ## January 8, 2026
 
 ### FEATURES
@@ -227,6 +262,7 @@
 - Option to create or not create an Opportunity when a lead accepts LinkedIn Connection. This allows users to keep their Opportunities page clutter free.
 
 ![screenshot](../images/012_file-bw8L2XXg2R.png)
+
 
 ## December 11, 2025
 
