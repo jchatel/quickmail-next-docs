@@ -1,38 +1,41 @@
 # Managing Channels with Bulk Actions
 
-In this article:
+**In this article:**
+
 - Why use bulk actions?
 
 - How to take bulk actions?
 
-- Available bulk actions
+- Which bulk actions are available?
 
-## Why use bulk actions?
+## Why Use Bulk Actions?
 
-Bulk actions in the new UI allow users to manage multiple channels efficiently and effectively. They save time and effort by enabling simultaneous updates or modifications across multiple email and LinkedIn accounts. This feature is particularly beneficial for large teams or individuals managing several accounts, as it reduces the repetitive task of updating each account individually.
+Bulk actions allow you to manage multiple email and LinkedIn accounts at the same time, saving time by reducing the need to update each account individually.
 
-## How to take bulk actions?
+## How to Take Bulk Actions?
 
-To take bulk actions for channels, go to Channels → Select the Channel Select multiple Email /LinkedIn accounts → Select the bulk action to take
+Select multiple email or LinkedIn accounts → select the bulk action to take.
 
 ![screenshot](../images/000_file-ywlPc0ZPcw.png)
 
-## Which bulk actions are available?
+## Which Bulk Actions Are Available?
+
 **Email**
 
 - Pause sending
 
 - Resume sending
 
-- Set daily limit
+- Set daily email limit
 
-- Delay between emails (Minimum delay and Time Variation)
+- Delay between emails
 
 - Set email signature
 
-- Set domain tracking
+- Set custom domain
 
-- Delete email accounts
+- Delete
 
 **LinkedIn**
-Bulk actions coming soon
+
+Bulk actions coming soon.
