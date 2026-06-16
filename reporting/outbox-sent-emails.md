@@ -1,35 +1,35 @@
-# Outbox (Sent emails)
+# Outbox (Sent Emails)
 
 **In this article:**
 
 - What is the Outbox?
 
-- Where can I see Sent Emails?
+- Where can I see sent emails?
 
-- How do Sent Emails look?
+- How do sent emails look?
 
-## What is the Outbox section?
+## What Is the Outbox?
 
-Outbox is a page where you can see the number and history of emails sent from the workspace.
+The Outbox is a page where you can see the number and history of emails sent from the workspace.
 
-**Note:** Outbox only shows emails sent from the past 30 days. To see email sent more than 30 days ago, please the sent emails page directly on your email account.
+**Note:** The Outbox only shows emails sent in the past 30 days. To see emails sent more than 30 days ago, check the sent emails page directly in your email account.
 
-## Where can I see Sent Emails?
+## Where Can I See Sent Emails?
 
-Sent emails can be found directly in the Outbox section on the left-side menu
+Sent emails can be found in the **Outbox** section in the left-side menu.
 
 ![screenshot](../images/000_file-cxFNjp1BVR.png)
 
-## How do Sent Emails look in the Outbox?
+## How Do Sent Emails Look in the Outbox?
 
-The Outbox shows the preview of the emails sent, the email account that sent the email, the date & time, and the campaign associated with the email.
+The Outbox shows a preview of each sent email, the email account that sent it, the date and time, and the associated campaign.
 
-**Note:** The timestamps of the sent emails depends is based on the timezone in your device
+**Note:** The timestamps of sent emails are based on the timezone set on your device.
 
-You can also see the daily number of sent emails in the past 30 days.
+You can also see the daily number of sent emails over the past 30 days.
 
 ![screenshot](../images/001_file-z418rEoK3V.png)
 
-Sent emails can be opened by clicking on them. The email will open on the right side of the screen where it can be read in detail.
+Sent emails can be opened by clicking on them. The email will open on the right side of the screen where it can be read in full.
 
 ![screenshot](../images/002_file-eDPq3jSAoC.png)
