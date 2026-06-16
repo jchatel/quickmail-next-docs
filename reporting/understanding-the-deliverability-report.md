@@ -12,7 +12,11 @@
 
 - Analyzing the Deliverability Report
 
-- How can I improve the deliverability of my inbox?
+- How can I improve the deliverability of my email account?
+
+- Where can I find the consolidated reports?
+
+- Where are the reports sent?
 
 ## Why Keep Track of the Deliverability Report?
 
@@ -52,11 +56,11 @@ Here are some examples of subject lines used in test emails:
 
 ## How to Receive a Weekly Deliverability Report?
 
-To receive a weekly Deliverability Report for a specific email account, go to **Channels** → **Email** → click the email account → **Deliverability** tab → check **Automatically test deliverability of this inbox each week**.
+To receive a weekly Deliverability Report for a specific email account, go to **Email** → click the email account → **Deliverability** tab → check **Automatically test deliverability of this inbox each week**.
 
 ## How to Manually Generate a Deliverability Report?
 
-To manually generate a Deliverability Report at any time, go to **Channels** → **Email** → click the email account → **Deliverability** tab → click **Generate Report**.
+To manually generate a Deliverability Report at any time, go to **Email** → click the email account → **Deliverability** tab → click **Generate Report**.
 
 **Note:** It may take up to 30 minutes for the report to generate.
 
@@ -98,15 +102,12 @@ The following guides may help:
 
 - [Cold Email: The Definitive Guide](https://quickmail.com/cold-email)
 
-## Where can I find the consolidate reports?
-There's no option yet in the accounts to see the consolidated reports.
-To get them, please go to each email > deliverability report tab > turn on test deliverability report every week.
+## Where Can I Find the Consolidated Reports?
 
-If this is turned on, we generate report every Monday and send it to your email.
-This includes all emails where the auto-report is turned on.
+There is no option yet to view consolidated reports in the account. To receive them, go to each email account → **Deliverability Report** tab → turn on **Automatically test deliverability of this inbox each week**.
 
-## Where are the reports sent?
-They are sent to the email address added to the deliverability report section of the account.
-To change it, please go to Settings > General > Deliverability test emails.
+When this is enabled, a report is generated every Monday and sent to your email. The report includes all email accounts where the auto-report setting is turned on.
 
+## Where Are the Reports Sent?
 
+Reports are sent to the email address added in the Deliverability Report section of the account. To change it, go to **Settings** → **General** → **Deliverability Test Emails**.
