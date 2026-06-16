@@ -20,7 +20,7 @@ Setting up an alias allows you to send emails from or receive replies to a diffe
 
 No. It is not possible to add an alias email account (or an email account without its own login or license) as a separate sender.
 
-**Note:** Changing the send-from and reply-to address may cause replies to go undetected in QuickMail. To avoid this, add the send-from and reply-to address as an inbox in QuickMail so it can also be scanned for replies.
+**Note:** Changing the send-from and reply-to address may cause replies to go undetected in QuickMail. To avoid this, add the send-from and reply-to address as an email account in QuickMail so it can also be scanned for replies.
 
 Also note that aliases still affect the deliverability of the primary email account, since emails sent via an alias are technically still sent from the primary address. If the goal is to avoid getting flagged, using an alias is not recommended.
 
@@ -32,17 +32,13 @@ Additionally, emails sent from aliases are not signed with SPF and DKIM records,
 
 **Note:** If you would like to use a secondary domain in your Google Workspace as an alias, it must also be set up as an alias in Gmail.
 
-**Step 2.** Go to **Channels** → **Emails** → click on the email account → **Sending** tab → add your preferred address under **Send-From** or **Reply-To**.
-
-![screenshot](../images/000_file-2E0CSv0ijm.png)
+**Step 2.** Go to **Email** → click on the email account → **Sending** tab → add your preferred address under **Send-From** or **Reply-To**.
 
 ## How to Use an Alias with a Microsoft Inbox?
 
 **Step 1.** Set up an alias directly in your Microsoft account. Here is a [guide](https://support.microsoft.com/en-us/office/add-or-remove-an-email-alias-in-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2) on how to do this.
 
-**Step 2.** Go to **Channels** → **Emails** → click on the email account → **Sending** tab → add your preferred address under **Send-From** or **Reply-To**.
-
-![screenshot](../images/001_file-uIxVeAjxo0.png)
+**Step 2.** Go to **Email** → click on the email account → **Sending** tab → add your preferred address under **Send-From** or **Reply-To**.
 
 ## How to Use an Alias with a Custom Inbox?
 
@@ -54,6 +50,6 @@ Additionally, emails sent from aliases are not signed with SPF and DKIM records,
 
 - [FastMail](https://www.fastmail.help/hc/en-us/articles/360060591073-How-to-set-up-aliases)
 
-**Step 2.** Go to **Channels** → **Emails** → click on the email account → **Sending** tab → add your preferred address under **Send-From** or **Reply-To**.
+**Step 2.** Go to **Email** → click on the email account → **Sending** tab → add your preferred address under **Send-From** or **Reply-To**.
 
 ![screenshot](../images/002_file-Uh54BjhxFA.png)
