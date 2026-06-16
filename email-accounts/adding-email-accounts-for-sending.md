@@ -30,7 +30,7 @@ If you do not have inboxes for sending yet, QuickMail sells Google email account
 
 In the left-hand navigation menu, go to the **Email** page.
 
-<img width="1353" height="694" alt="image" src="https://github.com/user-attachments/assets/fce67649-cb65-4b56-a42a-f4969521ea4f" />
+<img width="1362" height="705" alt="image" src="https://github.com/user-attachments/assets/efa14341-1eb1-47c6-a38a-b5ce7ecddbf0" />
 
 ### Option 1: I Have Access to the Email Account
 
@@ -38,15 +38,19 @@ In the left-hand navigation menu, go to the **Email** page.
 
 You can log in to your inbox directly to add it to QuickMail.
 
+<img width="1362" height="705" alt="image" src="https://github.com/user-attachments/assets/67e29f23-7b90-4c0c-81fe-657c31642c0d" />
+
 **Custom**
 
 If you are not using Gmail or Outlook, you can still use QuickMail with any email address that supports secure SMTP and IMAP connections.
+
+<img width="1362" height="705" alt="image" src="https://github.com/user-attachments/assets/41d67016-7a39-4c4c-8d91-ecd76d407869" />
 
 **Note:** It is not possible to add an email account using SMTP alone.
 
 To add a custom email, get the SMTP and IMAP credentials from your email service provider.
 
-![screenshot](../images/001_file-j5a2uYDFwW.png)
+<img width="1363" height="704" alt="image" src="https://github.com/user-attachments/assets/cf3332de-402a-4b38-954e-8da73de06735" />
 
 Here are some common custom inbox providers and guides on how to get their SMTP and IMAP credentials:
 
