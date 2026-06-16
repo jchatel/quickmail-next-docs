@@ -10,11 +10,11 @@
 
   - Option 2: I don't have access to the email account
 
-- I'm having difficulties adding an inbox. What should I do?
+- I'm having difficulties adding an email account. What should I do?
 
-- How many inboxes can I add?
+- How many email accounts can I add?
 
-- My inbox keeps getting paused due to error 550 5.1.8. What does it mean?
+- My email account keeps getting paused due to error 550 5.1.8. What does it mean?
 
 **Important:** Adding email accounts for sending is different from adding team members to your account. For a step-by-step guide on adding team members, check out this guide.
 
@@ -22,37 +22,31 @@
 
 QuickMail does not provide servers or IPs for sending emails. To use QuickMail, you will need an email account that can both send and receive messages.
 
-If you do not have inboxes for sending yet, QuickMail sells Google email accounts. Here is a detailed guide: Buying Gmail Accounts & Domains Through QuickMail.
+If you do not have email accounts for sending yet, QuickMail sells Google email accounts. Here is a detailed guide: Buying Gmail Accounts & Domains Through QuickMail.
 
 **Tip:** Email deliverability depends on the sender reputation of your email accounts. Here are some QuickMail features to help improve deliverability: Maximizing Email Deliverability in QuickMail.
 
 ## How to Add an Email Account?
 
-In the left-hand navigation menu, go to the **Email** page.
-
-<img width="1362" height="705" alt="image" src="https://github.com/user-attachments/assets/efa14341-1eb1-47c6-a38a-b5ce7ecddbf0" />
+Go to **Email**.
 
 ### Option 1: I Have Access to the Email Account
 
 **Gmail and Outlook**
 
-You can log in to your inbox directly to add it to QuickMail.
-
-<img width="1362" height="705" alt="image" src="https://github.com/user-attachments/assets/67e29f23-7b90-4c0c-81fe-657c31642c0d" />
+You can log in to your email account directly to add it to QuickMail.
 
 **Custom**
 
 If you are not using Gmail or Outlook, you can still use QuickMail with any email address that supports secure SMTP and IMAP connections.
 
-<img width="1362" height="705" alt="image" src="https://github.com/user-attachments/assets/41d67016-7a39-4c4c-8d91-ecd76d407869" />
-
 **Note:** It is not possible to add an email account using SMTP alone.
 
 To add a custom email, get the SMTP and IMAP credentials from your email service provider.
 
-<img width="1363" height="704" alt="image" src="https://github.com/user-attachments/assets/cf3332de-402a-4b38-954e-8da73de06735" />
+![screenshot](../images/001_file-j5a2uYDFwW.png)
 
-Here are some common custom inbox providers and guides on how to get their SMTP and IMAP credentials:
+Here are some common custom email providers and guides on how to get their SMTP and IMAP credentials:
 
 - Zoho: [SMTP](https://www.zoho.com/mail/help/zoho-smtp.html) & [IMAP](https://www.zoho.com/mail/help/imap-access.html)
 
@@ -68,7 +62,7 @@ Things to keep in mind when adding a custom email:
 
 - Make sure your email service provider supports a secure connection, as non-secure connections are not supported.
 
-- Avoid setting up 2FA, as it may prevent QuickMail from accessing the inbox.
+- Avoid setting up 2FA, as it may prevent QuickMail from accessing the email account.
 
 - Check whether your subscription plan includes IMAP access.
 
@@ -90,7 +84,7 @@ If you are working with a client and do not have access to their email account, 
 
 To generate an invite link, click **I don't have access to the inbox** → **Copy link to clipboard** → send the link to your client.
 
-## I'm Having Difficulties Adding an Inbox. What Should I Do?
+## I'm Having Difficulties Adding an Email Account. What Should I Do?
 
 **Email already exists**
 
@@ -98,7 +92,7 @@ An email address can only be added to one account at a time. If you are seeing t
 
 To resolve this, contact [support@quickmail.io](mailto:support@quickmail.io) and provide the email address so it can be removed from the other account.
 
-**It keeps adding the wrong Outlook inbox**
+**It keeps adding the wrong Outlook email account**
 
 When adding a Microsoft account, QuickMail automatically loads whichever email account is currently logged in to your browser. To fix this, try one of the following:
 
@@ -110,23 +104,23 @@ When adding a Microsoft account, QuickMail automatically loads whichever email a
 
 **Note:** Custom email addresses can produce a variety of errors. For troubleshooting, refer to this article. If your error is not listed, contact your email service provider.
 
-## How Many Inboxes Can I Add?
+## How Many Email Accounts Can I Add?
 
-The number of inboxes you can add depends on your account plan. For a full breakdown, see our pricing guide: [https://quickmail.io/pricing/](https://quickmail.io/pricing/)
+The number of email accounts you can add depends on your account plan. For a full breakdown, see our pricing guide: [https://quickmail.io/pricing/](https://quickmail.io/pricing/)
 
-**Pro tip:** If you want to increase the daily email volume of your account, the most effective approach is to use multiple inboxes. This allows you to spread the sending volume across accounts through inbox rotation.
+**Pro tip:** If you want to increase the daily email volume of your account, the most effective approach is to use multiple email accounts. This allows you to spread the sending volume across accounts through inbox rotation.
 
-## My Inbox Keeps Getting Paused Due to Error 550 5.1.8. What Does It Mean?
+## My Email Account Keeps Getting Paused Due to Error 550 5.1.8. What Does It Mean?
 
-The error code 550 5.1.8 (Access denied, bad outbound sender) indicates that Microsoft is flagging the inbox's sending behavior and has temporarily blocked the email account.
+The error code 550 5.1.8 (Access denied, bad outbound sender) indicates that Microsoft is flagging the email account's sending behavior and has temporarily blocked it.
 
-When QuickMail detects these bounces, it automatically pauses the inbox to prevent further bounces from occurring.
+When QuickMail detects these bounces, it automatically pauses the email account to prevent further bounces from occurring.
 
-This issue is caused by Microsoft's actions, not by QuickMail, and is not related to invalid email addresses in your lead list. It can occur if the inbox sends too many emails with identical content, has a low sender reputation, or appears to be sending spam.
+This issue is caused by Microsoft's actions, not by QuickMail, and is not related to invalid email addresses in your lead list. It can occur if the email account sends too many emails with identical content, has a low sender reputation, or appears to be sending spam.
 
-Microsoft's algorithm may flag accounts it suspects of being compromised or sending spam. To resolve this, contact Microsoft Support to request an unblock. If you have admin access, you can also follow this guide: Restore Restricted Users in Defender for Office 365.
+To resolve this, contact Microsoft Support to request an unblock. If you have admin access, you can also follow this guide: Restore Restricted Users in Defender for Office 365.
 
-Once the inbox is unblocked by Microsoft, remember to unpause it in QuickMail.
+Once the email account is unblocked by Microsoft, remember to unpause it in QuickMail.
 
 To avoid future blocks, consider the following best practices:
 
