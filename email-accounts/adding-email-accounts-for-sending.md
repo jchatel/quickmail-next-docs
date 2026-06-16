@@ -28,7 +28,7 @@ If you do not have inboxes for sending yet, QuickMail sells Google email account
 
 ## How to Add an Email Account?
 
-Go to **Channels** → **Email**.
+In the left-hand navigation menu, go to the **Email** page.
 
 ![screenshot](../images/000_file-TV6cmQfgjH.png)
 
