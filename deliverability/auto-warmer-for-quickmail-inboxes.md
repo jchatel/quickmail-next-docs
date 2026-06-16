@@ -20,7 +20,9 @@ Mailflow provides a step-by-step guide to help you set up email warming: [Quick 
 
 By default, the Mailflow Free Plan allows up to **5 warm-up emails per day per email account**.
 
-If you have a paid QuickMail subscription, you can request higher limits by emailing [support@mailflow.io](mailto:support@mailflow.io) after creating a Mailflow account:
+If you have a paid QuickMail subscription, you can request higher limits by emailing [support@mailflow.io](mailto:support@mailflow.io) after creating a Mailflow account. 
+
+The number of autowarmer emails that you can send daily per email account depends on your plan: 
 
 - **30 daily warm-up emails** — Basic / Starter Plan
 
