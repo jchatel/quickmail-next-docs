@@ -97,3 +97,16 @@ The following guides may help:
 - [The Ultimate Cold Email Checklist](https://quickmail.com/checklist)
 
 - [Cold Email: The Definitive Guide](https://quickmail.com/cold-email)
+
+## Where can I find the consolidate reports?
+There's no option yet in the accounts to see the consolidated reports.
+To get them, please go to each email > deliverability report tab > turn on test deliverability report every week.
+
+If this is turned on, we generate report every Monday and send it to your email.
+This includes all emails where the auto-report is turned on.
+
+## Where are the reports sent?
+They are sent to the email address added to the deliverability report section of the account.
+To change it, please go to Settings > General > Deliverability test emails.
+
+
