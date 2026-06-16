@@ -23,14 +23,13 @@
 There are three ways to add a LinkedIn account in QuickMail.
 
 **Tip:** If you do not have access to the LinkedIn account directly, you can generate an invite link instead.
-
-![screenshot](../images/000_file-znKjozYnKB.png)
+Go to LinkedIn > +LinkedIn > Get invite link.
 
 ### Option 1: Via Browser Extension (Recommended)
 
 **Step 1.** Log in to the LinkedIn account you want to add.
 
-**Step 2.** In a separate browser tab, go to **Channels** → click **Browser Extension**.
+**Step 2.** In a separate browser tab, open QuickMail and go to **LinkedIn** → click **Browser Extension**.
 
 ![screenshot](../images/001_file-RkXI5ujSrt.png)
 
@@ -90,21 +89,15 @@ Here is the page where the QR code appears:
 
 **Step 9.** Log out of your LinkedIn account, then log back in.
 
-**Step 10.** Copy the 2FA code from LinkedIn that you saved earlier.
+**Step 10.** Copy the 2FA code you saved earlier.
 
 ![screenshot](../images/013_file-OBX4uUKWU1.png)
 
-**Step 11.** Go to **Channels** → **LinkedIn** → **+ LinkedIn** → **LinkedIn Credentials + 2FA**.
-
-![screenshot](../images/014_file-somKzW5S4L.png)
+**Step 11.** In QuickMail, go to **LinkedIn** → **+ LinkedIn** → **LinkedIn Credentials + 2FA**.
 
 **Step 12.** Select your country → enter the email address and password associated with your LinkedIn account → paste the 2FA code → click **Add**.
 
-![screenshot](../images/015_file-DlpgcGjmQz.png)
-
 It may take a few minutes for the LinkedIn account to be added, but no longer than an hour.
-
-![screenshot](../images/016_file-kgP4FEjLCV.png)
 
 **Note:** If you have trouble adding your LinkedIn account, contact support at support@quickmail.io.
 
@@ -114,21 +107,15 @@ It may take a few minutes for the LinkedIn account to be added, but no longer th
 
 ![screenshot](../images/017_file-MZE02f3trn.png)
 
-**Step 2.** Once installed, go to your LinkedIn profile and click the cookie icon to copy the page cookies.
-
-If you do not see the cookie icon, click the puzzle icon in your browser toolbar to view all installed extensions.
+**Step 2.** Go to your LinkedIn profile and click the cookie icon to copy the page cookies. If you do not see the cookie icon, click the puzzle icon in your browser toolbar to view all installed extensions.
 
 ![screenshot](../images/018_file-WYJko8bdbP.png)
 
-**Step 3.** Go to **Channels** → **LinkedIn** → **+ LinkedIn** → **LinkedIn Cookies**.
-
-![screenshot](../images/019_file-DQ1I4mVLAR.png)
+**Step 3.** In QuickMail, go to **LinkedIn** → **+ LinkedIn** → **LinkedIn Cookies**.
 
 **Step 4.** Select your country → paste the cookies → click **Add**. The LinkedIn account will be added immediately.
 
 **Important:** Logging out of your LinkedIn account will disconnect it from QuickMail by invalidating the cookies. To avoid this, log in through an incognito window and close the window when done without logging out.
-
-![screenshot](../images/020_file-kNApQCUuzf.png)
 
 ## Troubleshooting
 
