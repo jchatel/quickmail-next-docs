@@ -1,85 +1,145 @@
-# Using Multiple Emails to Scale Campaigns (Inbox Rotation)
+# Buying Gmail Accounts & Domains Through QuickMail
 
 **In this article:**
 
-- Why rotate emails?
+- Why buy Google email accounts in QuickMail?
 
-- How does it work?
+- How much does it cost?
 
-- How to set it up?
+- How to buy Google email accounts in QuickMail?
 
-- Match the lead's email provider
+- Where can I see pending domain orders?
 
-- How to remove an email from a campaign if its deliverability goes bad?
+- Where can I get the password and 2FA?
 
-- I unassigned an email from a campaign but it is still sending emails — why?
+- How to cancel Google email accounts purchased from QuickMail?
 
-- I assigned more emails to a campaign but they are not sending emails — why?
+- How to add or remove email forwarding?
 
-## Why Rotate Emails?
+- How to add or remove domain forwarding?
 
-Email rotation allows you to increase the volume of emails sent from a campaign by spreading the load across multiple email accounts. It is also useful when a single campaign needs to be sent by multiple team members.
+- How to renew domains?
 
-## How Does It Work?
+- Can I change the DNS records of the domain?
 
-When a lead starts a campaign, QuickMail randomly assigns them to one of the email accounts assigned to that campaign. All follow-up emails for that lead will then be sent from the same email account for consistency.
+## Why Buy Google Email Accounts in QuickMail?
 
-**Note:** There is no option to control which leads are assigned to which email account or to set a specific number of leads per email account.
+- **Create new Google inboxes in just a few clicks** — no manual setup needed. Each email account is automatically added to your QuickMail workspace.
 
-## How to Set It Up?
+- **Skip the technical headaches** — QuickMail automatically configures DNS records (SPF, DKIM, DMARC) and custom tracking domains for optimal deliverability.
 
-Go to the campaign → **Channels** tab → under **Emails**, toggle on the email accounts you want to send from.
+- **Built-in Stealth Mode** — email accounts purchased through QuickMail use their own Gmail API, so Gmail sees emails as sent directly from the user, not a third party. This reduces the chance of being flagged and improves deliverability. You can start sending from day one as long as you keep the volume low. No more waiting for 2 weeks.
 
-![screenshot](../images/000_file-0yMo9mCcHv.png)
+- **Premium Auto-Warmer** — QuickMail's Auto-Warmer is currently only available for email accounts purchased through QuickMail. It generates realistic email exchanges within a trusted group of high-deliverability accounts, helping your emails land in the inbox more consistently.
 
-**Note:** For a detailed guide on adding an email account for sending, check out: Adding an Email Account for Sending.
+- **Lower monthly cost** — Gmail email accounts through QuickMail cost $4/month per email account, significantly less than buying directly from Google Workspace or other providers.
 
-## Match the Lead's Email Provider
+**Important:** Domains purchased through QuickMail are valid for one year. They are **non-refundable** and **non-transferable**.
 
-To further improve deliverability, you can enable the option to match each lead's email provider.
+## How Much Does It Cost?
 
-When enabled, QuickMail identifies the lead's email provider and assigns them to an email account that uses the same provider. For example, if a lead uses Google, they will be assigned to a Google email account if one is available. The same applies for Microsoft.
+**For users on new pricing (Starter, Growth, Agency plans):**
 
-If provider matching is not possible, the lead will be assigned to a different email account in the campaign automatically.
+To purchase new email accounts, you must first buy a Google email package. Each package includes 10 email accounts.
 
-### How to Enable It?
+- For accounts created before December 2025, the cost is $30 per package.
 
-Go to the campaign → click the menu icon (three vertical dots) → **Settings**.
+- For accounts created on or after December 2025, the cost is $40 per package.
 
-![screenshot](../images/001_file-XeoPVkOzCW.png)
+You can purchase as many packages as needed.
 
-Go to the **Advanced** tab → enable **Match Prospect Email Provider**.
+Bringing your own domain is not supported — a new domain must be purchased through QuickMail. Domain pricing depends on availability.
 
-![screenshot](../images/002_file-HwwzPKrqhK.png)
+It is currently not possible to add more email accounts under a domain you have already purchased. For example, if you bought a domain and added two email accounts, you will not be able to add a third later.
 
-## How to Remove an Email from a Campaign if Its Deliverability Goes Bad?
+**Note:** Users on old pricing (Basic, Pro, and Expert plans) do not need to purchase a package.
 
-Toggle the email account off from the **Channels** tab in the campaign, the same place where it was assigned.
+## How to Buy Google Email Accounts in QuickMail?
 
-**Pro tip:** To automate this process, Deliverability AI allows you to group email accounts and automatically swap underperforming ones out of campaigns while putting them into recovery. **Learn more about it here.**
+**Important:** This feature is only available to accounts on a paid subscription.
 
-## I Unassigned an Email from a Campaign but It Is Still Sending Emails — Why?
+**Step 1.** Purchase a Gmail package.
 
-When a lead starts a campaign, QuickMail assigns them to a specific email account and all follow-up emails for that lead continue to be sent from the same email account. Unassigning an email account from a campaign does not reassign leads that are already tied to it.
+Go to **Billing/Plan** → **Manage Plan**.
 
-To reassign those leads to different email accounts:
+![screenshot](../images/000_file-oMYt1pKjlw.png)
 
-1. Pause the campaign.
+Click **Add Gmail Package** → **Update Subscription**.
 
-2. Remove the old email accounts from the campaign.
+![screenshot](../images/001_file-7uOJrX7ltE.png)
 
-3. Set the campaign live again.
+Each package costs **$40** and allows you to add up to **10 email accounts**.
 
-Once the campaign resumes, leads tied to the removed email accounts will be automatically redistributed to the remaining active email accounts.
+**Note:** Users on old pricing (Basic, Pro, and Expert plans) can skip this step.
 
-**Note:** Any other campaigns using the same email account will also need to be paused before it can be removed.
+**Step 2.** Go to **Email** → **Buy Gmail Email Accounts**.
 
-After reassignment is complete, the old email accounts can be added back to the campaign if needed.
+**Step 3.** Search for the domain you would like to buy → check availability → add the website you would like to redirect the domain to → **Add to Cart**.
 
-If removing the email account is not an option, you can pause it instead to stop emails from being sent. Note that this will delay sending for all leads currently assigned to that email account.
+**Important:** Adding a redirect helps prevent new domains from being blacklisted. If recipients visit the domain in your emails, they will be automatically redirected to your main website.
 
-## I Assigned More Emails to a Campaign but They Are Not Sending Emails — Why?
+![screenshot](../images/003_file-BTKqBDGOG6.png)
 
-This is the same behavior described above. When a lead starts a campaign, they are assigned to a specific email account and remain tied to it. Adding new email accounts to the campaign does not automatically reassign existing leads to them.
+**Step 4.** Fill in the first name and last name → add a username → upload an avatar (optional). To add more email accounts, click **+ Email**. Otherwise, click **Continue**.
 
-New leads added to the campaign after the additional email accounts are assigned will be distributed across all active email accounts. Existing leads will continue sending from their originally assigned email account.
+![screenshot](../images/004_file-pmtdXS7WKf.png)
+
+**Step 5. (Optional)** To set up email forwarding, toggle on **Setup Email Forwarding** → add the email address to forward to → click **Continue**. Otherwise, skip this step.
+
+**Note:** If you wish to set up email forwarding in the future, you will need to configure it manually in your Gmail settings.
+
+![screenshot](../images/005_file-gQf9cxHnL0.png)
+
+**Step 6. (Optional)** To set up the auto-warmer, toggle on **Setup Auto-Warmer** → update the company and product name if needed → click **Continue**.
+
+**Tip:** To learn more about the auto-warmer, check out this guide: QuickMail Auto-Warmer.
+
+![screenshot](../images/006_file-cCUrFHho73.png)
+
+**Step 7.** Review the total cost → check the **I Accept** box → click **Pay Now**.
+
+![screenshot](../images/007_file-LzD2XGvVrF.png)
+
+**Step 8.** After payment, the email accounts will automatically appear in the **Email** page within 48 hours and will be ready for use.
+
+**Note:** Domains purchased through QuickMail have a ★ icon on their thumbnail. Email accounts in Stealth Mode display a detective icon next to "Google."
+
+![screenshot](../images/008_file-bIaE9UE9yR.png)
+
+## Where Can I See Pending Domain Orders?
+
+Pending domain orders can be viewed by clicking the hourglass icon here:
+
+![screenshot](../images/009_file-xERKpqelrC.png)
+
+## Where Can I Get the Password and 2FA of Purchased Email Accounts?
+
+Go to **Email** → click on an email account to open the quick view → **Password / 2FA One-time Password**.
+
+## How to Cancel Purchased Email Accounts?
+
+Contact [support@quickmail.io](mailto:support@quickmail.io) or use the chat widget at the bottom right of the page to request a cancellation.
+
+Once the email accounts are canceled, you can remove your Gmail package by going to **Billing** → **Manage Subscription** → downgrade the Gmail package to 0.
+
+## How to Add or Remove Email Forwarding?
+
+Email forwarding can only be added during the domain order process. To add, remove, or update email forwarding after that, contact support@quickmail.io.
+
+![screenshot](../images/011_file-CcL5XIedCf.png)
+
+## How to Add or Remove Domain Forwarding?
+
+Domain forwarding can only be added during the domain order process. To add, remove, or update domain forwarding after that, contact support@quickmail.io.
+
+![screenshot](../images/012_file-1zITOXHScT.png)
+
+## How to Renew Domains?
+
+When a domain is approaching its expiration date, you will be notified both in the interface and via email. The notification will include a **Renew** button to extend the domain before it expires.
+
+![screenshot](../images/013_file-PuAosTg6XC.png)
+
+## Can I Change the DNS Records of the Domain?
+
+No. Domain creation is fully automated, which means DNS records cannot be changed manually.
