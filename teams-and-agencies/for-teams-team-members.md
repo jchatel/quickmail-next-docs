@@ -1,5 +1,9 @@
 # For Teams: Team Members
 
+In QuickMail, you can easily grant access to colleagues or clients using their own email addresses. This allows seamless collaboration in managing an account without the need to share logins.
+
+**Note:** You can add as many team members and guests as needed at no additional charge.
+
 **In this article:**
 
 - Types of team access in QuickMail
@@ -10,128 +14,124 @@
 
 - Guests
 
-- How to add a Team Member?
+- How to add a team member?
 
-- How to change Team Member roles?
+- How to change team member roles?
 
-- How to add Guests?
+- How to add guests?
 
-- Where can I see each Team Member's activities?
+- Where can I see each team member's activities?
 
 - Why are campaigns, replies, or email accounts not visible to other team members?
 
 - FAQs
 
-In QuickMail, users can easily grant access to colleagues or clients by utilizing their own email addresses. This allows seamless collaboration in managing an account without the need to share logins.
+## What Are the Types of Team Access in QuickMail?
 
-**Note:** Users can add as many team members and guests as needed for no additional charge.
+There are three types of team access in QuickMail: **Admins**, **Team Members**, and **Guests**.
 
-# What are the types of team access in QuickMail?
-
-There are three types of team access in QuickMail: **Admins**, Team Members**, and **Guests
 ## Admins
 
-Admins can do everything except for:
+Admins can do everything except:
 
-- Manage private inboxes and campaigns owned by a different team member
+- Manage private email accounts and campaigns owned by a different team member.
 
 ## Team Members
 
-Team members can do everything except for:
+Team members can do everything except:
 
-- Manage private inboxes and campaigns owned by a different team member
+- Manage private email accounts and campaigns owned by a different team member.
 
-- Change the card on the billing page
+- Change the card on the billing page.
 
-- Purchase or update the subscription
+- Purchase or update the subscription.
 
-- Buy email verification credits
+- Buy email verification credits.
 
 ## Guests
 
-Guests can or cannot have edit access. If a guest has an edit access, they can do everything except for:
+Guests can or cannot have edit access. If a guest has edit access, they can do everything except:
 
-- Manage private inboxes and campaigns owned by a different team member
+- Manage private email accounts and campaigns owned by a different team member.
 
-- Access workspace settings
+- Access workspace settings.
 
-# How to Add a Team Member?
+## How to Add a Team Member?
 
-To add a team member, go to Settings  → Team  → click + Member → Toggle Admins rights (If you would like to provide admin access) → Generate Invitation Link
+Go to **Settings** → **Team** → click **+ Member** → toggle **Admin Rights** on if you would like to provide admin access → click **Generate Invitation Link**.
 
 ![screenshot](../images/000_file-fGkmJPZTck.png)
 
-Copy the invite link  →  Send it to the person you want to add to the team.
+Copy the invite link → send it to the person you want to add.
 
 ![screenshot](../images/001_file-GNShedeyp8.png)
 
-The new team members can choose to log in with their email (Google/Outlook) or LinkedIn account.
+New team members can log in with their email (Google or Outlook) or LinkedIn account.
 
-**Note:** An invite link will automatically expire once used. So if there's a need to add another team member, another invite link must be generated
+**Note:** An invite link expires once used. A new invite link must be generated for each additional team member.
 
-# How to Change Team Member's Role?
+## How to Change a Team Member's Role?
 
-Once a team member is added, it will show under Members tab in Team Settings and indicate whether they are an admin or not.
+Once a team member is added, they will appear under the **Members** tab in Team Settings, showing whether they are an admin or not.
 
-To remove or provide admin access, simply click on the team member listed and change admin access.
+To grant or remove admin access, click on the team member and change their admin access.
 
 ![screenshot](../images/002_file-FS1vSMTuik.png)
 
-# How to invite clients as guests?
+## How to Add Guests?
 
-Go to Settings → Team → Guests tab → click "+ Guest" at the top right corner
+Go to **Settings** → **Team** → **Guests** tab → click **+ Guest** in the top-right corner.
 
 ![screenshot](../images/003_file-ZjxWN7cx03.png)
 
-Select your preferred editing permission → Generate Invite Link
+Select your preferred editing permission → click **Generate Invite Link**.
 
 ![screenshot](../images/004_file-6TZJaxbY2J.png)
 
-Copy the invite link → provide it to your client.
+Copy the invite link and send it to your client.
 
 ![screenshot](../images/005_file-adAKiAGdOJ.png)
 
 **Note:** Invitation links are only valid for 24 hours.
 
-## Where can I see each Team Member's activities?
+## Where Can I See Each Team Member's Activities?
 
 All activities can be seen and filtered on the Changelog page.
 
-To access the Changelog, go to Settings → Team → Changelog
+Go to **Settings** → **Team** → **Changelog**.
 
 ![screenshot](../images/006_file-mKvaea6RQV.png)
 
-# Why are my email accounts, Opportunities, and campaigns not visible to my team members?
+## Why Are My Email Accounts, Inbox Items, and Campaigns Not Visible to Other Team Members?
 
-The reason Email accounts, Opportunity items, and campaigns are not visible to other Team Members is that they are Private. Private inboxes and campaigns are only visible to owners.  To fix this, the campaign must be 'Shared'
+Email accounts, Inbox items, and campaigns are private by default and are only visible to their owners. To make them visible to other team members, they must be set to Shared.
 
-**Share an Email Account**
+**Share an email account**
 
-To share an Email account, go to Channel → Email →  click the thumbnail of the email → change sharing settings.
+Go to **Email** → click the thumbnail of the email account → change the sharing settings.
 
 ![screenshot](../images/007_file-bjKB6Y3ctM.png)
 
-### Share a Campaign
+**Share a campaign**
 
-To share a Campaign, go to the Campaign and click the gear icon.
+Go to the campaign → click the gear icon.
 
 ![screenshot](../images/008_file-2hjVh3PQhV.png)
 
-Change the Sharing Settings to 'Shared'
+Change the **Sharing Settings** to **Shared**.
 
 ![screenshot](../images/009_file-pA7qXWBzd9.png)
 
-# FAQs
+## FAQs
 
-Q:Can I limit my team member's activity?
+**Q: Can I limit my team member's activity?**
 
-A: Nope, that's not possible yet. Please send an email to support@quickmail.io about why you'd need to have that option so we can check what we can do.
+A: That is not possible yet. If you need this feature, send an email to support@quickmail.io explaining your use case. The workaround for now is to add them as guests instead.
 
-However, the workaround is to add them as guests.
+**Q: Why can't I generate an invite link?**
 
-Q: Why can't I generate an invite link?
+A: Only team members of the account can generate an invite. If the email address you are using to access QuickMail is not added as a team member, attempting to generate an invite link will result in a permission error.
 
-A: Only team members of the account can generate an invite.  If the email address you're using to access QuickMail is not added as a team member of the account, when you try to generate an invite link, it will lead to a permission error.
+**Q: How many team members can I add?**
 
-Q: How many team members can I add?
-There's no limit to the number of team members you can add.
+A: There is no limit to the number of team members you can add.
