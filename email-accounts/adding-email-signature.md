@@ -10,25 +10,21 @@
 
 - How to create an HTML signature?
 
-- Can I add a logo or image to my signature?
-
 ## Why Create an Email Signature in QuickMail?
 
 Signatures in QuickMail are created on a per-inbox basis. This means that regardless of which email account is used to send a message, QuickMail will automatically apply the correct signature.
 
-This is especially useful when using multiple email accounts across campaigns. Rather than updating the signature in every email step manually, you only need to update it once on the inbox itself.
+This is especially useful when using multiple email accounts across campaigns. Rather than updating the signature in every email step manually, you only need to update it once on the email account itself.
 
-If you add your signature directly to the email body instead of using the signature attribute, the signature will be static and will not update automatically when the inbox signature changes.
+If you add your signature directly to the email body instead of using the signature attribute, the signature will be static and will not update automatically when the email account signature changes.
 
 ## How to Create a Signature?
 
-Go to **Channels** → **Email** → click on an email account to open the quick view → **Sending Settings** → scroll down to **Signature** → add your signature → **Save**.
-
-![screenshot](../images/000_file-e3d3PCwkq2.png)
+Go to **Email** → click on an email account to open the quick view → **Sending Settings** → scroll down to **Signature** → add your signature → **Save**.
 
 ## What Is the Signature Attribute?
 
-The signature attribute dynamically inserts the correct inbox signature into each email based on which account is sending it.
+The signature attribute dynamically inserts the correct email account signature into each email based on which account is sending it.
 
 To add the signature attribute, type `{{inbox.signature}}` in the email body, or click the **{ }** button to open the properties panel → click **Inbox** → select **inbox.signature**.
 
@@ -66,15 +62,13 @@ Go to the **Custom Properties** tab → click **+ New Property**.
 
 **Step 4.** Paste the property into your signature field.
 
-![screenshot](../images/008_file-DAyHJM8J7s.png)
-
 As long as the signature attribute is included in your emails, the HTML will render correctly for every recipient.
 
 ![screenshot](../images/006_file-xr6bJbuZBR.png)
 
 ## Can I Add a Logo or Image to My Signature?
 
-Yes. To add an image, go to **Channels** → **Email** → click on an email account → second tab → scroll down to **Signature** → click the image icon → choose **Upload** or **Image URL**.
+Yes. To add an image, go to **Email** → click on an email account → second tab → scroll down to **Signature** → click the image icon → choose **Upload** or **Image URL**.
 
 Note that there is no option to resize images within QuickMail. Resize your image before adding it to ensure it displays correctly.
 
