@@ -26,10 +26,18 @@ Paste the Email to Salesforce address into QuickMail. There are two ways to do t
 
 Adding a BCC email at the workspace level automatically BCCs all emails sent from the workspace, regardless of which email account is used.
 
+**Note:** Workspace-level BCC is currently only available in the old interface. To access it, go to the URL below and replace `your-workspace-ID` with your actual workspace ID:
+
+`https://next.quickmail.com/account/your-workspace-ID/settings/inboxes`
+
+Here is where you can find your workspace ID:
+
+![screenshot](../images/003_file-ovubyvDhLq.png)
+
+![screenshot](../images/002_file-VYdRPnvBrM.png)
+
 ### Option 2: Email Account Level
 
 Adding a BCC email at the email account level BCCs emails sent from that specific email account only.
 
-Go to **Channels** → **Emails** → click on the email account → **Sending** tab → fill in the **BCC All emails going out using this inbox** field.
-
-![screenshot](../images/004_file-Psm5MTlGc7.png)
+Go to **Email** → click the email account → under **Sending Settings**, fill in the BCC Email field.
