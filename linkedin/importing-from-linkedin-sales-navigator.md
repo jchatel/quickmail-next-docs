@@ -18,9 +18,8 @@ QuickMail's integration with LinkedIn Sales Navigator allows you to import selec
 
 ### Option 1: Manual Import
 
-**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
-
-![screenshot](../images/000_file-LWyUKbDRXl.png)
+**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. 
+Go to **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy: https://help.quickmail.com/linkedin/adding-linkedin-accounts/.
 
 **Note:** LinkedIn accounts showing a brown icon are supported for Sales Navigator. If the icon is blue, the account is not compatible.
 
@@ -50,7 +49,7 @@ When permission to access your LinkedIn account is lost, it will be highlighted 
 
 Auto-Import continuously monitors your saved Sales Navigator search. When a new lead appears, it is automatically added to your list or campaign.
 
-**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **Channels** → **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
+**Step 1.** Add a LinkedIn account that has a Sales Navigator subscription. Go to **LinkedIn** → **+ LinkedIn**. This guide on adding LinkedIn accounts might come in handy.
 
 ![screenshot](../images/006_file-LWyUKbDRXl.png)
 
