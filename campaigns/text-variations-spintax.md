@@ -32,4 +32,6 @@ Each time a lead reaches the email step, one variation from each set is picked a
 
 ![screenshot](../images/003_file-yABVGpvaNf.png)
 
-**Pro tip:** In addition to text variations, you can also create email variations for A/Z testing to track which copy performs best. Check this out.
+**Pro tip:** In addition to text variations, you can also create email variations for A/Z testing to track which copy performs best.
+Additionally, you can use Reword with AI instead of manually creating spintax.
+Here's more info on it: https://help.quickmail.com/deliverability/rewording-with-ai/
