@@ -1,8 +1,14 @@
-# Viewing Stats per Email Step & Variation
+# Viewing Stats per Email Step and Variation
 
-Users can see the stats per email step or per email variation. This allows users to identify which specific step or variation is performing well and which is not.
+You can view stats per email step or email variation to identify which specific step or variation is performing well.
 
-You can view stats per email step or variation for:
+**In this article:**
+
+- What stats are available per step or variation?
+
+- How to see stats per email step or variation?
+
+## What Stats Are Available per Step or Variation?
 
 - Total leads who went through that step
 
@@ -20,12 +26,12 @@ You can view stats per email step or variation for:
 
 - LinkedIn connection acceptances
 
-## How to see stats per email variation?
+## How to See Stats per Email Step or Variation?
 
-**Step 1.** Go to a specific campaign →  Stats
+**Step 1.** Go to a specific campaign → **Stats**.
 
 ![screenshot](../images/000_file-icbqu42WBP.png)
 
-**Step 2.** Go to the Steps tab → To view variations, click on the dropdown button next to the step
+**Step 2.** Go to the **Steps** tab → click the dropdown button next to a step to view its variations.
 
 ![screenshot](../images/001_file-ng9zTtphqq.png)
