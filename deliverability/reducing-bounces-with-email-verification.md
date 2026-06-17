@@ -195,5 +195,12 @@ When reimporting the CSV, make sure to select the campaign where you would like 
 ## There are invalid leads added to my campaign, what should I do?
 
 Leads marked as invalid will not be contacted. Instead, they will run into an error to prevent bounces.
-
 You can keep them in the campaign but it might be worth removing them to avoid confusion.
+
+## If I re-run the email verification on verified leads, will it work?
+
+Leads that were already verified will not use credits again.
+So re-verifying leads will not change their invalud status.
+
+To re-verifying leads, delete them from the workspace and re-add them.
+Note that that will delete their historical data.
