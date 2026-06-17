@@ -21,7 +21,8 @@
 ## Why Keep Track of the Deliverability Report?
 
 The Deliverability Report shows where emails from an email account are landing — inbox, spam, or promotions. It also shows whether your SPF and DKIM records are configured correctly. Knowing where your emails are landing helps you quickly identify and resolve deliverability issues.
-**Note: ** Deliverability Report is only available to accounts on Growth and Agency Plans (For accounts on grandfathered plan - Pro and Expert Plan)
+
+**Note:** Deliverability Report is only available to accounts on Growth and Agency Plans (For accounts on grandfathered plan - Pro and Expert Plan)
 
 ## How Does It Work?
 
