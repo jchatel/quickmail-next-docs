@@ -38,7 +38,9 @@ Setting a BCC email at the email account level adds the BCC address to all email
 Go to **Email** → click the email account → under **Sending Settings**, fill in the BCC Email field.
 
 ## How to Set Up a CC email?
-In campaign steps, there are CC fields where you can add an email.
-If you want each field to be different for each lead, create a custom property specific for CC > assign emails to them > insert the custom property attribute on the CC field.
+In campaign steps, there is a CC field where you can add an email address directly. For multiple addresses, separate them with a comma.
 
-FYI: CC and BCC fields are not going to show up on the outbox page.
+If you want a different CC address for each lead, create a custom property for CC, assign the relevant email to each lead, then insert that custom property in the CC field.
+
+Note: CC and BCC fields are not visible in the Outbox. 
+To confirm they were added correctly, log into your email provider and scan the sent emails — avoid opening them to prevent false opens and clicks from being recorded.
