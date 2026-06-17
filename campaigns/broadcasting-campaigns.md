@@ -1,25 +1,22 @@
-# Archiving Campaigns
+# Broadcasting Campaigns
 
-Archiving campaigns lets you hide them without permanently deleting anything. This is useful if you want to keep your workspace organized while still being able to access those campaigns in the future.
+Broadcasting Campaigns let you select multiple leads and send a single-step email campaign in just a few clicks. It's a simple and efficient way to share announcements, updates, promotions, or important messages without needing to manually create a multi-step campaign.
 
-## How to Archive a Campaign?
+## How to Broadcast an Email?
 
-Go to the campaign you'd like to archive → click the menu icon (three vertical dots) → **Archive** → **Confirm**
+Go to the Leads page → select leads you'd like to send an email to → **Broadcast Email**
 
-![screenshot](../images/000_file-vMRW6Of3Bq.png)
+<img width="928" height="571" alt="image" src="https://github.com/user-attachments/assets/e14ee867-c0b9-4960-a244-ce2b30732fb0" />
 
-Once archived, the campaign will no longer be visible in the campaign list.
+After that, select the email account you'd like to use for sending → add your message → Click Start 
 
-**Note:** There is no option to bulk archive campaigns yet. Each campaign must be archived individually.
+<img width="904" height="704" alt="image" src="https://github.com/user-attachments/assets/2e623989-0ee1-492d-afbc-7115e40ad01b" />
 
-## How to See Archived Campaigns?
+## How to see stats of the Broadcasted Email?
 
-Go to the Campaigns page → **Filters** → toggle on **Show Archived**
+**Note:** A one-step campaign will be created after broadcasting an email. 
 
-![screenshot](../images/001_file-lfbm1i3FKE.png)
+Go to the Campaigns page → Look for the campaign named 'Broadcast-date-time' → See stats
 
-## How to Unarchive a Campaign?
+<img width="1467" height="604" alt="image" src="https://github.com/user-attachments/assets/9470b413-cc0e-41a7-946f-c53f5f6d85a0" />
 
-Go to the archived campaign using the filters above → click the menu icon (three vertical dots) → **Unarchive** → **Confirm**
-
-![screenshot](../images/002_file-ze4xCarZTw.png)
