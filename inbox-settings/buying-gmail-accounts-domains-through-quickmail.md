@@ -72,7 +72,7 @@ Each package costs **$40** and allows you to add up to **10 email accounts**.
 
 **Note:** Users on old pricing (Basic, Pro, and Expert plans) can skip this step.
 
-**Step 2.** Go to **Channels** → **Email** → **Buy Gmail Email Accounts**.
+**Step 2.** Go to **Email** → **Buy Gmail Email Accounts**.
 
 ![screenshot](../images/002_file-0DIc1TCOz9.png)
 
