@@ -24,11 +24,11 @@ If you have a paid QuickMail subscription, you can request higher limits by emai
 
 The number of autowarmer emails that you can send daily per email account depends on your plan: 
 
-- **30 daily warm-up emails** — Basic / Starter Plan
+- **30 daily warm-up emails** — Starter Plan
 
-- **40 daily warm-up emails** — Pro Plan
+- **40 daily warm-up emails** — Growth
 
-- **50 daily warm-up emails** — Expert / Agency Plan
+- **50 daily warm-up emails** — Agency Plan
 
 New Mailflow accounts automatically start with a **14-day trial**. To keep your warm-up running after the trial ends, make sure to subscribe to Mailflow's **Free Plan**.
 
