@@ -26,9 +26,9 @@ The report includes:
 
 - **Modified X leads** — the number of existing leads that were re-imported. Note that this does not necessarily mean their information was updated.
 
-- **Rejected X leads** — the number of leads that were rejected.
+- **Rejected X leads** — the number of leads that were rejected while being added to the account. Note that this only includes leads rejected during the account import process and does not include leads that were rejected when being added to a campaign.
 
-**Details** — information on which leads were rejected and the reasons why.
+- **Details** — information on which leads were rejected and the reasons why.
 
 ![screenshot](../images/000_file-cCOoSSKruE.png)
 
