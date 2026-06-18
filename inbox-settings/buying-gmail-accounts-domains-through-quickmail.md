@@ -116,7 +116,7 @@ Pending domain orders can be viewed by clicking the hourglass icon here:
 
 ## Where Can I Get the Password and 2FA of Purchased Email Accounts?
 
-Go to **Channels** → click on an email account to open the quick view → **Password / 2FA One-time Password**.
+Go to **Email** → click on an email account to open the quick view → **Password / 2FA One-time Password**.
 
 ![screenshot](../images/010_file-AQPyT98Znu.png)
 
