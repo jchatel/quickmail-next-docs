@@ -1,6 +1,6 @@
 # QuickMail Auto-Warmer
 
-QuickMail's built-in Auto-Warmer is currently only available for Google email accounts purchased directly through QuickMail. If you are using external or custom email accounts, you can still warm them up using Mailflow.io at no additional cost as part of your QuickMail subscription. Check out Auto-Warmer for Non-QuickMail Email Accounts 🔥 for more info.
+**QuickMail's built-in Auto-Warmer is currently only available for Google email accounts purchased directly through QuickMail.** If you are using external or custom email accounts, you can still warm them up using Mailflow.io at no additional cost as part of your QuickMail subscription. Check out Auto-Warmer for Non-QuickMail Email Accounts 🔥 for more info.
 
 **In this article:**
 
