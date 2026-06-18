@@ -102,7 +102,7 @@ Each package costs **$40** and allows you to add up to **10 email accounts**.
 
 ![screenshot](../images/007_file-LzD2XGvVrF.png)
 
-**Step 8.** After payment, the email accounts will automatically appear in the **Channels** page within 48 hours and will be ready for use.
+**Step 8.** After payment, the email accounts will automatically appear in the **Emails** page within 48 hours and will be ready for use.
 
 **Note:** Domains purchased through QuickMail have a ★ icon on their thumbnail. Email accounts in Stealth Mode display a detective icon next to "Google."
 
