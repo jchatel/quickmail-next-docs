@@ -147,3 +147,12 @@ When a domain is approaching its expiration date, you will be notified both in t
 ## Can I Change the DNS Records of the Domain?
 
 No. Domain creation is fully automated, which means DNS records cannot be changed manually.
+
+## Does auto-warmer come with it?
+
+Yes. Auto-warmer is available only on Gmail emails purchased through QuickMail.
+You can find it by going to Emails > click the email > find the auto-warmer tab.
+
+Emails not purchased from us will not have the auto-warmer tab.
+So you need to go to MailFlow to warm up your emails:
+https://help.quickmail.com/deliverability/auto-warmer-for-quickmail-inboxes/
