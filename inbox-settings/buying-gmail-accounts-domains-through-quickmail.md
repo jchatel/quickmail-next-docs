@@ -156,3 +156,10 @@ You can find it by going to Emails > click the email > find the auto-warmer tab.
 Emails not purchased from us will not have the auto-warmer tab.
 So you need to go to MailFlow to warm up your emails:
 https://help.quickmail.com/deliverability/auto-warmer-for-quickmail-inboxes/
+
+## Why did my emails suddenly disappear?
+
+One reason it can happen is if the domains expired.
+A domain is valid only for a year so if it's due for renewal, an email notification will be sent to you.
+
+If it's not renewed before the domain expires, the domain and emails will be canceled automatically.
