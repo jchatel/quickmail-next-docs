@@ -6,6 +6,8 @@
 
 - How does sending a LinkedIn connection request work?
 
+- Understanding LinkedIn policies for sending connection requests with a message
+
 - How many LinkedIn connection requests can I send?
 
 - How to add a LinkedIn Connection Step to a campaign
@@ -28,7 +30,7 @@ With our LinkedIn Automation, you can effortlessly craft personalized connection
 
 When a LinkedIn connection step is created, a LinkedIn Profile View step is automatically created before it. This notifies the prospect that someone has viewed their profile and makes the LinkedIn activity look less automated.
 
-## Understanding LinkedIn policies for sending connection requests with a message**
+## Understanding LinkedIn policies for sending connection requests with a message
 
 LinkedIn applies stricter limits to personalized connection requests (those that include a message).
 
