@@ -38,7 +38,7 @@ You can enable the LinkedIn setting: "Send without a message if LinkedIn's perso
 
 When enabled, QuickMail will automatically send the connection request without a message if LinkedIn rejects the personalized invite due to limit restrictions. Since LinkedIn generally allows more connection requests without a message, this helps maximize the number of requests that can be sent.
 
-Otherwise, we will automatically reschedule and retry the LinkedIn connection request the following day.
+Otherwise, we will automatically reschedule and retry the LinkedIn connection request with message the following day.
 
 ## How many LinkedIn connection requests can I send?**
 
