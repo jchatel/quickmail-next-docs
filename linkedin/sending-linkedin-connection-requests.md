@@ -36,9 +36,9 @@ LinkedIn applies stricter limits to personalized connection requests (those that
 
 You can enable the LinkedIn setting: "Send without a message if LinkedIn's personalized invite limit is reached."
 
-When enabled, QuickMail will automatically retry the connection request without a message if LinkedIn rejects the personalized invite due to limit restrictions. Since LinkedIn generally allows more connection requests without a message, this helps maximize the number of requests that can be sent.
+When enabled, QuickMail will automatically send the connection request without a message if LinkedIn rejects the personalized invite due to limit restrictions. Since LinkedIn generally allows more connection requests without a message, this helps maximize the number of requests that can be sent.
 
-Otherwise, we will automatically retry sending the LinkedIn connection request with a message within 24–48 hours.
+Otherwise, we will automatically reschedule and retry the LinkedIn connection request the following day.
 
 ## How many LinkedIn connection requests can I send?**
 
