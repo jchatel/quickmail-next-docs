@@ -1,4 +1,4 @@
-# Auto-warmer for QuickMail Inboxes
+# Auto-warmer for QuickMail Inboxes 🔥
 
 **QuickMail's built-in Auto-Warmer is currently only available for QuickMail-inboxes (Google email accounts purchased directly through QuickMail).**
 
