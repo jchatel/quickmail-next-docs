@@ -48,8 +48,6 @@ In QuickMail, you can configure as many LinkedIn connection requests per day as 
 
 If you need to send more connection requests, you can increase this limit or connect additional LinkedIn accounts at no extra cost.
 
-Keep in mind that LinkedIn's limits still apply. If your account reaches LinkedIn's connection request limit, QuickMail will be unable to send additional requests, and the affected leads will show an error until the limit resets.
-
 ## How to add a LinkedIn connection step to a campaign?
 
 - Setup LinkedIn Automation.
