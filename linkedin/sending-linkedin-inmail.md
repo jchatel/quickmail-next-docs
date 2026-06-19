@@ -67,3 +67,6 @@ If this is set, leads with LinkedIn that are not open profile will skip the InMa
 **Step 5:** Make sure to set the campaign live. Once a lead reaches the LinkedIn InMail step, they will receive the InMail message.
 
 To know more about QuickMail's LinkedIn Automation, check out this guide: LinkedIn Automation
+
+**Note:** Open profile or not, InMail can only be sent to leads you haven't had a conversation with in the past.
+Because of that, it's recommended to send it before the connection request.
