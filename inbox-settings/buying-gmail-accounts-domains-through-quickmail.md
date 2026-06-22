@@ -168,4 +168,4 @@ If it's not renewed before the domain expires, the domain and emails will be can
 
 ## Can I bring my own domain and get email accounts from QuickMail? 
 
-No, it's not possible to bring your own domain and get email accounts from QuickMail. A new domain purchased from QuickMail is required to get email accounts from QuickMail. 
+No, it's not possible to bring your own domain or use an existing domain to get email accounts from QuickMail. A new domain purchased from QuickMail is required to get email accounts from QuickMail. 
