@@ -21,7 +21,7 @@ https://help.quickmail.com/linkedin/adding-linkedin-accounts/
 
 - **Option 1 - Via Browser Extension (Recommended)**
 
-This allows you to Import from a LinkedIn post and send a connection request without needing to create a manual campaign, saving you time.
+This allows you to Import from a LinkedIn post and send a connection request without needing to manually create a campaign, saving you time.
 
 To get started, install QuickMail's Browser extension and go to 'Post Import' page:
  <img width="1201" height="710" alt="image" src="https://github.com/user-attachments/assets/c3a4a7b0-8429-4d09-8f7c-69802dcf3909" />
