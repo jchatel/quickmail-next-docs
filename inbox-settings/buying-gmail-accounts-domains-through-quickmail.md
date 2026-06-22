@@ -21,6 +21,8 @@
 - How to renew domains?
 
 - Can I change the DNS records of the domain?
+  
+- Can I bring my own domain and get email accounts from QuickMail? 
 
 ## Why Buy Google Email Accounts in QuickMail?
 
@@ -163,3 +165,7 @@ One reason it can happen is if the domains expired.
 A domain is valid only for a year so if it's due for renewal, an email notification will be sent to you.
 
 If it's not renewed before the domain expires, the domain and emails will be canceled automatically.
+
+## Can I bring my own domain and get email accounts from QuickMail? 
+
+No, it's not possible to bring your own domain and get email accounts from QuickMail. A new domain purchased from QuickMail is required to get email accounts from QuickMail. 
