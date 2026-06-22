@@ -17,7 +17,18 @@ https://help.quickmail.com/linkedin/adding-linkedin-accounts/
 
 ![screenshot](../images/000_file-mr2uTnY1zc.png)
 
-**Step 3.** Go to **List** → **+ Lead** → **LinkedIn Post**.
+**Step 3.** 
+
+Option 1 - Via Browser Extension (Recommended - This allows you to Import from a LinkedIn post and easily create a campaign at the same time)
+- Install QuickMail's Browser extension and go to 'Post Import' page:
+ <img width="1201" height="710" alt="image" src="https://github.com/user-attachments/assets/c3a4a7b0-8429-4d09-8f7c-69802dcf3909" />
+
+After that, edit the connection request you'd like to send and hit save. Add a follow up step is needed. Then click 'Import'. 
+<img width="1194" height="705" alt="image" src="https://github.com/user-attachments/assets/af8dc3e2-5727-4790-aa3b-2d63166b0bef" />
+
+
+Option 2 - Via Leads page
+- Go to **List** → **+ Lead** → **LinkedIn Post**.
 
 ![screenshot](../images/001_file-QSgxWzJRxo.png)
 
