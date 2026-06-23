@@ -22,11 +22,11 @@ Call steps are non-email campaign steps that allow users to make calls to leads.
 
 ## How to Make a Call?
 
-When a lead reaches a call step, their campaign progress will pause and a call item will be added to the Opportunities page.
+When a lead reaches a call step, their campaign progress will pause and a call item will be added to the Inbox page.
 
 ![screenshot](../images/003_file-JR7D3Z3ipE.png)
 
-**Step 1.** On the Opportunities page, open a call item to view the call script for that lead. Call items are labeled "Scheduled Call."
+**Step 1.** On the Inbox page, open a call item to view the call script for that lead. Call items are labeled "Scheduled Call."
 
 **Step 2.** Click the **Call** button to dial the lead's phone number using the call application associated with your browser or computer.
 
