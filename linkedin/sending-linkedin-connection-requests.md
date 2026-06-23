@@ -6,6 +6,8 @@
 
 - How does sending a LinkedIn connection request work?
 
+- Understanding LinkedIn policies for sending connection requests with a message
+
 - How many LinkedIn connection requests can I send?
 
 - How to add a LinkedIn Connection Step to a campaign
@@ -28,15 +30,23 @@ With our LinkedIn Automation, you can effortlessly craft personalized connection
 
 When a LinkedIn connection step is created, a LinkedIn Profile View step is automatically created before it. This notifies the prospect that someone has viewed their profile and makes the LinkedIn activity look less automated.
 
+## Understanding LinkedIn policies for sending connection requests with a message
+
+LinkedIn applies stricter limits to personalized connection requests (those that include a message).
+
+You can enable the LinkedIn setting: "Send without a message if LinkedIn's personalized invite limit is reached."
+
+When enabled, QuickMail will automatically send the connection request without a message if LinkedIn rejects the personalized invite due to limit restrictions. Since LinkedIn generally allows more connection requests without a message, this helps maximize the number of requests that can be sent.
+
+Otherwise, we will automatically reschedule the LinkedIn connection request with message the following day.
+
 ## How many LinkedIn connection requests can I send?
 
-LinkedIn limits the number of connection requests that can be sent weekly.
+LinkedIn imposes its own weekly limits on connection requests, and these limits can vary from account to account.
 
-In QuickMail, you can send up to 12 LinkedIn connection requests per day per LinkedIn Account to prevent the account from being suspended by LinkedIn.
+In QuickMail, you can configure as many LinkedIn connection requests per day as you'd like. However, we set a default limit of 12 connection requests per day per LinkedIn account to help reduce the risk of account restrictions or suspension.
 
-If there's a need to send more, it's possible to add more LinkedIn accounts as needed without additional cost.
-
-On the other hand, you can also set a different limit to the LinkedIn connection requests you send daily.
+If you need to send more connection requests, you can increase this limit or connect additional LinkedIn accounts at no extra cost.
 
 ## How to add a LinkedIn connection step to a campaign?
 

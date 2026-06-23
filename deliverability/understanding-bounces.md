@@ -67,3 +67,16 @@ To solve it, please revisit your cold email strategy to avoid bounces from happe
 For detailed fixes on these issues, refer to our Fixing Bounces Guide.
 
 -https://help.quickmail.com/deliverability/troubleshooting-handling-sender-related-bounces/
+
+## My leads opened and clicked but they're marked as invalid
+
+Spam filters or opening the sent emails on the inbox can lead to false opens and clicks.
+Not to worry because we don't count the bounces on the stats so false opens and clicks won't skew your stats.
+
+## My lead opened, clicked, replied but they still got marked as invalid
+
+The validity of an email is not forever.
+People come and go in companies so a lead can be valid today but invalid tomorrow.
+
+Additionally, bounces can also be caused by sender.
+It's best to look at the bounce notification to diagnose what happened.

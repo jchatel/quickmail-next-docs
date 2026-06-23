@@ -22,6 +22,8 @@
 
 The Deliverability Report shows where emails from an email account are landing — inbox, spam, or promotions. It also shows whether your SPF and DKIM records are configured correctly. Knowing where your emails are landing helps you quickly identify and resolve deliverability issues.
 
+**Note:** Deliverability Report is only available on Growth and Agency plans, as well as grandfathered Pro and Expert plans.
+
 ## How Does It Work?
 
 When deliverability testing is enabled, QuickMail automatically sends occasional test emails from your connected email account to monitored inboxes. These tests occur after the email account is first added, and then at the start of each week going forward.
@@ -63,6 +65,8 @@ To receive a weekly Deliverability Report for a specific email account, go to **
 To manually generate a Deliverability Report at any time, go to **Email** → click the email account → **Deliverability** tab → click **Generate Report**.
 
 **Note:** It may take up to 30 minutes for the report to generate.
+<img width="1084" height="702" alt="image" src="https://github.com/user-attachments/assets/8a363bd7-b83c-42ed-aad8-9f992b29a88e" />
+
 
 ## Analyzing the Deliverability Report
 

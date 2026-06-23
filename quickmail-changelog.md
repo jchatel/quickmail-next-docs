@@ -1,5 +1,10 @@
 # QuickMail Changelog
 
+## June 17, 2026
+
+### FEATURES
+- Email account and LinkedIn account invite links are now valid for 30 days instead of 24 hours. 
+
 ## June 15, 2026
 
 ### FIXES

@@ -21,6 +21,8 @@
 - How to renew domains?
 
 - Can I change the DNS records of the domain?
+  
+- Can I bring my own domain and get email accounts from QuickMail? 
 
 ## Why Buy Google Email Accounts in QuickMail?
 
@@ -72,7 +74,7 @@ Each package costs **$40** and allows you to add up to **10 email accounts**.
 
 **Note:** Users on old pricing (Basic, Pro, and Expert plans) can skip this step.
 
-**Step 2.** Go to **Channels** → **Email** → **Buy Gmail Email Accounts**.
+**Step 2.** Go to **Email** → **Buy Gmail Email Accounts**.
 
 ![screenshot](../images/002_file-0DIc1TCOz9.png)
 
@@ -102,7 +104,7 @@ Each package costs **$40** and allows you to add up to **10 email accounts**.
 
 ![screenshot](../images/007_file-LzD2XGvVrF.png)
 
-**Step 8.** After payment, the email accounts will automatically appear in the **Channels** page within 48 hours and will be ready for use.
+**Step 8.** After payment, the email accounts will automatically appear in the **Emails** page within 48 hours and will be ready for use.
 
 **Note:** Domains purchased through QuickMail have a ★ icon on their thumbnail. Email accounts in Stealth Mode display a detective icon next to "Google."
 
@@ -116,7 +118,7 @@ Pending domain orders can be viewed by clicking the hourglass icon here:
 
 ## Where Can I Get the Password and 2FA of Purchased Email Accounts?
 
-Go to **Channels** → click on an email account to open the quick view → **Password / 2FA One-time Password**.
+Go to **Email** → click on an email account to open the quick view → **Password / 2FA One-time Password**.
 
 ![screenshot](../images/010_file-AQPyT98Znu.png)
 
@@ -147,3 +149,23 @@ When a domain is approaching its expiration date, you will be notified both in t
 ## Can I Change the DNS Records of the Domain?
 
 No. Domain creation is fully automated, which means DNS records cannot be changed manually.
+
+## Does auto-warmer come with it?
+
+Yes. Auto-warmer is available only on Gmail emails purchased through QuickMail.
+You can find it by going to Emails > click the email > find the auto-warmer tab.
+
+Emails not purchased from us will not have the auto-warmer tab.
+So you need to go to MailFlow to warm up your emails:
+https://help.quickmail.com/deliverability/auto-warmer-for-quickmail-inboxes/
+
+## Why did my emails suddenly disappear?
+
+One reason it can happen is if the domains expired.
+A domain is valid only for a year so if it's due for renewal, an email notification will be sent to you.
+
+If it's not renewed before the domain expires, the domain and emails will be canceled automatically.
+
+## Can I bring my own domain and get email accounts from QuickMail? 
+
+No, it's not possible to bring your own domain or use an existing domain to get email accounts from QuickMail. A new domain purchased from QuickMail is required to get email accounts from QuickMail. 

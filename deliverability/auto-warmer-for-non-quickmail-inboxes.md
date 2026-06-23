@@ -1,8 +1,8 @@
-# Auto-Warmer for Non-QuickMail Email Accounts 🔥
+# Auto-Warmer for External Inboxes (Email accounts purchased outside QuickMail) 🔥
 
-QuickMail's built-in Auto-Warmer is currently only available for Google email accounts purchased directly through QuickMail.
+QuickMail's built-in Auto-Warmer is currently only available for QuickMail-inboxes (Google email accounts purchased directly through QuickMail).
 
-If you are using external or custom email accounts, you can still warm them up using [Mailflow.io](https://www.mailflow.io/) at no additional cost as part of your QuickMail subscription.
+If you are using external-inboxes (Or email accounts purchased outside QuickMail), you can still warm them up using [Mailflow.io](https://www.mailflow.io/) at no additional cost as part of your QuickMail subscription.
 
 **In this article:**
 
@@ -24,11 +24,11 @@ If you have a paid QuickMail subscription, you can request higher limits by emai
 
 The number of autowarmer emails that you can send daily per email account depends on your plan: 
 
-- **30 daily warm-up emails** — Basic / Starter Plan
+- **30 daily warm-up emails** — Starter Plan
 
-- **40 daily warm-up emails** — Pro Plan
+- **40 daily warm-up emails** — Growth
 
-- **50 daily warm-up emails** — Expert / Agency Plan
+- **50 daily warm-up emails** — Agency Plan
 
 New Mailflow accounts automatically start with a **14-day trial**. To keep your warm-up running after the trial ends, make sure to subscribe to Mailflow's **Free Plan**.
 
