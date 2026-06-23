@@ -1,0 +1,32 @@
+name: Rebuild Cloudflare website
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**.md"
+
+  # Also allows a manual rebuild from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Cloudflare build
+        env:
+          DEPLOY_HOOK_URL: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK_URL }}
+        run: |
+          test -n "$DEPLOY_HOOK_URL"
+
+          curl \
+            --fail-with-body \
+            --silent \
+            --show-error \
+            --request POST \
+            "$DEPLOY_HOOK_URL"
