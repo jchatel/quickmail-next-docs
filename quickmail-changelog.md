@@ -1,5 +1,10 @@
 # QuickMail Changelog
 
+## June 25, 2026
+
+### FIXES
+- New domains purchased from QuickMail were not sending autowarmer emails due to forwarding. 
+
 ## June 17, 2026
 
 ### FEATURES
