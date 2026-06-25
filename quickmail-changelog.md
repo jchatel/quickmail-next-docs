@@ -3,7 +3,12 @@
 ## June 25, 2026
 
 ### FIXES
-- New domains purchased from QuickMail were not sending autowarmer emails due to forwarding. 
+- New domains purchased from QuickMail were not sending autowarmer emails due to forwarding.
+
+## June 24, 2026
+
+### FEATURES
+- When a LinkedIn account is temporarily restricted due to exceeding connection request or messaging limits, the system will automatically pause LinkedIn sending activity and retry after 24 hours. 
 
 ## June 17, 2026
 
