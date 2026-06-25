@@ -18,7 +18,7 @@ Deleting a lead removes all of that lead's data from the account. This is an irr
 
 The lead will be removed from any campaigns, and any conversations or tasks related to them in Opportunities will also be removed. If the lead had been verified, their email verification status will also be removed.
 
-## How to Delete Leads?
+## How to Delete Leads from your Account?
 
 Leads can be deleted temporarily or permanently.
 
@@ -31,3 +31,9 @@ After clicking delete, an option to permanently delete the lead will appear. Per
 ![screenshot](../images/001_file-QpYfJayP3i.png)
 
 **Note:** Leads do not need to be permanently deleted if the goal is simply to make space for new leads.
+
+## How to Delete Leads from a Campaign?
+
+Go to a campaign → Leads page → select a lead → click the menu icon (three vertical dots) → **Delete**.
+
+Note that deleting a lead from a campaign won't delete the lead from the account. You'll still see that lead in the main list page. 
