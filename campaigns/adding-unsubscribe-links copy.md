@@ -25,7 +25,9 @@ Note: There's no option yet to set how many leads or which leads will be assigne
 
 If multiple emails are already added to the account, just go to the campaign channels. Under emails, toggle on emails that you want to send the campaign from.
 
-**Note:** For a detailed guide on how to add an email for sending: Adding an email account for sending
+<img width="1172" height="696" alt="image" src="https://github.com/user-attachments/assets/e3943fcd-72fc-43ee-a04a-b9ecc3cd03a1" />
+
+**Note:** For a detailed guide on how to add an email for sending: https://help.quickmail.com/email-accounts/adding-email-accounts-for-sending/
 
 # Match the lead's email provider
 
