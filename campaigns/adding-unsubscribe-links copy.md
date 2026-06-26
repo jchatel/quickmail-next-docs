@@ -1,73 +1,69 @@
-# Adding Unsubscribe Links
+# Using Multiple Emails to Scale Campaigns (Inbox Rotation)
 
 **In this article:**
+- Why rotate emails?
+- How does it work?
+- How to set it up?
+- Match the lead's email provider
+- How to remove the email from a campaign if its deliverability goes bad?
 
-- Why add an unsubscribe link to emails?
+# Why rotate emails?
 
-- How to add an unsubscribe link to my emails?
+Email rotation is set up to increase the number of emails being sent from a campaign.
+This is because the volume of emails coming from a campaign will be spread out to the emails assigned to it.
+Emails are also rotated if a single campaign must be sent by multiple team members.
 
-- How to personalize the unsubscribe message?
+# How does it work?
 
-- How to include an unsubscribe link in a signature?
+When a lead starts the campaign, QuickMail will randomly choose which email the journey will be assigned. 
 
-- How to include an unsubscribe link in the email header?
+The email that sends the initial email will be the same email that will send all the follow-up emails in the campaign.
 
-- What do leads see if they click unsubscribe?
+Note: There's no option yet to set how many leads or which leads will be assigned to which emails.
 
-# Why add an unsubscribe link to emails?
+# How to set it up?
 
-Including an unsubscribe link gives prospects a quick way to opt out, which can potentially reduce the risk of them marking your messages as spam.
+If multiple emails are already added to the account, just go to the campaign channels. Under emails, toggle on emails that you want to send the campaign from.
 
-However, the more links in a message, the greater the likelihood of reducing deliverability, so be mindful of that.
+**Note:** For a detailed guide on how to add an email for sending: Adding an email account for sending
 
-# How to add an unsubscribe link to my emails?
+# Match the lead's email provider
 
-To add an unsubscribe link to your emails, go to the campaign → Steps → open an email step → click the **{ }** icon in the email editor to open the properties menu.
+To further improve deliverability you can enable the option to match the lead's email provider.
 
-From the properties menu, click **Pre-computed** → click **Unsubscribe**.
+This feature will identify the email provider for the leads and will match it if possible using the email accounts assigned to the campaign.
 
-![screenshot](../images/000_file-rMq3PV1Hwy.png)
+For example if the lead has their email service hosted in Google and you assign a Google email account to send from the campaign, that matching email account will be used to send. The same applies for Microsoft as a provider.'
 
-This inserts the unsubscribe attribute wherever your cursor is in the message body.
+In cases where provider matching isn't possible, the journey will be automatically assigned to a different campaign inbox.
 
-It will read "If you don't want to hear from me again, click here," with "click here" being the unsubscribe link.
+How to set it up?The setting is enabled for each campaign. Go to Campaigns -> Open the campaign -> Options -> Settings. 
 
-![screenshot](../images/001_file-Q99eJjLSNy.png)
+Then go to Advanced settings -> Match prospect email provider
 
-# How to personalize the unsubscribe message?
+# How to remove the email from a campaign if its deliverability goes bad?
 
-The unsubscribe attribute can also be used as a hyperlink. To do that, type your text in the email body → highlight the part you'd like to use as the unsubscribe link → click the link button on the toolbar.
+You can manually toggle the email off from the same page where you assigned the email.
 
-![screenshot](../images/002_file-ehLCbFFTkh.png)
+**Pro tip:**  If you want to do it automatically, we have a Deliverability AI that allows you to group emails and automatically swap the campaign to use the good emails and put bad emails in recovery. 
+Learn more about it here.
 
-Enter `{{=unsubscribe}}` as the link → click **Save**.
+# I already assigned the inbox from the campaigns but it's still sending emails?
 
-![screenshot](../images/003_file-5cPDgJTIMp.png)
+When a lead starts a campaign, QuickMail assigns that lead to a specific inbox, and all follow-ups for that lead continue to be sent from the same inbox.
 
-# How to include an unsubscribe link in a signature?
+So if some leads in a campaign originally started from the unassigned inbox, their follow-ups will remain tied to those inboxes unless the assignment is reset.
 
-If you're including a signature in your emails, the unsubscribe link can live there too. From the signature page, you can link the `{{=unsubscribe}}` attribute to any word and it will work the same way it does in email steps.
+To reassign those leads to different inboxes, you can:
+Pause the campaign
+Remove the old inboxes
+Set the campaign live again
 
-# How to include an unsubscribe link in the email header?
+Once the campaign resumes, the leads assigned to the removed inboxes will automatically be redistributed to the remaining active inboxes.
 
-You can also include an unsubscribe link in the email header to make it easier for prospects to unsubscribe from a campaign.
+One important thing to note: any other campaigns currently using the old inbox will also need to be paused first.
 
-To do this, go to the campaign → click the gear icon → under the second tab, toggle **Add unsubscribe link in email header** on.
+After the reassignment is complete, the old inboxes can then be added back to the account and campaigns if needed.
 
-![screenshot](../images/004_file-NR3ISUEddw.png)
-
-Here's how the unsubscribe header will appear in your emails:
-
-![screenshot](../images/005_file-HSatDZyBS4.png)
-
-**Pro tip:** The unsubscribe header won't appear if the inbox doesn't have a good sender reputation or if the unsubscribe link is not SSL. To improve the chances of it appearing, set up custom domain tracking to ensure your unsubscribe links use SSL.
-
-# What do leads see when they click unsubscribe?
-
-When a lead clicks the unsubscribe link, they will be redirected to a form where they can choose the reason for unsubscribing.
-
-![screenshot](../images/006_file-n0qYP2txWR.png)
-
-**Note:** Leads are automatically unsubscribed as soon as they click the link, even if they don't select a reason from the list.
-
-Also FYI: It's not possible to edit the text in the form and change it to another language.
+If deleting is not an option, you can pause the inboxes to stop sending emails from them.
+Just note that that could delay the leads assigned to them.
