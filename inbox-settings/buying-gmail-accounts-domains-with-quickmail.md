@@ -1,18 +1,18 @@
-# Buying Gmail Accounts & Domains Through QuickMail
+# Buying Gmail Accounts With QuickMail
 
 **In this article:**
 
-- Why buy Google email accounts in QuickMail?
+- Why buy Google email accounts with QuickMail?
 
 - How much does it cost?
 
-- How to buy Google email accounts in QuickMail?
+- How to buy Google email accounts with QuickMail?
 
 - Where can I see pending domain orders?
 
 - Where can I get the password and 2FA?
 
-- How to cancel Google email accounts purchased from QuickMail?
+- How to cancel Google email accounts purchased with QuickMail?
 
 - How to add or remove email forwarding?
 
@@ -22,7 +22,7 @@
 
 - Can I change the DNS records of the domain?
   
-- Can I bring my own domain and get email accounts from QuickMail? 
+- Can I bring my own domain and get email accounts with QuickMail? 
 
 ## Why Buy Google Email Accounts in QuickMail?
 
@@ -30,13 +30,13 @@
 
 - **Skip the technical headaches** — QuickMail automatically configures DNS records (SPF, DKIM, DMARC) and custom tracking domains for optimal deliverability.
 
-- **Built-in Stealth Mode** — email accounts purchased through QuickMail use their own Gmail API, so Gmail sees emails as sent directly from the user, not a third party. This reduces the chance of being flagged and improves deliverability. You can start sending from day one as long as you keep the volume low. No more waiting for 2 weeks.
+- **Built-in Stealth Mode** — email accounts purchased with QuickMail use their own Gmail API, so Gmail sees emails as sent directly from the user, not a third party. This reduces the chance of being flagged and improves deliverability. You can start sending from day one as long as you keep the volume low. No more waiting for 2 weeks.
 
-- **Premium Auto-Warmer** — QuickMail's Auto-Warmer is currently only available for email accounts purchased through QuickMail. It generates realistic email exchanges within a trusted group of high-deliverability accounts, helping your emails land in the inbox more consistently.
+- **Premium Auto-Warmer** — QuickMail's Auto-Warmer is currently only available for email accounts purchased with QuickMail. It generates realistic email exchanges within a trusted group of high-deliverability accounts, helping your emails land in the inbox more consistently.
 
-- **Lower monthly cost** — Gmail email accounts through QuickMail cost $4/month per email account, significantly less than buying directly from Google Workspace or other providers.
+- **Lower monthly cost** — Gmail email accounts with QuickMail cost $4/month per email account, significantly less than buying directly from Google Workspace or other providers.
 
-**Important:** Domains purchased through QuickMail are valid for one year. They are **non-refundable** and **non-transferable**.
+**Important:** Domains purchased with QuickMail are valid for one year. They are **non-refundable** and **non-transferable**.
 
 ## How Much Does It Cost?
 
@@ -50,13 +50,13 @@ To purchase new email accounts, you must first buy a Google email package. Each 
 
 You can purchase as many packages as needed.
 
-Bringing your own domain is not supported — a new domain must be purchased through QuickMail. Domain pricing depends on availability.
+Bringing your own domain is not supported — a new domain must be purchased with QuickMail. Domain pricing depends on availability.
 
 It is currently not possible to add more email accounts under a domain you have already purchased. For example, if you bought a domain and added two email accounts, you will not be able to add a third later.
 
 **Note:** Users on old pricing (Basic, Pro, and Expert plans) do not need to purchase a package.
 
-## How to Buy Google Email Accounts in QuickMail?
+## How to Buy Google Email Accounts with QuickMail?
 
 **Important:** This feature is only available to accounts on a paid subscription.
 
@@ -106,7 +106,7 @@ Each package costs **$40** and allows you to add up to **10 email accounts**.
 
 **Step 8.** After payment, the email accounts will automatically appear in the **Emails** page within 48 hours and will be ready for use.
 
-**Note:** Domains purchased through QuickMail have a ★ icon on their thumbnail. Email accounts in Stealth Mode display a detective icon next to "Google."
+**Note:** Domains purchased with QuickMail have a ★ icon on their thumbnail. Email accounts in Stealth Mode display a detective icon next to "Google."
 
 ![screenshot](../images/008_file-bIaE9UE9yR.png)
 
@@ -142,7 +142,7 @@ Domain forwarding can only be added during the domain order process. To add, rem
 
 ## How to Renew Domains?
 
-When a domain is approaching its expiration date, you will be notified both in the interface and via email. The notification will include a **Renew** button to extend the domain before it expires.
+When a domain is approaching its expiration date, you will be notified both in the interface and via email. The notification will include a **Renew** button to extend the domain before it expires. Wheen you click the **Renew** button, the card on file will be charged immediately.
 
 ![screenshot](../images/013_file-PuAosTg6XC.png)
 
@@ -152,10 +152,10 @@ No. Domain creation is fully automated, which means DNS records cannot be change
 
 ## Does auto-warmer come with it?
 
-Yes. Auto-warmer is available only on Gmail emails purchased through QuickMail.
+Yes. Auto-warmer is available only on Gmail emails purchased with QuickMail.
 You can find it by going to Emails > click the email > find the auto-warmer tab.
 
-Emails not purchased from us will not have the auto-warmer tab.
+Emails not purchased with QuickMail doesn't have the auto-warmer tab.
 So you need to go to MailFlow to warm up your emails:
 https://help.quickmail.com/deliverability/auto-warmer-for-quickmail-inboxes/
 
@@ -166,6 +166,6 @@ A domain is valid only for a year so if it's due for renewal, an email notificat
 
 If it's not renewed before the domain expires, the domain and emails will be canceled automatically.
 
-## Can I bring my own domain and get email accounts from QuickMail? 
+## Can I bring my own domain and get email accounts with QuickMail? 
 
-No, it's not possible to bring your own domain or use an existing domain to get email accounts from QuickMail. A new domain purchased from QuickMail is required to get email accounts from QuickMail. 
+No, it's not possible to bring your own domain or use an existing domain to get email accounts with QuickMail. A new domain purchased with QuickMail is required to get email accounts new email accounts.
