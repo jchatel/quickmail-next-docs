@@ -1,5 +1,13 @@
 # QuickMail Changelog
 
+## June 30, 2026
+
+### FEATURES
+- Ability to bulk update email account sender names
+
+  <img width="642" height="503" alt="image" src="https://github.com/user-attachments/assets/de6191aa-185e-4ad5-a665-4c282d875431" />
+
+
 ## June 25, 2026
 
 ### FIXES
