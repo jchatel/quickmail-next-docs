@@ -20,11 +20,17 @@ Setting up an alias allows you to send emails from or receive replies to a diffe
 
 No. It is not possible to add an alias email account (or an email account without its own login or license) as a separate sender.
 
-**Note:** Changing the send-from and reply-to address may cause replies to go undetected in QuickMail. To avoid this, add the send-from and reply-to address as an email account in QuickMail so it can also be scanned for replies.
+**IMPORTANT NOTES:** 
 
-Also note that aliases still affect the deliverability of the primary email account, since emails sent via an alias are technically still sent from the primary address. If the goal is to avoid getting flagged, using an alias is not recommended.
+- Changing the Send-From or Reply-To address can prevent QuickMail from detecting replies if those email addresses are not connected to the workspace.
 
-Additionally, emails sent from aliases are not signed with SPF and DKIM records, which makes them more likely to land in spam.
+QuickMail only scans inboxes that have been added as sending email accounts. Therefore, if you use a different Send-From or Reply-To address, that address must also be added as an email account in QuickMail so the system can monitor it for incoming replies.
+
+The account does not need to be actively used to send emails—it only needs to be connected so QuickMail can scan it for replies and correctly track conversations.
+
+- Also note that aliases still affect the deliverability of the primary email account, since emails sent via an alias are technically still sent from the primary address. If the goal is to avoid getting flagged, using an alias is not recommended.
+
+- Additionally, emails sent from aliases are not signed with SPF and DKIM records, which makes them more likely to land in spam.
 
 ## How to Use an Alias with a Gmail Inbox?
 
