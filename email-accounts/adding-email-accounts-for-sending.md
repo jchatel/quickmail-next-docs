@@ -5,7 +5,6 @@
 - Why add an email account?
 
 - How to add an email account?
-
   - Option 1: I have access to the email account
 
   - Option 2: I don't have access to the email account
@@ -107,7 +106,7 @@ When adding a Microsoft account, QuickMail automatically loads whichever email a
 
 ## How Many Email Accounts Can I Add?
 
-The number of email accounts you can add depends on your account plan. For a full breakdown, see our pricing guide: [https://quickmail.io/pricing/](https://quickmail.io/pricing/)
+The number of email accounts you can add depends on your account plan. For a full breakdown, see our pricing guide: [https://quickmail.com/pricing/](https://quickmail.com/pricing/)
 
 **Pro tip:** If you want to increase the daily email volume of your account, the most effective approach is to use multiple email accounts. This allows you to spread the sending volume across accounts through inbox rotation.
 
@@ -138,5 +137,7 @@ To avoid future blocks, consider the following best practices:
 - **Verify emails** — regularly clean your lead list to remove invalid addresses.
 
 ## Handling Common Error
+
 **IMAP Error ** _Inbox didn't respond in a timely manner, cancelling communication._
+
 - This issue can occur when the email server takes too long to respond to our connection request. A common cause is having too many folders or emails in the mailbox. Please try deleting unnecessary folders and old emails, then reconnect the account and see if that resolves the issue.
