@@ -1,4 +1,4 @@
-# Managing LinkedIn Import Filters with ICP
+# Managing LinkedIn Import with ICP Filters
 
 **In this article:**
 
