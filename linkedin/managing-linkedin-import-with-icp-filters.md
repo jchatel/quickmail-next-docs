@@ -38,9 +38,15 @@ Without ICP filters, you would need to manually review and remove profiles that 
 
 ICP filters can be set up in two places:
 
-- **QuickMail app** — manage all your ICPs from the ICP section in the main app.
+- **Importing from LinkedIn post**
+  <img width="1156" height="696" alt="image" src="https://github.com/user-attachments/assets/7e114cd0-d529-44a2-9c11-f116ef7c7122" />
 
-- **LinkedIn extension** — configure ICP filters directly while creating campaigns.
+- **Importing Profile Viewers via LinkedIn Settings**
+  <img width="1159" height="694" alt="image" src="https://github.com/user-attachments/assets/b04eeecb-1548-4fec-b706-4630a591ca5b" />
+
+- **Importing Profile Viewers via LinkedIn Browser Extension**
+  <img width="1151" height="700" alt="image" src="https://github.com/user-attachments/assets/b837d2e4-98f4-42b1-afbb-40065dca0132" />
+
 
 ## What Filters Can I Use?
 
