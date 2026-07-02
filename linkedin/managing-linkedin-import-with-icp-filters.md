@@ -6,11 +6,11 @@
 
 - Why use ICP filters?
 
-- Where do I set up ICP filters?
+- What filters can I use?
 
 - How to create an ICP filter?
 
-- What filters can I use?
+- How do I use my ICP filters?
 
 - How do I know if my filters are working?
 
@@ -34,20 +34,6 @@ Without ICP filters, you would need to manually review and remove profiles that 
 
 - **Keep your campaigns clean** — reduce manual cleanup and maintain better list quality from the start.
 
-## Where Do I Set Up ICP Filters?
-
-ICP filters can be set up in two places:
-
-- **Importing from LinkedIn post**
-  <img width="1156" height="696" alt="image" src="https://github.com/user-attachments/assets/7e114cd0-d529-44a2-9c11-f116ef7c7122" />
-
-- **Importing Profile Viewers via LinkedIn Settings**
-  <img width="1159" height="694" alt="image" src="https://github.com/user-attachments/assets/b04eeecb-1548-4fec-b706-4630a591ca5b" />
-
-- **Importing Profile Viewers via LinkedIn Browser Extension**
-  <img width="1151" height="700" alt="image" src="https://github.com/user-attachments/assets/b837d2e4-98f4-42b1-afbb-40065dca0132" />
-
-
 ## What Filters Can I Use?
 
 You can use the following filters to define your ICP:
@@ -59,6 +45,8 @@ You can use the following filters to define your ICP:
 - **Target industries** — import only profiles from specific industries, such as "Software" or "Healthcare."
 
 - **Target locations** — import only profiles from specific locations, such as "United States" or "London."
+
+- **Open to Work** — import only profiles that are open to work."
 
 You can add multiple values for each filter type. If you add multiple values within the same filter (for example, multiple industries), profiles only need to match at least one of those values.
 
@@ -88,33 +76,43 @@ ICP filters will automatically be applied to your LinkedIn profile viewer and po
 
 - Click the button to create a new ICP.
 
-![screenshot](../images/001_file-SzNzNE04Qw.png)
+<img width="1158" height="694" alt="image" src="https://github.com/user-attachments/assets/2379d933-65cf-4302-be3c-1adf81553ebe" />
 
-- Name your ICP.
+- Name your ICP, create filters, and Click **Confirm**.
 
-- In **Target keywords**, type a keyword and click **Include** to target it or **Exclude** to skip it.
+<img width="1158" height="697" alt="image" src="https://github.com/user-attachments/assets/a9953bb2-4599-443e-a45d-7865318cffcd" />
 
-- In **Target job titles**, type a job title and click **Include** to target it or **Exclude** to skip it.
 
-- In **Target industries**, select an industry from the dropdown and click **Include** to target it or **Exclude** to skip it.
+## How do I use my ICP Filters?
 
-- In **Target locations**, select a location from the dropdown and click **Include** to target it or **Exclude** to skip it.
+ICP filters can be used in different ways:
 
-- Click **Confirm**.
+- **Importing from LinkedIn post**
+  <img width="1156" height="696" alt="image" src="https://github.com/user-attachments/assets/7e114cd0-d529-44a2-9c11-f116ef7c7122" />
 
-![screenshot](../images/002_file-H5UKKnvals.png)
+- **Importing Profile Viewers via LinkedIn Settings**
+  <img width="1159" height="694" alt="image" src="https://github.com/user-attachments/assets/b04eeecb-1548-4fec-b706-4630a591ca5b" />
+
+- **Importing Profile Viewers via LinkedIn Browser Extension**
+  <img width="1151" height="700" alt="image" src="https://github.com/user-attachments/assets/b837d2e4-98f4-42b1-afbb-40065dca0132" />
+
 
 ## How Do I Know if My Filters Are Working?
 
 After a LinkedIn import completes, you will receive an email with an import report showing:
 
-- How many profiles were imported.
+- Which ICP filter was used
 
-- How many profiles were skipped.
+- How many profiles were imported
 
-- Why profiles were skipped (for example, excluded company, wrong industry, or location did not match).
+- How many profiles were skipped
 
-Check this report to confirm your ICP filters are working as expected.
+- Why profiles were skipped (for example, excluded company, wrong industry, or location did not match)
+
+Check the import report to confirm your ICP filters are working as expected.
+
+<img width="765" height="467" alt="image" src="https://github.com/user-attachments/assets/4e5803e5-9968-4130-b6d9-4571f3871440" />
+
 
 ## FAQs
 
