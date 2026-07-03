@@ -4,8 +4,7 @@
 
 ### FEATURES
 - Added support for ICP filtering "Open to Work" leads in LinkedIn Profile View and LinkedIn Profile Import
-  ![Uploading image.png…]()
-
+  <img width="1248" height="701" alt="image" src="https://github.com/user-attachments/assets/a43e4b68-00c0-4a79-9e04-d302c614c1a7" />
 
 
 ## June 30, 2026
