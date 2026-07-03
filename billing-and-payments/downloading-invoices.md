@@ -42,7 +42,7 @@ After that, go to "Past" tab → Download invoices
 - Verify that you're signed in as an account admin.
 - Team members cannot download invoices.
 
-**My account has been canceled and I can't access my invoices
-**
+**My account has been canceled and I can't access my invoices**
+
 - For canceled accounts, invoices may no longer be visible in the Billing page.
 - If you need a copy of an invoice, contact us at support@quickmail.io, and we'll be happy to help.
