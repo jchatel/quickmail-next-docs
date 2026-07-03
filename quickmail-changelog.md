@@ -1,5 +1,13 @@
 # QuickMail Changelog
 
+## July 2, 2026
+
+### FEATURES
+- Added support for ICP filtering "Open to Work" leads in LinkedIn Profile View and LinkedIn Profile Import
+  ![Uploading image.png…]()
+
+
+
 ## June 30, 2026
 
 ### FEATURES
