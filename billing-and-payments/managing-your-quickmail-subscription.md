@@ -1,22 +1,21 @@
 # Managing Your QuickMail Subscription
 
 In this article:
-
 - What's included in the 14-day trial?
 
 - What happens after the 14-day trial?
 
-- What's included in each QuickMail plan?
+- What's Included in Each QuickMail Plan?
 
-- How to view your current subscription?
+- How to View Your Current Subscription?
 
-- How to upgrade or downgrade your plan?
+- How to Upgrade or Downgrade Your Plan?
 
-- How to cancel your subscription?
+- How to Cancel Your Subscription?
 
 ## What's Included in the 14-Day Trial?
 
-When you create a new account, your workspace is automatically placed on a **14-day free trial**.
+When creating a new account, your workspace is placed on a **14-day free trial by default**.
 
 ### Trial includes:
 
@@ -26,7 +25,7 @@ When you create a new account, your workspace is automatically placed on a **14-
 
 - Up to **100 emails per day**
 
-- Applies across all plans (not tied to a specific plan)
+- Applies generally across all plans (not tied to a specific plan)
 
 ## What Happens After the 14-Day Trial?
 
@@ -69,15 +68,15 @@ QuickMail offers three plans designed for different stages of outreach, whether 
 
 ## How to View Your Current Subscription?
 
-You can view your subscription by going to the **Billing/Plan** page, or by checking the banner in the **upper left-hand corner** of your workspace to see which plan you're on or how many days are left in your trial.
+You can view your subscription by going to the **Billing/Plan** page, or simply check the banner in the **upper left-hand corner** of your workspace to see which plan you're on or how many days are left in your trial.
 
 ![screenshot](../images/000_file-uq432O4gIT.png)
 
-- **For Team Accounts (Users on Starter and Growth):** Go to the **Billing/Plan** page in your workspace.
+- **For Team Accounts (Users on Starter and Growth):** To manage your subscription, go to the **Billing/Plan** page in your workspace.
 
 ![screenshot](../images/001_file-iiuyhgN3KC.png)
 
-- **For Agency Accounts (Users on the Agency plan):** Go to the **Billing/Plan** page in the Agency Dashboard.
+- **For Agency Accounts (Users on the Agency plan):** Agency subscriptions are managed from the **Billing/Plan** page in the Agency Dashboard.
 
 ![screenshot](../images/002_file-TCMirqQpmc.png)
 
@@ -87,7 +86,18 @@ To upgrade or downgrade your plan, go to the **Billing/Plan** page → click the
 
 ![screenshot](../images/003_file-ZnEJacrVgg.png)
 
-**Tip:** If you're on an old/legacy pricing plan and would like **unlimited email accounts**, **higher lead storage**, or an **increased email sending limit**, you can be moved to the new pricing structure (Starter, Growth, Agency). Email **support@quickmail.io** to request the switch.
+**Tip:** If you're on an old/legacy pricing plan and would like **unlimited email accounts**, **higher lead storage**, or an **increased email sending limit**, we can move you to our new pricing structure (Starter, Growth, Agency). Email us at **support@quickmail.io** to request the switch.
+
+Our pricing changes from time to time so if you're seeing a pricing on this article that's no longer available on your account, it's highly likely an old pricing.
+
+We can't put anyone on the old pricing once it's discontinued but we grandfather plans.
+So if you are on the old pricing, you will stay there unless you cancel and resubscribe or request support to switch you.
+
+For a more detailed guide on our pricing, please check here:
+https://quickmail.com/pricing/
+
+**Note:** Only admins can change the billing information of the account.
+Team members can make changes to the subscription but guests and inbox access can't.
 
 ## How to Cancel Your Subscription?
 
