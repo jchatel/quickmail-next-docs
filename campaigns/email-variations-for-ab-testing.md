@@ -12,13 +12,13 @@
 
 - How to stop sending an email variation that is not performing well?
 
-## Why Do A/Z Testing?
+## Why Do A/B Testing?
 
 A/Z testing allows you to test multiple email copies and determine which performs best. Performance is measured by opens, clicks, unsubscribes, and most importantly, replies.
 
 **Pro tip:** Using email variations also improves deliverability. Sending emails with different variations makes it harder for spam filters to identify and block your messages.
 
-## How to Do A/Z Testing?
+## How to Do A/B Testing?
 
 A/Z testing is done by creating multiple variations of an email step.
 
