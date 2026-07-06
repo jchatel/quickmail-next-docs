@@ -1,4 +1,4 @@
-# Email Variations for AZ Testing
+# Email Variations for AB Testing
 
 In this article:
 
@@ -12,13 +12,13 @@ In this article:
 
 - How to stop sending an email variation that is not performing well?
 
-## Why do AZ testing?
+## Why do AB testing?
 
 AZ testing is done to test multiple email copies and see which of the copies is working best.  An email copy's performance is measured by its opens, (clicks) unsubscribe, and most importantly --replies.
 
 Pro tip: Using email variations also improves your email deliverability. This is because sending emails with different variations will make it more difficult for spam filters to block you.
 
-## How to do AZ testing?
+## How to do AB testing?
 
 AZ testing can be easily done by creating multiple variations to an email step.
 
