@@ -1,4 +1,4 @@
-# Email Variations for A/Z Testing
+# Email Variations for A/B Testing
 
 **In this article:**
 
