@@ -155,9 +155,8 @@ No. Domain creation is fully automated, which means DNS records cannot be change
 Yes. Auto-warmer is available only on Gmail emails purchased with QuickMail.
 You can find it by going to Emails > click the email > find the auto-warmer tab.
 
-Emails not purchased with QuickMail doesn't have the auto-warmer tab.
-So you need to go to MailFlow to warm up your emails:
-https://help.quickmail.com/deliverability/auto-warmer-for-quickmail-inboxes/
+Emails not purchased with QuickMail doesn't have the auto-warmer tab. So you need to go to MailFlow.io to warm up your emails:
+https://help.quickmail.com/deliverability/quickmail-auto-warmer/
 
 ## Why did my emails suddenly disappear?
 
