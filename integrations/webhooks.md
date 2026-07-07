@@ -66,7 +66,7 @@ Go to the Organization Dashboard by clicking the organization name in the upper 
 
 ![screenshot](../images/003_file-c0z3HaNc0J.png)
 
-**Note:** Webhooks are only available for Agency accounts. If you do not see an option to access the Organization Dashboard, your account is likely a Team account. To switch to an Agency account, contact support at support@quickmail.io.
+**Note:** If you don't see the option to access the Organization Dashboard, it means your account isn't on the Agency plan. To use webhooks, you'll need to upgrade to the $299/month Agency plan.
 
 Go to the **Settings** tab → **Webhooks** → paste the webhook endpoint URL.
 
