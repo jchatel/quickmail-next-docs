@@ -160,10 +160,11 @@ https://help.quickmail.com/deliverability/quickmail-auto-warmer/
 
 ## Why did my emails suddenly disappear?
 
-One reason it can happen is if the domains expired.
-A domain is valid only for a year so if it's due for renewal, an email notification will be sent to you.
+One reason it can happen is if the domains expired. A domain is valid only for a year so if it's due for renewal, an email notification will be sent to you.
 
 If it's not renewed before the domain expires, the domain and emails will be canceled automatically.
+
+Unforunately, expired domains can no longer be recovered. 
 
 ## Can I bring my own domain and get email accounts with QuickMail? 
 
