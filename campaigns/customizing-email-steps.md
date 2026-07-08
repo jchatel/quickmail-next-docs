@@ -52,4 +52,4 @@ Once the custom property is created, insert it into your email step. The HTML wi
 
 ## Can I Add Personalized Images?
 
-Yes. QuickMail integrates with Hyperise, which allows you to create personalized images for your emails. Learn more about setting it up [here](https://support.hyperise.com/email-marketing-integrations/quickmail-integration).
+Yes, you can add personalized images in QuickMail. 
