@@ -1,5 +1,11 @@
 # QuickMail Changelog
 
+## July 5, 2026
+
+### FIXES
+- Reversed the order of the campaign lead progress bar.
+- Removed emojis from LinkedIn imports and fixed auto-capitalization for first and last names.
+
 ## July 2, 2026
 
 ### FEATURES
