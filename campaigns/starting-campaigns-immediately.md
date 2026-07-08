@@ -48,7 +48,9 @@ Then select all → **Resume** → **Resume Immediately**.
 
 ![screenshot](../images/002_file-Iga1yymHfN.png)
 
-**Important:** Resuming a large number of leads at once can cause a sudden spike in email volume. To avoid sending in high volumes, set up a daily email limit. Here is a detailed guide: https://help.quickmail.com/article/591-new-ui-setting-daily-email-limit
+**Important:** Resuming a large number of leads at once can cause a sudden spike in email volume. To avoid sending in high volumes, set up a daily email limit. 
+
+Here is a detailed guide: https://help.quickmail.com/email-accounts/setting-daily-sending-limit/
 
 ### Where Did My Triggers Go?
 
