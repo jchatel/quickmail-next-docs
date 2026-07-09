@@ -1,4 +1,4 @@
-# Adding Email Accounts for Sending
+a# Adding Email Accounts for Sending
 
 **In this article:**
 
@@ -16,7 +16,7 @@
 - My email account keeps getting paused due to error 550 5.1.8. What does it mean?
 - Handling Common Error
 
-**Important:** Adding email accounts for sending is different from adding team members to your account. For a step-by-step guide on adding team members, check out this guide.
+**Important:** Adding email accounts for sending is different from adding team members to your account. For a step-by-step guide on adding team members, check out this [guide](https://help.quickmail.com/teams-and-agencies/for-teams-team-members/).
 
 ## Why Add an Email Account?
 
