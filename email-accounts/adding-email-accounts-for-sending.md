@@ -102,7 +102,7 @@ When adding a Microsoft account, QuickMail automatically loads whichever email a
 
 - Temporarily use a different browser.
 
-**Note:** Custom email addresses can produce a variety of errors. For troubleshooting, refer to this article. If your error is not listed, contact your email service provider.
+**Note:** Custom email addresses can produce a variety of errors. For troubleshooting, contact your email service provider.
 
 ## How Many Email Accounts Can I Add?
 
