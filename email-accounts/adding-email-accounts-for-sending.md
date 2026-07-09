@@ -54,7 +54,7 @@ Here are some common custom email providers and guides on how to get their SMTP 
 
 - [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/1179/2175/general-private-email-configuration-for-mail-clients-and-mobile-devices/)
 
-- [GoDaddy](https://ph.godaddy.com/help/server-and-port-settings-for-workspace-email-6949)
+- [GoDaddy](https://www.godaddy.com/en-ph/help/use-imap-settings-to-add-my-professional-email-to-a-client-32204)
 
 Things to keep in mind when adding a custom email:
 
