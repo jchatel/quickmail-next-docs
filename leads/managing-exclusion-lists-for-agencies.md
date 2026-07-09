@@ -98,7 +98,7 @@ This is not currently supported. As a workaround, domains must be added to the a
 
 ## What if I Want an Email Address Excluded Only from Certain Workspaces?
 
-Add the lead to those specific workspaces and mark them as Do Not Contact. Here is a quick guide: Marking Leads as Do Not Contact.
+Add the lead to those specific workspaces and mark them as Do Not Contact. Here is a quick guide: [Marking Leads as Do Not Contact](https://help.quickmail.com/leads/handling-unsubscribes/).
 
 ## What if I Want a Domain Excluded Only from Certain Workspaces?
 
