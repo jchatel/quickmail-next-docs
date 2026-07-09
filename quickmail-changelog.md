@@ -1,10 +1,16 @@
 # QuickMail Changelog
 
+## July 9, 2026
+
+### FIXES
+- Bulk assigning thousands of senders to a campaign was leading to an error
+- Adding new LinkedIn accounts via 2FA was leading to an error
+
 ## July 5, 2026
 
 ### FIXES
-- Reversed the order of the campaign lead progress bar.
-- Removed emojis from LinkedIn imports and fixed auto-capitalization for first and last names.
+- Reversed the order of the campaign lead progress bar
+- Removed emojis from LinkedIn imports and fixed auto-capitalization for first and last names
 
 ## July 2, 2026
 
