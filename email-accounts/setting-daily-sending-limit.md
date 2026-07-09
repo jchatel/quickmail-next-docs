@@ -20,7 +20,7 @@ The daily sending limit allows you to control how many emails are sent from an e
 
 - **Reserving capacity for emails outside QuickMail** — email service providers impose daily sending limits to prevent abuse. If QuickMail uses up your entire daily limit, you will not be able to send manual emails or follow-ups outside of QuickMail.
 
-**Note:** If you need to control the times and days a campaign can send emails, use send times. If you need to control the number of leads starting the campaign daily, use triggers. Here is a **video guide** on that.
+**Note:** If you need to control the times and days a campaign can send emails, use send times. If you need to control the number of leads starting the campaign daily, use triggers. Here is a [guide on how to use Triggers](https://help.quickmail.com/campaigns/automate-starting-leads-with-triggers/).
 
 ## How Does the Daily Sending Limit Work?
 
