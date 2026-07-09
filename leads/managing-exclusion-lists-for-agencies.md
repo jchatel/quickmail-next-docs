@@ -102,6 +102,6 @@ Add the lead to those specific workspaces and mark them as Do Not Contact. Here 
 
 ## What if I Want a Domain Excluded Only from Certain Workspaces?
 
-Add the domain to the DNC domain list of those specific workspaces. Here is a quick guide: Setting Do Not Contact by Domain.
+Sure, that's possible. Simply go to the Leads page of a specific workspace, click on the ellipsis, and click exclude list. From there, you'll see an option to add domains to the exclude list. 
 
 **Note:** To ensure domains and email addresses are only excluded from specific workspaces and not the entire agency, make sure to turn off **Update Organization Do Not Contact** before marking them as Do Not Contact or adding domains to the DNC domain list.
