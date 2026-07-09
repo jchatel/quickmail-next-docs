@@ -14,7 +14,7 @@
 
 **When a lead clicks an unsubscribe link in your email, QuickMail automatically marks the journey as unsubscribed and adds the lead to the Do Not Contact list**. Leads on the Do Not Contact list cannot be added to any campaign.
 
-**Pro tip:** To learn how to add an unsubscribe link to your emails, check out this article.
+**Pro tip:** To learn how to add an unsubscribe link to your emails, check out this [article](https://help.quickmail.com/campaigns/adding-unsubscribe-links/).
 
 There are cases where you may need to do this manually, such as:
 
