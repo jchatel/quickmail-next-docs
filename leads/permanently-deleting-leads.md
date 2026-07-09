@@ -58,4 +58,4 @@ To avoid losing records, export the leads before permanently deleting them. Sele
 
 ## Can I Restore Permanently Deleted Leads?
 
-Permanently deleted leads cannot be restored to the account. The only workaround is to clear the list and re-add the leads manually, though this will not restore any of their original data.
+Permanently deleted leads cannot be restored to the account. However, you can reimport leads that were permanently deleted by going to the workspace **Settings** → scroll down → **Clean List**.
