@@ -102,7 +102,7 @@ Once the import is complete, an import report will be sent to the email address 
 
 ![screenshot](../images/012_file-PCiMBqWGjj.png)
 
-**Tip:** For troubleshooting import issues, check out this guide: Understanding Import Report.
+**Tip:** For troubleshooting import issues, check out this guide: [Understanding Import Report](https://help.quickmail.com/leads/understanding-the-import-report/).
 
 ## Importing Leads from Google Drive
 
