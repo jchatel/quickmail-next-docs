@@ -72,7 +72,7 @@ All added domains and email addresses will show who added them and when. If entr
 
 - **AI** — marked after a reply was categorized as an unsubscribe request.
 
-Learn more about automatically handling unsubscribes here.
+Learn more about automatically handling unsubscribes [here](https://help.quickmail.com/leads/handling-unsubscribes/).
 
 ## How to Automatically Add Leads to the Exclusion List if They Unsubscribe from a Workspace?
 
