@@ -50,7 +50,7 @@ You can also use this filter to find leads that are not marked as Do Not Contact
 
 Select any status under **Email Verification** to filter leads based on their email validity.
 
-**Pro tip:** To verify emails in QuickMail, set up an email verification tool. Here is a detailed guide on email verification.
+**Pro tip:** To verify emails in QuickMail, set up an email verification tool. Here is a detailed guide on [email verification](https://help.quickmail.com/deliverability/reducing-bounces-with-email-verification/).
 
 ![screenshot](../images/002_file-ZsQNr3DmGo.png)
 
