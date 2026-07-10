@@ -101,14 +101,14 @@ To access the Changelog, go to the **'Team'** tab in the agency dashboard → cl
 
 The reason email accounts, Opportunities items, and campaigns are not visible to other team members is that they are **Private**. Private inboxes and campaigns are only visible to their owners. To fix this, the campaign must be set to **'Shared'**.
 
-### How to make an email account visible to other team members?
+### Share an Email Account
 
 If an email account is visible on your end but not to other team members, check whether it is set to Private. Private email accounts are only visible to the user they are assigned to.
 To share an email account, go to **Channel** → **Email** → click on your preferred email → change sharing settings.
 
 <img width="1538" height="1156" alt="image" src="https://github.com/user-attachments/assets/d5964ff1-b6eb-4e77-a656-4ea907b61599" />
 
-### How to make a campaign visible to other team members?
+### Share a Campaign
 
 If a campaign is visible on your end but not to other team members, check whether it is set to Private. Private email accounts are only visible to the user they are assigned to.
 To share a campaign, go to the **Campaign** → click on the vertical ellipsis → **Settings**.
