@@ -1,4 +1,4 @@
-# Managing Team Members and Guests
+# Managing Team Members and Guests for Agencies
 
 **In this article:**
 
