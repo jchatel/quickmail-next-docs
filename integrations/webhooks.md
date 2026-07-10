@@ -2,6 +2,8 @@
 
 Using QuickMail webhooks makes it easy to fetch data from the workspaces under your organization and consolidate it.
 
+**Note** Webhooks is only available to accounts on the Agency Plan.
+
 Here are the available webhook events:
 
 - First open
@@ -30,11 +32,6 @@ Here are the available webhook events:
 
 - Opportunity status
 
-**In this article:**
-
-- How does it work?
-
-- How to set it up?
 
 ## How Does It Work?
 
