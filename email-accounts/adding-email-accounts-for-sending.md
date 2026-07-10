@@ -1,4 +1,4 @@
-a# Adding Email Accounts for Sending
+# Adding Email Accounts for Sending
 
 **In this article:**
 
