@@ -21,6 +21,7 @@
 - How to renew domains?
 
 - Can I change the DNS records of the domain?
+- What happens to expired domains? 
   
 - Can I bring my own domain and get email accounts with QuickMail? 
 
@@ -130,13 +131,13 @@ Once the email accounts are canceled, you can remove your Gmail package by going
 
 ## How to Add or Remove Email Forwarding?
 
-Email forwarding can only be added during the domain order process. To add, remove, or update email forwarding after that, contact support@quickmail.io.
+Email forwarding (also called email redirect or email redirection) can only be configured during the domain order process. If you need to add, remove, update, enable, disable, suspend, resume, or change email forwarding/redirects after your domain has been created, please contact support@quickmail.io.
 
 ![screenshot](../images/011_file-CcL5XIedCf.png)
 
 ## How to Add or Remove Domain Forwarding?
 
-Domain forwarding can only be added during the domain order process. To add, remove, or update domain forwarding after that, contact support@quickmail.io.
+Domain forwarding (also called domain redirect or URL forwarding) can only be configured during the domain order process. If you need to add, remove, update, enable, disable, suspend, resume, or change domain forwarding/redirects after your domain has been created, please contact support@quickmail.io
 
 ![screenshot](../images/012_file-1zITOXHScT.png)
 
@@ -158,13 +159,15 @@ You can find it by going to Emails > click the email > find the auto-warmer tab.
 Emails not purchased with QuickMail doesn't have the auto-warmer tab. So you need to go to MailFlow.io to warm up your emails:
 https://help.quickmail.com/deliverability/quickmail-auto-warmer/
 
-## Why did my emails suddenly disappear?
+## What happens when a domain expires? 
 
-One reason it can happen is if the domains expired. A domain is valid only for a year so if it's due for renewal, an email notification will be sent to you.
+When email accounts disappear from your account, it's usually because the domain they belong to has expired.
 
-If it's not renewed before the domain expires, the domain and emails will be canceled automatically.
+Domains are typically registered for one year. Before a domain expires, the domain provider normally sends renewal reminders to the registered email address.
 
-Unforunately, expired domains can no longer be recovered. 
+If the domain isn't renewed before its expiration date, the domain registration is canceled, and any email accounts associated with that domain will stop working and be removed automatically.
+
+Unfortunately, once a domain has expired and been canceled, we can't recover it. The domain may become available for registration again in the future, but there's no guaranteed timeline for when—or if—it will be released back into the public pool.
 
 ## Can I bring my own domain and get email accounts with QuickMail? 
 
