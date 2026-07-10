@@ -143,7 +143,7 @@ Yes. Auto-warmer is available only on Gmail emails purchased with QuickMail.
 
 You can find it by going to **Emails** → click the email → find the **auto-warmer** tab.
 
-Emails not purchased with QuickMail don't have the auto-warmer tab. For those, you'll need to warm them up using [QuickMail's Auto-Warmer guide](https://help.quickmail.com/deliverability/quickmail-auto-warmer/) instead.
+Emails not purchased with QuickMail don't have the auto-warmer tab. For those, you'll need to warm them up using [Mailflow.io](https://help.quickmail.com/deliverability/auto-warmer-for-non-quickmail-inboxes/) instead.
 
 ## What Happens When a Domain Expires?
 
