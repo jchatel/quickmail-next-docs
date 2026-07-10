@@ -1,6 +1,7 @@
-# For Teams: Team Members
+# Managing Team Members 
 
 In QuickMail, you can easily grant access to colleagues or clients using their own email addresses. This allows seamless collaboration in managing an account without the need to share logins.
+If you have an agency, please refer to this guide instead: [Managing Team Members for Agencies](https://help.quickmail.com/for-agencies/team-members-and-guests-for-agencies/)
 
 **Note:** You can add as many team members and guests as needed at no additional charge.
 
@@ -106,13 +107,13 @@ Go to **Settings** → **Team** → **Changelog**.
 
 Email accounts, Inbox items, and campaigns are private by default and are only visible to their owners. To make them visible to other team members, they must be set to Shared.
 
-**Share an email account**
+### Share an email account
 
 Go to **Email** → click the thumbnail of the email account → change the sharing settings.
 
 ![screenshot](../images/007_file-bjKB6Y3ctM.png)
 
-**Share a campaign**
+### Share a campaign
 
 Go to the campaign → click the gear icon.
 
