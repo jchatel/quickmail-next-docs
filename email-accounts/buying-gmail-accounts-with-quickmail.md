@@ -133,17 +133,6 @@ When a domain is approaching its expiration date, you will be notified both in t
 
 ![screenshot](../images/013_file-PuAosTg6XC.png)
 
-## Can I Change the DNS Records of the Domain?
-
-No. Domain creation is fully automated, which means DNS records cannot be changed manually.
-
-## Does Auto-Warmer Come with It?
-
-Yes. Auto-warmer is available only on Gmail emails purchased with QuickMail.
-
-You can find it by going to **Emails** → click the email → find the **auto-warmer** tab.
-
-Emails not purchased with QuickMail don't have the auto-warmer tab. For those, you'll need to warm them up using [Mailflow.io](https://help.quickmail.com/deliverability/auto-warmer-for-non-quickmail-inboxes/) instead.
 
 ## What Happens When a Domain Expires?
 
@@ -158,3 +147,15 @@ Unfortunately, once a domain has expired and been canceled, we can't recover it.
 ## Can I Bring My Own Domain and Get Email Accounts with QuickMail?
 
 No, it's not possible to bring your own domain or use an existing domain to get email accounts with QuickMail. A new domain purchased with QuickMail is required to get new email accounts.
+
+## Can I Change the DNS Records of the Domain?
+
+No. Domain creation is fully automated, which means DNS records cannot be changed manually.
+
+## Does Auto-Warmer Come with It?
+
+Yes. Auto-warmer is available only on Gmail emails purchased with QuickMail.
+
+You can find it by going to **Emails** → click the email → find the **auto-warmer** tab.
+
+Emails not purchased with QuickMail don't have the auto-warmer tab. For those, you'll need to warm them up using [Mailflow.io](https://help.quickmail.com/deliverability/auto-warmer-for-non-quickmail-inboxes/) instead.
