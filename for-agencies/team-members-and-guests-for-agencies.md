@@ -21,13 +21,13 @@ In QuickMail, users can easily grant access to colleagues or clients by utilizin
 
 There are three types of team access in QuickMail: Admins, Team Members, and Guests.
 
-### Admins
+### 1 - Admins
 
 Admins can do everything except for:
 
 - Manage private inboxes and campaigns owned by a different team member
 
-### Team Members
+### 2 - Team Members
 
 Team members can do everything except for:
 
@@ -36,14 +36,14 @@ Team members can do everything except for:
 - Purchase or update the subscription
 - Buy email verification credits
 
-### Guests
+### 3 - Guests
 
 Guests can or cannot have edit access. If a guest has edit access, they can do everything except for:
 
 - Manage private inboxes and campaigns owned by a different team member
 - Access other workspaces in the organization dashboard (Agency accounts)
 
-## How to Add a Team Member?
+## How to Add a Team Member to an Agency
 
 **Step 1.** To add a team member, go to the agency dashboard by clicking the organization name inside a workspace.
 <img width="1534" height="1154" alt="image" src="https://github.com/user-attachments/assets/b39ca1b4-0fd9-454f-addb-5abf758c3208" />
