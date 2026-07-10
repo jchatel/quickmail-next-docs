@@ -1,23 +1,17 @@
 # Creating an API Key
 
-**In this article:**
-
-- For agency accounts
-
-- For team accounts
-
 ## For Agency Accounts
 
-Go to the Agency Dashboard by clicking the organization name in the upper left corner → **Settings** → **General** → scroll to the bottom → click **Create API Key**.
+Go to the Agency Dashboard by clicking the Organization name at the upper left corner of the screen → Settings → General → Scroll to the bottom and click "Create API key"
 
-The API documentation link is available just above the button.
+Above the button for creating an API key, there's a link that allows users to access our API documentation.
 
 ![screenshot](../images/000_file-mNQJjKMQgo.png)
 
 ## For Team Accounts
 
-Go to **Settings** → **Integrations** → under **API Keys**, click **Create API Key**.
+Go to the Settings → Integrations → Under API keys, Create API Key
 
-The API documentation link is available just above the list of API keys.
+Above the list of API keys, there's a link that allows users to access our API documentation.
 
 ![screenshot](../images/001_file-XV2V0TXzmi.png)

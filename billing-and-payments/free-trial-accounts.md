@@ -48,7 +48,7 @@ We won't automatically charge you after the trial ends.
 
 No need to cancel trial accounts.
 
-Just let it expire and I can assure you that you won't get charged after the trial expires.
+Just let it expire and you won't get charged after the trial expires.
 
 We don't automatically charge customers without their permission.
 

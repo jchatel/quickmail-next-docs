@@ -2,13 +2,11 @@
 
 These are mostly just JSON samples for API calls.
 
-**Here's the complete API documentation to use:** [https://api.quickmail.com/help](https://api.quickmail.com/help)
+**Here's the complete API documentation to use:** [**https://api.quickmail.com/help**](https://api.quickmail.com/help)
 
 For convenience, we have a web app that you can use to test your integrations with your live data in QuickMail. Here's where you can access it: [https://api.quickmail.com/v2/graphiql](https://api.quickmail.com/v2/graphiql)
 
 API rate limit is 10 requests per 10 seconds
-
-FYI: API access is not available on trial.
 
 **In this article:**
 
@@ -36,14 +34,13 @@ FYI: API access is not available on trial.
   - Getting the number of leads that ran into an error
   - Getting leads
   - Deleting Leads
-  - Adding leads to campaign
   - Moving to the next page
   - Filtering: Exclude/Include workspace IDs
 - Ruby samples
   - Creating a lead
   - Retrieving a lead's information
 
-# Creating an API Key
+# Creating an API key
 
 To create an API key, please refer to this guide: Creating an API key in QuickMail
 
@@ -57,16 +54,21 @@ To get started, paste this on the headers:
 }
 ```
 
-Then, generate your API in QuickMail and replace the word `<API_KEY>` with it.
+![screenshot](../images/000_file-0cY6cjydhP.png)
 
-FYI: If you have 1 workspace, please go to **Settings > Integrations > generate API key**.
-If you have multiple workspaces (agency), please go to your **agency dashboard > settings > generate API key**.
+Then, generate your API in QuickMail and replace the word *<API_KEY>* with it.
 
-Next, click the play button. If the API key is valid, it should show the name of your agency, as well as the ID.
+Here's an **article** to help you generate an API key.
 
-**Common errors when setting up authorization**
+![screenshot](../images/001_file-d2Jhfcwfaz.png)
 
-If it shows an error, please double-check that the API key pasted is correct and that it's still on the agency dashboard. (It can be deleted by other team members.)
+Next, click the play button. If the API key is valid, it should show the name of your agency, as well as the ID. Like this:
+
+![screenshot](../images/002_file-oRbUyXcmkU.png)
+
+**Common error/s when setting up authorization**
+
+If it shows an error, please double-check that the API key pasted is correct and that it's still on the agency dashboard. (It can be deleted by other team members)
 
 Once the API key has been corrected or a new one added, just replace the old one on the headers and press the play button again.
 
@@ -76,13 +78,11 @@ Here's the full documentation: [https://api.quickmail.com/help](https://api.quic
 
 # Endpoint
 
-To use the API directly, send POST requests to:
-https://api.quickmail.com/v2/graphql
+To use the API directly, send POST requests directly to: `https://api.quickmail.com/v2/graphql`
 
-This URL is different from the GraphiQL page URL:
-https://api.quickmail.com/v2/graphiql
+This URL is different from the GraphiQL page URL: `https://api.quickmail.com/v2/graphiql`
 
-## JSON Samples
+## JSON samples
 
 ### Getting Agency information including name, ID, and URL
 
@@ -182,7 +182,7 @@ https://api.quickmail.com/v2/graphiql
 }
 ```
 
-> Note: This only pulls up the list of email accounts in the account. It doesn't pull up stats related to them such as opens, clicks, replies, sent emails, etc.
+This only pulls up the list of inboxes/email sender in the account. It doesn't pull up the stats related to the inboxes such as open, clicks, replies, sent emails, etc.
 
 ### Creating campaigns
 
@@ -190,8 +190,8 @@ https://api.quickmail.com/v2/graphiql
 mutation createCampaign {
   createCampaign(
     input: {
-      workspaceId: "add-workspace-id-here"
-      name: "Campaign 2"
+      workspaceId: "add-workspace-id-here",
+      name: "Campaign 2",
     }
   ) {
     campaign {
@@ -208,18 +208,18 @@ mutation createCampaign {
 mutation createEmailStep {
   createEmailStep(
     input: {
-      campaignId: "add-campaign-id-here"
-      subject: "insert subject here"
-      body: "insert body here"
-      continueThread: Boolean
-      openTracking: Boolean
-      clickTracking: Boolean
-      draft: Boolean
-      plainText: Boolean
-      cced: "insert cc email here"
+      campaignId: "add-campaign-id-here",
+      subject: "insert subject here",
+      body: "insert body here",
+      continueThread: Boolean,
+      openTracking: Boolean,
+      clickTracking: Boolean,
+      draft: Boolean,
+      plainText: Boolean,
+      cced: "insert cc email here",
       bcced: "bcc here"
-      preview: "The preview text snippet shown before opening the email in the user mail client."
-      paused: Boolean
+      preview: "The preview text snippet shown before opening the email in the user mail client.",
+      paused: Boolean,
       clientMutationId: "A unique identifier for the client performing the mutation."
     }
   ) {
@@ -236,18 +236,18 @@ mutation createEmailStep {
 mutation addEmailVariation {
   addEmailVariation(
     input: {
-      stepId: "campaign step ID here"
-      subject: "insert subject here"
-      body: "insert body here"
-      continueThread: Boolean
-      openTracking: Boolean
-      clickTracking: Boolean
-      draft: Boolean
-      plainText: Boolean
-      cced: "insert cc email here"
+      stepId: "campaign step ID here",
+      subject: "insert subject here",
+      body: "insert body here",
+      continueThread: Boolean,
+      openTracking: Boolean,
+      clickTracking: Boolean,
+      draft: Boolean,
+      plainText: Boolean,
+      cced: "insert cc email here",
       bcced: "bcc here"
-      preview: "The preview text snippet shown before opening the email in the user mail client."
-      paused: Boolean
+      preview: "The preview text snippet shown before opening the email in the user mail client.",
+      paused: Boolean,
       clientMutationId: "A unique identifier for the client performing the mutation."
     }
   ) {
@@ -264,8 +264,8 @@ mutation addEmailVariation {
 mutation createWaitStep {
   createWaitStep(
     input: {
-      campaignId: "insert campaign ID here"
-      unit: "days"
+      campaignId: "insert campaign ID here",
+      unit: "days",
       value: 3
     }
   ) {
@@ -282,20 +282,22 @@ mutation createWaitStep {
 mutation updateCampaignAutomation {
   updateCampaignAutomation(
     input: {
-      campaignId: "insert campaign ID here"
-      timeZone: "UTC"
+      campaignId: "insert campaign ID here",
+      timeZone: "UTC",
       businessDays: {
-        sunday: boolean
-        monday: boolean
-        tuesday: boolean
-        wednesday: boolean
-        thursday: boolean
-        friday: boolean
+        sunday: boolean,
+        monday: boolean,
+        tuesday: boolean,
+        wednesday: boolean,
+        thursday: boolean,
+        friday: boolean,
         saturday: boolean
-      }
+      },
       timeRanges: [
-        { day: monday, startTime: "00:00", endTime: "00:00" }
-        { day: tuesday, startTime: "00:00", endTime: "00:00" }
+        {
+          day: monday, startTime: "00:00", endTime: "00:00",
+          day: tuesday, startTime: "00:00", endTime: "00:00"
+        }
       ]
     }
   ) {
@@ -312,8 +314,8 @@ mutation updateCampaignAutomation {
 mutation setCampaignEmailAccounts {
   setCampaignEmailAccounts(
     input: {
-      campaignId: "insert campaign ID here"
-      emailAccountIds: ["email ID", "email ID"]
+      campaignId: "insert campaign ID here",
+      emailAccountIds: ["email ID", "email ID"],
       assign: boolean
     }
   ) {
@@ -333,8 +335,8 @@ mutation setCampaignEmailAccounts {
 mutation createCustomProperty {
   createCustomProperty(
     input: {
-      workspaceId: "workspace_5Mk2rvQpagb0aTLVXGDKRN4E"
-      name: "name of property"
+      workspaceId: "workspace_5Mk2rvQpagb0aTLVXGDKRN4E",
+      name: "name of property",
       value: "default value"
     }
   ) {
@@ -346,18 +348,18 @@ mutation createCustomProperty {
 }
 ```
 
-### Setting custom properties
+### Setting Custom Properties
 
 ```graphql
 mutation setCustomProperty {
   setCustomProperty(
     input: {
-      workspaceId: "workspace_xxxx"
-      customPropertyId: "custom_property_xxx"
+      workspaceId: "workspace_xxxx",
+      customPropertyId: "custom_property_xxx",
       leadIds: [
+        "lead_xxx",
         "lead_xxx"
-        "lead_xxx"
-      ]
+      ],
       value: "set via v2 API"
     }
   ) {
@@ -394,15 +396,15 @@ mutation createTag {
 mutation setTags {
   setTags(
     input: {
-      workspaceId: "workspace_xxx"
+      workspaceId: "workspace_xxx",
       leadIds: [
-        "lead_xxx"
+        "lead_xxx",
         "lead_xxx"
       ]
       tagIds: [
-        "tag_xxx"
-        "tag_xxx"
-      ]
+        "tag_xxx",
+        "tag_xxx",
+      ],
       assign: true # or false to untag
     }
   ) {
@@ -483,41 +485,17 @@ query getLeads {
 
 ```graphql
 mutation {
-  deleteLeads(
-    input: {
-      workspaceId: "workspace_a3ZyeOmKbzDXAiLzMXDY5APE"
-      leadIds: ["lead_r6zQLkOd0pnQiGVERvwaj14g", "lead_KQdYzj8W7OnJiY90AbaBeL6p"]
-      permanent: false
-    }
-  ) {
+  deleteLeads(input: { workspaceId: "workspace_a3ZyeOmKbzDXAiLzMXDY5APE", leadIds: ["lead_r6zQLkOd0pnQiGVERvwaj14g", "lead_KQdYzj8W7OnJiY90AbaBeL6p"], permanent: false }) {
     clientMutationId
   }
 }
 ```
 
-### Adding leads to campaign
-
-```
-mutation AddLeadsToCampaign {
-  addLeadsToCampaign(input: {
-    campaignId: "campaign_mOoqBn7dQ0NwsBzGXy8KzbR0"
-    leadIds: [
-      "lead_WzMmQXblDNZsM3NAVeqxp74K",
-      "lead_gGrwa2jk809iProak9B8pWQm",
-      "lead_vp40895V0gbCqKLAkM2zgdWn",
-      "lead_1jxqB8ykNQJubZXDlYXzL9AO",
-      "lead_YWAqM2zlxgmCavbm610RZKJG"
-    ]
-  }) {
-    leads { id email }
-    campaign { id name }
-  }
-}
-```
-
 ### Moving to the next page
 
-We only show the first 10 items on the first page. Use the following to paginate:
+We only show the 1st 10 items on the 1st page.
+
+So you need to use this JSON to move to the next page.
 
 ```graphql
 {
@@ -536,20 +514,18 @@ We only show the first 10 items on the first page. Use the following to paginate
 }
 ```
 
-To move to subsequent pages, take the `endCursor` value from `pageInfo` and pass it into the `after` argument:
+To move to the next pages, use the endCursor code and insert it into `campaigns(first: 10, after: "endCursor")`
 
-```graphql
-campaigns(first: 10, after: "endCursor")
-```
+![screenshot](../images/003_file-QCvSmZ028e.png)
 
-### Filtering: Exclude workspace IDs
+### Filtering: Exclude Workspace IDs
 
 ```graphql
 query {
   campaigns(
     excludeWorkspaceIds: [
-      "workspace_ID1"
-      "workspace_ID2"
+      "workspace_ID1",
+      "workspace_ID2",
       "workspace_ID3"
     ]
   ) {
@@ -562,14 +538,14 @@ query {
 }
 ```
 
-### Filtering: Include workspace IDs
+### Filtering: Include Workspace IDs
 
 ```graphql
 query {
   campaigns(
     includeWorkspaceIds: [
-      "workspace_ID1"
-      "workspace_ID2"
+      "workspace_ID1",
+      "workspace_ID2",
       "workspace_ID3"
     ]
   ) {
@@ -589,6 +565,7 @@ query {
 ```ruby
 quickmail_key = 'your api key'
 workspace_id = 'workspace_yourworkspace_id'
+
 email = 'john@ibm.com'
 
 mutation = <<~TEMPLATE
@@ -602,13 +579,14 @@ mutation = <<~TEMPLATE
   }
 TEMPLATE
 
-variables = { input: { workspaceId: workspace_id, leads: [{ firstName: 'John', email: 'john@ibm.com' }] } }
-query = { query: mutation, variables: variables }
+variables = { input: { workspaceId: workspace_id, leads: [{firstName: 'John', email: 'john@ibm.com'}] } }
+
+query = { query: mutation, variables: }
 
 options = {
   url: 'https://api.quickmail.com/api/v2/graphql',
   headers: {
-    authorization: quickmail_key,
+    authorization: "#{quickmail_key}",
     accept: 'application/json',
     content_type: 'application/json'
   },
@@ -617,7 +595,9 @@ options = {
 }
 
 response = RestClient::Request.execute(options)
+
 body = JSON.parse(response.body)
+
 errors = body.dig('errors')
 ```
 
@@ -625,7 +605,9 @@ errors = body.dig('errors')
 
 ```ruby
 quickmail_key = 'your api key'
+
 workspace_id = 'workspace_yourworkspace_id'
+
 email = 'john@ibm.com'
 
 payload = <<~TEMPLATE
@@ -648,7 +630,7 @@ query = { query: payload }
 options = {
   url: 'https://api.quickmail.com/api/v2/graphql',
   headers: {
-    authorization: quickmail_key,
+    authorization: "#{quickmail_key}",
     accept: 'application/json',
     content_type: 'application/json'
   },
@@ -657,5 +639,8 @@ options = {
 }
 
 response = RestClient::Request.execute(options)
+
 body = JSON.parse(response.body)
+
 errors = body.dig('errors')
+```

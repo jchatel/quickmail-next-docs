@@ -1,23 +1,29 @@
 # Visible Image Tracking
 
-In addition to the ability todisable open tracking based on email provider that we recently launched, we’ve added a new QuickMail feature that allows users to track opens based on the images they include, helping to prevent emails from being flagged for open tracking.
+In addition to the ability to disable open tracking based on email provider, QuickMail now offers Visible Image Tracking, which allows open tracking to be based on the images included in your emails rather than invisible pixels. This helps prevent emails from being flagged for open tracking.
 
-This update responds to Gmail now flagging emails with hidden images, including tiny pixels used for open tracking in cold outreach. Recipients see a banner stating, “Images in this message are hidden,” along with a prominent “Report spam” button, which could decrease reply rates and increase spam reports
+This update responds to Gmail flagging emails with hidden images, including tiny pixels used for open tracking in cold outreach. Recipients see a banner stating "Images in this message are hidden," along with a prominent "Report spam" button, which can decrease reply rates and increase spam reports.
 
 ![screenshot](../images/000_file-0gHsUOu8oi.png)
 
-## How does it work?
+**In this article:**
 
-By default, QuickMail inserts a tiny, invisible tracking pixel into your emails. When the recipient opens the email, this pixel loads, signaling that the email has been read.
+- How does it work?
 
-With Visible Image Tracking, we will use any visible images you include in your emails to track opens, helping to prevent the email from being flagged.
+- How to set it up?
 
-If you don’t include an image, we will insert a tiny transparent dot at the bottom of the email. While this dot is invisible to the eye, it remains detectable in the HTML code. This approach ensures that the warning message does not appear for recipients.
+## How Does It Work?
 
-**Important:** Visible image tracking only works for "linked images" or those added via an image UR, not for embedded or directly uploaded images in the email.
+By default, QuickMail inserts a tiny invisible tracking pixel into your emails. When the recipient opens the email, this pixel loads to signal that the email has been read.
 
-## How to set it up?
+With Visible Image Tracking enabled, any visible images you include in your emails will be used for open tracking instead, helping prevent the email from being flagged.
 
-Go to your workspace settings → General → Check the box labeled Image Tracking**. Once enabled, the feature will take effect immediately.
+If no image is included, a tiny transparent dot will be inserted at the bottom of the email. While invisible to the eye, it remains detectable in the HTML code, which prevents the warning banner from appearing for recipients.
+
+**Important:** Visible Image Tracking only works for linked images — images added via an image URL. It does not work for embedded or directly uploaded images.
+
+## How to Set It Up?
+
+Go to workspace **Settings** → **General** → check the box labeled **Image Tracking**. Once enabled, the feature takes effect immediately.
 
 ![screenshot](../images/001_file-S5QvMcOCQE.png)
