@@ -32,6 +32,8 @@ If you are using a custom email, contact your email service provider for instruc
 
 QuickMail's **Inbox** feature gives your team access to all replies and allows you to assign them to specific team members so they can focus on the conversations that need the most attention.
 
-Here is a detailed guide on handling replies: Handling Replies with Inbox.
+Here is a detailed guide on handling replies: [Handling Replies with Inbox](https://help.quickmail.com/inbox-replies/handling-replies-with-the-inbox/)
 
-**Note:** For team members to access the Inbox, they must be invited to the account. Here is the guide for agency and single accounts.
+**Note:** For team members to access the Inbox, they must be invited to the account. 
+
+Here is the guide for agency and single accounts.
