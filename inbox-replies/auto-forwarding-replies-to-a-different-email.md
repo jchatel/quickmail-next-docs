@@ -36,4 +36,6 @@ Here is a detailed guide on handling replies: [Handling Replies with Inbox](http
 
 **Note:** For team members to access the Inbox, they must be invited to the account. 
 
-Here is the guide for agency and single accounts.
+Here is the guide:
+For Agencies -
+For Teams - https://help.quickmail.com/teams-and-agencies/for-teams-team-members/
