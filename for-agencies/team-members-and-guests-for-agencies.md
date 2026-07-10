@@ -65,7 +65,7 @@ The new team member can choose to log in with their email (Google/Outlook) or Li
 
 **Note:** An invite link will automatically expire once used. So if there's a need to add another team member, another invite link must be generated.
 
-## How to Change Team Member's Role?
+## How to Change Team Member's Role in an Agency?
 
 Once a team member is added, it will show under the **'Team'** tab in the Agency Dashboard. It indicates whether they are an admin or not.
 <img width="1538" height="1156" alt="image" src="https://github.com/user-attachments/assets/f4b6000b-28dc-4ba3-806b-9e03f4ccaa65" />
@@ -74,7 +74,7 @@ To remove or provide admin access, simply click on the team member listed and ch
 <img width="1532" height="1150" alt="image" src="https://github.com/user-attachments/assets/53daddc5-1e1a-438e-bb64-c2d7ed65b745" />
 
 
-## How to Invite Clients as Guests?
+## How to Invite Clients as Guests to an Agency
 
 **Step 1.** Go to the workspace where you'd like to invite your client → **Workspace Settings** → **Team** → **Guests** tab → click **"+ Guest"** at the top right corner.
 
@@ -101,14 +101,16 @@ To access the Changelog, go to the **'Team'** tab in the agency dashboard → cl
 
 The reason email accounts, Opportunities items, and campaigns are not visible to other team members is that they are **Private**. Private inboxes and campaigns are only visible to their owners. To fix this, the campaign must be set to **'Shared'**.
 
-### Share an Email Account
+### How to make an email account visible to other team members?
 
+If an email account is visible on your end but not to other team members, check whether it is set to Private. Private email accounts are only visible to the user they are assigned to.
 To share an email account, go to **Channel** → **Email** → click on your preferred email → change sharing settings.
 
 <img width="1538" height="1156" alt="image" src="https://github.com/user-attachments/assets/d5964ff1-b6eb-4e77-a656-4ea907b61599" />
 
-### Share a Campaign
+### How to make a campaign visible to other team members?
 
+If a campaign is visible on your end but not to other team members, check whether it is set to Private. Private email accounts are only visible to the user they are assigned to.
 To share a campaign, go to the **Campaign** → click on the vertical ellipsis → **Settings**.
 
 <img width="1536" height="1150" alt="image" src="https://github.com/user-attachments/assets/4a6fddec-a35b-4bb8-ad93-33dfb2c10dab" />
