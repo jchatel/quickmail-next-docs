@@ -1,28 +1,32 @@
 # Understanding Metrics by Cohort (Advanced Analytics)
 
+QuickMail's Advanced Analytics gives a deep dive into email effectiveness, offering insights into the actual deliverability of emails sent from your email account or a campaign based on email stats.
+
+If you want to see how revolutionary that is, here is an article from our founder explaining why our metrics are unique: [https://www.linkedin.com/pulse/why-were-all-wrong-open-rates-jeremy-chatelaine-/](https://www.linkedin.com/pulse/why-were-all-wrong-open-rates-jeremy-chatelaine-/)
+
 **In this article:**
 
 - Where can I find Metrics by cohort?
 
 - What are the types of data in the analytics?
 
-- Absolute vs. Percentage
+- Absolute vs. percentage
 
 - Understanding Metrics by cohort
 
-- Why do my stats look off when I manually calculate it?
+- Why do my stats look off when I manually calculate them?
 
-QuickMail's Advanced Analytics gives a deep dive into email effectiveness, offering insights into the actual deliverability of emails sent from your inbox or a campaign based on email stats.
+- Can we have a LinkedIn-specific dashboard?
 
-If you want to see how revolutionary that is, here is an article from our founder explaining why our metrics are unique: [https://www.linkedin.com/pulse/why-were-all-wrong-open-rates-jeremy-chatelaine-/](https://www.linkedin.com/pulse/why-were-all-wrong-open-rates-jeremy-chatelaine-/)
+- Can I see how many emails have been sent per user?
 
-## Where can I find Metrics by cohort?
+## Where Can I Find Metrics by Cohort?
 
-There are two ways to see the metrics by cohort in QuickMail.
+There are two ways to see Metrics by Cohort in QuickMail.
 
 ### Overall Metrics
 
-The overall metrics by cohort can be found on the Analytics page
+The overall metrics by cohort can be found on the Analytics page.
 
 ![screenshot](../images/000_file-fvWojfrAJD.png)
 
@@ -30,15 +34,15 @@ The overall metrics by cohort can be found on the Analytics page
 
 The metrics per campaign can be found on the dashboard of each campaign.
 
-To view the campaign dashboard, go to the Campaigns page → Select a campaign → Scroll down to see the metrics by cohort
+Go to the **Campaigns** page → select a campaign → scroll down to see the metrics by cohort.
 
 ![screenshot](../images/001_file-Nai2JVRvMU.png)
 
-## What are the types of data in the analytics?
+## What Are the Types of Data in the Analytics?
 
-### Data type
+### Data Type
 
-At the moment, the available data in the metrics are as follows:
+The available data in the metrics includes:
 
 - Opens
 
@@ -46,7 +50,7 @@ At the moment, the available data in the metrics are as follows:
 
 - Replies
 
-- Positive & Negative Replies (Based on Reply Categorization)
+- Positive and negative replies (based on reply categorization)
 
 - Bounces
 
@@ -54,19 +58,19 @@ At the moment, the available data in the metrics are as follows:
 
 ![screenshot](../images/002_file-m8vFZpXuJM.png)
 
-### Attribution type
+### Attribution Type
 
-You can change the data in the analytics based on either the:
+Data can be viewed based on either:
 
-- number of emails sent
+- Number of emails sent
 
-- number of leads started
+- Number of leads started
 
 ![screenshot](../images/003_file-NQU2Ii5VHk.png)
 
 ### Sender Provider
 
-The data can also be sorted based on the email provider of the email account used for sending. These email providers include:
+Data can also be filtered by the email provider of the sending email account:
 
 - Gmail
 
@@ -80,7 +84,7 @@ The data can also be sorted based on the email provider of the email account use
 
 ### Recipient Provider
 
-If you would like to check the stats per recipient email provider, this is also possible. Data can be sorted based on the following email providers:
+Data can also be filtered by the recipient's email provider:
 
 - Gmail
 
@@ -94,50 +98,47 @@ If you would like to check the stats per recipient email provider, this is also 
 
 ### Percentage
 
-The default view in the metrics by cohort is in percentage, which expresses values as a proportion of the whole per statistic.
+The default view is in percentage, which expresses values as a proportion of the whole per statistic.
 
 ![screenshot](../images/006_file-xsqKU1oUMH.png)
 
 ### Absolute
 
-Absolute metrics represent the numerical values of the tracked statistics
+Absolute metrics represent the numerical values of the tracked statistics.
 
 ![screenshot](../images/007_file-6TxrE1czl7.png)
 
-## Understanding Metrics by cohort
+## Understanding Metrics by Cohort
 
-Metrics for Opens, Replies, Positive Replies, Negative Replies, and Unsubscribes are attributed to the date the email was sent or when the journey started every week rather than only the date the event occurred.
+Metrics for opens, replies, positive replies, negative replies, and unsubscribes are attributed to the date the email was sent or when the journey started each week, rather than only the date the event occurred.
 
-Here's what each column means:
+Here is what each column means:
 
-- **Event Week** - the week the journeys started or the emails were initially sent
+- **Event Week** — the week the journeys started or the emails were initially sent.
 
-- **Emails Sent / New Journeys** - the number of new journeys or emails sent on the event week
+- **Emails Sent / New Journeys** — the number of new journeys or emails sent in the event week.
 
-- **Week 1** - the open, click, reply, bounce, or unsubscribe rate on the event week
+- **Week 1** — the open, click, reply, bounce, or unsubscribe rate in the event week.
 
-- **Week 2 and subsequent weeks** - the open, click, reply, bounce, or unsubscribe rate on the subsequent weeks. Still attributed to the journey that started or emails sent based on the event week
+- **Week 2 and subsequent weeks** — the open, click, reply, bounce, or unsubscribe rate in subsequent weeks, still attributed to the journey or emails sent in the event week.
 
 ![screenshot](../images/008_file-15AStdXCd4.png)
 
-To better understand how analytics work, let's talk about the open rate based on the number of emails sent for the week of October 9th in the image above.
+To better understand how analytics work, here is an example using the open rate based on the number of emails sent for the week of October 9th in the image above.
 
-For the week of September 4th, the total number of emails sent was 19.
-In the same week, the open rate was **50.31%**
+For the week of September 4th, the total number of emails sent was 19. In the same week, the open rate was **50.31%**.
 
-The following week, the open rate increased to **50.94%**
+The following week, the open rate increased to **50.94%**.
 
-There were no additional opens the week after, so the open rate remained at **50.94%** on week 3.
+There were no additional opens the week after, so the open rate remained at **50.94%** in week 3.
 
-The last time an open was detected was on week 4 which increased the open rate to **51.57%**
+The last open was detected in week 4, which increased the open rate to **51.57%**.
 
-In summary, the open rate of the emails sent on the week of September 4th increased from 50.31% to 51.57% in 5 weeks.
+In summary, the open rate of emails sent in the week of September 4th increased from 50.31% to 51.57% over 5 weeks. This also means that more than 51.57% of the emails were delivered.
 
-Therefore, we can also conclude that more than 51.57% of the emails were delivered.
+## Why Do My Stats Look Off When I Manually Calculate Them?
 
-## Why do my stats look off when I manually calculate it?
-
-If you're adding up the numbers manually and they don't match what QuickMail is showing, the most common reason is deleted leads.
+If the numbers you calculate manually do not match what QuickMail is showing, the most common reason is deleted leads.
 
 **How QuickMail handles deleted leads:**
 
@@ -145,17 +146,15 @@ When you delete a lead from a campaign or your account, QuickMail preserves the 
 
 This means:
 
-- **The lead is removed** from your active lead list
+- **The lead is removed** from your active lead list.
 
 - **But their stats remain** in the campaign's overall analytics (opens, clicks, replies, etc.)
-
-**Why we do this:**
 
 This prevents your campaign performance history from changing retroactively. If you sent 100 emails and got 25 opens, then deleted 20 leads, your open rate should still reflect the original 25 opens — not recalculate as if those 20 leads never existed.
 
 **Example:**
 
-Let's say your campaign shows:
+Your campaign shows:
 
 - 50 opens
 
@@ -171,31 +170,18 @@ But when you count your current leads manually:
 
 **The gap:** 200 - 160 = 40 emails were sent to leads that have since been deleted, but their stats are still counted in your campaign analytics.
 
-# Can we have LinkedIn specific dashboard?
+## Can We Have a LinkedIn-Specific Dashboard?
 
-InMail, profile view, and messages all fall under LinkedIn touches.
+InMail, profile views, and messages all fall under LinkedIn touches. There is currently no option for a specific view for them.
 
-There's currently no option for a specific view for them.
-
-If the goal is to check how many InMail, profile view, or messages are sent, please look at the outbox and manually look for them. Just note that the outbox only shows the last 30 days.
+To check how many InMails, profile views, or messages were sent, look at the Outbox and filter manually. Note that the Outbox only shows the last 30 days.
 
 ![screenshot](../images/009_file-Dq4nIJYpcg.png)
 
-For the connection requests, you can choose the data type acceptance rate.
+For connection requests, you can select the **Acceptance Rate** data type.
 
 ![screenshot](../images/010_file-KlwSJNosF7.png)
 
-## Can I see how many emails have been sent out per user since we started using QuickMail?
+## Can I See How Many Emails Have Been Sent Per User?
 
-There's currently no option to filter the stats based on the sender.
-
-You can look at the outbox and filter based on emails. However, the outbox only shows the last 30 days of emails sent.
-
-## Why does my lead count doesn't reflect the total number of leads in the campaign stats?
-
-This could be caused by bounces.
-Since bounced emails didn't really reach the leads, we don't count them in the stats.
-
-## Do my canceled leads count in the stats?
-
-Yes, canceled leads still count in the stats.
+There is currently no option to filter stats by sender. You can look at the Outbox and filter by email account, but the Outbox only shows the last 30 days of sent emails.
