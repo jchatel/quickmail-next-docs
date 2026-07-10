@@ -88,6 +88,7 @@ Each package costs **$40** and allows you to add up to **10 email accounts**.
 ![screenshot](../images/006_file-cCUrFHho73.png)
 
 **Step 7.** Review the total cost → check the **I Accept** box → click **Pay Now**.
+Note that domains are non-refundable and non-transferrable
 
 ![screenshot](../images/007_file-LzD2XGvVrF.png)
 
