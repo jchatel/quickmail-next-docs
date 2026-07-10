@@ -1,6 +1,7 @@
 # Managing Team Members 
 
 In QuickMail, you can easily grant access to colleagues or clients using their own email addresses. This allows seamless collaboration in managing an account without the need to share logins.
+
 If you have an agency, please refer to this guide instead: [Managing Team Members for Agencies](https://help.quickmail.com/for-agencies/team-members-and-guests-for-agencies/)
 
 **Note:** You can add as many team members and guests as needed at no additional charge.
