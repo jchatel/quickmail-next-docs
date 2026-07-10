@@ -192,6 +192,6 @@ Reports arrive as XML files sent to the address in `rua=`. They are hard to read
 
 ## Related articles
 
-- How to test your email deliverability
-- Setting up a custom sending domain
-- Understanding bounce types and how to reduce them
+- [How to test your email deliverability](https://help.quickmail.com/reporting/understanding-the-deliverability-report/)
+- [Setting up custom sending domain tracking](https://help.quickmail.com/deliverability/custom-domain-tracking-to-improve-deliverability/)
+- [Understanding Bounces](https://help.quickmail.com/deliverability/understanding-bounces/)
