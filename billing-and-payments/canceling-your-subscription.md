@@ -42,6 +42,6 @@ Once the 14-day trial expires, the account will not be charged. Instead, it will
 
 ## I'm having an error canceling my subscription
 
-- If you have Google inboxes bought from QuickMail, only support can cancel them at the moment. Please reach out to [support@quickmail.io](mailto:support@quickmail.io) to cancel your Google inboxes and subscription.
+- If you have Google inboxes bought from QuickMail, only support can cancel them at the moment. To speak with a human agent, click on the chatbot, then select "Escalate to Human" to cancel your Google inboxes and subscription.
 
 - Only email addresses admins can cancel the subscription. Please reach out to your account admin for help.
