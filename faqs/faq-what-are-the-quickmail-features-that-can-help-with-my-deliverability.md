@@ -110,4 +110,4 @@ For tips to improve the readability scores of your emails, check out this guide:
 
 Stealthmode prevents Google from detecting that emails are being sent from a third-party platform, which helps improve deliverability. Note, however, that Stealthmode is only available to inboxes purchased from QuickMail. It’s automatically enabled.
 
-If you’d like to know more about purchasing inboxes from QuickMail, check out this guide: Buying Google Domains
+If you’d like to know more about purchasing inboxes from QuickMail, check out this guide: [Buying Google Domains](https://help.quickmail.com/email-accounts/buying-gmail-accounts-with-quickmail/)
