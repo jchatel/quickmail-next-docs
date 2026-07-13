@@ -2,7 +2,7 @@
 
 ### In this article:
 
-- Single workspace
+- Team Account (Starter and Growth Plans)
 
 - Agency account
 
@@ -10,7 +10,7 @@
 
 - I'm having an error canceling my subscription
 
-## Single workspace
+## Team Account (Starter and Growth Plans)
 
 To cancel your workspace subscription, go to your billing page and click manage.
 
