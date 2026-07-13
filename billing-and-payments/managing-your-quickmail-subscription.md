@@ -86,7 +86,7 @@ To upgrade or downgrade your plan, go to the **Billing/Plan** page → click the
 
 ![screenshot](../images/003_file-ZnEJacrVgg.png)
 
-**Tip:** If you're on an old/legacy pricing plan and would like **unlimited email accounts**, **higher lead storage**, or an **increased email sending limit**, we can move you to our new pricing structure (Starter, Growth, Agency). Email us at **support@quickmail.io** to request the switch.
+**Tip:** If you're on an old/legacy pricing plan and would like **unlimited email accounts**, **higher lead storage**, or an **increased email sending limit**, we can move you to our new pricing structure (Starter, Growth, Agency). To speak with a human agent, click on the chatbot, then select "Escalate to Human".
 
 Our pricing changes from time to time so if you're seeing a pricing on this article that's no longer available on your account, it's highly likely an old pricing.
 
