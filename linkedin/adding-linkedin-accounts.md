@@ -133,7 +133,8 @@ Try logging in with the email address that was used to add the account. If you s
 
 - If the account was added via 2FA, you can use the browser extension to reconnect it.
 
-If you are unable to reconnect via 2FA, contact support at support@quickmail.io.
+If you are unable to reconnect via 2FA, click on the AI chatbot located in the lower-right corner of your QuickMail account, then click **"Escalate to Human."**
+
 
 ### I'm Getting an Error When Adding My LinkedIn Account.
 
