@@ -80,7 +80,7 @@ Check the box **Update inbox if it exists**.
 
 An import report will be sent to your email showing the status of each account. The red warning icon will no longer appear once the accounts have been successfully re-authenticated.
 
-## Troubleshooting: 
+## Troubleshooting: If a different email account is being logged in automatically or the login keeps looping back to the wrong account
 
 If you are trying to reconnect multiple email accounts and the process keeps sending you back to the first email account, the problem is usually caused by your browser session, not by QuickMail.
 
