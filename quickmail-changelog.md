@@ -1,5 +1,11 @@
 # QuickMail Changelog
 
+## July 14, 2026
+
+### FIXES
+- Some messages were not showing in Opportunities
+- LinkedIn campaigns continued sending follow-up messages even after a recipient's reply had been detected.
+
 ## July 9, 2026
 
 ### FIXES
