@@ -99,7 +99,7 @@ Here is the page where the QR code appears:
 
 It may take a few minutes for the LinkedIn account to be added, but no longer than an hour.
 
-**Note:** If you have trouble adding your LinkedIn account, contact support at support@quickmail.io.
+**Note:** If you have trouble adding your LinkedIn account, click on the AI chatbot located in the lower-right corner of your QuickMail account, then click **"Escalate to Human."**
 
 ### Option 3: Via Cookies
 
@@ -125,7 +125,7 @@ If a LinkedIn account is not visible, it may be set to private. Private LinkedIn
 
 If you are logged in with a different email address, the private LinkedIn account will not appear and its settings will not be editable.
 
-Try logging in with the email address that was used to add the account. If you still cannot find it, contact support at support@quickmail.io.
+Try logging in with the email address that was used to add the account. If you still cannot find it, click on the AI chatbot located in the lower-right corner of your QuickMail account, then click **"Escalate to Human."**
 
 ### My LinkedIn Lost Permission. How Do I Reconnect?
 
