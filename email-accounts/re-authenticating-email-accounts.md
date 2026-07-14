@@ -96,6 +96,9 @@ Ways to fix it:
 **Option 1: Use an incognito/private browser window**
 
 Generate a new invite link in QuickMail to reauthenticate the email inbox.
+
+<img width="1135" height="696" alt="image" src="https://github.com/user-attachments/assets/9434760e-20ae-48a5-8a81-161ffd6253b8" />
+
 Open the invite link in an incognito/private window (Chrome Incognito, Edge InPrivate, Safari Private Browsing).
 Sign in with the correct email account.
 Complete the authentication process.
