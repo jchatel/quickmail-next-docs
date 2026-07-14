@@ -79,3 +79,40 @@ Check the box **Update inbox if it exists**.
 ![screenshot](../images/009_file-fNtTISK7yM.png)
 
 An import report will be sent to your email showing the status of each account. The red warning icon will no longer appear once the accounts have been successfully re-authenticated.
+
+## Troubleshooting: 
+
+If you are trying to reconnect multiple email accounts and the process keeps sending you back to the first email account, the problem is usually caused by your browser session, not by QuickMail.
+
+This happens because Microsoft (or Google) remembers the account that is currently signed in through your browser. When you try to authenticate another inbox, the browser may automatically reuse the first logged-in account instead of allowing you to choose the correct one.
+
+**Common causes include:**
+
+Saved browser cookies or cache that store your previous login session.
+Microsoft’s “Keep me signed in” option, which keeps your account active and automatically selects it during authentication.
+Being logged into multiple Microsoft/Google accounts in the same browser window, which can confuse the login process.
+Ways to fix it:
+
+**Option 1: Use an incognito/private browser window**
+
+Generate a new invite link in QuickMail to reauthenticate the email inbox.
+Open the invite link in an incognito/private window (Chrome Incognito, Edge InPrivate, Safari Private Browsing).
+Sign in with the correct email account.
+Complete the authentication process.
+
+**Option 2: Clear browser data**
+
+Clear your browser’s cookies, cache, and history.
+Close and reopen your browser.
+Try reconnecting the email account again.
+
+**Option 3: Sign out of your accounts first**
+
+Go to Microsoft or Outlook and sign out of your accounts:
+* Microsoft account sign-in
+* Outlook webmail
+* If using Google accounts, sign out from Google Account
+
+Reopen the QuickMail authentication link and sign in only with the email account you want to reconnect.
+
+In short: QuickMail is only sending the authentication request. The looping happens because the browser is automatically choosing the previously signed-in Microsoft/Google account. Using a fresh browser session usually resolves it.
