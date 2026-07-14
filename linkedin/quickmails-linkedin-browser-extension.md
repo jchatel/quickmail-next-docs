@@ -89,6 +89,8 @@ ICP filters help you import only the leads that match your target audience, savi
 
 Once configured, your ICP filters are automatically applied to both Profile Viewers and Post Import campaigns.
 
+<img width="1113" height="697" alt="image" src="https://github.com/user-attachments/assets/f94d7322-14ba-4434-86e6-e0b7d0348791" />
+
 ## How to create a Profile viewers campaign
 
 A **Profile Viewers** campaign automatically reaches out to people who view your LinkedIn profile.
