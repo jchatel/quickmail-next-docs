@@ -37,9 +37,9 @@ If you'd like to reword all email steps, this feature must be enabled in each em
 
 ## How much does it cost?
 
-Every account, regardless of your plan, receives free 1,000 Reword with AI credits each month. These credits reset automatically, providing you with a fresh set every month.
+Every account, regardless of your plan, receives 1,000 free Reword with AI credits each month. These credits reset automatically, giving you a fresh allowance at the start of every month.
 
-If you need to add more credits, it costs $10/mo per additional 10,000 credits monthly. Please contact [support@quickmail.io](mailto:support@quickmail.io) for us to configure your subscription.
+If you need additional credits, you can purchase more for $10/month per extra 10,000 credits. Additional credits can be added to your plan subscription or managed from the Billing/Plan page.
 
 **Note:** For users who added an OpenAI key before January 6, 2025, your OpenAI credits will be automatically used when you use Reword with AI. If there are no OpenAI credits available, the system will automatically use your monthly credits instead.
 
