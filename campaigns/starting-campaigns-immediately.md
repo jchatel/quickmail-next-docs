@@ -50,7 +50,7 @@ Then select all → **Resume** → **Resume Immediately**.
 
 **Important:** Resuming a large number of leads at once can cause a sudden spike in email volume. To avoid sending in high volumes, set up a daily email limit. 
 
-Here is a detailed guide: https://help.quickmail.com/email-accounts/setting-daily-sending-limit/
+Here is a detailed guide: [Setting Your Email Account's Daily Sending Limit](https://help.quickmail.com/email-accounts/setting-daily-sending-limit/)
 
 ### Where Did My Triggers Go?
 
