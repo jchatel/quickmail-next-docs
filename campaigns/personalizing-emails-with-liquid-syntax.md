@@ -190,7 +190,7 @@ Still getting to know where you're at, but happy to connect if you're curious!
 
 There are two possible reasons:
 
-- **The feature is not enabled for your plan.** Reach out to [support@quickmail.io](mailto:support@quickmail.io) to confirm.
+- **The feature is not enabled for your plan.** Open the AI chatbot located at the lower righthand corner of your QuickMail account and click 'Escalate to Human' to have liquid syntax enabled.
 
 - **The syntax is incorrect.** Make sure you are using the correct properties and tags, and that the casing is right. If you get stuck, you can use an AI tool like [ChatGPT](https://chatgpt.com/) to help check your syntax.
 
