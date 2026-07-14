@@ -90,7 +90,7 @@ To generate an invite link, click **I don't have access to the inbox** → **Cop
 
 An email address can only be added to one account at a time. If you are seeing this error, the email address may already be associated with an expired account.
 
-To resolve this, contact [support@quickmail.io](mailto:support@quickmail.io) and provide the email address so it can be removed from the other account.
+To resolve this, on the chatbot, click 'escalate to human' and provide the email address so it can be removed from the other account.
 
 **It keeps adding the wrong Outlook email account**
 
