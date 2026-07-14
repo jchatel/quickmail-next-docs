@@ -64,7 +64,7 @@ Every workspace receives free Draft with AI credits each month, regardless of pl
 
 - Teams: 100 credits per month
 
-If you need additional credits, it costs $10/month per 1,000 credits. Contact [support@quickmail.io](mailto:support@quickmail.io) to configure your subscription.
+If you need additional credits, it costs $10/month per 1,000 credits. Click on the AI chatbot located in the lower-right corner of your QuickMail account, then click **"Escalate to Human."**
 
 **Note:** For users who added an OpenAI key before January 6, 2025, your OpenAI credits will be used automatically when using Draft with AI. If no OpenAI credits are available, the system will use your monthly credits instead.
 
