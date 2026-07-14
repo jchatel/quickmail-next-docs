@@ -82,13 +82,11 @@ Profile viewers campaigns automatically reach out to people who view your Linked
 
 - Click "Save changes"
 
-![screenshot](../images/003_file-Ri7bkyZLFC.png)
+<img width="1158" height="700" alt="image" src="https://github.com/user-attachments/assets/6e17e52a-f3c9-4f0c-8a1c-a153acfa1b72" />
 
 Your Profile viewers campaign is now live.
 
 You can see it in your QuickMail campaign list as well and it's named "Profile viewers outreach"
-
-![screenshot](../images/004_file-aBdDIFfYwg.png)
 
 The extension will automatically import people who view your profile and send them your connection request.
 
