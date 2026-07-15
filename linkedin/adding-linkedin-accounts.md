@@ -139,3 +139,7 @@ If you are unable to reconnect via 2FA, click on the AI chatbot located in the l
 ### I'm Getting an Error When Adding My LinkedIn Account.
 
 If you are seeing the error "We failed to create your LinkedIn account due to network issues. Please try again later," this is a temporary error caused by high server load. Wait a few minutes and try again.
+
+### What does gold LinkedIn icon means?
+
+A gold LinkedIn icon indicates that the account has an active LinkedIn Premium subscription. A blue LinkedIn icon indicates that the account is using the free version of LinkedIn and does not have a Premium subscription.
