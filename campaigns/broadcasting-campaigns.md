@@ -1,6 +1,6 @@
 # Broadcasting Campaigns
 
-Broadcasting Campaigns let you select multiple leads and send a single-step email campaign in just a few clicks. It's a simple and efficient way to share announcements, updates, promotions, or important messages without needing to manually create a multi-step campaign.
+Broadcasting Campaigns let you select multiple leads and send a single-step email campaign in just a few clicks. It’s a simple and efficient way to share announcements, updates, promotions, and important messages without having to manually create a multi-step campaign or even send one-off emails.
 
 ## How to Broadcast an Email?
 
