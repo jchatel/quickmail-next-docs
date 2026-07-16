@@ -80,18 +80,18 @@ Once the email account is unblocked, make sure to unpause it in QuickMail. To do
 
 To prevent future bounces, consider the following practices:
 
-•Warm Up New Accounts**: Gradually increase sending volumes when using new email accounts to avoid spam flags. Check out our guide on using the Auto-Warmer: [Integrating Mailflow with QuickMail](#).
+•Warm Up New Accounts**: Gradually increase sending volumes when using new email accounts to avoid spam flags. Check out our guide on using the Auto-Warmer: [Integrating Mailflow with QuickMail](https://help.quickmail.com/integrations/integrating-quickmail-with-mailflow/).
 
 •**Fix Your Domain Reputation**: Make sure your domain isn’t blacklisted. Use tools like MXToolbox to check your domain or IP reputation, and if you’re on a blacklist, request removal.
 
 •**Follow Sending Limits**: Stick to the daily sending limits of your email provider, especially when scaling up campaigns.
 
-•**Set Up DMARC, SPF, and DKIM**: Make sure your domain is properly configured with SPF, DKIM, and DMARC to pass authentication and improve deliverability. [Learn more here](#).
+•**Set Up DMARC, SPF, and DKIM**: Make sure your domain is properly configured with SPF, DKIM, and DMARC to pass authentication and improve deliverability. [Learn more here](https://help.quickmail.com/deliverability/adding-spf-dkim-dmarc-records/).
 
-•**Avoid Spam Triggers**: Use spam-checking tools to ensure your email content isn’t triggering filters. Add text variations and avoid spammy words. Check out: [Text Variations](#).
+•**Avoid Spam Triggers**: Use spam-checking tools to ensure your email content isn’t triggering filters. Add text variations and avoid spammy words. Check out: [Text Variations](https://help.quickmail.com/campaigns/text-variations-spintax/).
 
-•**Use Reword with AI**: Reword your emails using AI to keep content fresh and avoid repetition. Rewording with AI
+•**Use Reword with AI**: Reword your emails using AI to keep content fresh and avoid repetition. [Rewording with AI](https://help.quickmail.com/deliverability/rewording-with-ai/)
 
-•**Maximize Email Deliverability with QuickMail: ** QuickMail is a cold email platform focused on email deliverability, offering a range of features to optimize outreach and boost success rates. Here's a list of other tool that our users can leverage to enhance their email deliverability: Maximizing Email Deliverability in QuickMail
+•**Maximize Email Deliverability with QuickMail:**  QuickMail is a cold email platform focused on email deliverability, offering a range of features to optimize outreach and boost success rates. Here's a list of other tool that our users can leverage to enhance their email deliverability: [Maximizing Email Deliverability in QuickMail](https://help.quickmail.com/deliverability/maximizing-email-deliverability-in-quickmail/)
 
 By understanding these bounce codes and addressing the issues, you’ll keep your sender reputation strong and ensure smoother email delivery in the future.
