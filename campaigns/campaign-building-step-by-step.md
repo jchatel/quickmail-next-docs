@@ -30,7 +30,6 @@
 
 - Troubleshooting: Why is my campaign not sending?
 
-If you prefer watching video tutorials, check this out: Campaign Building Guide 🎥
 
 # What Are Campaigns?
 
