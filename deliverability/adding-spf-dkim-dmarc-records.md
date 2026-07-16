@@ -82,7 +82,7 @@ The `selector` is a label chosen by your provider (e.g. `google`, `selector1`, `
 
 Use [MXToolbox DKIM Lookup](https://mxtoolbox.com/dkim.aspx). Enter your domain and the selector provided by your mail provider. If a key is returned, DKIM is active.
 
-You can also send a test email to [mail-tester.com](https://www.mail-tester.com) to see a full authentication report.
+You can also send a test email to [Spam Tester](https://help.quickmail.com/deliverability/testing-deliverability-with-spamtesterai/) to see a full authentication report.
 
 ---
 
