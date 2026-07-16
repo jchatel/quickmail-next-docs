@@ -14,7 +14,7 @@
 
 This guide focuses on **sender-related bounces**, which are issues you can directly manage, such as authentication errors, sending reputation, or email volume limits.
 
-While recipient bounces do occur, our solutions are tailored to the sender side, where you have control. For recipient-related bounces, visit our Why Emails Bounce** article.
+While recipient bounces do occur, our solutions are tailored to the sender side, where you have control. For recipient-related bounces, check out this guide [Reducing Bounces](https://help.quickmail.com/deliverability/reducing-bounces-with-email-verification/)
 
 ## Understanding Bounce Codes and Solutions
 
