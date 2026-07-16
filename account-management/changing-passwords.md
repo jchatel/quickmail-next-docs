@@ -18,6 +18,6 @@ If the goal is to use a different login, please invite the new login as an admin
 
 Here's how to do that:
 
-- Adding teams on single accounts
+- [Adding teams on single accounts](https://help.quickmail.com/teams-and-agencies/managing-team-members/)
 
-- Adding teams on agency accounts
+- [Adding teams on agency accounts](https://help.quickmail.com/for-agencies/team-members-and-guests-for-agencies/)
