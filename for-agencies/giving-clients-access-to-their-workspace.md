@@ -1,4 +1,4 @@
-# Giving Clients Access to their Workspace
+# Giving Clients Access to Their Workspace
 
 **In this article:**
 
@@ -12,48 +12,44 @@
 
 - How do I delete a client from a workspace?
 
-# Why invite clients to their workspace?
+## Why Invite Clients to Their Workspace?
 
-Having the ability to invite clients as guests allows agency users to offer their clients a view of their QuickMail campaigns and stats without granting them access to other workspaces under the agency. This helps agency users maintain client confidentiality.
+Inviting clients as guests allows you to give them a view of their QuickMail campaigns and stats without granting access to other workspaces under the agency. This helps maintain client confidentiality.
 
-Also, clients invited to workspaces can't access the workspace settings so they can't view and update billing information and plan.
+Clients invited as guests cannot access workspace settings, so they cannot view or update billing information or the account plan.
 
-# What's the difference between guests and team members?
+## What's the Difference Between Guests and Team Members?
 
-Unlike team members, guests won't be able to access other workspaces under the agency. Moreover, guests won't be able to access the workspace settings.
+Unlike team members, guests cannot access other workspaces under the agency or the workspace settings.
 
-# How to invite clients as guests?
+## How to Invite Clients as Guests?
 
-Click Settings → Team → under Guests tab, press the "+ Guest" button.
+Go to **Settings** → **Team** → **Guests** tab → click **+ Guest**.
 
 ![screenshot](../images/000_file-5uQmdtxdzR.png)
 
-Set the edit permission settings.
+Set the edit permission:
 
-If edit access is allowed, the client can add and make changes to their campaigns, handle replies using opportunities, and view their stats.
+- If edit access is allowed, the client can add and make changes to campaigns, handle replies using the Inbox, and view their stats.
 
-If edit access is not allowed, the client can only view their campaign, replies, and reporting.
+- If edit access is not allowed, the client can only view campaigns, replies, and reporting.
 
 ![screenshot](../images/001_file-JdgY0tQghR.png)
 
-Copy the invite link and provide it to your client.
+Copy the invite link and send it to your client.
 
 ![screenshot](../images/002_file-8DwubYKXH0.png)
 
-**Note:** Invitation links are only valid for 24 hours and guests can only log in using Google, Microsoft, and LinkedIn accounts
+**Note:** Invitation links are only valid for 24 hours. Guests can only log in using Google, Microsoft, or LinkedIn accounts.
 
-# How do I change edit permissions after clients are added to their workspace?
+## How Do I Change Edit Permissions After Clients Are Added?
 
-Please click the client on the guests page.
-
-From the quickview, change the edit permissions.
+Click on the client from the **Guests** page → from the quick view, change the edit permissions.
 
 ![screenshot](../images/003_file-VVGIWCdN5B.png)
 
-# How do I delete a client from a workspace?
+## How Do I Delete a Client from a Workspace?
 
-Click the guest from the guests page.
-
-From the quickview, click the triple-dot icon and click Delete.
+Click on the client from the **Guests** page → from the quick view, click the menu icon (three vertical dots) → **Delete**.
 
 ![screenshot](../images/004_file-2wQ5x0gWwQ.png)

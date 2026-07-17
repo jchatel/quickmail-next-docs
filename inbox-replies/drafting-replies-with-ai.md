@@ -1,6 +1,6 @@
-# Drafting Replies with AI ✨
+# Drafting Replies with AI
 
-QuickMail's Draft with AI allows you to create replies that match the tone you want when engaging with leads via the Inbox. By leveraging AI, you can quickly draft professional and personalized responses, saving time while ensuring your communication aligns with your brand's voice.
+QuickMail's Draft with AI allows you to create replies that match the tone you want when engaging with leads via Opportunities. By leveraging AI, you can quickly draft professional and personalized responses, saving time while ensuring your communication aligns with your brand's voice.
 
 **In this article:**
 
@@ -48,11 +48,15 @@ To set it up, go to the workspace → **Settings** → **Replies** → under **D
 
 ![screenshot](../images/001_file-SWBBF4Cy9z.png)
 
-**Step 2.** Go to the lead's reply in the **Inbox** → click **Reply** → click **Draft with AI**.
+**Step 2.** Go to the lead's reply in Opportunities → click **Reply** → click **Draft with AI**.
 
 You can click **Draft with AI** directly without typing anything, or write a few words and the AI will generate a reply based on that input.
 
+![screenshot](../images/002_file-FEactIPPEW.png)
+
 **Step 3.** Edit the draft if needed, then send the email when you are ready.
+
+![screenshot](../images/003_file-09v4Gpj2Wc.png)
 
 ## How Much Does It Cost?
 
