@@ -1,4 +1,4 @@
-# Setting a Daily Sending Limit
+# Setting a Daily Sending Email Limit
 
 **In this article:**
 
