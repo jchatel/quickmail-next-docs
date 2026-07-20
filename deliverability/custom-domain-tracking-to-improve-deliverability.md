@@ -33,8 +33,6 @@ Go to your Workspace → Settings → General → Copy where to point the CNAME 
 In this screenshot below, the CNAME for my workspace should be pointing to connect.blueavocado.net
 ![screenshot](../images/000_file-xgCgNwKYTa.png)
 
-**Pro Tip:** If you would like to change your custom domain tracking to SSL (secure links), please reach out to [support@quickmail.io](mailto:support@quickmail.io).
-
 ## Step #2: Add a CNAME record
 
 To set up a custom domain tracking in QuickMail, you'll need to access your domain's DNS records to add a CNAME.
