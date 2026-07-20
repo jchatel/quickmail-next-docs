@@ -90,8 +90,7 @@ To generate an invite link, click **I don't have access to the inbox** → **Cop
 
 An email address can only be added to one account at a time. If you are seeing this error, the email address may already be associated with an expired account.
 
-To resolve this, on the chatbot, click 'escalate to human' and provide the email address so it can be removed from the other account.
-
+To resolve this, click on the AI chatbot located in the lower-right corner of your QuickMail account, then click 'Escalate to a Human',
 **It keeps adding the wrong Outlook email account**
 
 When adding a Microsoft account, QuickMail automatically loads whichever email account is currently logged in to your browser. To fix this, try one of the following:
