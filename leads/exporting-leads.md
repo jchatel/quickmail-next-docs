@@ -20,4 +20,4 @@ After the export, a CSV file will be sent to the email address you use to log in
 
 ## What Do I Do if I Didn't Receive the Email?
 
-If you did not receive the email containing the CSV export, it is possible your email address was added to the suppression list. This can happen if QuickMail notification emails to your address bounced more than once. Contact [support@quickmail.io](mailto:support@quickmail.io) for assistance.
+If you did not receive the email containing the CSV export, it is possible your email address was added to the suppression list. This can happen if QuickMail notification emails to your address bounced more than once. To get in touch with our support team, click the AI chatbot in the lower-right corner of your QuickMail account, then select "Escalate to a Human".
