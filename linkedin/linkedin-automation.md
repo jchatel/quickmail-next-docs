@@ -334,7 +334,9 @@ You can also check whether a lead is already connected with you on LinkedIn by u
 
 ### For LinkedIn Accounts Added Via 2FA
 
-Contact support at [support@quickmail.io](mailto:support@quickmail.io).
+Only the QuickMail Support team can reauthenticate LinkedIn accounts that were added using 2FA.
+
+To request this, click the AI chatbot in the lower-right corner of your QuickMail account, then select "Escalate to a Human" to get in touch with our support team.
 
 ### For LinkedIn Accounts Added Via Cookies
 
