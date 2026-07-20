@@ -45,4 +45,4 @@ After that, go to "Past" tab → Download invoices
 **My account has been canceled and I can't access my invoices**
 
 - For canceled accounts, invoices may no longer be visible in the Billing page.
-- If you need a copy of an invoice, contact us at support@quickmail.io, and we'll be happy to help.
+- If you need a copy of an invoice, please contact our support team by clicking the AI chatbot in the lower-right corner of your QuickMail account, then selecting "Escalate to a Human".
