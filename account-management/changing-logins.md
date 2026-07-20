@@ -17,6 +17,7 @@ Open the invite link in an incognito window and accept the invite using your new
 ## How to Change My Login Provider?
 
 If you're using the same email address and wants to change that to another provider, Only QuickMail support can change your login provider. 
-Contact them at support@quickmail.io to request the change.
+
+Please contact our support team by clicking the AI chatbot in the lower-right corner of your QuickMail account, then selecting "Escalate to a Human".
 
 Once you reach out, they will send you a 2FA code. Provide that code to them for security verification purposes.
