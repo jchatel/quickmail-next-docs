@@ -242,7 +242,7 @@ If you do not see the cookie icon, click the puzzle icon in your browser toolbar
 
 It may take a few minutes for the LinkedIn account to be added, but no longer than an hour.
 
-**Note:** If you have trouble adding your LinkedIn account, contact support at support@quickmail.io and tell them the error you're getting.
+**Note:** If you have trouble adding your LinkedIn account, click the AI chatbot in the lower-right corner of your QuickMail account, then select "Escalate to a Human" to get in touch with our support team.
 
 ## How to Add a Lead's LinkedIn Information?
 
