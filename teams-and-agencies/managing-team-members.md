@@ -128,7 +128,7 @@ Change the **Sharing Settings** to **Shared**.
 
 **Q: Can I limit my team member's activity?**
 
-A: That is not possible yet. If you need this feature, send an email to support@quickmail.io explaining your use case. The workaround for now is to add them as guests instead.
+A: There's currently no option to limit your team member's activity. The workaround for now is to add them as guests instead to temporarily add/remove edit access. 
 
 **Q: Why can't I generate an invite link?**
 
