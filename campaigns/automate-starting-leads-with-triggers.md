@@ -79,3 +79,13 @@ This message simply means that all current leads have already been started — t
 - **If you have more leads to contact** → Add them to the campaign and they will start based on your trigger settings.
 
 - **If you don't have new leads right now** → You can safely ignore this message. It is not an error — it just means your campaign is running as expected with the leads already added.
+
+**FAQ: I would like to setup Buckets & Schedules**
+
+Buckets and Schedules have been replaced by Triggers and are no longer available.
+
+If your account still uses Buckets, it has been grandfathered into the legacy system. Because Buckets are not compatible with the automation of the new interface, you may see the following error when trying to access the Automation page:
+
+_"This account uses buckets which is incompatible with automation. Contact support."_
+
+If you encounter this error, please contact our support team by clicking the chatbot in the lower-right corner of your QuickMail account, then select Escalate to a Human. We'll be happy to help resolve the issue.
