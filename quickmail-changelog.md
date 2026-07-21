@@ -1,5 +1,9 @@
 # QuickMail Changelog
 
+## July 15, 2026
+### FEATURES
+- Added company size as an ICP filter, making it easier to import LinkedIn leads that fit your target audience.
+
 ## July 14, 2026
 
 ### FIXES
