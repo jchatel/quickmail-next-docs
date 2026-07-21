@@ -138,7 +138,15 @@ If you are unable to reconnect via 2FA, click on the AI chatbot located in the l
 
 ### I'm Getting an Error When Adding My LinkedIn Account.
 
-If you are seeing the error "We failed to create your LinkedIn account due to network issues. Please try again later," this is a temporary error caused by high server load. Wait a few minutes and try again.
+**Error: _We failed to create your LinkedIn account due to network issues. Please try again later_**
+
+If you are seeing this, it's a temporary error caused by high server load. Wait a few minutes and try again.
+
+**Error: _2FA Challenge Not Found**
+
+This can happen if you've just set up two-factor authentication (2FA). Try logging out of your LinkedIn account, then logging back in before attempting to connect it to QuickMail again.
+
+Alternatively, wait a few minutes and then try connecting it again.
 
 ### What does gold LinkedIn icon means?
 
