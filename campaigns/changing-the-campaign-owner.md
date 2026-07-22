@@ -12,4 +12,4 @@ To change a campaign's owner, go to the Campaign → Menu (three vertical dots) 
 
 ![screenshot](../images/000_file-oYPkvp6cSr.png)
 
-**Tip:** If you'd like to know more about adding guests or team members, here's a guide: Adding Team Members
+**Tip:** If you'd like to know more about adding guests or team members, here's a guide: [Adding Team Members](https://help.quickmail.com/teams-and-agencies/managing-team-members/)
