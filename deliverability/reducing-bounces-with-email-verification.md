@@ -8,19 +8,26 @@
 
 - How to configure email verification provider?
 
-- Option 1: QuickMail Verification Credits
+  - Option 1: QuickMail Verification Credits
 
-- Option 2: External Verification Provider
+  - Option 2: External Verification Provider
 
 - How to verify leads?
 
-- Step #1: Enable email verification in the campaign
+  - Step #1: Enable email verification in the campaign
 
-- Step #2: Add leads to the campaign
+  - Step #2: Add leads to the campaign
 
 - How to know if emails were already verified?
 
 - Troubleshooting: Leads were already added before email verification was setup
+
+- Troubleshooting: There are invalid leads added to my campaign, what should I do?
+
+- Troubleshooting: If I re-run the email verification on verified leads, will it work?
+
+- Troubleshooting: What happens if I ran out of email verification credits? 
+
 
 # What is Email Verification used for?
 
@@ -192,15 +199,24 @@ When reimporting the CSV, make sure to select the campaign where you would like 
 
 ![screenshot](../images/019_file-uLAaP8qfNK.png)
 
-## There are invalid leads added to my campaign, what should I do?
+## Troubleshooting: There are invalid leads added to my campaign, what should I do?
 
 Leads marked as invalid will not be contacted. Instead, they will run into an error to prevent bounces.
 You can keep them in the campaign but it might be worth removing them to avoid confusion.
 
-## If I re-run the email verification on verified leads, will it work?
+## Troubleshooting: If I re-run the email verification on verified leads, will it work?
 
 Leads that were already verified will not use credits again.
 So re-verifying leads will not change their invalud status.
 
 To re-verifying leads, delete them from the workspace and re-add them.
+
 Note that that will delete their historical data.
+
+## Troubleshooting: What happens if I ran out of email verification credits? 
+
+Currently, there are no email notifications sent when your email verification credits are running low or have been exhausted.
+
+Because of this, it's important to regularly check your remaining email verification credits on the **Integrations** page.
+
+If a campaign is configured to verify email addresses before adding leads, and there are no verification credits available, new leads will **not** be added to the campaign until additional verification credits are available.
