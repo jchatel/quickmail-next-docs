@@ -1,6 +1,6 @@
 # FAQ: Does QuickMail have its own auto-warmer?
 
-Yes — QuickMail has its own built-in auto-warmer, but it’s currently only available for email accounts purchased through QuickMail.
+Yes, QuickMail has its own built-in auto-warmer, but it’s currently only available for [email accounts purchased through QuickMail](https://help.quickmail.com/email-accounts/buying-gmail-accounts-with-quickmail/).
 To know if you have auto-warmer available, go to Emails > click the email > check if there's an auto-warmer tab.
 
 If there's none, it means your email is not bought from us.
