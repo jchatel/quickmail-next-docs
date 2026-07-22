@@ -10,13 +10,13 @@ Here are some features our users can utilize to enhance email deliverability:
 
 High email volume can harm email deliverability, so experts recommend keeping it to around 100 emails per day. In addition, increasing the time delay between sends also helps your activity appear less spammy, improving your chances of reaching the inbox. By default, QuickMail has a time delay of 60-120 seconds between sending emails.
 
-To increase the delay and setup a daily email limit, see Throttling Emails to Avoid Getting Flagged
+To increase the delay and setup a daily email limit, see [Throttling Emails to Avoid Getting Flagged](https://help.quickmail.com/deliverability/maximizing-email-deliverability-in-quickmail/)
 
 ## Inbox Rotation
 
 If you need to send more emails without compromising deliverability, consider adding multiple email accounts. In QuickMail, you can easily rotate different inboxes within the same campaign.
 
-Here's how it works Using Multiple Emails to Scale Campaigns (Inbox Rotation)
+Here's how it works [Using Multiple Emails to Scale Campaigns (Inbox Rotation)](https://help.quickmail.com/campaigns/inbox-rotation/)
 
 ## Reduce Bounces
 
@@ -24,7 +24,7 @@ Verifying leads in QuickMail is essential to minimize bounce rates and protect y
 
 QuickMail provides in-app lead verification using email verification credits. We also support external email verification providers if you have an existing setup.
 
-Fore more info, check out Reducing Bounces with Email Verification
+Fore more info, check out [Reducing Bounces with Email Verification](https://help.quickmail.com/deliverability/reducing-bounces-with-email-verification/)
 
 ## Warm up your Inbox
 
@@ -36,7 +36,9 @@ Here's how it works: QuickMail Autowarmer
 
 In the meantime, users can also warm up for free at Mailflow.io. To get started, sign up for an account at [Mailflow.io](http://mailflow.io/) and follow this guide: [How does the auto-warmer work?](https://help.mailflow.io/article/414-how-to-use-the-auto-warmer-feature)
 
-If you have a paid subscription with QuickMail, reach out to us to increase your daily auto-warmer limits.
+If you have a paid QuickMail subscription, you can get a free Mailflow subscription.
+
+Simply log in to your QuickMail account, click the chatbot in the bottom-right corner, and select Escalate to Human. Our team will help you get your free Mailflow subscription set up.
 
 ## Set up Custom domain tracking
 
@@ -44,7 +46,7 @@ Custom domain tracking allows you to use your own brand to track what prospects 
 
 When leads see links with your domain's branding, the email will appear more trustworthy, and they are likely to click the links.
 
-See Custom Domain Tracking to Improve Deliverability on how to set it up
+See [Custom Domain Tracking to Improve Deliverability](https://help.quickmail.com/deliverability/custom-domain-tracking-to-improve-deliverability/) on how to set it up
 
 ## Create Smart Sending Groups with Deliverability AI
 
