@@ -83,13 +83,13 @@ To create email variations, see [Email Variations for A/Z Testing](https://help.
 
 Liquid syntax boosts email personalization by allowing users to dynamically inserting customer details like names or preferences, making messages more relevant. It also allows for tailored content based on recipient information, increasing engagement. With more personalization in emails, it reduces the risk of emails being flagged as spam, improving deliverability.
 
-Here's more info about using Liquid Syntax
+Here's more info about using [Liquid Syntax](https://help.quickmail.com/campaigns/personalizing-emails-with-liquid-syntax/)
 
 ## Reword Email Copies with AI
 
 Reword with AI automatically rephrases email copies while keeping the original content intact. This enhances deliverability by minimizing the repetition of identical messages.
 
-To setup rewording with AI, check out this guide: Reword with AI
+To setup rewording with AI, check out this guide: [Reword with AI](https://help.quickmail.com/deliverability/rewording-with-ai/)
 
 ## Enable Visible Image Tracking
 
@@ -99,13 +99,13 @@ Recipients see a banner that says, “Images in this message are hidden,” alon
 
 To address this issue, we’ve added a new feature in QuickMail that allows users to track opens based on the images they include, either by making the tracking visible with a tiny dot instead of an invisible pixel or by tracking based on included images, helping to prevent emails from being flagged for open tracking.
 
-Here's how it works: Visible Image Tracking
+Here's how it works: [Visible Image Tracking](https://help.quickmail.com/deliverability/visible-image-tracking/)
 
 ## Consider the Readability Scores of Your Emails
 
 The readability score shows up when composing emails and replies, helping to ensure your message is clear by evaluating sentence length and word choice. A high score enhances engagement and message clarity, so it’s helpful to consider it while composing.
 
-For tips to improve the readability scores of your emails, check out this guide: Readability Scores
+For tips to improve the readability scores of your emails, check out this guide: [Readability Scores](https://help.quickmail.com/campaigns/readability-scores/)
 
 ## Stealtthmode
 
