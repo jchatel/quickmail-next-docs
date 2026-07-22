@@ -54,7 +54,7 @@ Deliverability AI automatically replaces email accounts with low deliverability 
 
 With Smart Sending Groups, you can efficiently manage and optimize your email accounts based on performance. This feature conducts daily checks of your email accounts to maintain high deliverability, helping you reach your audience more effectively.
 
-See more about Deliverability AI
+See more about [Deliverability AI](https://help.quickmail.com/deliverability/deliverability-ai/)
 
 ## Monitor your Domain's Health
 
@@ -63,14 +63,13 @@ Configuring email authentication can be challenging. QuickMail provides SPF and 
 You'll receive instant notifications if any of your sending domains are blacklisted, and you'll be alerted again when they are cleared. You can also check the status of your domains anytime on the Domain Health page.
 
 Not sure how to setup SPF and DKIM? This guide might come in handy:
-
-Adding SPF, DKIM, and DMARC Records
+[Adding SPF, DKIM, and DMARC Records](https://help.quickmail.com/deliverability/adding-spf-dkim-dmarc-records/)
 
 ## Use Text Variation (Spintax)
 
 Text variations can be incorporated into emails to diversify the messages being sent. This approach helps prevent campaign fatigue, reducing the risk of spam filters flagging the account for sending repetitive content.
 
-Here's a guide on how to use Text Variations
+Here's a guide on how to use [Text Variations](https://help.quickmail.com/campaigns/text-variations-spintax/)
 
 ## Create Multiple Email Variations
 
@@ -78,7 +77,7 @@ Creating multiple email variations lets you try out different email copies to se
 
 Additionally, this approach makes it more challenging for spam filters to block you for sending similar messages.
 
-To create email variations, see Email Variations for A/Z Testing
+To create email variations, see [Email Variations for A/Z Testing](https://help.quickmail.com/campaigns/email-variations-for-ab-testing/)
 
 ## Liquid Syntax
 
