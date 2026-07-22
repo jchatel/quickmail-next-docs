@@ -287,3 +287,11 @@ If you want to update existing lead details, check **Update Lead if it exists** 
 A: The CSV must be formatted as UTF-8. This article may help with converting your file: [https://support.meistertask.com/hc/en-us/articles/4406395262354-How-Do-I-Encode-My-CSV-File-Using-the-UTF-8-Format-](https://support.meistertask.com/hc/en-us/articles/4406395262354-How-Do-I-Encode-My-CSV-File-Using-the-UTF-8-Format-)
 
 After correcting the CSV, re-import it and make sure to check **Update Lead if it exists** to avoid leads being rejected as duplicates.
+
+**Q: What happens if I reimport leads containing blank information or columns?**
+
+When reimporting leads, the email address is the only required field.
+
+If your CSV contains blank values in certain columns, mapping those columns will not erase the existing data for those leads. Blank values are ignored, and the existing information remains unchanged.
+
+If you don't need to update certain fields, you can also choose not to map those columns during the import process to make the import simpler.
