@@ -1,5 +1,9 @@
 # QuickMail Changelog
 
+## July 21, 2026
+### FEATURES
+- Lead's Location, Language, and Company name will now be imported too when importing leads from a LinkedIn post. 
+
 ## July 15, 2026
 ### FEATURES
 - Added company size as an ICP filter, making it easier to import LinkedIn leads that fit your target audience.
