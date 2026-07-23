@@ -80,11 +80,12 @@ ICP filters will automatically be applied to your LinkedIn profile viewer and po
 
 - Click the button to create a new ICP.
 
-<img width="1158" height="694" alt="image" src="https://github.com/user-attachments/assets/2379d933-65cf-4302-be3c-1adf81553ebe" />
+<img width="1246" height="687" alt="image" src="https://github.com/user-attachments/assets/d8a3592f-aaaf-4bb1-974f-c7e51368f0e9" />
 
 - Name your ICP, create filters, and Click **Confirm**.
 
-<img width="1158" height="697" alt="image" src="https://github.com/user-attachments/assets/a9953bb2-4599-443e-a45d-7865318cffcd" />
+<img width="1236" height="687" alt="image" src="https://github.com/user-attachments/assets/aa7cc256-ed5f-4f60-a2c9-52a2bd73f4c8" />
+
 
 
 ## How do I use my ICP Filters?
