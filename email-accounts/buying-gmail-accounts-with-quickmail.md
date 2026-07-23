@@ -112,7 +112,7 @@ Go to **Email** → click on an email account to open the quick view → **Passw
 
 ## How to Cancel Purchased Email Accounts?
 
-Contact [support@quickmail.io](mailto:support@quickmail.io) or use the chat widget at the bottom right of the page to request a cancellation.
+Click on the chatbot at the lower right hand corner of your QuickMail account, type in your concern, and then click 'Escalate to Human'to reach out to Support.
 
 Once the email accounts are canceled, you can remove your Gmail package by going to **Billing** → **Manage Subscription** → downgrade the Gmail package to 0.
 
