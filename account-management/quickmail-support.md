@@ -1,6 +1,6 @@
 # QuickMail Support
 
-Our support team primarily operates via email at **support@quickmail.io**.
+Our support team primarily operates via email. To reach out to support, click on the chatbot at the lower right hand corner of your QuickMail account, type in your concern, and then click 'Escalate to Human'.
 
 While we don’t have a direct phone line at the moment, we’re committed to providing fast, helpful responses, typically within **8 business hours**.
 
