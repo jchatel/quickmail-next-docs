@@ -32,7 +32,7 @@ Leads are the people you will send emails or LinkedIn messages to. An email addr
 
 ## Creating Leads Manually
 
-**Step 1.** Go to **List** → **+ Leads** → **Add Lead Manually**.
+**Step 1.** Go to **Leads page** → **Add Leads** **Add Lead Manually**.
 
 ![screenshot](../images/000_file-DU66icKn6Q.png)
 
@@ -70,7 +70,7 @@ Leads can be imported from a CSV file directly into your lead list or a campaign
 
 ![screenshot](../images/005_file-lc8wZKTs44.jpg)
 
-**Step 1.** Go to **List** → **+ Leads** → **Import from CSV**.
+**Step 1.** Go to **Leads page** → **+ Leads** → **Import from CSV**.
 
 ![screenshot](../images/006_file-1z24aYQuHL.png)
 
@@ -126,7 +126,7 @@ Leads can be imported from a Google Sheet linked to a Google Drive account. The 
 
 ![screenshot](../images/015_file-c17eVCksJg.png)
 
-**Step 3.** Go to **List** → **+ Leads** → **Import from Google Drive**.
+**Step 3.** Go to **Leads page** → **+ Leads** → **Import from Google Drive**.
 
 ![screenshot](../images/016_file-m935Ssvx8k.png)
 
@@ -174,7 +174,7 @@ QuickMail's integration with LinkedIn Sales Navigator allows you to import selec
 
 ![screenshot](../images/025_file-BwTSeKBFRm.png)
 
-**Step 3.** Go to **List** → **+ Add Leads** → **Import from Sales Navigator**.
+**Step 3.** Go to **Leads page** → **+ Add Leads** → **Import from Sales Navigator**.
 
 ![screenshot](../images/026_file-Wy6JlfWmhI.png)
 
@@ -192,7 +192,7 @@ QuickMail's integration with LinkedIn Sales Navigator allows you to import selec
 
 ![screenshot](../images/028_file-QSgxWzJRxo.png)
 
-**Step 2.** Go to **List** → **+ Leads** → **Import from LinkedIn Post** → paste the LinkedIn post link.
+**Step 2.** Go to **Leads page** → **+ Leads** → **Import from LinkedIn Post** → paste the LinkedIn post link.
 
 ![screenshot](../images/029_file-u04xOzQS8u.png)
 
@@ -218,7 +218,7 @@ Every time you add a new lead to your Google Sheet, they will be automatically a
 
 ![screenshot](../images/033_file-5jYDaUAI1K.png)
 
-**Step 2.** Go to **List** → **+ Leads** → **Google Drive** → tick the box **Auto-import automatically if spreadsheet changes**.
+**Step 2.** Go to **Leads page** → **+ Leads** → **Google Drive** → tick the box **Auto-import automatically if spreadsheet changes**.
 
 **Note:** Auto-import will only import new leads added to the Google Sheet after it is set up. Existing leads in the sheet must be imported separately.
 
@@ -242,7 +242,7 @@ Auto-Import continuously monitors your saved Sales Navigator search. When a new 
 
 ![screenshot](../images/037_file-BwTSeKBFRm.png)
 
-**Step 3.** Go to **List** → **+ Add Leads** → **Import from Sales Navigator**.
+**Step 3.** Go to **Leads page** → **+ Add Leads** → **Import from Sales Navigator**.
 
 ![screenshot](../images/038_file-ieorzlCzcf.png)
 
