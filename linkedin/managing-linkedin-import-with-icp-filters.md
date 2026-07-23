@@ -46,6 +46,8 @@ You can use the following filters to define your ICP:
 
 - **Target locations** — import only profiles from specific locations, such as "United States" or "London."
 
+- **Company Size** - import only profiles based on the company's number of employees.
+
 - **Open to Work** — import only profiles that are open to work."
 
 You can add multiple values for each filter type. If you add multiple values within the same filter (for example, multiple industries), profiles only need to match at least one of those values.
@@ -66,9 +68,11 @@ You can add multiple values for each filter type. If you add multiple values wit
 
 - In **Target locations**, select a location from the dropdown and click **Include** to target it or **Exclude** to skip it.
 
+- In **Company Size**, select the company size from the dropdown and click **Include** to target it or **Exclude** to skip it
+
 ICP filters will automatically be applied to your LinkedIn profile viewer and post imports.
 
-![screenshot](../images/000_file-Uk5tPfEPNR.png)
+<img width="1247" height="688" alt="image" src="https://github.com/user-attachments/assets/1b1d60ae-411b-4829-a1c9-49cf1bf35d70" />
 
 **From the QuickMail app:**
 
