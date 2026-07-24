@@ -1,5 +1,7 @@
 # Setting up API V2
 
+**Note:** QuickMail's API is not available for accounts on Starter Plan. 
+
 These are mostly just JSON samples for API calls.
 
 **Here's the complete API documentation to use:** [**https://api.quickmail.com/help**](https://api.quickmail.com/help)
