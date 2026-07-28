@@ -64,7 +64,7 @@ To receive a weekly Deliverability Report for a specific email account, go to **
 
 To manually generate a Deliverability Report at any time, go to **Email** → click the email account → **Deliverability** tab → click **Generate Report**.
 
-**Note:** It may take up to 30 minutes for the report to generate.
+**Note:** It may take up to 30 minutes for the report to generate. Reports generated manually are not sent via email and can only be viewed within the email account settings. 
 <img width="1084" height="702" alt="image" src="https://github.com/user-attachments/assets/8a363bd7-b83c-42ed-aad8-9f992b29a88e" />
 
 
