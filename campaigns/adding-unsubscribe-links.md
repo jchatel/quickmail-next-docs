@@ -64,7 +64,13 @@ Here's how the unsubscribe header will appear in your emails:
 
 # What do leads see when they click unsubscribe?
 
-When a lead clicks the unsubscribe link, they will be redirected to a form where they can choose the reason for unsubscribing.
+When a lead clicks the unsubscribe link, they will be unsubscribed automatically by default.
+
+If you'd like the leads to be redirected to a form where they can choose the reason for unsubscribing, simply enable 'Confirm Unsubscribe' in the campaign's settings.
+
+<img width="1193" height="708" alt="image" src="https://github.com/user-attachments/assets/cc4657ee-0fbf-4c05-86e4-a29237c12755" />
+
+Here's what the Unsubscribe page looks like with 'Confirm Unsubscribe'
 
 ![screenshot](../images/006_file-n0qYP2txWR.png)
 
