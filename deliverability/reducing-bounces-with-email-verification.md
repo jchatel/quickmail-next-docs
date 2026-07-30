@@ -47,6 +47,13 @@ In case you already have an email verification set up with another service, Quic
 
 - [Bouncer](https://www.usebouncer.com/)
 
+**Important:** QuickMail automatically checks the MX records of every lead you import to verify whether the email's domain is capable of receiving emails.
+
+* If the domain is invalid or doesn't have valid MX records, the email address is automatically marked as **invalid** and the system won't send any emails to the domain.
+* If the domain is valid, **this does not guarantee that the email address itself is valid**. An active domain can still contain non-existent or disabled email addresses.
+
+For that reason, it's still important to verify your email addresses. Email verification checks whether the individual mailbox is valid and helps reduce bounces and improve deliverability.
+
 # What are the types of Email Verification status?
 
 There are 5 types of email verification status:
