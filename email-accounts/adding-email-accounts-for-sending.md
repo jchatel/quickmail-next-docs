@@ -14,6 +14,7 @@
 - How many email accounts can I add?
 
 - My email account keeps getting paused due to error 550 5.1.8. What does it mean?
+
 - Handling Common Error
 
 **Important:** Adding email accounts for sending is different from adding team members to your account. For a step-by-step guide on adding team members, check out this [guide](https://help.quickmail.com/teams-and-agencies/for-teams-team-members/).
@@ -140,3 +141,7 @@ To avoid future blocks, consider the following best practices:
 **IMAP Error ** _Inbox didn't respond in a timely manner, cancelling communication._
 
 - This issue can occur when the email server takes too long to respond to our connection request. A common cause is having too many folders or emails in the mailbox. Please try deleting unnecessary folders and old emails, then reconnect the account and see if that resolves the issue.
+
+** I would like to migrate email accounts from one workspace to another **
+
+- It's currently not possible to migrate email accounts from one workspace to another. A way around is to manually delete from the old workspace and then add email accounts to your preferred workspace. 
