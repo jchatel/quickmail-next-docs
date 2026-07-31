@@ -1,4 +1,4 @@
-# Troubleshooting: Campaign/Inbox is not sending
+# Troubleshooting: Campaign is not sending
 
 There are several reasons why a campaign may not be sending emails. Here are some of the most common ones:
 
@@ -90,7 +90,20 @@ To solve the issue, please go to the general settings of your campaign and unche
 
 ![screenshot](../images/007_file-FDlhauj2LX.png)
 
+- ## All leads in the campaign are currently on a LinkedIn Connection Request Step
+
+By default, the LinkedIn Connection Request step setting 'Wait until the connection is accepted to resume campaign' is enabled, so the leads that have been sent a Connection Request  may appear stuck.
+
+This is because the campaign is still waiting for the leads to accept the connection request before it proceeds to the next step. Technically, LinkedIn doesn't allow sending LinkedIn messages to leads you're not yet connected with. Thus, this option.
+
+- ## The step that the leads are currently in, or previously passed through, was deleted.
+
+Deleting a step while a campaign is already running breaks the sequence for any leads that are currently in that step or have already passed through it. Unfortunately, this cannot be repaired once it happens. As a way around it, you can filter leads that are on that step, and then add them to another campaign to continue sending. 
+
+To avoid this issue, it's best not to delete steps after a campaign has started. Instead, you can disable the step or create a new campaign with the desired changes.
+
 - ## My campaign has leads but it says "no new leads left to start." Why is that?
+
 This only refers to leads who are in the "Not Started" status.
 So if your leads are already running the campaign, it's normal to see this.
 
