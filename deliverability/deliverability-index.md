@@ -9,3 +9,7 @@ The deliverability index may not be available for inboxes with low email volume,
 ## What is the suggested deliverability index threshold?
 
 The common threshold for the deliverability index is 40%, but this might be too high for some users since it's based on the open rate. Ultimately, the ideal threshold will depend on your specific needs and goals.
+
+## What does the fire icon mean?
+
+The fire icon mean that the email account is being warmed up either in QuickMail (If it's an email account purchased from QuickMail) or in Mailflow (If it's an email account purchased out side QuickMail). The fire icon represents the email account's autowarmer scores.
