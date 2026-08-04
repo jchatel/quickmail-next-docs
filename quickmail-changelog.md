@@ -4,8 +4,7 @@
 ### FEATURES
 - Introduced the Prospecting page, allowing users to search, filter, and discover leads directly within the app. Requires the LinkedIn Browser Extension to access and import prospects.
 
-<img width="1356" height="704" alt="image" src="https://github.com/user-attachments/assets/f8c74c14-90df-4f52-bc56-d93c47bc2fa0" />
-
+<img width="1356" height="704" alt="image" src="https://github.com/user-attachments/assets/167883a5-a5d8-45c9-825b-d1848230e05c" />
 
 ## July 21, 2026
 ### FEATURES
