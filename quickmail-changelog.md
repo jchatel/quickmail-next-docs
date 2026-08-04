@@ -1,5 +1,12 @@
 # QuickMail Changelog
 
+## August 4, 2026
+### FEATURES
+- Introduced the Prospecting page, allowing users to search, filter, and discover leads directly within the app. Requires the LinkedIn Browser Extension to access and import prospects.
+
+<img width="1356" height="704" alt="image" src="https://github.com/user-attachments/assets/f8c74c14-90df-4f52-bc56-d93c47bc2fa0" />
+
+
 ## July 21, 2026
 ### FEATURES
 - Lead's Location, Language, and Company name will now be imported too when importing leads from a LinkedIn post. 
