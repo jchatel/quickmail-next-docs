@@ -95,6 +95,8 @@ If this setting is enabled at the account level, it applies to all inboxes withi
 
 However, if an email account has its custom domain tracking, QuickMail prioritizes the email account's settings over those of the account.
 
+**Note:** Custom domain tracking only applies to emails sent after it was set up. 
+
 # How do I know if my custom domain tracking is properly set up?
 
 If the custom domain tracking isn't pointing to the correct values, you will get an error upon adding it to QuickMail.
@@ -106,3 +108,5 @@ We check the custom domain tracking settings on both the account and inbox level
 For instance, if the custom domain tracking is only set up at the account level and is not working, we pause all inboxes in that account. However, if custom domain tracking is also set up at the inbox level, we only pause the inboxes with incorrect custom domain tracking.
 
 **Note:** Inboxes with incorrect custom domain tracking - whether they're using that of the inbox or that of the account - can't be unpaused.
+
+# How to 
