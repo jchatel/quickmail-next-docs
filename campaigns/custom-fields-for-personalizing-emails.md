@@ -58,7 +58,7 @@ There are two ways to create custom properties:
 
 **Via the Custom Properties page**
 
-Go to **List** → click the three vertical dots → **Properties**.
+Go to **Leads page** → click the three vertical dots → **Properties**.
 
 ![screenshot](../images/001_file-f8qvDPKQvu.png)
 
@@ -72,7 +72,7 @@ The default value is used as a fallback if a lead does not have a value assigned
 
 **Via import**
 
-Go to **List** → **+ Leads** → **Import from CSV or Google Drive** → **Custom Properties** tab → **+ New Property**.
+Go to **Leads page** → **+ Leads** → **Import from CSV or Google Drive** → **Custom Properties** tab → **+ New Property**.
 
 ![screenshot](../images/003_file-vbl5rffuum.png)
 
@@ -162,7 +162,7 @@ You can also type properties manually as long as they follow the same format use
 
 ## How to Delete Custom Properties?
 
-Go to **List** → click the three vertical dots → **Properties**.
+Go to **Leads page** → click the three vertical dots → **Properties**.
 
 ![screenshot](../images/012_file-f8qvDPKQvu.png)
 
@@ -176,7 +176,7 @@ Confirm the deletion.
 
 ## How to Edit Custom Properties?
 
-Go to **List** → click the three vertical dots → **Properties**.
+Go to **Leads page** → click the three vertical dots → **Properties**.
 
 ![screenshot](../images/012_file-f8qvDPKQvu.png)
 
