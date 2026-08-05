@@ -18,4 +18,6 @@ To use Prospecting, you'll need to install the **QuickMail LinkedIn Browser Exte
 
 <img width="1281" height="705" alt="image" src="https://github.com/user-attachments/assets/92587da6-15ca-43d1-bc85-96aa04f59c47" />
 
-**Step 5:** Choose the campaign where you'd like to add the selected leads, then import them.
+**Step 5:** Choose the campaign where you'd like to add the selected leads. Wait for the import to complete.
+
+**Note:** An import report will be sent to the email address you're using to login. 
