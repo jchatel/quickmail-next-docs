@@ -38,7 +38,7 @@ Click cancel subscription
 
 No need to cancel the account.
 
-Once the 14-day trial expires, the account will not be charged. Instead, it will simply expire and be automatically deleted, no further action is required.
+Once the 14-day trial expires, the account will not be charged. Instead, it will simply expire and be automatically deleted, no need to contact Support and no further action is required.
 
 ## I'm having an error canceling my subscription
 
