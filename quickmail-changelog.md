@@ -2,6 +2,7 @@
 
 ## August 4, 2026
 ### FEATURES
+- When importing leads from LinkedIn post, language and location info are now being imported as well. 
 - Introduced the Prospecting page, allowing users to search, filter, and discover leads directly within the app. Requires the LinkedIn Browser Extension to access and import prospects.
 <img width="1356" height="704" alt="image" src="https://github.com/user-attachments/assets/167883a5-a5d8-45c9-825b-d1848230e05c" />
 
