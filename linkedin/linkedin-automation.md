@@ -248,11 +248,15 @@ It may take a few minutes for the LinkedIn account to be added, but no longer th
 
 A lead's LinkedIn information can be added manually or in bulk via import.
 
-**Note:** Leads scraped from third-party tools with unique URL IDs assigned to LinkedIn profiles are not supported, as these differ from actual LinkedIn Profile URL IDs. Scraping also violates LinkedIn's policy.
+Leads scraped from third-party tools with unique URL IDs assigned to LinkedIn profiles are not supported, as these differ from actual LinkedIn Profile URL IDs. Scraping also violates LinkedIn's policy.
 
 Here is the correct format and where to find a lead's LinkedIn Profile URL ID:
 
 ![screenshot](../images/030_file-dfXVsY8hIK.png)
+
+**Note:** An email address is required to add a lead, even if you’re only going to add them to your LinkedIn only campaign. You can use this [dummy email address generator](https://docs.google.com/spreadsheets/d/1J0-JS6H_PfHwY35EQ1BXjctrCE7ZQWoura_4uS6_g3w/edit?gid=0#gid=0) to generate email addresses for your leads. 
+
+Make sure to use a unique email address for each lead and a valid domain. For example: sample-email+1@linked.com.
 
 ### Manually Adding a Lead's LinkedIn ID
 
