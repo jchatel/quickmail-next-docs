@@ -50,22 +50,33 @@ You can manually toggle the email off from the same page where you assigned the 
 **Pro tip:**  If you want to do it automatically, we have a Deliverability AI that allows you to group emails and automatically swap the campaign to use the good emails and put bad emails in recovery. 
 Learn more about it here.
 
-# I already assigned the inbox from the campaigns but it's still sending emails?
+# I already unassigned the email account from the campaigns but it's still sending emails?
 
-When a lead starts a campaign, QuickMail assigns that lead to a specific inbox, and all follow-ups for that lead continue to be sent from the same inbox.
+When a lead enters a campaign, QuickMail assigns the lead to a specific **email account**. All follow-up emails for that lead will continue to be sent from the same email account throughout the campaign.
 
-So if some leads in a campaign originally started from the unassigned inbox, their follow-ups will remain tied to those inboxes unless the assignment is reset.
+This means that if some leads originally started the campaign from an **unassigned email account**, their follow-up emails will remain tied to that email account unless the assignment is reset.
 
-To reassign those leads to different inboxes, you can:
-Pause the campaign
-Remove the old inboxes
-Set the campaign live again
+### How to reassign the leads to different email accounts
 
-Once the campaign resumes, the leads assigned to the removed inboxes will automatically be redistributed to the remaining active inboxes.
+To reset the email account assignment:
 
-One important thing to note: any other campaigns currently using the old inbox will also need to be paused first.
+1. **Pause the campaign.**
+2. **Delete the old email accounts** that you want to reassign.
+3. **Add or assign the new email accounts** you want to use.
+4. **Set the campaign live again.**
 
-After the reassignment is complete, the old inboxes can then be added back to the account and campaigns if needed.
+Once the campaign resumes, leads that were assigned to the deleted email accounts will automatically be redistributed among the remaining active email accounts when they move to the next email step.
 
-If deleting is not an option, you can pause the inboxes to stop sending emails from them.
-Just note that that could delay the leads assigned to them.
+If you plan to use the old email accounts again in the future, you can simply **add them back** to the workspace after the reassignment is complete.
+
+### Important: Other campaigns using the same email accounts
+
+If the old email accounts are currently being used by other campaigns, those campaigns must also be **paused before you delete the email accounts**.
+
+Once the reassignment is complete, you can add the old email accounts back and use them in your campaigns again if needed.
+
+### Alternative: Pause the email accounts
+
+If deleting the email accounts isn't an option, you can **pause the email accounts** to prevent them from sending emails.
+
+However, keep in mind that leads assigned to paused email accounts can't be re-assigned and may be **delayed** in the sequence. 
