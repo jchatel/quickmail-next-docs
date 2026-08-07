@@ -1,10 +1,21 @@
 # QuickMail's Prospecting 🔍
 
-QuickMail Prospecting gives you free access to our lead database, allowing you to search and filter prospects directly within QuickMail to quickly find new leads for your outreach campaigns.
+QuickMail Prospecting gives you free access to our lead database, allowing you to search and filter prospects directly within QuickMail. You can then add the leads you find directly to your outreach campaigns.
 
-To use Prospecting, you'll need to install the **QuickMail LinkedIn Browser Extension**, which is required to retrieve lead information from LinkedIn.
+To use Prospecting, you'll need to install the QuickMail LinkedIn Browser Extension, which is required to retrieve lead information from LinkedIn.
 
 **Note** Currently, most of the leads in our Prospecting database include LinkedIn profiles, making them ideal for LinkedIn outreach.
+
+## Why Use QuickMail Prospecting?
+
+QuickMail Prospecting is a free way to find new leads on LinkedIn and add them directly to your QuickMail campaigns.
+
+QuickMail Prospecting can help you:
+**Find new LinkedIn leads for free** — Search our lead database without needing to purchase leads from a separate prospecting platform.
+**Discover relevant prospects** — Use filters to narrow down leads based on your target audience and outreach criteria.
+**Build your lead list faster**— Find and select prospects directly within QuickMail instead of manually searching for and importing them.
+**Simplify LinkedIn outreach** — Most prospects include LinkedIn profiles, making it easy to find leads you can use for LinkedIn campaigns.
+**Add leads directly to campaigns** — Once you've found the prospects you want, you can import them directly into a QuickMail campaign.
 
 ## How to Use QuickMail Prospecting? 
 
@@ -23,3 +34,6 @@ To use Prospecting, you'll need to install the **QuickMail LinkedIn Browser Exte
 **Step 5:** Choose the campaign where you'd like to add the selected leads. Wait for the import to complete.
 
 **Note:** An import report will be sent to the email address you're using to login. 
+
+<img width="638" height="396" alt="image" src="https://github.com/user-attachments/assets/6d6871b0-05bf-49b0-8840-b58d46375af4" />
+
