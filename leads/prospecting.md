@@ -19,7 +19,8 @@ QuickMail Prospecting can help you:
 
 ## How to Use QuickMail Prospecting? 
 
-**Step 1:** Install the QuickMail LinkedIn Browser Extension. Here's a guide [Linked Browser Extension](https://help.quickmail.com/linkedin/quickmails-linkedin-browser-extension/)
+**Step 1:** Go to the Prospecting page in QuickMail and then Install the QuickMail LinkedIn Browser Extension. 
+Here's a guide [Linked Browser Extension](https://help.quickmail.com/linkedin/quickmails-linkedin-browser-extension/)
 
 <img width="1286" height="706" alt="image" src="https://github.com/user-attachments/assets/a68d55d0-13ec-458b-9cfb-c8e342cfc5c7" />
 
