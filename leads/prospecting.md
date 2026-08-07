@@ -28,7 +28,7 @@ Here's a guide [Linked Browser Extension](https://help.quickmail.com/linkedin/qu
 
 **Step 3:** Use the available filters to find leads that match your desired criteria. (Use included/exclude options)
 
-<img width="1319" height="703" alt="image" src="https://github.com/user-attachments/assets/835d18d4-6fbe-4f90-855d-1f151999fb79" />
+<img width="1322" height="706" alt="image" src="https://github.com/user-attachments/assets/71eae1a5-e973-4b67-a584-dcd60bfe58a8" />
 
 **Step 4:** Select all filtered leads that you'd like to import and click 'Add to leads'.
 
