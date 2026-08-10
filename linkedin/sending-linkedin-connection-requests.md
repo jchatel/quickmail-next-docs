@@ -2,22 +2,6 @@
 
 💡 The number of LinkedIn accounts that you can add will depend on your plan. It's 1 for Basic, 5 for Pro, and 15 for Expert.
 
-**In this article:**
-
-- How does sending a LinkedIn connection request work?
-
-- Understanding LinkedIn policies for sending connection requests with a message
-
-- How many LinkedIn connection requests can I send?
-
-- How to add a LinkedIn Connection Step to a campaign
-
-- How to cancel a pending LinkedIn connection request
-
-- How to see which LinkedIn account sent a connection request
-
-- How can I change the daily limit for sending LinkedIn connection requests?
-
 ## How does sending a LinkedIn connection request work?
 
 Two types of connection requests can be added to the Connection Request steps, personalized connection requests and blank connection requests.
@@ -50,25 +34,29 @@ If you need to send more connection requests, you can increase this limit or con
 
 ## How to add a LinkedIn connection step to a campaign?
 
-- Setup LinkedIn Automation.
+**Step 1.** Add a LinkedIn account for sending.
 
-- From your campaign, go to Steps and click the Add Step button.
+Go to LinkedIn in QuickMail and click Add LinkedIn account.
 
-- An Add Campaign Step window will then pop up, click LinkedIn connection from it.
+There are three ways to connect your LinkedIn account. For detailed instructions on each method, see our [LinkedIn Account Setup Guide.](https://help.quickmail.com/linkedin/adding-linkedin-accounts/)
 
-- Add a message that you want to send with the LinkedIn request. You can use attributes to personalize your message. Then, set whether you want the follow-ups to be sent to prospects even if they haven't accepted the connection.
+**Step 2.** From your campaign, go to Steps → click the Add Step button → Connection Request Step 
 
-**Note:** If your LinkedIn connection message exceeds 150 characters, the journey will run into an error and the request won't get sent. They won't be able to proceed to the next step until it's fixed
+**Step 3.** You can leave the connection request message blank or add a message to send with your LinkedIn connection request. You can also use attributes to personalize the message.
 
-To fix this, you will need to shorten your LinkedIn connection request message and resume the journeys manually. 
+**Note:** If your LinkedIn connection message exceeds 150 characters, the journey will run into an error and the request won't get sent. They won't be able to proceed to the next step until it's fixed To fix this, you will need to shorten your LinkedIn connection request message and resume the journeys manually. 
 
-Additionally, LinkedIn limits the number of connection requests that you can send with a note.
-We automatically retry those but you can also set the LinkedIn step to send a connection request without a note.
+**Step 4.** Add follow up steps as needed. 
 
-- The system checks the status of the LinkedIn connection request once a day. So when a prospect accepts the LinkedIn connection request and "Wait until the connection is accepted to resume campaign" is checked, the journey of the prospect won't move to the next step in real time.
+**Note:** By default, **Wait Until Connection Request Is Accepted** is enabled. When this setting is enabled, the lead will pause at the connection request step until the prospect accepts the request.
 
-The setting "Wait until the connected is accepted to resume campaign" is not on by default.
-So you have to turn it on manually.
+Once the connection request is accepted, the lead will continue through the sequence, and the follow-up steps will be sent according to the campaign schedule.
+
+If you want follow-up messages to be sent even when the prospect hasn't accepted the connection request, you can disable this setting.
+
+**Step 5.** Add leads to the campaign and then set the campaign live. 
+
+**Note:** The system checks the status of the LinkedIn connection request once a day. So when a prospect accepts the LinkedIn connection request and "Wait until the connection is accepted to resume campaign" is checked, the journey of the prospect won't move to the next step in real time.
 
 💡**Pro tip:** You can send additional LinkedIn Messages once you've connected with the prospects.
 
