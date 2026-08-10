@@ -10,6 +10,4 @@ We’re here to help with anything from technical issues to campaign setup and c
 
 🕗 Monday to Friday, 8:00 AM – 8:00 PM CET
 
-📧 Email: support@quickmail.io
-
 We're always looking to improve, so if you have any feedback, don’t hesitate to share it with us!
