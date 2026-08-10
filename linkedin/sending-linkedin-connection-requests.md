@@ -75,17 +75,15 @@ There are three ways to connect your LinkedIn account. For detailed instructions
 
 **Step 4.** Add follow up steps as needed. 
 
-Once the connection request is accepted, the lead will continue through the sequence, and the follow-up steps will be sent according to the campaign schedule.
-
-If you want follow-up messages to be sent even when the prospect hasn't accepted the connection request, you can disable this setting.
+<img width="980" height="700" alt="image" src="https://github.com/user-attachments/assets/c5bf73ef-cfbf-4560-823a-d096312ed2c3" />
 
 **Step 5.** Assign the LinkedIn account to the campaign.
+
+<img width="981" height="701" alt="image" src="https://github.com/user-attachments/assets/42863757-5740-4446-9afa-69c45a00f964" />
 
 **Step 6.** Add leads to the campaign and then set the campaign live. 
 
 **Note:** The system checks the status of the LinkedIn connection request once a day. So when a prospect accepts the LinkedIn connection request and "Wait until the connection is accepted to resume campaign" is checked, the journey of the prospect won't move to the next step in real time.
-
-💡**Pro tip:** You can send additional LinkedIn Messages once you've connected with the prospects.
 
 ## How to cancel a LinkedIn connection request?
 
