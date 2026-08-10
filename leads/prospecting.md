@@ -4,7 +4,7 @@ QuickMail Prospecting gives you free access to our lead database, allowing you t
 
 To use Prospecting, you'll need to install the QuickMail LinkedIn Browser Extension, which is required to retrieve lead information from LinkedIn.
 
-**Note** Currently, most of the leads in our Prospecting database include LinkedIn profiles, making them ideal for LinkedIn outreach.
+**Note** Currently, most of the leads in our Prospecting database don't include email addresses, only LinkedIn profile IDs, which makes them better suited for LinkedIn outreach than email campaigns.
 
 ## Why Use QuickMail Prospecting?
 
