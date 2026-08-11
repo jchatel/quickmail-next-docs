@@ -125,7 +125,7 @@ Go to the campaign → **Menu** → **Import Leads**.
 
 ### Option 2: Manually Adding Leads to the Campaign
 
-Select leads from the list → click **Actions** → **Add to Campaign** → select the campaign.
+Select leads from the Leads page → click **Actions** → **Add to Campaign** → select the campaign.
 
 ![screenshot](../images/012_file-OIPpnywzQG.png)
 
