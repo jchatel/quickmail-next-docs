@@ -36,7 +36,7 @@ To add the signature attribute, type `{{inbox.signature}}` in the email body, or
 
 HTML is not supported directly in the signature field, but you can use a custom property as a workaround by pasting the HTML as the property's default value.
 
-**Step 1.** Go to **List** → **+ Leads** → **Import from CSV or Google Drive**.
+**Step 1.** Go to **Leads** → **Add Leads** → **Import from CSV or Google Drive**.
 
 ![screenshot](../images/002_file-QkdjlgqCru.png)
 
