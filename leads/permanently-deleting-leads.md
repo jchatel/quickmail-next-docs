@@ -24,11 +24,11 @@ When you reach your lead limit, you can permanently delete leads to make room fo
 
 The most commonly deleted leads are those who have unsubscribed, are marked as Do Not Contact, or have bounced or invalid email addresses.
 
-To filter for unsubscribed or Do Not Contact leads, go to **List** → **Filters** → select **Has "Do Not Contact"**.
+To filter for unsubscribed or Do Not Contact leads, go to **Leads** → **Filters** → select **Has "Do Not Contact"**.
 
 ![screenshot](../images/000_file-UVVX8D0UKV.png)
 
-To filter for invalid emails, go to **List** → **Filters** → under **Email Verification**, select **Invalid**.
+To filter for invalid emails, go to **Leads** → **Filters** → under **Email Verification**, select **Invalid**.
 
 ![screenshot](../images/001_file-oPS0XdOCLa.png)
 
