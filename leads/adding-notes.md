@@ -4,12 +4,12 @@ Adding notes to leads helps you communicate better, personalize interactions, an
 
 ## How to add notes?
 
-Go to List → Click on a Lead → Go to the notes tab → Add Note
+Go to Leads → Click on a Lead → Go to the notes tab → Add Note
 
 ![screenshot](../images/000_file-38zyzfbGby.png)
 
-## How to add notes?
+## How to delete notes?
 
-Go to List → Click on a Lead → Go to the notes tab → Click on the ellipsis on a specific note → Delete → Confirm delete
+Go to Lieads→ Click on a Lead → Go to the notes tab → Click on the ellipsis on a specific note → Delete → Confirm delete
 
 ![screenshot](../images/001_file-D5z5fZMhYo.png)
