@@ -30,7 +30,7 @@ Once the drive is added, it will appear on that page.
 
 ![screenshot](../images/001_file-zLrMnppTYB.png)
 
-After that, Google Sheets will be available as an import option on the Leads List page.
+After that, Google Sheets will be available as an import option on the Leads page.
 
 ## Disconnecting a Google Drive Account from a Workspace
 
