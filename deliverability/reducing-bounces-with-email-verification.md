@@ -78,7 +78,7 @@ To setup email verification, QuickMail verification credits must be purchased or
 
 ## Option 1: QuickMail Verification Credits
 
-For single workspaces:** To purchase email verification, go to Settings -> integrations -> buy email QuickMail credits.
+For single workspaces:** To purchase email verification, go to Settings → integrations → buy email QuickMail credits.
 
 ![screenshot](../images/000_file-lZjNkyGGyS.png)
 
@@ -140,13 +140,13 @@ There are two ways to add leads to the campaign:
 
 - ### Add leads to the campaign manually
 
-To add leads to the campaign manually, simply head to List → Select leads → Add to campaign (+ sign icon)
+To add leads to the campaign manually, simply head to Leads → Select leads → Add to campaign (+ sign icon)
 
 ![screenshot](../images/008_file-PAjLCy3QEX.png)
 
 - ### Add leads via import
 
-To add leads via import, go to List → + Leads → Import from CSV or Google Drive → Select Drive or CSV
+To add leads via import, go to Leads → + Leads → Import from CSV or Google Drive → Select Drive or CSV
 
 ![screenshot](../images/009_file-qA36pilQNG.png)
 
@@ -164,7 +164,7 @@ If leads are invalid, risky, or have unknown validity, they will still be adding
 
 To see if emails have been verified, we will need to filter them based on their email verification status.
 
-To do that, go to List → Filters → Email verification: Not Verified, Invalid, Valid, Unknown Validity, Risky
+To do that, go to Leads → Filters → Email verification: Not Verified, Invalid, Valid, Unknown Validity, Risky
 
 ![screenshot](../images/012_file-XkfJSyeH6S.png)
 
@@ -178,7 +178,7 @@ Therefore, leads that have not yet started must be removed and re-added to the c
 
 On the other hand, leads that have already been sent an email will be automatically verified by the system as either valid or invalid.
 
-To remove and re-add leads that have not yet been verified, go to List → Filters → Under Email verification, select Not Verified
+To remove and re-add leads that have not yet been verified, go to Leads → Filters → Under Email verification, select Not Verified
 
 ![screenshot](../images/013_file-JWXfOoev8D.png)
 
