@@ -65,7 +65,7 @@ Auto-Import continuously monitors your saved Sales Navigator search. When a new 
 
 ![screenshot](../images/008_file-BwTSeKBFRm.png)
 
-**Step 3.** Go to **List** → **+ Add Leads** → **Import from Sales Navigator**.
+**Step 3.** Go to **Leads** → **+ Add Leads** → **Import from Sales Navigator**.
 
 ![screenshot](../images/009_file-woqPbu21S4.png)
 
