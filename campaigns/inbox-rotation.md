@@ -6,6 +6,7 @@
 - How to set it up?
 - Match the lead's email provider
 - How to remove the email from a campaign if its deliverability goes bad?
+- How to see number of emails sent per email account? 
 
 # Why rotate emails?
 
@@ -80,3 +81,9 @@ Once the reassignment is complete, you can add the old email accounts back and u
 If deleting the email accounts isn't an option, you can **pause the email accounts** to prevent them from sending emails.
 
 However, keep in mind that leads assigned to paused email accounts can't be re-assigned and may be **delayed** in the sequence. 
+
+# How to see number of emails sent per email account? 
+
+To see the number of emails sent per email account, go to the Outbox page and use filter. You can filter messages sent by type, by email account, by channel, and by custom range/date. 
+
+**Note:** The Outbox page stores only the number of emails and LinkedIn messages sent in the past 30 days.
