@@ -51,6 +51,6 @@ If you do not want out-of-office replies to appear in the Inbox, go to **Setting
 
 Leads marked as out-of-office can be resumed immediately or on a specific date and time.
 
-To resume a lead, click the lead's name or thumbnail on the **List** page to open the quick view → **Campaigns** tab → click the menu icon (three vertical dots) for the campaign → **Resume Progress** → select a date → **Confirm**.
+To resume a lead, click the lead's name or thumbnail on the **Leads** page to open the quick view → **Campaigns** tab → click the menu icon (three vertical dots) for the campaign → **Resume Progress** → select a date → **Confirm**.
 
 **Note:** On rare occasions, an out-of-office reply may be detected as a regular reply, causing the lead to stop receiving emails from the campaign. In this case, you can resume the lead immediately or on a specific date and time using the same steps above.
