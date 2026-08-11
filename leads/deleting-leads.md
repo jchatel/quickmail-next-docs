@@ -22,7 +22,7 @@ The lead will be removed from any campaigns, and any conversations or tasks rela
 
 Leads can be deleted temporarily or permanently.
 
-Go to **List** → select a lead → click the menu icon (three vertical dots) → **Delete**.
+Go to **Leads** → select a lead → click the menu icon (three vertical dots) → **Delete**.
 
 ![screenshot](../images/000_file-tWDhUgTOwq.png)
 
