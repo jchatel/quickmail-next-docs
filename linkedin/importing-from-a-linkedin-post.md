@@ -31,7 +31,7 @@ After that, edit the connection request you'd like to send and hit save. Add a f
 
 
 - **Option 2 - Via Leads page**
-Go to **List** → **+ Lead** → **LinkedIn Post**.
+Go to **Leads** → **+ Lead** → **LinkedIn Post**.
 
 ![screenshot](../images/001_file-QSgxWzJRxo.png)
 
