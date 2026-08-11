@@ -1,6 +1,8 @@
 # Importing from LinkedIn Sales Navigator 🧭
 
-QuickMail's integration with LinkedIn Sales Navigator allows you to import selected leads directly into QuickMail. This is especially useful for running LinkedIn outreach.
+QuickMail's integration with LinkedIn Sales Navigator lets you import selected leads directly into QuickMail - especially useful for running LinkedIn outreach campaigns.
+
+**Note:** LinkedIn Sales Navigator, along with other newer LinkedIn features, is only available on the new pricing plan's Growth and Agency tiers.
 
 **Note:** While LinkedIn profile URLs and other lead details are imported, email addresses are not included.
 
