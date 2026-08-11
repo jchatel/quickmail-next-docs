@@ -1,10 +1,15 @@
 
 # Integrating QuickMail with Mailflow
 
-**Note:** You need to create an account in [MailFlow](https://www.mailflow.io/) to use the integration with QuickMail. If you don't have an account set up yet, please check out this [Quick Setup Guide](https://help.mailflow.io/article/428-getting-started).
-
 Our QuickMail integration allows users to automatically sync their inbox deliverability scores from Mailflow to QuickMail. The inbox deliverability scores are based on the auto-warmer emails sent from Mailflow. 
+
 With this, users won't have to frequently login to Mailflow to monitor the deliverability scores of their inboxes.
+
+**Note:** You need to create an account in [MailFlow](https://www.mailflow.io/) to use the integration with QuickMail. 
+
+When creating an account with Mailflow, you'll be required to add your card details, but you won't be charged automatically. This is by design, to prevent spammers from abusing the system. It's not something we can bypass, unfortunately.
+
+If you don't have an account set up yet, please check out this [Quick Setup Guide](https://help.mailflow.io/article/428-getting-started).
 
 ## How does the integration work? 
 
