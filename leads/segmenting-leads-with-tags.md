@@ -20,7 +20,7 @@ Tags are useful for categorizing leads. By tagging leads, you can quickly search
 
 ### From the List Page
 
-Go to **List** → click the menu icon (three vertical dots) in the top-right corner → **Tags**.
+Go to **Leads** → click the menu icon (three vertical dots) in the top-right corner → **Tags**.
 
 ![screenshot](../images/000_file-31XKj5EKgC.png)
 
@@ -40,7 +40,7 @@ There are three ways to apply tags to leads:
 
 ### From the List Page
 
-Go to the **List** page → select the leads → click the menu icon (three vertical dots) → **Add/Remove Tags**.
+Go to the **Leads** page → select the leads → click the menu icon (three vertical dots) → **Add/Remove Tags**.
 
 ![screenshot](../images/003_file-psOKw0qqE9.png)
 
@@ -74,7 +74,7 @@ Here is an example of a CSV with tag columns:
 
 ## How to Delete Tags?
 
-Go to **List** → click the menu icon (three vertical dots) in the top-right corner → **Tags**.
+Go to **Leads** → click the menu icon (three vertical dots) in the top-right corner → **Tags**.
 
 ![screenshot](../images/007_file-31XKj5EKgC.png)
 
