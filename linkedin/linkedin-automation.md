@@ -136,7 +136,7 @@ Allows you to import leads who engaged with a LinkedIn post directly into QuickM
 
 **Tip:** You can also import leads from another person's LinkedIn post.
 
-To use this feature, go to **List** → **Import from LinkedIn Post** → paste the LinkedIn post link → continue with the on-screen prompts.
+To use this feature, go to **Leads** → **Import from LinkedIn Post** → paste the LinkedIn post link → continue with the on-screen prompts.
 
 ![screenshot](../images/009_file-u04xOzQS8u.png)
 
@@ -260,7 +260,7 @@ Make sure to use a unique email address for each lead and a valid domain. For ex
 
 ### Manually Adding a Lead's LinkedIn ID
 
-Go to **List** → click on a lead → from the quick view, click **+ Show Properties** → add the LinkedIn profile URL.
+Go to **Leads** → click on a lead → from the quick view, click **+ Show Properties** → add the LinkedIn profile URL.
 
 ![screenshot](../images/031_file-n9F9eZGmJd.png)
 
