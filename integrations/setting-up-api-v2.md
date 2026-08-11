@@ -2,13 +2,13 @@
 
 **Note:** QuickMail's API is not available for accounts on Starter Plan. 
 
-These are mostly just JSON samples for API calls.
-
 **Here's the complete API documentation to use:** [**https://api.quickmail.com/help**](https://api.quickmail.com/help)
+
+These are mostly just JSON samples for API calls.
 
 For convenience, we have a web app that you can use to test your integrations with your live data in QuickMail. Here's where you can access it: [https://api.quickmail.com/v2/graphiql](https://api.quickmail.com/v2/graphiql)
 
-API rate limit is 10 requests per 10 seconds
+API rate limit is 10 requests per 10 seconds.
 
 **In this article:**
 
@@ -45,6 +45,8 @@ API rate limit is 10 requests per 10 seconds
 # Creating an API key
 
 To create an API key, please refer to this guide: Creating an API key in QuickMail
+
+**Note:** We don't have an available MCP URL at the moment.
 
 # Authorization
 
