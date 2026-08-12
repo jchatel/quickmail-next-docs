@@ -73,6 +73,8 @@ Each package costs **$40** and allows you to add up to **10 email accounts**.
 
 **Step 4.** Fill in the first name and last name → add a username → upload an avatar (optional). To add more email accounts, click **+ Email**. Otherwise, click **Continue**.
 
+**Important:** Users can add a maximum of 3 email accounts per domain. Once your order is complete and the domain has been set up, it's no longer possible to add more email accounts under that domain.
+
 ![screenshot](../images/004_file-pmtdXS7WKf.png)
 
 **Step 5. (Optional)** To set up email forwarding, toggle on **Setup Email Forwarding** → add the email address to forward to → click **Continue**. Otherwise, skip this step.
