@@ -32,7 +32,7 @@ Email accounts must first be assigned to smart sending groups in order to utiliz
 
 By default, email accounts with a deliverability score of less than 40%, or those that have lost permission, will be swapped with those having a score of 40% or more within the same smart sending group. If no qualified email account is available in the same smart-sending group, the email account will remain assigned to the campaign.
 
-If you would like to change the threshold, see How to change deliverability score threshold
+If you would like to change the threshold, see 'How to change deliverability score threshold' section below.
 
 **Note:** Open tracking needs to be enabled for the Deliverability AI to work.
 
