@@ -1,6 +1,6 @@
 # QuickMail Support
 
-Our support team primarily operates via email. To reach out to support, click on the chatbot at the lower right hand corner of your QuickMail account, type in your concern, and then click 'Escalate to Human'. You’ll then receive an email from our team addressing your concern.
+Our support team primarily operates via email. To reach out to support, click on the chatbot at the lower right hand corner of your QuickMail account, type in your concern, and then click 'Escalate to Human'. You’ll then receive an email with the subject 'QuickMail Support' from our team addressing your concern.
 
 While we don’t have a direct phone line at the moment, we’re committed to providing fast, helpful responses, typically within **8 business hours**.
 
