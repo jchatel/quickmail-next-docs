@@ -53,3 +53,11 @@ Once the custom property is created, insert it into your email step. The HTML wi
 ## Can I Add Personalized Images?
 
 Yes, you can add personalized images in QuickMail. 
+
+## What happens when I make changes to a step?
+
+Changes to a step only affect leads that haven’t reached that step yet.
+
+If a lead is already at the step, the changes will not apply to that lead. The lead will continue using the version of the step that was in place when they reached it.
+
+Example: If you change the email in Step 2, leads that haven’t reached Step 2 yet will receive the updated email. Leads that are already in Step 2 won’t be affected by the change.
