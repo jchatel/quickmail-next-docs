@@ -8,6 +8,6 @@ We’re here to help with anything from technical issues to campaign setup and c
 
 **Support hours:**
 
-🕗 Monday to Friday, 8:00 AM – 8:00 PM CET
+🕗 Monday to Friday, 10:00 AM – 8:00 PM CET
 
 We're always looking to improve, so if you have any feedback, don’t hesitate to share it with us!
