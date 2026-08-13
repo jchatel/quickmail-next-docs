@@ -56,15 +56,18 @@ QuickMail offers three plans designed for different stages of outreach, whether 
 | **Send LinkedIn Voice Messages** | — | ✅ | ✅ |
 | **Send InMail Messages** | — | ✅ | ✅ |
 | **Users** | Unlimited | Unlimited | Unlimited |
-| **Workspaces** | 1 Workspace | 1 Workspace | 2 Workspaces included (+$49 per extra workspace) |
-| **Uploaded Contacts** | 1,000 | 25,000 | 100,000 |
+| **Workspaces** | 1 Workspace | 1 Workspace | 2 Workspaces included (+$49/mo per extra workspace) |
+| **Uploaded Contacts** | 1,000 (No lead add-on option) | 25,000 (+$10/mo per extra 10,000)| 100,000 (+$10/mo per extra 10,000) |
 | **Emails Sent per Month** | 5,000 | 100,000 | 500,000 |
-| **Free AutoWarmer with MailFlow** | ✅ | ✅ | ✅ |
+| **Free AutoWarmer with MailFlow** | 30 autowarmer emails daily per email account | 40 autowarmer emails daily per email account | 50 autowarmer emails daily per email account |
+| **Pipedrive/Hubspot Integration** | - | ✅ | ✅ |
 | **Zapier Integration** | ✅ | ✅ | ✅ |
 | **API Access** | — | ✅ | ✅ |
 | **Webhook Access** | — | — | ✅ |
+| **Campaign Library/Template** | — | — | ✅ |
 | **Support** | Expert Support | Priority Expert Support | Priority Expert Support |
 | **Free Trial** | 14-Day Free Trial | 14-Day Free Trial | — |
+
 
 ## How to View Your Current Subscription?
 
