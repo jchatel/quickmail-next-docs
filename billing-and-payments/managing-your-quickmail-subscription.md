@@ -60,7 +60,7 @@ QuickMail offers three plans designed for different stages of outreach, whether 
 | **Uploaded Contacts** | 1,000 (No lead add-on option) | 25,000 (+$10/mo per extra 10,000)| 100,000 (+$10/mo per extra 10,000) |
 | **Emails Sent per Month** | 5,000 | 100,000 | 500,000 |
 | **Free AutoWarmer with MailFlow** | 30 autowarmer emails daily per email account | 40 autowarmer emails daily per email account | 50 autowarmer emails daily per email account |
-| **Pipedrive/Hubspot Integration** | - | ✅ | ✅ |
+| **Pipedrive/Hubspot Integration** | — | ✅ | ✅ |
 | **Zapier Integration** | ✅ | ✅ | ✅ |
 | **API Access** | — | ✅ | ✅ |
 | **Webhook Access** | — | — | ✅ |
