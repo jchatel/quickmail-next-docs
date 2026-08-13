@@ -65,6 +65,7 @@ QuickMail offers three plans designed for different stages of outreach, whether 
 | **API Access** | — | ✅ | ✅ |
 | **Webhook Access** | — | — | ✅ |
 | **Campaign Library/Template** | — | — | ✅ |
+| **Client Portal** | — | — | ✅ |
 | **Support** | Expert Support | Priority Expert Support | Priority Expert Support |
 | **Free Trial** | 14-Day Free Trial | 14-Day Free Trial | — |
 
