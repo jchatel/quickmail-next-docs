@@ -117,7 +117,12 @@ Pending domain orders can be viewed by clicking the hourglass icon here:
 
 Go to **Email** → click on an email account to open the quick view → **Password / 2FA One-time Password**.
 
+**Note:** The 2FA one time code expires every 30 seconds, so you may need to refresh the page to display an updated code before logging in.
+
+There's an indicator how many seconds are left before it expires.
+
 ![screenshot](../images/010_file-AQPyT98Znu.png)
+
 
 ## How to Cancel Purchased Email Accounts?
 
