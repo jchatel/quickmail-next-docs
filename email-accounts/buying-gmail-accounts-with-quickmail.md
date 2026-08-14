@@ -43,6 +43,13 @@ It is currently not possible to add more email accounts under a domain you have 
 
 **Note:** Users on old pricing (Basic, Pro, and Expert plans) do not need to purchase a package.
 
+In addition to the monthly email account cost, there is a one-time yearly fee for each domain. The actual cost depends on the domain name and TLD you choose, but here are the minimum annual prices by TLD:
+
+.com — $13.54/year
+.io — $41.98/year
+.co — $7.18/year
+.net — $14.98/year
+
 ## How to Buy Google Email Accounts with QuickMail?
 
 **Important:** This feature is only available to accounts on a paid subscription.
