@@ -32,6 +32,8 @@ The report includes:
 
 ![screenshot](../images/000_file-cCOoSSKruE.png)
 
+**Note:** The Import report doesn't indicate the number of leads added to the campaign. Leads added refers to the number of leads added to the Main Leads page in your account.
+
 ## Why Are Leads Getting Rejected Upon Import?
 
 Leads may be rejected during import for a number of reasons. Here are the most common errors and how to fix them:
