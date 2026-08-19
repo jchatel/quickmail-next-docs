@@ -108,4 +108,4 @@ To see which LinkedIn account sent the connection request, go to Sent → Search
 Whenever a lead accepts a connection request, an opportunity gets created by default.
 So you can go to the opportunities page to look for them.
 
-FYI: If you don't want accepted connection requests to create an opportunity, you can go to settings > replies > uncheck new opportunities create opportunities.
+FYI: If you don't want accepted connection requests to create an opportunity, you can go to Settings → Replies → Uncheck 'New connections create opportunities'.
