@@ -90,6 +90,19 @@ Filter leads based on whether they have opened or clicked emails.
 
 ![screenshot](../images/008_file-Ueb18mjNEy.png)
 
+### Leads who haven't been sent any emails
+
+Leads who haven’t received any emails yet are either Running on Step 1 or have a Not Started status. You can find them using either of these journey filters:
+
+Status: Running, with both the minimum and maximum step set to 1
+
+<img width="975" height="692" alt="image" src="https://github.com/user-attachments/assets/ee15dd61-f791-4b4c-92d0-5b60efb6d1c7" />
+
+Status: Not Started, to find leads who haven’t started the campaign yet
+
+<img width="961" height="658" alt="image" src="https://github.com/user-attachments/assets/2ba340c8-2839-462e-b8c3-ec4ec203f457" />
+
+
 ## How to Share Filtered Leads?
 
 To share filtered leads with team members or save them for record keeping, select all filtered leads → **Select All** → **Export** to download a CSV file.
