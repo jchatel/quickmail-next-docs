@@ -74,9 +74,11 @@ Filter leads based on how many campaigns they are part of.
 
 ### Leads in Specific Campaigns
 
-Filter leads based on which campaigns they are participating in.
+Filter leads based on which campaigns they are participating in by selecting a campaign under “Has Started  the Following Campaigns.”
 
 ![screenshot](../images/006_file-2AWZGxEoeq.png)
+
+On the other hand, users can also filter leads who are not part of a campaign by selecting a campaign under “Has Started None of the Following Campaigns.”
 
 ### Lead Status in a Campaign
 
