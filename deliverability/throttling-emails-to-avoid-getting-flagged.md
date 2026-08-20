@@ -18,7 +18,7 @@ To moderate the volume of emails sent by your email address, emails can be throt
 
 Emails need to be throttled in the following instances:
 
-1. To ensure good email deliverability.
+## 1. To ensure good email deliverability.
 Email service providers put a limit on the number of emails you can send. This is to prevent spam or abuse.
 Free Gmail accounts have a 500 daily email limit, Outlook accounts have a 300 daily email limit, and G-suite accounts have a 2,000 daily email limit.
 
@@ -36,7 +36,7 @@ When your email address raises spam suspicions, the email address might be disab
 
 If your emails are shut down, all communication with your existing leads and campaigns will be put to a halt, and recovering them will be difficult, if not impossible.
 
-2. To moderate the sending of accumulated emails to send from an email account.
+## 2. To moderate the sending of accumulated emails to send from an email account.
 Email to leads accumulate in an email account when a scheduled campaign and/or the inbox assigned to a scheduled campaign is paused.
 Follow-up schedules will still continue to count even if the emails or the campaigns are paused.
 
@@ -50,7 +50,8 @@ If you're not throttling emails, accumulated emails in an email account could le
 ## Option 1: Increase the delay between emails.
 
 To slow down the rate of emails going out, you can increase the delay between emails.
-The default is 60 seconds with 15-second variation.
+
+The default is 60 seconds with 15-second variation. (If the field is empty, it means 60-seconds default is being used)
 
 To increase the delay between emails, go to channels → emails → click the email you want the delay adjusted → go to sending tab→ scroll down and under throttling enter your preferred minimum time delay.
 
