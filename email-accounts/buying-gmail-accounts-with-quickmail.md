@@ -128,6 +128,8 @@ There's an indicator how many seconds are left before it expires.
 
 Click on the chatbot at the lower right hand corner of your QuickMail account, type in your concern, and then click 'Escalate to Human'to reach out to Support.
 
+**Note: Support can only cancel accounts by domain, not by individual email address. For example, you cannot cancel emailA@domain.com while keeping emailB@domain.com. If domain.com is canceled, all email accounts associated with that domain will also be deleted.**
+
 Once the email accounts are canceled, you can remove your Gmail package by going to **Billing** → **Manage Subscription** → downgrade the Gmail package to 0.
 
 ## How to Add or Remove Email Forwarding?
