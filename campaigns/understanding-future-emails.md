@@ -8,7 +8,7 @@
 
 Future Emails helps you estimate upcoming campaign volume, making it easier to plan your sending activity and manage resources.
 
-Note: Future Emails is still a work in progress. It displays scheduled follow-ups and estimated emails to new leads based on your triggers, but it may not include follow-ups that haven’t been scheduled yet. Since sending volume depends on several factors, use this tool as a general forecast rather than an exact measure of future email volume.
+**Note:** Future Emails is still a work in progress. It displays scheduled follow-ups and estimated emails to new leads based on your triggers, but it may not include follow-ups that haven’t been scheduled yet. Since sending volume depends on several factors, use this tool as a general forecast rather than an exact measure of future email volume.
 
 ## Where Can I See Future Emails?
 
