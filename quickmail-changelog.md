@@ -1,5 +1,9 @@
 # QuickMail Changelog
 
+## August 14, 2026
+### FIXES
+- We made the error message clearer when the system encounters an issue while ordering a domain.
+- 
 ## August 4, 2026
 ### FEATURES
 - When importing leads from LinkedIn post, language and location info are now being imported as well. 
