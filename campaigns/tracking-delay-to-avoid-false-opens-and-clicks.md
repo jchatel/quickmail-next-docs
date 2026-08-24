@@ -38,7 +38,7 @@ Tracking delay adds a delay after sending an email before opens and clicks are t
 
 Go to **Settings** → **General** → adjust the **Tracking Delay in seconds**.
 
-**Note:** The default value is 5 seconds.
+**Note:** The default value is 30 seconds.
 
 ![screenshot](../images/001_file-IBTLy2ESEx.png)
 
