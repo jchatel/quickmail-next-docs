@@ -44,7 +44,7 @@ Go to **Settings** → **General** → adjust the **Tracking Delay in seconds**.
 
 The delay can be set anywhere from 0 to 600 seconds and applies to all emails sent from the account. Set it to 0 to disable tracking delay entirely.
 
-**Warning:** Setting a long delay may cause real opens and clicks to be missed. Most users leave it at 3 seconds, though some set it to up to 60 seconds.
+**Warning:** Setting a long delay may cause real opens and clicks to be missed. Most users leave it at 30 seconds, though some set it to up to 60 seconds.
 
 ![screenshot](../images/002_file-jtvFvCyxUT.png)
 
