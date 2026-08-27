@@ -56,7 +56,7 @@ Go to Channels → LinkedIn → Select a LinkedIn account → Sending Tab → Ma
 
 ## Where can I see replies to LinkedIn messages?
 
-Once a LinkedIn account is added to QuickMail, we will automatically scan it for replies every 15 minutes.
+Once a LinkedIn account is added to QuickMail, we will automatically scan it for replies every 2 hours. 
 
 The replies are then collected and displayed on the Global page, allowing direct responses to LinkedIn messages.
 
