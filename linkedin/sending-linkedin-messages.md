@@ -58,7 +58,7 @@ Go to Channels → LinkedIn → Select a LinkedIn account → Sending Tab → Ma
 
 Once a LinkedIn account is added to QuickMail, we will automatically scan it for replies every 1-6 hours. 
 
-The replies are then collected and displayed on the Global page, allowing direct responses to LinkedIn messages.
+The replies are then collected and displayed on the Inbox page, allowing direct responses to LinkedIn messages.
 
 ![screenshot](../images/003_file-ND4LbCykov.png)
 
