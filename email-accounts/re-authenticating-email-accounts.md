@@ -22,7 +22,7 @@ Here is an example of what the notification looks like:
 
 ![screenshot](../images/000_file-4MbocVdscY.png)
 
-A red indicator will also appear in the left-side navigation under **Channels**, and a warning icon will appear next to the affected email account.
+A red indicator will also appear in the left-side navigation under **Email**, and a warning icon will appear next to the affected email account.
 
 ![screenshot](../images/001_file-fG6KXMrQh4.png)
 
