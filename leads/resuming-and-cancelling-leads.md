@@ -36,7 +36,7 @@ There are several reasons you may need to resume leads:
 
 Resuming or canceling from the campaign allows you to take action on multiple leads at once.
 
-Go to **Campaigns** → open a campaign → **Leads** page → select the leads → click the **Play** icon to resume or the **Pause** icon to cancel.
+Go to **Campaigns** → open a campaign → **Leads** page → select the leads → click the **Play** icon to resume or the **Cancel** icon to cancel.
 
 ![screenshot](../images/000_file-74xoyJ6kvG.png)
 
