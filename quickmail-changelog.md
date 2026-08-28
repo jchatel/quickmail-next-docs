@@ -4,7 +4,7 @@
 ### FIXES
 - Increased the length of the first Auto Warmer email content sent from Google email accounts purchased through QuickMail to help improve deliverability.
 - Increased the minimum reply rate for Auto Warmer emails to 50%.
-- Auto Warmer email content was properly capitalized to help improve deliverability.
+- Auto Warmer email content is now properly capitalized to help improve deliverability.
 - The Do Not Contact filter was not filtering leads correctly.
 - Adding LinkedIn accounts was automatically setting them to private.
 
