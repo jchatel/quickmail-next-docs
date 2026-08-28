@@ -64,7 +64,9 @@ Go to **Leads page** → click the three vertical dots → **Properties**.
 
 Click **+ Property** → add a custom property name → set a default value (optional) → **Confirm**.
 
-The default value is used as a fallback if a lead does not have a value assigned for that property.
+The default value can also be used as a fallback value if a lead does not have a value assigned for that property.
+
+This is easier than using Liquid Syntax. 
 
 ![screenshot](../images/002_file-UoYefE8471.png)
 
