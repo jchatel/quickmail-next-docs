@@ -50,7 +50,7 @@ On the other hand, you can also set a limit to the LinkedIn messages you send da
 
 ## How can I change the daily limits of my LinkedIn messages?
 
-Go to Channels → LinkedIn → Select a LinkedIn account → Sending Tab → Maximum number of messages
+Go to LinkedIn → Select a LinkedIn account → Sending Tab → Maximum number of messages
 
 ![screenshot](../images/002_file-t04v78PS0k.png)
 
