@@ -34,7 +34,7 @@ A red indicator will also appear in the left-side navigation under **Email**, an
 
 Re-authentication for Gmail and Outlook must be done individually. There is no option to re-authenticate multiple accounts in bulk.
 
-Go to **Channels** → **Emails** → select the affected email account.
+Go to **Email** → select the affected email account.
 
 **Option 1: If you have access to the email account**
 
@@ -52,7 +52,7 @@ Generate and copy the shareable re-authentication link and provide it to the per
 
 **Option 1: Re-authenticate individually**
 
-Go to **Channels** → **Emails** → select the email account → **Sending Settings** → update the SMTP details if needed → click **Test Sending**.
+Go to **Email** → select the email account → **Sending Settings** → update the SMTP details if needed → click **Test Sending**.
 
 ![screenshot](../images/004_file-OH3ZMlL998.png)
 
