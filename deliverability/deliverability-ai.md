@@ -56,7 +56,7 @@ If you would like to change the length of the recovery period, see How to adjust
 
 # How to assign email accounts to Smart Sending Groups?
 
-To assign email accounts to smart sending groups, navigate to Channels and select your preferred email accounts. Then, click on the three horizontal dots and click the color of your preferred smart sending group. Once a check icon appears, hit "Apply".
+To assign email accounts to smart sending groups, navigate to Email page and select your preferred email accounts. Then, click on the three horizontal dots and click the color of your preferred smart sending group. Once a check icon appears, hit "Apply".
 
 The color will appear afterwards in the Smart sending groups column.
 
@@ -64,7 +64,7 @@ The color will appear afterwards in the Smart sending groups column.
 
 # How to remove email accounts from Smart Sending Groups?
 
-To remove email accounts to smart sending groups, navigate to Channels and select your preferred email accounts. Then, click on the three horizontal dots and click the color of your preferred smart sending group twice. Once an X icon appears, hit "Apply".
+To remove email accounts to smart sending groups, navigate to the Email page and select your preferred email accounts. Then, click on the three horizontal dots and click the color of your preferred smart sending group twice. Once an X icon appears, hit "Apply".
 
 The color will disappear afterwards in the Smart sending groups column.
 
@@ -78,6 +78,6 @@ The system performs daily checks at midnight in your account's timezone.
 
 # How to change deliverability score threshold and recovery period?
 
-To change the deliverability score threshold and recovery period, go to the Sending Settings of an email account under Channels and look for Deliverability AI.
+To change the deliverability score threshold and recovery period, go to the Email page and click on the email account to open settings. Under the Sending Settings, look for Deliverability AI.
 
 ![screenshot](../images/003_file-bFfD8lo4rL.png)
