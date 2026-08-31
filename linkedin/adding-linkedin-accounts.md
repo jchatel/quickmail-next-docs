@@ -87,19 +87,25 @@ Here is the page where the QR code appears:
 
 ![screenshot](../images/012_file-svUcHvGl31.png)
 
-**Step 9.** Log out of your LinkedIn account, then log back in.
+**Step 9.** Log out of your LinkedIn account, log back in, then fill in the authenticator code being asked. 
 
-**Step 10.** Copy the 2FA code you saved earlier.
+**Step 10.** Once you're logged in, logout again. 
+
+**Step 11.** Copy the 2FA code you saved earlier.
 
 ![screenshot](../images/013_file-OBX4uUKWU1.png)
 
-**Step 11.** In QuickMail, go to **LinkedIn** → **+ LinkedIn** → **LinkedIn Credentials + 2FA**.
+**Step 12.** In QuickMail, go to **LinkedIn** → **+ LinkedIn** → **LinkedIn Credentials + 2FA**.
 
-**Step 12.** Select your country → enter the email address and password associated with your LinkedIn account → paste the 2FA code → click **Add**.
+**Step 13.** Select your country → enter the email address and password associated with your LinkedIn account → paste the 2FA code → click **Add**.
 
-It may take a few minutes for the LinkedIn account to be added, but no longer than an hour.
+**Note:** It may take a few minutes for the LinkedIn account to be added, but no longer than an hour.
 
-**Note:** If you have trouble adding your LinkedIn account, click on the AI chatbot located in the lower-right corner of your QuickMail account, then click **"Escalate to Human."**
+If it's still not added after a few minutes, go to Settings → Team → Ellipsis → Changelog and check if there's an error.
+
+If you're encountering the “2FA challenge not found” error, please try logging in to LinkedIn, then logging out again before attempting to add the LinkedIn account to QuickMail.
+
+**Step 13.** 
 
 ### Option 3: Via Cookies
 
