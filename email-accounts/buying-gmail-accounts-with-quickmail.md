@@ -167,7 +167,9 @@ No, it's not possible to bring your own domain or use an existing domain to get 
 
 ## Can I Change the DNS Records of the Domain?
 
-No. Domain creation is fully automated, which means DNS records cannot be changed manually.
+No. Domain creation is fully automated, which means DNS records cannot be changed manually. Support doesn't have access to the DNS records either.
+
+**Note:** If you'd like to use Google Postmaster for domains purchased in QuickMail, this isn't possible. An alternative would be to use [Deliverability reports](https://help.quickmail.com/analytics-and-reporting/understanding-the-deliverability-report/) or Spamtester.ai(https://help.quickmail.com/deliverability/testing-deliverability-with-spamtesterai/), which are free.
 
 ## Does Auto-Warmer Come with It?
 
