@@ -36,6 +36,8 @@ API rate limit is 10 requests per 10 seconds.
   - Getting the number of leads that ran into an error
   - Getting leads
   - Deleting Leads
+  - Canceling Journeys (Canceling Leads in a Campaign)
+  - Removing Journeys (Removing Leads from a Campaign)
   - Moving to the next page
   - Filtering: Exclude/Include workspace IDs
 - Ruby samples
@@ -495,6 +497,37 @@ mutation {
 }
 ```
 
+### Canceling Journeys (Canceling leads in a campaign)
+
+```# cancelLeadsFromCampaign
+mutation {
+  cancelLeadsFromCampaign(input: {
+    campaignId: "campaign_xxx",
+    leadIds: ["lead_xxx", "lead_yyy"]
+  }) {
+    leads {
+      id
+      email
+    }
+  }
+}
+```
+
+### Removing Journeys (Removing leads from a campaign)
+
+```
+# removeLeadsFromCampaign
+mutation {
+  removeLeadsFromCampaign(input: {
+    campaignId: "campaign_xxx",
+    leadIds: ["lead_xxx"]
+  }) {
+    clientMutationId
+  }
+}
+```
+
+
 ### Moving to the next page
 
 We only show the 1st 10 items on the 1st page.
@@ -521,6 +554,10 @@ So you need to use this JSON to move to the next page.
 To move to the next pages, use the endCursor code and insert it into `campaigns(first: 10, after: "endCursor")`
 
 ![screenshot](../images/003_file-QCvSmZ028e.png)
+
+### Filtering: Exclude Workspace IDs
+
+
 
 ### Filtering: Exclude Workspace IDs
 
