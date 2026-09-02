@@ -39,6 +39,7 @@ API rate limit is 10 requests per 10 seconds.
   - Canceling Journeys (Canceling Leads in a Campaign)
   - Removing Journeys (Removing Leads from a Campaign)
   - Moving to the next page
+  - Filtering: Search leads by tags
   - Filtering: Exclude/Include workspace IDs
 - Ruby samples
   - Creating a lead
@@ -555,8 +556,18 @@ To move to the next pages, use the endCursor code and insert it into `campaigns(
 
 ![screenshot](../images/003_file-QCvSmZ028e.png)
 
-### Filtering: Exclude Workspace IDs
+### Filtering: Search leads by tags
+```
+query {
+  leads(text: "tags:xxxx"){
+    nodes{
+      id
+      email
+    }
+  }
+}
 
+```
 
 
 ### Filtering: Exclude Workspace IDs
