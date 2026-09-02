@@ -1,20 +1,27 @@
 # QuickMail Changelog
 
+## September 2, 2026
+### FEATURES
+- Ability to delete and cancel leads in a campaign via API
+### FIXES
+- The system will now automatically reconnect LinkedIn accounts added through the browser extension when they lose permission
+- The connection request step setting 'Skip this step if already connected' was being ignored causing leads to continue the sequence even if they were already connected
+
 ## August 24, 2026
 ### FIXES
-- Increased the length of the first Auto Warmer email content sent from Google email accounts purchased through QuickMail to help improve deliverability.
-- Increased the minimum reply rate for Auto Warmer emails to 50%.
-- Auto Warmer email content is now properly capitalized to help improve deliverability.
-- The Do Not Contact filter was not filtering leads correctly.
-- Adding LinkedIn accounts was automatically setting them to private.
+- Increased the length of the first Auto Warmer email content sent from Google email accounts purchased through QuickMail to help improve deliverability
+- Increased the minimum reply rate for Auto Warmer emails to 50%
+- Auto Warmer email content is now properly capitalized to help improve deliverability
+- The Do Not Contact filter was not filtering leads correctly
+- Adding LinkedIn accounts was automatically setting them to private
 
 ## August 14, 2026
 ### FIXES
-- We made the error message clearer when the system encounters an issue while ordering a domain.
+- We made the error message clearer when the system encounters an issue while ordering a domain
   
 ## August 4, 2026
 ### FEATURES
-- When importing leads from LinkedIn post, language and location info are now being imported as well. 
+- When importing leads from LinkedIn post, language and location info are now being imported as well 
 - Introduced the Prospecting page, allowing users to search, filter, and discover leads directly within the app. Requires the LinkedIn Browser Extension to access and import prospects.
 <img width="1356" height="704" alt="image" src="https://github.com/user-attachments/assets/167883a5-a5d8-45c9-825b-d1848230e05c" />
 
@@ -23,18 +30,18 @@
 
 
 ## July 21, 2026
-### FEATURES
-- Lead's Location, Language, and Company name will now be imported too when importing leads from a LinkedIn post. 
+### FEATURE
+- Lead's Location, Language, and Company name will now be imported too when importing leads from a LinkedIn post
 
 ## July 15, 2026
 ### FEATURES
-- Added company size as an ICP filter, making it easier to import LinkedIn leads that fit your target audience.
+- Added company size as an ICP filter, making it easier to import LinkedIn leads that fit your target audience
 
 ## July 14, 2026
 
 ### FIXES
 - Some messages were not showing in Opportunities
-- LinkedIn campaigns continued sending follow-up messages even after a recipient's reply had been detected.
+- LinkedIn campaigns continued sending follow-up messages even after a recipient's reply had been detected
 
 ## July 9, 2026
 
@@ -66,17 +73,17 @@
 ## June 25, 2026
 
 ### FIXES
-- New domains purchased from QuickMail were not sending autowarmer emails due to forwarding.
+- New domains purchased from QuickMail were not sending autowarmer emails due to forwarding
 
 ## June 24, 2026
 
 ### FEATURES
-- When a LinkedIn account is temporarily restricted due to exceeding connection request or messaging limits, the system will automatically pause LinkedIn sending activity and retry after 24 hours. 
+- When a LinkedIn account is temporarily restricted due to exceeding connection request or messaging limits, the system will automatically pause LinkedIn sending activity and retry after 24 hours 
 
 ## June 17, 2026
 
 ### FEATURES
-- Email account and LinkedIn account invite links are now valid for 30 days instead of 24 hours. 
+- Email account and LinkedIn account invite links are now valid for 30 days instead of 24 hours
 
 ## June 15, 2026
 
