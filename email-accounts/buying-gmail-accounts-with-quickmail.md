@@ -18,9 +18,9 @@
 
 ## Why Buy Google Email Accounts in QuickMail?
 
-- **Create new Google inboxes in just a few clicks** — no manual setup needed. Each email account is automatically added to your QuickMail workspace.
+- **Create new Google inboxes in just a few clicks** — No manual setup needed. Each email account is automatically added to your QuickMail workspace.
 - **Skip the technical headaches** — QuickMail automatically configures DNS records (SPF, DKIM, DMARC) and custom tracking domains for optimal deliverability.
-- **Built-in Stealth Mode** — email accounts purchased with QuickMail use their own Gmail API, so Gmail sees emails as sent directly from the user, not a third party. This reduces the chance of being flagged and improves deliverability. You can start sending from day one as long as you keep the volume low. No more waiting for 2 weeks.
+- **Built-in Stealth Mode** — Email accounts purchased through QuickMail include Stealth Mode. This feature connects each account through its own Gmail API, so Gmail recognizes the emails as being sent directly by the account owner rather than through a third-party platform. This reduces the risk of Gmail flagging the sending activity and can help improve deliverability. With Stealth Mode, you can start sending emails from day one instead of waiting two weeks—just begin with a low daily volume and increase it gradually.
 - **Premium Auto-Warmer** — QuickMail's Auto-Warmer is currently only available for email accounts purchased with QuickMail. It generates realistic email exchanges within a trusted group of high-deliverability accounts, helping your emails land in the inbox more consistently.
 - **Lower monthly cost** — Gmail email accounts with QuickMail cost $4/month per email account, significantly less than buying directly from Google Workspace or other providers.
 
