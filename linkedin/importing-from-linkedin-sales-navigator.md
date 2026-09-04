@@ -101,3 +101,10 @@ It’s likely that the Sales Navigator cookies weren’t detected when the Linke
 3. Re-add the LinkedIn account to QuickMail.
 
 If the LinkedIn account was assigned to any active campaigns, make sure to assign it back afterward.
+
+**I would like to update my leads’ email addresses in bulk, but I’m getting an error saying that the LinkedIn account already exists for another lead.**
+
+Lead imports in QuickMail are matched based on email address. There is currently no option to update leads’ email addresses in bulk.
+
+As a workaround, you can either update each lead’s email address manually or delete the affected leads and re-add them with their new email addresses. You can filter the leads by tag or category to make this process easier.
+
