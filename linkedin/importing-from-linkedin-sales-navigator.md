@@ -3,8 +3,7 @@
 QuickMail's integration with LinkedIn Sales Navigator lets you import selected leads directly into QuickMail - especially useful for running LinkedIn outreach campaigns.
 
 **Note:** LinkedIn Sales Navigator, along with other newer LinkedIn features, is only available on the new pricing plan's Growth and Agency tiers.
-
-**Note:** While LinkedIn profile URLs and other lead details are imported, email addresses are not included.
+Also, While LinkedIn profile URLs and other lead details are imported, email addresses are not included.
 
 **In this article:**
 
@@ -79,18 +78,26 @@ Auto-Import continuously monitors your saved Sales Navigator search. When a new 
 
 ![screenshot](../images/011_file-qV9MyXug6H.png)
 
-## FAQs
+## Troubleshooting: 
 
-**Q: I tried importing via Sales Navigator and it keeps showing 0 leads found.**
+**I tried importing via Sales Navigator and it keeps showing 0 leads found.**
 
 This is most often caused by the error "2FA Login challenge not found." This means LinkedIn is adding an extra security step — such as emailing you a login code or triggering a CAPTCHA — when you attempt to log in.
 
 To resolve this, try the following:
 
 1. Log out of your LinkedIn account in your browser and log back in to see if the security challenge is triggered.
-
 2. If that does not work, try logging in through an incognito window to complete the login challenge.
-
 3. If neither works, you will need to wait until LinkedIn stops sending those codes before you can reconnect the account to QuickMail. This cannot be bypassed since the code is sent to an address or system that QuickMail does not have access to.
 
 For more details, see: [https://www.linkedin.com/help/linkedin/answer/a1339220/security-verification-when-signing-in?lang=en](https://www.linkedin.com/help/linkedin/answer/a1339220/security-verification-when-signing-in?lang=en)
+
+**I have Sales Navigator but my LinkedIn account is not being detected when importing from Sales Navigator**
+
+It’s likely that the Sales Navigator cookies weren’t detected when the LinkedIn account was added. To fix this:
+
+1. Delete the LinkedIn account from QuickMail.
+2. Log in to LinkedIn and visit the Sales Navigator page.
+3. Re-add the LinkedIn account to QuickMail.
+
+If the LinkedIn account was assigned to any active campaigns, make sure to assign it back afterward.
