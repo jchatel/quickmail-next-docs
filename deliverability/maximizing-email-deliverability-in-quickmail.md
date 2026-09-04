@@ -10,13 +10,13 @@ Here are some features our users can utilize to enhance email deliverability:
 
 High email volume can harm email deliverability, so experts recommend keeping it to around 100 emails per day. In addition, increasing the time delay between sends also helps your activity appear less spammy, improving your chances of reaching the inbox. By default, QuickMail has a time delay of 60-120 seconds between sending emails.
 
-To increase the delay and setup a daily email limit, see Throttling Emails to Avoid Getting Flagged
+To increase the delay and setup a daily email limit, see [Throttling Emails to Avoid Getting Flagged](https://help.quickmail.com/deliverability/throttling-emails-to-avoid-getting-flagged/)
 
 ## Inbox Rotation
 
 If you need to send more emails without compromising deliverability, consider adding multiple email accounts. In QuickMail, you can easily rotate different inboxes within the same campaign.
 
-Here's how it works Using Multiple Emails to Scale Campaigns (Inbox Rotation)
+Here's how it works [Using Multiple Emails to Scale Campaigns (Inbox Rotation)](https://help.quickmail.com/campaigns/inbox-rotation/)
 
 Each email should not send more than 15-20 emails daily, especially new ones.
 
@@ -26,7 +26,7 @@ Verifying leads in QuickMail is essential to minimize bounce rates and protect y
 
 QuickMail provides in-app lead verification using email verification credits. We also support external email verification providers if you have an existing setup.
 
-Fore more info, check out Reducing Bounces with Email Verification
+Fore more info, check out [Reducing Bounces with Email Verification](https://help.quickmail.com/deliverability/reducing-bounces-with-email-verification/)
 
 ## Warm up your Inbox
 
@@ -34,9 +34,9 @@ Warming up new email accounts is crucial for building reputation and improving d
 
 Auto-warmer is back in QuickMail, but it's only currently available to inboxes purchased from us.
 
-Here's how it works: QuickMail Autowarmer
+Here's how it works: [QuickMail Autowarmer](https://help.quickmail.com/deliverability/quickmail-auto-warmer/)
 
-In the meantime, users can also warm up for free at Mailflow.io. To get started, sign up for an account at [Mailflow.io](http://Mailflow.io) and follow this guide: [How does the auto-warmer work?](https://help.mailflow.io/article/414-how-to-use-the-auto-warmer-feature)
+In the meantime, users can also warm up for free at Mailflow.io. To get started, sign up for an account at [Mailflow.io](http://Mailflow.io) and follow this guide: [How does Mailflow's auto-warmer work?](https://help.quickmail.com/deliverability/auto-warmer-for-non-quickmail-inboxes/)
 
 If you have a paid subscription with QuickMail, reach out to us to increase your daily auto-warmer limits.
 
@@ -46,7 +46,7 @@ Custom domain tracking allows you to use your own brand to track what prospects 
 
 When leads see links with your domain's branding, the email will appear more trustworthy, and they are likely to click the links.
 
-See Custom Domain Tracking to Improve Deliverability on how to set it up
+See [Custom Domain Tracking to Improve Deliverability](https://help.quickmail.com/deliverability/custom-domain-tracking-to-improve-deliverability/) on how to set it up
 
 ## Create Smart Sending Groups with Deliverability AI
 
@@ -54,23 +54,28 @@ Deliverability AI automatically replaces email accounts with low deliverability 
 
 With Smart Sending Groups, you can efficiently manage and optimize your email accounts based on performance. This feature conducts daily checks of your email accounts to maintain high deliverability, helping you reach your audience more effectively.
 
-See more about Deliverability AI
+See more about [Deliverability AI](https://help.quickmail.com/deliverability/deliverability-ai/)
 
 ## Monitor your Domain's Health
 
 Configuring email authentication can be challenging. QuickMail provides SPF and DKIM monitoring to keep your setup running smoothly, along with daily monitoring of 96 blacklists.
 
-You'll receive instant notifications if any of your sending domains are blacklisted, and you'll be alerted again when they are cleared. You can also check the status of your domains anytime on the Domain Health page.
+You'll receive instant notifications if any of your sending domains are blacklisted, and you'll be alerted again when they are cleared. You can also check the status of your domains anytime on the [Domain Health page](https://help.quickmail.com/deliverability/blacklist-domain-health-monitoring/).
 
 Not sure how to setup SPF and DKIM? This guide might come in handy:
+[Adding SPF, DKIM, and DMARC Records](https://help.quickmail.com/deliverability/adding-spf-dkim-dmarc-records/)
 
-Adding SPF, DKIM, and DMARC Records
+## Monitoring Deliverability Based on Email Provider 
+
+In QuickMail, users can generate a deliverability report. The deliverability report gives you a gist of how deliverable your emails are to Gmail, Suite, Outlook, and MS365 recipients.
+
+To run a deliverability report, please follow this guide: [Deliverability Reports](https://help.quickmail.com/analytics-and-reporting/understanding-the-deliverability-report/)
 
 ## Use Text Variation (Spintax)
 
 Text variations can be incorporated into emails to diversify the messages being sent. This approach helps prevent campaign fatigue, reducing the risk of spam filters flagging the account for sending repetitive content.
 
-Here's a guide on how to use Text Variations
+Here's a guide on how to use (Text Variations)[https://help.quickmail.com/campaigns/text-variations-spintax/]
 
 ## Create Multiple Email Variations
 
@@ -78,19 +83,19 @@ Creating multiple email variations lets you try out different email copies to se
 
 Additionally, this approach makes it more challenging for spam filters to block you for sending similar messages.
 
-To create email variations, see Email Variations for A/Z Testing
+To create email variations, see [Email Variations for A/Z Testing](https://help.quickmail.com/campaigns/email-variations-for-ab-testing/)
 
 ## Liquid Syntax
 
 Liquid syntax boosts email personalization by allowing users to dynamically inserting customer details like names or preferences, making messages more relevant. It also allows for tailored content based on recipient information, increasing engagement. With more personalization in emails, it reduces the risk of emails being flagged as spam, improving deliverability.
 
-Here's more info about using Liquid Syntax
+Here's more info about using [Liquid Syntax](https://help.quickmail.com/campaigns/personalizing-emails-with-liquid-syntax/)
 
 ## Reword Email Copies with AI
 
 Reword with AI automatically rephrases email copies while keeping the original content intact. This enhances deliverability by minimizing the repetition of identical messages.
 
-To setup rewording with AI, check out this guide: Reword with AI
+To setup rewording with AI, check out this guide: [Reword with AI](https://help.quickmail.com/deliverability/rewording-with-ai/)
 
 ## Enable Visible Image Tracking
 
@@ -100,16 +105,16 @@ Recipients see a banner that says, “Images in this message are hidden,” alon
 
 To address this issue, we’ve added a new feature in QuickMail that allows users to track opens based on the images they include, either by making the tracking visible with a tiny dot instead of an invisible pixel or by tracking based on included images, helping to prevent emails from being flagged for open tracking.
 
-Here's how it works: Visible Image Tracking
+Here's how it works: [Visible Image Tracking](https://help.quickmail.com/deliverability/visible-image-tracking/)
 
 ## Consider the Readability Scores of Your Emails
 
 The readability score shows up when composing emails and replies, helping to ensure your message is clear by evaluating sentence length and word choice. A high score enhances engagement and message clarity, so it’s helpful to consider it while composing.
 
-For tips to improve the readability scores of your emails, check out this guide: Readability Scores
+For tips to improve the readability scores of your emails, check out this guide: [Readability Scores](https://help.quickmail.com/deliverability/readability-scores/)
 
 ## Stealth mode
 
 Stealthmode prevents Google from detecting that emails are being sent from a third-party platform, which helps improve deliverability. Note, however, that Stealthmode is only available to inboxes purchased from QuickMail. It’s automatically enabled.
 
-If you’d like to know more about purchasing inboxes from QuickMail, check out this guide: Buying Google Domains
+If you’d like to know more about purchasing inboxes from QuickMail, check out this guide: [Buying Google Domains](https://help.quickmail.com/email-accounts/buying-gmail-accounts-with-quickmail/)
