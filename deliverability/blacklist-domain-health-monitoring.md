@@ -22,7 +22,7 @@ Poor authentication or being Blacklisted is an indicator of deliverability issue
 
 # Where to find the Domain Health Monitor?
 
-The domain health monitor is found in Channels → Email → Menu → Domains
+The domain health monitor is found in Email → Menu (Ellipsis) → Domains
 
 ![screenshot](../images/000_file-xA5XQHGV8E.png)
 
