@@ -100,7 +100,11 @@ QuickMail's Auto-Warmer may not be suitable for warming up new IPs, as warming u
 
 ## How Long Should I Warm Up the Email Account?
 
-Cold email experts generally recommend warming up new email accounts for at least 2 weeks. However, there is no strict rule — it depends on your team's needs and sending goals. You can warm up longer for better deliverability or start sooner if you are working on a tighter schedule.
+Cold email experts generally recommend warming up new email accounts for at least two weeks. However, there is no strict rule—it depends on your team’s needs and sending goals. You can warm them up longer to improve deliverability or start sooner if you’re working with a tighter schedule.
+
+**Note:** Google’s spam filters have recently become stricter. You may want to extend the warm-up period by a few weeks or begin by sending to non-Google recipients.
+
+However, please note that the autowarmer can help improve your sender reputation, but it does not guarantee that your emails will reach the inbox like all other auto-warmer platforms. 
 
 ## Should I Turn Off Auto-Warmer Once I Start Sending Outreach?
 
