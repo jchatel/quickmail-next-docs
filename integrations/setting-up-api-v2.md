@@ -23,9 +23,12 @@ API rate limit is 10 requests per 10 seconds.
   - Getting campaign stats based on a specific campaign
   - Getting email account IDs
   - Creating campaigns
+  - Cloning a campaign
+  - Renaming a campaign
   - Creating email steps
   - Creating email variation
   - Creating Wait step
+  - Setting up Campaign Email Verification
   - Updating send times
   - Assigning/unassigning email accounts to/from campaigns
   - Creating custom properties
@@ -209,6 +212,33 @@ mutation createCampaign {
 }
 ```
 
+### Cloning a campaign
+
+```graphql
+mutation {
+  duplicateCampaign(input: { campaignId: "campaign_xxx", name: "New campaign name" }) {
+    campaign {
+      id
+      name
+    }
+  }
+}
+```
+
+### Renaming a campaign
+
+```graphql
+mutation {
+  renameCampaign(input: { campaignId: "campaign_xxx", name: "New name" }) {
+    campaign {
+      id
+      name
+    }
+  }
+}
+```
+
+
 ### Creating email steps
 
 ```graphql
@@ -278,6 +308,23 @@ mutation createWaitStep {
   ) {
     step {
       id
+    }
+  }
+}
+```
+
+### Setting up Campaign Email Verification
+
+``` graphql
+mutation {
+  setCampaignEmailVerification(
+    input: { campaignId: "campaign_xxx", enabled: true, provider: "quickmail" }
+  ) {
+    campaign {
+      id
+      name
+      emailVerificationEnabled
+      emailVerificationProvider
     }
   }
 }
