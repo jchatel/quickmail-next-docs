@@ -20,6 +20,10 @@ QuickMail allows you to link one or more Google Drive accounts to import leads o
 
 - Re-authenticating a Google Drive account in an agency
 
+**Troubleshooting**
+- Error: App is blocked
+- Import options greyed out, can't select a column
+
 ## Connecting a Google Drive Account to a Workspace
 
 Go to **Settings** → **Google Drives** → **+ Drive** → **Continue with Google Drive**.
@@ -75,3 +79,22 @@ To re-authenticate, go to the Agency Dashboard → **Settings** → click on the
 ![screenshot](../images/007_file-Fhp8imL6wx.png)
 
 ![screenshot](../images/008_file-J7SWqSpQZY.png)
+
+## Troubleshooting: Error App is Blocked
+
+The error 'App is Blocked' can occur when your client's Google Workspace administrator has restricted third-party apps, or if Advanced Protection is enabled on your Google account.
+
+To resolve this, your email provider or Google Workspace administrator will need to remove the third-party app restrictions in the Google admin settings.
+
+Google provides instructions here:
+https://support.google.com/a/answer/13288950?hl=en
+
+Unfortunately, this isn't something we can control, as it's a security restriction configured within your client's Google Workspace account.
+
+It might be worth reaching out to your email provider or Google Admin to have them remove third-party app restrictions.
+
+## Troubleshooting: Import options greyed out, can't select a column
+
+The issue with greyed out import option can happen if the Google Sheet has too many columns, or the Google Sheet is in a Shared Drive. 
+
+Move or make a copy of the Google Sheet to your Main/Personal Google Drive to fix this. 
