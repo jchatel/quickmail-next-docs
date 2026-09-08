@@ -1,5 +1,12 @@
 # QuickMail Changelog
 
+## September 8, 2026
+### FIXES
+- Fixed missing deliverability reports for Outlook and Microsoft 365 inboxes
+- Improved the error message shown when a domain purchase payment fails
+- Improved Auto Warmer email content by replacing gibberish messages with more natural, relevant emails to help improve autowarmer results
+- Fixed an issue that occasionally caused an error when adding email accounts created through QuickMail to user accounts
+
 ## September 2, 2026
 ### FEATURES
 - Ability to delete and cancel leads in a campaign via API
