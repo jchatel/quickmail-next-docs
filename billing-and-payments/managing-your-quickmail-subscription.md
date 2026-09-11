@@ -90,12 +90,15 @@ To upgrade or downgrade your plan, go to the **Billing/Plan** page → click the
 
 ![screenshot](../images/003_file-ZnEJacrVgg.png)
 
+**Note:** When you upgrade or downgrade your subscription, any prorated charge or credit is automatically generated.
+
 **Tip:** If you're on an old/legacy pricing plan and would like **unlimited email accounts**, **higher lead storage**, or an **increased email sending limit**, we can move you to our new pricing structure (Starter, Growth, Agency). To speak with a human agent, click on the chatbot, then select "Escalate to Human".
 
-Our pricing changes from time to time so if you're seeing a pricing on this article that's no longer available on your account, it's highly likely an old pricing.
+Pricing may change over time, so the prices shown in older help articles may no longer be available to new customers.
 
-We can't put anyone on the old pricing once it's discontinued but we grandfather plans.
-So if you are on the old pricing, you will stay there unless you cancel and resubscribe or request support to switch you.
+Once a plan is discontinued, we can no longer move customers onto that pricing. However, existing customers on a discontinued plan are grandfathered in and can keep their current price.
+
+You would only lose the old pricing if you cancel and subscribe again.
 
 For a more detailed guide on our pricing, please check here:
 https://quickmail.com/pricing/
