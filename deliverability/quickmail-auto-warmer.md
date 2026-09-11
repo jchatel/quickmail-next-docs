@@ -118,6 +118,10 @@ In most cases, keeping Auto-Warmer on even after you begin sending outreach is r
 
 **Note:** Be mindful of your total daily email volume per email account. Sending too many emails — outreach plus Auto-Warmer combined — can increase the risk of messages being flagged as spam.
 
+## How to Turn Off Auto-Warmer? 
+
+Go to **Email** → click on an email account to open the quick view → go to the **Fire** icon tab → At the bottom, click **Leave Group**. There's no option yet to do it in bulk.
+
 ## How to Stop Auto-Warmer Emails from Cluttering Your Inbox?
 
 Auto-Warmer emails are automatically archived by default. However, if they are being forwarded to another email address that QuickMail does not have access to, you can set up a filter in that email address to automatically archive incoming Auto-Warmer emails.
