@@ -111,3 +111,7 @@ Here's what the client portal looks like for your clients:
 - **Is there a limit with creating views?** - Nope
 
 - **Is there a way to share stats per campaign?** - This is not yet available
+
+- **Is there a way to download or export stats per campaign?** There's no option yet to export stats; however, it's possible to export leads from a campaign. The exported report is sent via email and contains the leads' activities in the campaign, which you can use to gather and generate stats outside QuickMail. 
+
+To do this, go to the campaign → Select all leads (You can use filters to narrow doan the list) → Export
