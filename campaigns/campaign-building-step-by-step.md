@@ -237,9 +237,11 @@ Example:
 
 **Q: I accidentally deleted a campaign. Can I recover it?**
 
-Deleted data in QuickMail cannot be recovered. This includes campaigns, campaign steps, leads, and other data, and is done for data and security compliance reasons.
+Once data is deleted in QuickMail, it cannot be recovered or restored by our Support team. This includes campaigns, campaign steps, leads, and related campaign data.
 
-To avoid losing data, archive the campaign instead of deleting it.
+This helps us meet data-retention, privacy, and security requirements.
+
+To keep a campaign and its data for future reference, archive it instead of deleting it.
 
 **Q: Can I add an image to my campaign emails?**
 
