@@ -10,7 +10,11 @@ When this happens, QuickMail can no longer perform LinkedIn actions (such as sen
 
 To keep your campaigns running smoothly, it's important to re-authenticate your LinkedIn account in QuickMail whenever the connection is lost. Re-authenticating restores QuickMail's access and allows your LinkedIn automation to continue.
 
-### For LinkedIn Accounts Added Via LinkedIn Browser
+### For LinkedIn Accounts Added Via LinkedIn Browser Extension
+
+LinkedIn accounts added through the browser extension are automatically reauthenticated.
+
+However, if you experience any issues, please follow these steps:
 
 In two separate tabs, make sure you're signed in to both your QuickMail account and your LinkedIn account. After that, open the browser extension and click **Reconnect**.
 
