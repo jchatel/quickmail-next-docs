@@ -1,5 +1,9 @@
 # QuickMail Changelog
 
+## September 15, 2026
+### FIXES
+- Optimized email processing to avoid delays 
+
 ## September 8, 2026
 ### FIXES
 - Fixed missing deliverability reports for Outlook and Microsoft 365 inboxes
