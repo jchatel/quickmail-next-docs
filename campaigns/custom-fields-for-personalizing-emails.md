@@ -108,17 +108,19 @@ Once assigned, custom properties will appear under the lead's properties in the 
 
 ![screenshot](../images/008_file-BHkXk5Kj2m.png)
 
-Here is an example of how a custom property can be used in an email:
+Here’s an example of how to use a custom property in an email.
 
-*Hey,*
+If your custom property is named Opening_Line, insert this tag into your email:
 
-*{{lead.custom.Opening_Line}}*
+_Hey,
 
-This will translate to:
+{{lead.custom.Opening_Line}}_
 
-*Hey,*
+When QuickMail sends the email, it replaces the tag with the value saved for that lead. For example:
 
-*Your podcast episode on mobile kitchens helped me pursue my dreams of providing free hot meals to people who need them!*
+_Hey,
+
+Your podcast episode on mobile kitchens helped me pursue my dream of providing free hot meals to people who need them!_
 
 ## Company Properties
 
