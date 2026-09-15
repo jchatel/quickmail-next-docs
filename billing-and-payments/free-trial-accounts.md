@@ -59,3 +59,10 @@ Trial accounts are only meant to test if features fit your needs.
 So running a campaign in full swing is not possible.
 
 To run a campaign, please upgrade your plan from the billing page.
+
+## I need to extend or restart my trial, is this possible?
+
+Yes, we're happy to restart or extend your trial.
+
+Simply log in to your account and click the question mark icon. Enter your request, then click **Escalate to Human.**
+
