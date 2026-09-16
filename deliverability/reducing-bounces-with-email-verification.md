@@ -172,7 +172,7 @@ To do that, go to Leads → Filters → Email verification: Not Verified, Invali
 
 # Troubleshooting: Leads were already added to the campaign before email verification was setup
 
-Enabling email verification in the campaign after the leads have already been added won't verify the existing leads in the campaign.
+Important: Enabling email verification in the campaign after the leads have already been added won't verify the existing leads in the campaign.
 
 Therefore, leads that have not yet started must be removed and re-added to the campaign.
 
