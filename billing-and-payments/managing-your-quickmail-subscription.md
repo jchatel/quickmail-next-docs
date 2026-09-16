@@ -69,6 +69,7 @@ QuickMail offers three plans designed for different stages of outreach, whether 
 | **Support** | Expert Support | Priority Expert Support | Priority Expert Support |
 | **Free Trial** | 14-Day Free Trial | 14-Day Free Trial | — |
 
+FYI: Each email account has a daily sending quota of 1,500 emails, but the monthly email limit cap still applies.
 
 ## How to View Your Current Subscription?
 
