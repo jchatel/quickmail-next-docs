@@ -15,7 +15,7 @@
 - [Does auto-warmer come with it?](#does-auto-warmer-come-with-it)
 - [What happens to expired domains?](#what-happens-when-a-domain-expires)
 - [Can I bring my own domain and get email accounts with QuickMail?](#can-i-bring-my-own-domain-and-get-email-accounts-with-quickmail)
-- How to update my email account avatar?
+- [How to update my email account avatar?](#how-to-update-my-email-account-avatar)
 - 
 ## Why Buy Google Email Accounts in QuickMail?
 
