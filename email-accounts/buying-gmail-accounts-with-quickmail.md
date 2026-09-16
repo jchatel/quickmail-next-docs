@@ -15,7 +15,8 @@
 - [Does auto-warmer come with it?](#does-auto-warmer-come-with-it)
 - [What happens to expired domains?](#what-happens-when-a-domain-expires)
 - [Can I bring my own domain and get email accounts with QuickMail?](#can-i-bring-my-own-domain-and-get-email-accounts-with-quickmail)
-
+- How to update my email account avatar?
+- 
 ## Why Buy Google Email Accounts in QuickMail?
 
 - **Create new Google inboxes in just a few clicks** — No manual setup needed. Each email account is automatically added to your QuickMail workspace.
@@ -178,3 +179,7 @@ Yes. Auto-warmer is available only on Gmail emails purchased with QuickMail.
 You can find it by going to **Emails** → click the email → find the **auto-warmer** tab.
 
 Emails not purchased with QuickMail don't have the auto-warmer tab. For those, you'll need to warm them up using [Mailflow.io](https://help.quickmail.com/deliverability/auto-warmer-for-non-quickmail-inboxes/) instead.
+
+## How to update my email account avatar?
+
+To update your email account avatar, go to **Emails** → click the email → Upload Avatar.
