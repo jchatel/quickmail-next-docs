@@ -27,3 +27,5 @@ If you would like to use a different test lead or email account for sending test
 ![screenshot](../images/003_file-DZB8xmXCPO.png)
 
 **Note:** For Microsoft email accounts, some of the test emails may go missing. This is because emails are sent very quickly, and Microsoft tends to ignore additional test emails and not send them.
+
+**Note:** Gmail may clip an email when the HTML message size exceeds approximately 102 KB (roughly 100 KB). This includes the combined content of previous emails in the same thread.
