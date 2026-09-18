@@ -1,5 +1,9 @@
 # QuickMail Changelog
 
+## September 17, 2026
+### FEATURE
+- Autowarmer replies are now included in QuickMail's autowarmer scores 
+
 ## September 15, 2026
 ### FIXES
 - Optimized email processing to avoid delays 
