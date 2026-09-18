@@ -3,6 +3,7 @@
 Open and click notifications, including notification sounds, are enabled by default in QuickMail.
 
 To change these settings:
+
 **Step 1.** Log in to your QuickMail account.
 
 **Step 2.** Click the **ellipsis (three dots)** in the upper-right corner of the screen.
