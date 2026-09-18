@@ -82,9 +82,9 @@ This message simply means that all current leads have already been started — t
 
 **FAQ: I would like to setup Buckets & Schedules**
 
-Buckets and Schedules have been replaced by Triggers and are no longer available.
+Buckets, which work together with Schedules to automate adding leads to the campaign, have been replaced by Triggers and are no longer available in the new interface.
 
-If your account still uses Buckets, it has been grandfathered into the legacy system. Because Buckets are not compatible with the automation of the new interface, you may see the following error when trying to access the Automation page:
+If your account still uses Buckets, it has been grandfathered into the legacy system. Since Buckets are not compatible with automation in the new interface, you may see the following error when trying to access the Automation page:
 
 _"This account uses buckets which is incompatible with automation. Contact support."_
 
