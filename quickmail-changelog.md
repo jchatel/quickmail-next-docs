@@ -1,5 +1,9 @@
 # QuickMail Changelog
 
+## September 21, 2026
+### FEATURE
+- [QuickMail's MCP](https://next.quickmail.com/help/mcp): Users can now connect QuickMail to AI platforms like Claude and ChatGPT
+
 ## September 17, 2026
 ### FEATURE
 - Autowarmer replies are now included in QuickMail's autowarmer scores 
