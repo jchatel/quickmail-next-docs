@@ -6,12 +6,7 @@ QuickMail's MCP lets you connect your account to AI platforms like Claude, ChatG
 
 * [How does it work?](#how-does-it-work)
 * [What can you do with QuickMail's MCP?](#what-can-you-do-with-QuickMail's-mcp)
-* [Create your API key](#create-your-api-key)
-* [Connect QuickMail to Claude](#connect-quickmail-to-claude)
-* [Connect QuickMail to ChatGPT](#connect-quickmail-to-chatgpt)
-* [Connect QuickMail to Cursor](#connect-quickmail-to-cursor)
-* [Rate limits](#rate-limits)
-* [Tips for best results](#tips-for-best-results)
+* [How to connect QuickMail's MCP to Claude](#connect-to-connect-quickmail's-mcp-to-claude)
 * [Troubleshooting](#troubleshooting)
 
 ## How does it work? 
@@ -44,5 +39,6 @@ Here are some of the things you can do:
 - Create and update custom lead properties
 - Retrieve other data and perform other actions supported by the QuickMail API
 
+## How to connect QuickMail's MCP to Claude?
 
-UNDER CONSTRUCTION 
+
