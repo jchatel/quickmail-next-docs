@@ -40,7 +40,7 @@ Here are some of the things you can do:
 - Create and update custom lead properties
 - Retrieve other data and perform other actions supported by the QuickMail API
 
-## ‼️IMPORTANT: Before you start 
+## ⚠️ Before you start 
 You'll need:
 * An AI app that supports remote MCP servers with OAuth sign-in
 * Your QuickMail login and access to the organization you want to connect
