@@ -9,7 +9,7 @@ Here's what you can see in each part of the dashboard and how to use it.
 
 The campaign stats give you the overall campaign results at a glance, including the campaign's open rate, click rate, accepted connection request rate, unsubscribe rate, and bounce rate.
 
-<img width="1082" height="717" alt="image" src="https://github.com/user-attachments/assets/476fc2fc-d991-4764-9901-f4096066b9d4" />
+<img width="1081" height="716" alt="image" src="https://github.com/user-attachments/assets/a3a41849-e854-4ae4-b697-ea02de2604f7" />
 
 ### Detailed Campaign Stats
 
