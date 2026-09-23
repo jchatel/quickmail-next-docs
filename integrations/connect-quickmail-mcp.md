@@ -6,7 +6,7 @@ QuickMail's MCP now lets you connect your account to AI platforms like Claude an
 
 * [How does it work?](#how-does-it-work)
 * [What can you do with QuickMail's MCP?](#what-can-you-do-with-QuickMails-mcp)
-* [IMPORTANT: Before you start](#important:-before-you-start)
+* [IMPORTANT: Before you start](#important-before-you-start)
 * [How to connect QuickMail's MCP to Claude](#connect-to-connect-quickmail's-mcp-to-claude)
 * [Troubleshooting](#troubleshooting)
 
@@ -40,7 +40,7 @@ Here are some of the things you can do:
 - Create and update custom lead properties
 - Retrieve other data and perform other actions supported by the QuickMail API
 
-## IMPORTANT: Before you start
+## ‼️IMPORTANT: Before you start 
 You'll need:
 * An AI app that supports remote MCP servers with OAuth sign-in
 * Your QuickMail login and access to the organization you want to connect
