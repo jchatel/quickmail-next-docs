@@ -27,6 +27,22 @@ Your AI assistant can retrieve the campaign data from QuickMail and present the 
 
 ## What can you do with QuickMail's MCP?
 
+With QuickMail connected, your AI assistant can help you work with your campaigns and leads, answer questions about your data, and perform specific campaign-related actions.
+
+Here are some of the things you can do:
+- Get campaign statistics, such as opens, clicks, replies, and bounces
+- Analyze your campaign data and ask questions about your outreach
+- Create, clone, and rename campaigns
+- Create and delete leads
+- Add, cancel, and remove leads in campaigns
+- Search for leads by name, email, phone, or LinkedIn ID
+- Create tags and assign them to leads
+- Create and update email, wait, and LinkedIn steps
+- Update campaign send times and email verification settings
+- Assign email accounts to campaigns and set custom tracking domains
+- Access workspace and account information
+- Create and update custom lead properties
+- Retrieve other data and perform other actions supported by the QuickMail API
 
 
 UNDER CONSTRUCTION 
