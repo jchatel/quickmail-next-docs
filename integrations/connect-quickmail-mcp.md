@@ -94,7 +94,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 <img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/53f71135-a318-4b13-aa51-38f8f52ab99c" />
 
-**Step 3.** You'll be redirected to ChatGPT's Plugins page. Click 'Authenticate' for QuickMail
+**Step 3.** You'll be redirected to ChatGPT's Plugins page. Go to the MCPs tab and Click 'Authenticate' for QuickMail
 
 <img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/bc12c639-551e-488f-9991-6b76702a0dc6" />
 
@@ -102,7 +102,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 <img width="823" height="528" alt="image" src="https://github.com/user-attachments/assets/e220cf08-8926-4977-909e-a67a9869c3cf" />
 
-**Step. 5** You'll be redirected to ChatGPT's Plugins page. Make sure that QuickMail is listed under servers and enabled.
+**Step. 5** You'll be redirected to ChatGPT's Plugins page. Make sure that QuickMail is listed under MCP servers and is enabled.
 
 <img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/54312362-ad7d-40db-ad12-de238c394788" />
 
