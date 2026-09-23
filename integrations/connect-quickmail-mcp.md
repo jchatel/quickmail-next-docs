@@ -75,7 +75,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 **Step. 5** You'll be redirected to your Claude Settings. To confirm whether you've successfully connected, you'll see QuickMail in the list of connectors. 
 
-img width="1233" height="796" alt="image" src="https://github.com/user-attachments/assets/601b974e-36e6-48c2-9958-5ece2552eb1a" />
+<img width="1233" height="796" alt="image" src="https://github.com/user-attachments/assets/601b974e-36e6-48c2-9958-5ece2552eb1a" />
 
 ## How to connect QuickMail's MCP to ChatGPT?
 
