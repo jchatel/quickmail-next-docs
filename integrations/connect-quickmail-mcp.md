@@ -41,7 +41,8 @@ Here are some of the things you can do:
 - Retrieve other data and perform other actions supported by the QuickMail API
 
 ## Before you start
-**❗IMPORTANT❗**
+**IMPORTANT‼️**
+
 You'll need:
 * An AI app that supports remote MCP servers with OAuth sign-in
 * Your QuickMail login and access to the organization you want to connect
