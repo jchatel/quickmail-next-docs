@@ -47,7 +47,7 @@ You can disregard this warning if you don't plan to add more leads to the campai
 
 This means that the campaign has email steps, but there's no email sender assigned. The leads will run into an error without a sender assigned.
 
-_Triggers not set up_
+- _Triggers not set up_
 
 Triggers control when and how many leads will start the campaign.
 
@@ -55,7 +55,7 @@ If there are leads that have not yet started the campaign, they won't automatica
 
 To start these leads automatically, add a trigger to the campaign.
 
-_Too many leads in the Triggers_
+- _Too many leads in the Triggers_
 
 This warning appears when a campaign is set to start more than 1,000 leads. Starting too many leads at once can lead to a high volume of emails being sent, which may affect your deliverability.
 
@@ -63,10 +63,10 @@ If you have many senders connected to the campaign, you can usually disregard th
 
 Still, it's best to review your settings to make sure the sending volume works for your setup.
 
+---- UNDER CONSTRUCTION ----
 
 ### Touches
 
-[Add a short description of what Touches shows.]
 
 ### First Week Stats
 
