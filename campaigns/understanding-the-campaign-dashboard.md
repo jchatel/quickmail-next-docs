@@ -23,7 +23,12 @@ You can filter the data by date, and choose to view the results as Percentage or
 
 ### Campaign Progress
 
-Track where your leads are in the campaign and which step each one has reached.
+The campaign progress bar gives you an overview of how many leads are still in progress, have not yet started, or have already completed the campaign.
+
+You can also see how many leads are on a specific step by clicking the drop-down button.
+
+<img width="1084" height="715" alt="image" src="https://github.com/user-attachments/assets/d4fcc47a-0cb0-45ff-a565-8661919a0a82" />
+
 
 ### Campaign Warnings
 
