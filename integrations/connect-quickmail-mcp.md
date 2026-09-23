@@ -4,14 +4,14 @@
 
 ## In this article
 
-* [How does it work?](#how-does-it-work)
-* [What can you do with QuickMail's MCP?](#what-can-you-do-with-QuickMails-mcp)
+* [How does it work](#how-does-it-work)
+* [What can you do with QuickMail's MCP](#what-can-you-do-with-QuickMails-mcp)
 * [IMPORTANT: Before you start](#before-you-start)
 * [How to connect QuickMail's MCP to Claude](#connect-to-connect-quickmail's-mcp-to-claude)
 * [How to connect QuickMail's MCP to ChatGPT](#connect-to-connect-quickmail's-mcp-to-chatgpt)
 * [Troubleshooting](#troubleshooting)
 
-## How does it work? 
+## How does it work
 
 QuickMail's MCP connects your AI assistant to your QuickMail account, allowing it to retrieve information and perform supported actions through QuickMail's API.
 
@@ -22,7 +22,7 @@ _"Show me the performance of my Q4 Outreach campaign."_
 
 Your AI assistant can retrieve the campaign data from QuickMail and present the results to you.
 
-## What can you do with QuickMail's MCP?
+## What can you do with QuickMail's MCP
 
 With QuickMail connected, your AI assistant can help you work with your campaigns and leads, answer questions about your data, and perform specific campaign-related actions.
 
@@ -50,7 +50,7 @@ You'll need:
 
 You'll sign in with your regular QuickMail account, so there's no need to create or paste an API key.
 
-## How to connect QuickMail's MCP to Claude?
+## How to connect QuickMail's MCP to Claude
 
 **Step 1.** Go to Claude Settings → Connectors → +Add → Add custom connector
 
@@ -81,7 +81,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 **Step. 6** You can now ask your AI to work with your QuickMail data.
 
 
-## How to connect QuickMail's MCP to ChatGPT?
+## How to connect QuickMail's MCP to ChatGPT
 
 **Step 1.** Go to ChatGPT Settings → Plugins → Add → Add MCP server
 
