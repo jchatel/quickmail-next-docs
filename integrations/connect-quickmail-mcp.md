@@ -69,7 +69,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 <img width="1022" height="751" alt="image" src="https://github.com/user-attachments/assets/26cc9b33-10b0-44e8-894a-38f9c452cc32" />
 
-**Step. 4** Connect your QuickMail account. Make sure to select the correct organization (if you're managing multiple organizations)
+**Step. 4** Connect your QuickMail account via OAuth sign-in. Make sure to select the correct organization (if you're managing multiple organizations) that you'd like to connect.
 
 <img width="823" height="528" alt="image" src="https://github.com/user-attachments/assets/719e1b3f-851f-471e-9d19-9ce97ca05152" />
 
@@ -98,7 +98,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 <img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/bc12c639-551e-488f-9991-6b76702a0dc6" />
 
-**Step 4.** Connect your QuickMail account. Make sure to select the correct organization (if you're managing multiple organizations)
+**Step 4.** Connect your QuickMail account via OAuth sign-in. Make sure to select the correct organization (if you're managing multiple organizations) that you'd like to connect.
 
 <img width="823" height="528" alt="image" src="https://github.com/user-attachments/assets/e220cf08-8926-4977-909e-a67a9869c3cf" />
 
