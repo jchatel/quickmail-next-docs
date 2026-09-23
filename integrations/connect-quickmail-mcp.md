@@ -83,7 +83,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 ## How to connect QuickMail's MCP to ChatGPT?
 
-**Step 1.** Go to ChatGPT Settings → Plugins → +Add → Add MCP Servers
+**Step 1.** Go to ChatGPT Settings → Plugins → Add → Add MCP server
 
 <img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/842c33f7-0c74-436b-b179-a0fef37af32d" />
 
