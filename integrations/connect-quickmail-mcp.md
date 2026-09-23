@@ -1,4 +1,4 @@
-<img width="1032" height="759" alt="image" src="https://github.com/user-attachments/assets/026a911b-2b55-4190-8392-1938611bca95" /># Connecting to QuickMail's MCP 🤖
+# Connecting to QuickMail's MCP 🤖
 
 QuickMail's MCP now lets you connect your account to AI platforms like Claude and ChatGPT! Once connected, you can use AI to get insights from your campaigns, manage your leads, create campaigns, and handle other QuickMail tasks without writing code.
 
