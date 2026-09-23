@@ -1,4 +1,4 @@
-# Connecting to QuickMail's MCP 🤖
+# Connecting QuickMail MCP to Your AI Assistant 🤖
 
 [QuickMail's MCP](https://next.quickmail.com/help/mcp) now lets you connect your account to AI platforms like Claude and ChatGPT! Once connected, you can use AI to get insights from your campaigns, manage your leads, create campaigns, and handle other QuickMail tasks without writing code.
 
