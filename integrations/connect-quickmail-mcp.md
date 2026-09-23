@@ -42,7 +42,7 @@ Here are some of the things you can do:
 
 ## ⚠️ Before you start 
 You'll need:
-* An AI app that supports remote MCP servers with OAuth sign-in
+* An AI app that supports remote MCP servers with OAuth sign-in. A paid AI subscription may be required, depending on the app.
 * Your QuickMail login and access to the organization you want to connect
 * API access enabled for that QuickMail organization
 
@@ -62,6 +62,12 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 * Server URL: https://api.quickmail.com/mcp
 
 <img width="1029" height="750" alt="image" src="https://github.com/user-attachments/assets/3a68a2aa-fcb8-4311-8453-6f3117da7506" />
+
+**Step. 3** Follow the on-screen instructions. Select the following settings and then click 'Add'
+* Authentication: Sign in now
+* OAuth client: Register Automatically
+
+<img width="1022" height="751" alt="image" src="https://github.com/user-attachments/assets/26cc9b33-10b0-44e8-894a-38f9c452cc32" />
 
 
 
