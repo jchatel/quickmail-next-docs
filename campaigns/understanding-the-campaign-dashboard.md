@@ -32,7 +32,37 @@ You can also see how many leads are on a specific step by clicking the drop-down
 
 ### Campaign Warnings
 
-Review any issues that may affect your campaign's performance, so you can fix them early.
+Campaign warnings provide you with information on issues related to the campaign.
+
+<img width="1086" height="714" alt="image" src="https://github.com/user-attachments/assets/ddac36ac-867c-4caa-9ea4-da5938f71bf8" />
+
+Some of the common campaign warnings are:
+- _No new leads left to start._
+
+This means all leads in the campaign have already started the sequence. Sending will slow down as leads complete their follow-up steps and will eventually stop once there are no more emails to send.
+
+You can disregard this warning if you don't plan to add more leads to the campaign.
+
+- _Campaign has email steps but no email addresses assigned._
+
+This means that the campaign has email steps, but there's no email sender assigned. The leads will run into an error without a sender assigned.
+
+_Triggers not set up_
+
+Triggers control when and how many leads will start the campaign.
+
+If there are leads that have not yet started the campaign, they won't automatically start the campaign without Triggers. As a result, the campaign may not send any emails.
+
+To start these leads automatically, add a trigger to the campaign.
+
+_Too many leads in the Triggers_
+
+This warning appears when a campaign is set to start more than 1,000 leads. Starting too many leads at once can lead to a high volume of emails being sent, which may affect your deliverability.
+
+If you have many senders connected to the campaign, you can usually disregard this warning, since the emails will be spread across multiple email accounts. 
+
+Still, it's best to review your settings to make sure the sending volume works for your setup.
+
 
 ### Touches
 
