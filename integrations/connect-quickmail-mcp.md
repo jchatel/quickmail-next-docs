@@ -1,4 +1,4 @@
-# Connecting to QuickMail's MCP 🤖
+<img width="1032" height="759" alt="image" src="https://github.com/user-attachments/assets/026a911b-2b55-4190-8392-1938611bca95" /># Connecting to QuickMail's MCP 🤖
 
 QuickMail's MCP now lets you connect your account to AI platforms like Claude and ChatGPT! Once connected, you can use AI to get insights from your campaigns, manage your leads, create campaigns, and handle other QuickMail tasks without writing code.
 
@@ -49,6 +49,18 @@ You'll need:
 You'll sign in with your regular QuickMail account, so there's no need to create or paste an API key.
 
 ## How to connect QuickMail's MCP to Claude?
+
+**Step 1. ** Go to Claude Settings → Connectors → +Add → Add custom connector
+
+<img width="1032" height="759" alt="image" src="https://github.com/user-attachments/assets/6ea9365b-854f-4a15-a3ad-a881da5a74a2" />
+
+| Name | QuickMail |
+|---|---|
+| Server URL | https://api.quickmail.com/mcp |
+| Transport, if asked | Streamable HTTP / remote HTTP |
+| Authentication | OAuth / sign in |
+
+
 
 
 
