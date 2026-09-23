@@ -77,6 +77,9 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 <img width="1233" height="796" alt="image" src="https://github.com/user-attachments/assets/601b974e-36e6-48c2-9958-5ece2552eb1a" />
 
+**Step. 6** You can now ask your AI to work with your QuickMail data.
+
+
 ## How to connect QuickMail's MCP to ChatGPT?
 
 **Step 1.** Go to ChatGPT Settings → Plugins → +Add → Add MCP Servers
@@ -103,7 +106,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 <img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/54312362-ad7d-40db-ad12-de238c394788" />
 
-
+**Step. 6** You can now ask your AI to work with your QuickMail data.
 
 ## Troubleshooting
 
