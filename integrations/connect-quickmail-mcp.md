@@ -8,6 +8,7 @@ QuickMail's MCP now lets you connect your account to AI platforms like Claude an
 * [What can you do with QuickMail's MCP?](#what-can-you-do-with-QuickMails-mcp)
 * [IMPORTANT: Before you start](#before-you-start)
 * [How to connect QuickMail's MCP to Claude](#connect-to-connect-quickmail's-mcp-to-claude)
+* [How to connect QuickMail's MCP to ChatGPT](#connect-to-connect-quickmail's-mcp-to-chatgpt)
 * [Troubleshooting](#troubleshooting)
 
 ## How does it work? 
@@ -52,9 +53,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 **Step 1.** Go to Claude Settings → Connectors → +Add → Add custom connector
 
-
 <img width="1032" height="759" alt="image" src="https://github.com/user-attachments/assets/6ea9365b-854f-4a15-a3ad-a881da5a74a2" />
-
 
 **Step 2.** Enter the following details and click 'Continue'
 
@@ -82,6 +81,15 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 **Step 1.** Go to ChatGPT Settings → Plugins → +Add → Add MCP Servers
 
 <img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/842c33f7-0c74-436b-b179-a0fef37af32d" />
+
+**Step 2.** Enter the following details and click 'Save'
+
+* **Name:** QuickMail
+* **Transport, if asked:** Streamable HTTP
+* **Server URL:** https://api.quickmail.com/mcp
+
+<img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/53f71135-a318-4b13-aa51-38f8f52ab99c" />
+
 
 
 ## Troubleshooting
