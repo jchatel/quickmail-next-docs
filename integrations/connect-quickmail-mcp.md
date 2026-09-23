@@ -58,14 +58,14 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 **Step 2.** Enter the following details and click 'Continue'
 
-* Name: QuickMail 
-* Server URL: https://api.quickmail.com/mcp
+* **Name:** QuickMail 
+* **Server URL:** https://api.quickmail.com/mcp
 
 <img width="1029" height="750" alt="image" src="https://github.com/user-attachments/assets/3a68a2aa-fcb8-4311-8453-6f3117da7506" />
 
 **Step. 3** Follow the on-screen instructions. Select the following settings and then click 'Add'
-* Authentication: Sign in now
-* OAuth client: Register Automatically
+* **Authentication:** Sign in now
+* **OAuth client:** Register Automatically
 
 <img width="1022" height="751" alt="image" src="https://github.com/user-attachments/assets/26cc9b33-10b0-44e8-894a-38f9c452cc32" />
 
