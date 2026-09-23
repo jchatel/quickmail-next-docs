@@ -58,7 +58,8 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 **Step 2.** Enter the following details and click 'Continue'
 
-* **Name:** QuickMail 
+* **Name:** QuickMail
+* **Transport, if asked:** Streamable HTTP
 * **Server URL:** https://api.quickmail.com/mcp
 
 <img width="1029" height="750" alt="image" src="https://github.com/user-attachments/assets/3a68a2aa-fcb8-4311-8453-6f3117da7506" />
