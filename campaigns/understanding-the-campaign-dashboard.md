@@ -27,8 +27,7 @@ The campaign progress bar gives you an overview of how many leads are still in p
 
 You can also see how many leads are on a specific step by clicking the drop-down button.
 
-<img width="1084" height="715" alt="image" src="https://github.com/user-attachments/assets/d4fcc47a-0cb0-45ff-a565-8661919a0a82" />
-
+<img width="1083" height="716" alt="image" src="https://github.com/user-attachments/assets/49a4bdad-fdb3-49a3-9878-06e0216e1ca2" />
 
 ### Campaign Warnings
 
@@ -47,13 +46,13 @@ You can disregard this warning if you don't plan to add more leads to the campai
 
 This means that the campaign has email steps, but there's no email sender assigned. The leads will run into an error without a sender assigned.
 
-- _Triggers not set up_
+- _Set triggers to start leads on the campaign_
 
 Triggers control when and how many leads will start the campaign.
 
 If there are leads that have not yet started the campaign, they won't automatically start the campaign without Triggers. As a result, the campaign may not send any emails.
 
-To start these leads automatically, add a trigger to the campaign.
+To start these leads automatically, make sure to add triggers to the campaign.
 
 - _Too many leads in the Triggers_
 
@@ -63,27 +62,13 @@ If you have many senders connected to the campaign, you can usually disregard th
 
 Still, it's best to review your settings to make sure the sending volume works for your setup.
 
----- UNDER CONSTRUCTION ----
-
 ### Touches
 
+The Touches section gives you an overview of your campaign activity, including the number of emails sent each day, LinkedIn touches, and the total number of campaign touches.
 
-### First Week Stats
+<img width="1088" height="712" alt="image" src="https://github.com/user-attachments/assets/d3a813f2-9eb8-4860-b017-b9d2c15c90a5" />
 
-See how your campaign performed in its first week.
+You can use the available filters to view the data based on your preferred timeframe or activity type.
 
-### Future Emails
+<img width="1088" height="711" alt="image" src="https://github.com/user-attachments/assets/ed248468-d8f0-4100-96a4-182cfac7bcbc" />
 
-See which emails are scheduled to be sent next.
-
-### Analytics
-
-Dig deeper into your campaign's performance.
-
-### Why Leads Unsubscribe
-
-See the reasons leads gave when they unsubscribed.
-
-### Recipient and Sender Provider Stats
-
-Compare results by email provider, for both your recipients and your sending accounts.
