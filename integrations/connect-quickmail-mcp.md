@@ -4,12 +4,12 @@
 
 ## In this article
 
-* [How does it work](#how-does-it-work)
-* [What can you do with QuickMail's MCP](#what-can-you-do-with-QuickMails-mcp)
-* [IMPORTANT: Before you start](#before-you-start)
-* [How to connect QuickMail's MCP to Claude](#connect-to-connect-quickmail's-mcp-to-claude)
-* [How to connect QuickMail's MCP to ChatGPT](#connect-to-connect-quickmail's-mcp-to-chatgpt)
-* [Troubleshooting](#troubleshooting)
+* How does it work
+* What can you do with QuickMail's MCP
+* IMPORTANT: Before you start
+* How to connect QuickMail's MCP to Claude
+* How to connect QuickMail's MCP to ChatGPT
+* Troubleshooting
 
 ## How does it work
 
