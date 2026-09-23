@@ -18,7 +18,7 @@ QuickMail's MCP connects your AI assistant to your QuickMail account, allowing i
 Once connected, you can simply tell your AI assistant what you need. It can then fetch the relevant data or carry out the action for you, without requiring you to write code.
 
 For example, you can ask:
-"Show me the performance of my Q4 Outreach campaign."
+_"Show me the performance of my Q4 Outreach campaign."_
 
 Your AI assistant can retrieve the campaign data from QuickMail and present the results to you.
 
