@@ -1,4 +1,4 @@
-# Connecting to QuickMail's MCP
+# Connecting to QuickMail's MCP 🤖
 
 QuickMail's MCP lets you connect your account to AI platforms like Claude, ChatGPT, and Cursor. Once connected, you can use AI to get insights from your campaigns, manage your leads, create campaigns, and handle other QuickMail tasks without writing code.
 
