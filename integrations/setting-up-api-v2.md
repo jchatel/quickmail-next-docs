@@ -52,7 +52,7 @@ API rate limit is 10 requests per 10 seconds.
 
 To create an API key, please refer to this guide: Creating an API key in QuickMail
 
-**Note:** We don't have an available MCP URL at the moment.
+**Note:** QuickMail now has an MCP server! You can connect it to AI assistants like Claude and ChatGPT. Learn more (here)[https://help.quickmail.com/integrations/connect-quickmail-mcp/].
 
 # Authorization
 
