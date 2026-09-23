@@ -114,6 +114,8 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 ### The connection does not start
 Check that the server URL is exactly https://api.quickmail.com/mcp and that your app supports remote MCP with OAuth. Use OAuth sign-in rather than an API key or manual authorization header.
 
+Alternatively, if you're using the Free version of your AI app, check that your plan supports custom MCP connections. Custom MCP access may not be available on the Free plan.
+
 ### I opened the URL and got an error
 The server URL is for your AI app’s connector settings. It is not a web page. Paste it into the connector setup to begin.
 
