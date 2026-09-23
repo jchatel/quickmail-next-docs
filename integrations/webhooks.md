@@ -35,7 +35,7 @@ Here are the available webhook events:
 
 ## How Does It Work?
 
-Whenever an event occurs in a QuickMail workspace where a webhook is enabled, QuickMail sends all the information about that event to your webhook provider, such as Zapier or Make.com.
+Whenever an event occurs in a QuickMail workspace where a webhook is enabled, QuickMail sends all the information about that event to your webhook provider, such as Zapier, N8N, Make.com.
 
 You can then use this information to automate workflows and perform actions such as recording data in a Google Sheet or sending it to another app.
 
@@ -43,13 +43,13 @@ You can then use this information to automate workflows and perform actions such
 
 ### Step 1: Get the Webhook Endpoint URL
 
-**For Zapier**
+Go to your preferred webhook-enabled automation platform and get the webhook endpoint URL.
 
-Go to your Zapier account and create a Zap.
+In the screenshot below, I'm using Zapier as an example. 
 
 ![screenshot](../images/000_file-RkqCaagOOP.png)
 
-Select **Webhook by Zapier** as the trigger → under **Event**, select **Catch Hook** → click **Continue**.
+In Zapier, select **Webhook by Zapier** as the trigger → under **Event**, select **Catch Hook** → click **Continue**.
 
 ![screenshot](../images/001_file-XHRqBPjqnr.png)
 
