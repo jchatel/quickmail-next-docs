@@ -6,7 +6,7 @@ QuickMail's MCP now lets you connect your account to AI platforms like Claude an
 
 * [How does it work?](#how-does-it-work)
 * [What can you do with QuickMail's MCP?](#what-can-you-do-with-QuickMails-mcp)
-* [IMPORTANT: Before you start](#important-before-you-start)
+* [IMPORTANT: Before you start](#before-you-start)
 * [How to connect QuickMail's MCP to Claude](#connect-to-connect-quickmail's-mcp-to-claude)
 * [Troubleshooting](#troubleshooting)
 
