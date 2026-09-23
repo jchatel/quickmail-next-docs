@@ -50,16 +50,18 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 ## How to connect QuickMail's MCP to Claude?
 
-**Step 1. ** Go to Claude Settings → Connectors → +Add → Add custom connector
+**Step 1.** Go to Claude Settings → Connectors → +Add → Add custom connector
+
 
 <img width="1032" height="759" alt="image" src="https://github.com/user-attachments/assets/6ea9365b-854f-4a15-a3ad-a881da5a74a2" />
 
-| Name | QuickMail |
-|---|---|
-| Server URL | https://api.quickmail.com/mcp |
-| Transport, if asked | Streamable HTTP / remote HTTP |
-| Authentication | OAuth / sign in |
 
+**Step 2.** Enter the following details and click 'Continue'
+
+* Name: QuickMail 
+* Server URL: https://api.quickmail.com/mcp
+
+<img width="1029" height="750" alt="image" src="https://github.com/user-attachments/assets/3a68a2aa-fcb8-4311-8453-6f3117da7506" />
 
 
 
