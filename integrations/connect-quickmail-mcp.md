@@ -46,7 +46,7 @@ You'll need:
 * An AI app that supports remote MCP servers with OAuth sign-in.
 * A paid AI subscription may be required, depending on the app.
 * Your QuickMail login and access to the organization you want to connect
-* API access enabled for that QuickMail organization
+* API access enabled for that QuickMail organization (Not available for accounts on Starter Plan)
 
 You'll sign in with your regular QuickMail account, so there's no need to create or paste an API key.
 
