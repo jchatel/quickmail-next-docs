@@ -15,7 +15,7 @@ The campaign stats give you the overall campaign results at a glance, including 
 
 The detailed campaign stats give you a view of your daily performance, including stats for each campaign step.
 
-<img width="1081" height="715" alt="image" src="https://github.com/user-attachments/assets/f67977a2-26bf-4a7c-ade3-bc2decceab1d" />
+<img width="1081" height="716" alt="image" src="https://github.com/user-attachments/assets/3aad1aea-6f2a-4b26-9f8f-4710e8b1d15d" />
 
 You can filter the data by date, and choose to view the results as Percentage or Absolute values.
 
