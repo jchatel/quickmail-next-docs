@@ -68,7 +68,14 @@ The Touches section gives you an overview of your campaign activity, including t
 
 <img width="1088" height="712" alt="image" src="https://github.com/user-attachments/assets/d3a813f2-9eb8-4860-b017-b9d2c15c90a5" />
 
-You can use the available filters to view the data based on your preferred timeframe or activity type.
+You can use the available filters to view the data based on your preferred activity type.
 
 <img width="1088" height="711" alt="image" src="https://github.com/user-attachments/assets/ed248468-d8f0-4100-96a4-182cfac7bcbc" />
+
+### First Week Stats
+
+1st week stats show clicks, opens, replies, and unsubscribes detected within the first week after the emails were sent, not the first calendar week the campaign ran. The 2nd, 3rd, 4th week, and so on show any extra engagement that came in later. So it's about how long after sending the engagement happened. You can use the available filters to view the data based on your preferred activity type.
+
+<img width="1083" height="716" alt="image" src="https://github.com/user-attachments/assets/ffc78fa5-fc42-4e94-b8fe-97eee7cf26b6" />
+
 
