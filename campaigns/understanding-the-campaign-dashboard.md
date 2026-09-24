@@ -78,4 +78,16 @@ You can use the available filters to view the data based on your preferred activ
 
 <img width="1083" height="716" alt="image" src="https://github.com/user-attachments/assets/ffc78fa5-fc42-4e94-b8fe-97eee7cf26b6" />
 
+### Future Emails
+
+Future Emails provides an estimate of how many emails are expected to be sent on upcoming days. It gives you a general idea of the campaign's expected sending volume and can help you anticipate future email activity.
+
+Keep in mind that Future Emails does not include today's scheduled emails. The actual number of emails sent may also differ from the estimate because sending volume can be affected by several factors, such as sending limits, inbox availability, scheduling, and campaign activity.
+
+Use Future Emails as a general estimate; it may not be an exact prediction, of future sending volume.
+
+<img width="1085" height="714" alt="image" src="https://github.com/user-attachments/assets/cfbe0a44-f5a0-497a-bf88-54dae53816f3" />
+
+
+
 
