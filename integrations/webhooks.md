@@ -2,7 +2,7 @@
 
 Using QuickMail webhooks makes it easy to fetch data from the workspaces under your organization and consolidate it.
 
-**Note** Webhooks is only available to accounts on the Agency Plan.
+**Note:** Webhooks are only available to accounts on the Agency Plan.
 
 Here are the available webhook events:
 
