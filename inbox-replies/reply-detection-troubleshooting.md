@@ -99,7 +99,9 @@ QuickMail uses three methods to identify replies:
 
 - **Metadata** included in the original email.
 
-If a lead sends a brand-new email from a different address instead of replying directly to the campaign email, that message will not contain the tracking pixel or metadata and QuickMail will not recognize it as a reply.
+If a lead sends a brand-new email from a different address instead of replying directly to the campaign email, that message will not contain the tracking pixel or metadata, and QuickMail will not recognize it as a reply.
+
+**Note:** We scan email accounts for replies every 15 minutes. For LinkedIn accounts, we scan them every 1–2 hours, so there may be a slight delay before new responses are reflected in QuickMail.
 
 ## Is a Reply Not Being Detected?
 
