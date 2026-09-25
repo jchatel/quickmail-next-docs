@@ -133,13 +133,12 @@ Here's a sample payload:
 Every payload includes an event_name field in the body. For example, a reply event includes ```"event_name": "reply"```. This means you can send several events to the same endpoint URL and use event_name to decide how to handle each one.
 
 **How can I verify that a request came from QuickMail?**
-QuickMail doesn't currently use a signing secret, HMAC signature, or static token. To verify requests, you can add a secret token to your endpoint URL and set up your endpoint to reject any request that doesn't include it.
 
-For example:
+QuickMail doesn't currently include a signing secret, HMAC signature, or token with its webhook requests. To verify requests, you can add a secret token to your endpoint URL and set up your endpoint to reject any request that doesn't include it.
 
-```
-https://yourdomain.com/webhook?token=yoursecret
-```
+For example: ``` https://myendpoint.com/webhook?token=yoursecret ```
+
+**Note:** Your endpoint URL is visible to all team members in your Organization Settings.
 
 **What happens if my endpoint is down or returns an error?**
 
