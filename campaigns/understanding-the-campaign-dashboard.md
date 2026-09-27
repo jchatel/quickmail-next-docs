@@ -88,6 +88,15 @@ Use Future Emails as a general estimate; it may not be an exact prediction, of f
 
 <img width="1085" height="714" alt="image" src="https://github.com/user-attachments/assets/cfbe0a44-f5a0-497a-bf88-54dae53816f3" />
 
+### Advanced Analytics
+
+Advanced Analytics gives you a deeper look at your campaign's weekly statistics.
+
+You can filter the data by email or LinkedIn, rate or absolute values, sender and recipient providers, and different types of lead activities.
+
+For more information on understanding campaign analytics, check out this guide: [Understanding Metrics by Cohort](https://help.quickmail.com/analytics-and-reporting/understanding-metrics-by-cohort-advanced-analytics/)
+
+<img width="1048" height="716" alt="image" src="https://github.com/user-attachments/assets/2e671ae8-5341-4209-a01b-91c700e31ad1" />
 
 
 
