@@ -54,9 +54,11 @@ Auto-Import continuously monitors your saved Sales Navigator search. When a new 
 
 ![screenshot](../images/006_file-LWyUKbDRXl.png)
 
-**Note:** LinkedIn accounts showing a brown icon are supported for Sales Navigator. If the icon is blue, the account is not compatible.
+**Note:** LinkedIn accounts with a Sales Navigator icon support Sales Navigator. Accounts without the icon are not compatible.
 
-![screenshot](../images/007_file-zUrphNSoky.png)
+If the account has Sales Navigator access, delete the LinkedIn account and visit the LinkedIn Sales Navigator page before re-adding it. Reassign it to the campaign immediately after re-adding, or pause the campaign before deleting the account.
+
+<img width="673" height="291" alt="image" src="https://github.com/user-attachments/assets/dda701d5-3e00-4eae-9904-2b5af07b02d5" />
 
 **Step 2.** Go to [Sales Navigator](https://www.linkedin.com/sales/home) → search for the leads you would like to import → use filters to narrow down your search if needed → copy the URL.
 
