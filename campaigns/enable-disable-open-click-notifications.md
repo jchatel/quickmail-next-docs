@@ -6,9 +6,11 @@ To change these settings:
 
 **Step 1.** Log in to your QuickMail account.
 
-**Step 2.** Click the **ellipsis (three dots)** in the upper-right corner of the screen.
+**Step 2.** Click on the bell icon in the upper-left-hand corner.
 
-**Step 3.** Toggle the notification settings you want to change:
+**Step 3.** Then click on the ellipsis. 
+
+**Step 4.** Toggle the notification settings you want to change:
    - Toggle them **off** to disable notifications or sounds.
    - Toggle them **on** to enable notifications or sounds again.
 
