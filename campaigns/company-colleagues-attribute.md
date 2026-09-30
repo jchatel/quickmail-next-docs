@@ -62,7 +62,8 @@ The same thing happens for each lead. Monica's email would mention Richard and J
 
 Add the attribute ```{{=company.colleagues}}``` to the body of any email step, or go to the email step → { } → Formula → Colleagues
 
-<img width="850" height="532" alt="image" src="https://github.com/user-attachments/assets/413edc2c-0168-4353-a954-1ba1aac0adc8" />
+
+<img width="775" height="536" alt="image" src="https://github.com/user-attachments/assets/21edfece-f121-4260-8f35-41457a25365b" />
 
 ## How to CC colleagues?
 
@@ -70,7 +71,9 @@ You can also add `{{=company.colleagues}}` to the **CC** field of an email step 
 
 > **Tip:** If two or more leads from the same company are in the same campaign, each lead will receive their own email, and their colleagues will be CC'd on each one. This means the same people may receive several copies of similar emails.
 
-<img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/723e3d58-edfd-4c66-8da6-fa23ee94c844" />
+
+<img width="776" height="562" alt="image" src="https://github.com/user-attachments/assets/2f051d59-2e96-4883-8830-d7d569b24fa1" />
+
 
 ## Why am I getting an error?
 
