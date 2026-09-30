@@ -3,7 +3,7 @@
 
 ## In this article:
 
-- What is company colleagues attribute?
+- What is Company Colleagues Attribute?
 - How does it work?
 - How to use it in an email? 
 - How to CC colleagues in emails? 
@@ -21,8 +21,7 @@ This is useful when you reach out to several people at the same company and want
 
 QuickMail groups leads into companies based on their company name or email domain. Leads in the same company are treated as colleagues.
 
-> [!IMPORTANT]
-> _If a company is not mapped during import, QuickMail will automatically assign a company based on the leads' domains._
+> **IMPORTANT:** If a company is not mapped during import, QuickMail will automatically assign a company based on the leads' domains.
 
 For example, say these three leads are in your workspace:
 
@@ -62,18 +61,17 @@ Add the attribute ```{{=company.colleagues}}``` to the body of any email step, o
 
 You can also add `{{=company.colleagues}}` to the **CC** field of an email step **only if the leads don't have a name**. This copies the lead's colleagues from the same company on the email.
 
-> [!IMPORTANT]
-> _If two or more leads from the same company are in the same campaign, each lead will receive their own email, and their colleagues will be CC'd on each one. This means the same people may receive several copies of similar emails._
+> **Tip:** If two or more leads from the same company are in the same campaign, each lead will receive their own email, and their colleagues will be CC'd on each one. This means the same people may receive several copies of similar emails._
 
 <img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/0e0c00db-a922-459f-ae4b-87a806dd7abb" />
 
 ## Things to keep in mind
 
-- **Only use this attribute for leads whose colleagues have a name.** Otherwise, QuickMail will automatically use the colleague's email address instead of their name.
+- **For leads whose colleagues don't have a name.** QuickMail will automatically use the colleague's email address.
 - **Only use this attribute for leads who have colleagues.** Sending an email with `{{=company.colleagues}}` to a lead who doesn't have a colleague will cause the lead to run into an error in the campaign.
-- **Be careful when sending to free email domains like gmail.com.** Leads who share the same free domain may be treated as colleagues, so unrelated people might be mentioned incorrectly.
+- **Be careful when sending to free email domains like gmail.com, hotmail.com** Leads who share the same free domain may be treated as colleagues, so unrelated people might be mentioned incorrectly.
 - **Colleagues are matched by company or domain.** Make sure your leads' company names are correct and written exactly the same way, since even small differences in spelling can stop them from being matched.
-- **Test before launching.** Send a test email to check how the colleague 
+- **Test before launching.** Send a test email to check how the colleague. Here's a guide: (Sending Test Emails)[https://help.quickmail.com/campaigns/sending-test-emails/]
 
 ## Why am I getting an error?
 
