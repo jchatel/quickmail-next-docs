@@ -68,7 +68,7 @@ Add the attribute ```{{=company.colleagues}}``` to the body of any email step, o
 
 You can also add `{{=company.colleagues}}` to the **CC** field of an email step **only if the leads don't have a name**. This copies the lead's colleagues from the same company on the email.
 
-> **Tip:** If two or more leads from the same company are in the same campaign, each lead will receive their own email, and their colleagues will be CC'd on each one. This means the same people may receive several copies of similar emails._
+> **Tip:** If two or more leads from the same company are in the same campaign, each lead will receive their own email, and their colleagues will be CC'd on each one. This means the same people may receive several copies of similar emails.
 
 <img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/0e0c00db-a922-459f-ae4b-87a806dd7abb" />
 
