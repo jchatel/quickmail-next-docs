@@ -1,4 +1,3 @@
-<img width="872" height="484" alt="image" src="https://github.com/user-attachments/assets/36429763-44ed-413b-b5a0-1ad5d458496e" />
 # Company Colleagues Attribute
 
 ## In this article:
