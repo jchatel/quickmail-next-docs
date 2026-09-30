@@ -56,7 +56,7 @@ The same thing happens for each lead. Monica's email would mention Richard and J
 - **Only use this attribute for leads who have colleagues.** Sending an email with `{{=company.colleagues}}` to a lead who doesn't have a colleague will cause the lead to run into an error in the campaign.
 - **Be careful when sending to free email domains like gmail.com, hotmail.com, etc.** Leads who share the same free domain may be treated as colleagues, so unrelated people might be mentioned incorrectly.
 - **Colleagues are matched by company or domain.** Make sure your leads' company names are correct and written exactly the same way, since even small differences in spelling can stop them from being matched.
-- **Test before launching.** Send a test email to check how the colleague. Here's a guide: (Sending Test Emails)[https://help.quickmail.com/campaigns/sending-test-emails/]
+- **Test before launching.** Send a test email to check how the colleague. Here's a guide: [Sending Test Emails](https://help.quickmail.com/campaigns/sending-test-emails/)
 
 ## How to use it in an email?
 
