@@ -1,5 +1,10 @@
 # QuickMail Changelog
 
+## September 29, 2026
+### FEATURE
+- Ability to retrieve LinkedIn profile visit stats via API and MCP
+- Improved backend process for ordering domains with QuickMail
+  
 ## September 21, 2026
 ### FEATURE
 - [QuickMail's MCP](https://next.quickmail.com/help/mcp): Users can now connect QuickMail to AI platforms like Claude and ChatGPT
