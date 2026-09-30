@@ -56,13 +56,13 @@ The same thing happens for each lead. Monica's email would mention Richard and J
 - **Only use this attribute for leads who have colleagues.** Sending an email with `{{=company.colleagues}}` to a lead who doesn't have a colleague will cause the lead to run into an error in the campaign.
 - **Be careful when sending to free email domains like gmail.com, hotmail.com, etc.** Leads who share the same free domain may be treated as colleagues, so unrelated people might be mentioned incorrectly.
 - **Colleagues are matched by company or domain.** Make sure your leads' company names are correct and written exactly the same way, since even small differences in spelling can stop them from being matched.
-- **Test before launching.** Send a test email to check how the colleague. Here's a guide: [Sending Test Emails](https://help.quickmail.com/campaigns/sending-test-emails/)
+- **Test before launching.** Send a test email to check how it looks. Here's a guide: [Sending Test Emails](https://help.quickmail.com/campaigns/sending-test-emails/)
 
 ## How to use it in an email?
 
 Add the attribute ```{{=company.colleagues}}``` to the body of any email step, or go to the email step → { } → Formula → Colleagues
 
-<img width="850" height="532" alt="image" src="https://github.com/user-attachments/assets/cb7fb7de-45be-4176-b992-2cff65a1a6f4" />
+<img width="850" height="532" alt="image" src="https://github.com/user-attachments/assets/413edc2c-0168-4353-a954-1ba1aac0adc8" />
 
 ## How to CC colleagues?
 
@@ -70,7 +70,7 @@ You can also add `{{=company.colleagues}}` to the **CC** field of an email step 
 
 > **Tip:** If two or more leads from the same company are in the same campaign, each lead will receive their own email, and their colleagues will be CC'd on each one. This means the same people may receive several copies of similar emails.
 
-<img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/0e0c00db-a922-459f-ae4b-87a806dd7abb" />
+<img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/723e3d58-edfd-4c66-8da6-fa23ee94c844" />
 
 ## Why am I getting an error?
 
