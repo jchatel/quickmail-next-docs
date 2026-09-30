@@ -3,14 +3,14 @@
 
 ## In this article:
 
-- What is Company Colleagues Attribute?
+- What is company colleagues attribute?
 - How does it work?
 - How to use it in an email? 
 - How to CC colleagues in emails? 
 - Why am I getting an error?
 - Things to keep in mind
 
-## What is the company colleagues attribute?
+## What is company colleagues attribute?
 
 ```{{=company.colleagues}}``` is a precomputed attribute that automatically fills in the names of a lead's colleagues, meaning other leads from the same company or domain. 
 When the email is sent, QuickMail replaces the attribute with each colleague's name, or their email address if no name is available.
