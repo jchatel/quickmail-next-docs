@@ -20,7 +20,7 @@ API rate limit is 10 requests per 10 seconds.
   - Getting Agency information including name, ID, and URL
   - Getting workspaces IDs, names, and URLs
   - Getting campaign IDs, names, and URLs
-  - Getting campaign stats based on a specific campaign
+  - Getting campaign stats
   - Getting email account IDs
   - Creating campaigns
   - Cloning a campaign
@@ -145,6 +145,23 @@ This URL is different from the GraphiQL page URL: `https://api.quickmail.com/v2/
 ```
 
 ### Getting campaign stats based on a specific campaign
+Users can now get detailed performance stats for your campaigns through the API. This makes it easy to track results, build custom reports, and connect your campaign data to the tools your team already uses.
+
+The following stats are available for each campaign:
+- Total emails sent
+- Delivered
+- Delivered with open tracking
+- Delivered with click tracking
+- Bounces
+- Opens
+- Clicks
+- Unsubscribes
+- Replies
+- Positive replies
+- Negative replies
+- LinkedIn profile visits
+- LinkedIn connection requests sent
+- LinkedIn connection requests accepted
 
 ```graphql
 {
@@ -157,11 +174,21 @@ This URL is different from the GraphiQL page URL: `https://api.quickmail.com/v2/
       name
       appUrl
       stats {
+        connectionRequests
+        profileVisits
+        newConnections
+        delivered
+        deliveredTrackingOpens
+        deliveredTrackingClicks
+        bounces
         clicks
+        unsubscribes
         opens
         replies
         repliesPositive
         repliesNegative
+        delivered
+        total
       }
     }
   }
