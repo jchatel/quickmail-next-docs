@@ -1,5 +1,11 @@
 # QuickMail Changelog
 
+## October 1, 2026
+### FEATURE
+- Users can now easily see the max daily volume set for each email account on the Email page
+<img width="1105" height="351" alt="image" src="https://github.com/user-attachments/assets/394b6076-a984-49a5-b6e1-18c14d6397de" />
+
+
 ## September 29, 2026
 ### FEATURE
 - Ability to retrieve LinkedIn profile visit stats via API and MCP
