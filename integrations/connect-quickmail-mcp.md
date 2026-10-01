@@ -24,7 +24,7 @@ Your AI assistant can retrieve the campaign data from QuickMail and present the 
 
 ## What can you do with QuickMail's MCP
 
-With QuickMail connected, your AI assistant can help you work with your campaigns and leads, answer questions about your data, and perform specific campaign-related actions.
+With QuickMail connected, your AI assistant can help you work with your campaigns and leads, answer questions about your data, and perform specific campaign-related actions. Everything available in QuickMail's API is also available through MCP.
 
 Here are some of the things you can do:
 - Get campaign statistics, such as opens, clicks, replies, and bounces
@@ -60,7 +60,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 * **Name:** QuickMail
 * **Transport, if asked:** Streamable HTTP
-* **Server URL:** https://api.quickmail.com/mcp
+* **Server URL:**```https://api.quickmail.com/mcp```
 
 <img width="1029" height="750" alt="image" src="https://github.com/user-attachments/assets/3a68a2aa-fcb8-4311-8453-6f3117da7506" />
 
@@ -91,7 +91,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 
 * **Name:** QuickMail
 * **Transport, if asked:** Streamable HTTP
-* **Server URL:** https://api.quickmail.com/mcp
+* **Server URL:** ```https://api.quickmail.com/mcp```
 
 <img width="1098" height="768" alt="image" src="https://github.com/user-attachments/assets/53f71135-a318-4b13-aa51-38f8f52ab99c" />
 
@@ -112,7 +112,7 @@ You'll sign in with your regular QuickMail account, so there's no need to create
 ## Troubleshooting
 
 ### The connection does not start
-Check that the server URL is exactly https://api.quickmail.com/mcp and that your app supports remote MCP with OAuth. Use OAuth sign-in rather than an API key or manual authorization header.
+Check that the server URL is exactly ```https://api.quickmail.com/mcp``` and that your app supports remote MCP with OAuth. Use OAuth sign-in rather than an API key or manual authorization header.
 
 Alternatively, if you're using the Free version of your AI app, check that your plan supports custom MCP connections. Custom MCP access may not be available on the Free plan.
 
