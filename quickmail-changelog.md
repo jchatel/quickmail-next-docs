@@ -8,7 +8,7 @@
 
 ## September 29, 2026
 ### FEATURE
-- Ability to retrieve LinkedIn profile visit stats via API and MCP
+- Ability to retrieve LinkedIn profile visits, connection requests sent, and accepted connection requests stats via API and MCP
 - Improved backend process for ordering domains with QuickMail
   
 ## September 21, 2026
