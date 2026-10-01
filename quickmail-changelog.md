@@ -3,7 +3,7 @@
 ## October 1, 2026
 ### FEATURE
 - Users can now easily see the max daily volume set for each email account on the Email page
-<img width="1105" height="351" alt="image" src="https://github.com/user-attachments/assets/394b6076-a984-49a5-b6e1-18c14d6397de" />
+<img width="1104" height="376" alt="image" src="https://github.com/user-attachments/assets/53c86a9a-2a1f-4cc1-ba3f-ac0bcf2e57c2" />
 
 
 ## September 29, 2026
