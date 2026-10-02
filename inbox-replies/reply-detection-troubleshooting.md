@@ -20,7 +20,9 @@
 
 ## How Reply Detection Works
 
-QuickMail embeds a tracking code in every email sent through the platform. Every 10 minutes, QuickMail scans all folders in the connected email account (except the Sent folder) looking for emails that contain this tracking code. When a match is found, the lead is automatically marked as replied and their journey is stopped — no further follow-up emails will be sent to them from that campaign.
+QuickMail adds a tracking code to every email sent through the platform. Every 15 to 20 minutes, QuickMail scans all folders in your connected email account (except the Sent folder) for emails that contain this code. When it finds a match, the lead is automatically marked as replied and removed from the campaign, so they won't receive any more follow-up emails.
+
+Because of this scanning schedule, replies may not show up in QuickMail in real time.
 
 ## Why a Reply Might Not Be Detected
 
