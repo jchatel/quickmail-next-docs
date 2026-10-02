@@ -12,7 +12,7 @@
 
 - Troubleshooting
 
-  - I added the LinkedIn account but I can't find it.
+  - I added the LinkedIn account, but I can't find it.
 
   - My LinkedIn lost permission. How do I reconnect?
 
@@ -127,19 +127,25 @@ If you're encountering the “2FA challenge not found” error, please try loggi
 
 ### I Added the LinkedIn Account but I Can't Find It. Why?
 
-If a LinkedIn account is not visible, it may be set to private. Private LinkedIn accounts are only visible to the user who added them — specifically, the email address used to log in to QuickMail at the time of adding the account.
+If you can't see a LinkedIn account, it may be set to private. Private LinkedIn accounts are only visible to the person who added them, meaning the email address that was used to log in to QuickMail when the account was added.
 
-If you are logged in with a different email address, the private LinkedIn account will not appear and its settings will not be editable.
+If you're logged in with a different email address, the private LinkedIn account won't appear, and you won't be able to edit its settings.
 
-Try logging in with the email address that was used to add the account. If you still cannot find it, click on the AI chatbot located in the lower-right corner of your QuickMail account, then click **"Escalate to Human."**
+To fix this, try logging in with the email address that was used to add the account. If you still can't find it, click the AI chatbot in the lower right corner of your QuickMail account, then click "Escalate to Human."
 
-### My LinkedIn Lost Permission. How Do I Reconnect?
+It's also possible that something went wrong when the LinkedIn account was added. To check, go to Settings → Team → Ellipsis → Changelog and look for any errors.
 
-- If the account was added via cookies, generate a new cookie and add it to the account.
+What I changed: I removed the dash and replaced it with "meaning" so the sentence flows naturally. I also used contractions for a friendlier tone, changed "click on" to "click," changed "any error" to "any errors," and added a short lead-in to each step so readers know what to do and why.
 
-- If the account was added via 2FA, you can use the browser extension to reconnect it.
+## My LinkedIn Account Lost Permission. How Do I Reconnect It?
 
-If you are unable to reconnect via 2FA, click on the AI chatbot located in the lower-right corner of your QuickMail account, then click **"Escalate to Human."**
+The way to reconnect depends on how the account was originally added:
+
+**Added via cookies:** Generate a new cookie and add it to the account.
+
+**Added via the browser extension:** The account should reconnect automatically. If it doesn't, reconnect it using the browser extension, and make sure your LinkedIn account is open in another tab.
+
+**Added via 2FA:** Reconnect it using the browser extension, and make sure your LinkedIn account is open in another tab. If you're still getting an error, click the question mark icon to open the chatbot, type in your issue, and then click "Escalate to Human."
 
 
 ### I'm Getting an Error When Adding My LinkedIn Account.
