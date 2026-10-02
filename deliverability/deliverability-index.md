@@ -1,6 +1,6 @@
 # Deliverability Index
 
-The deliverability index shows how healthy an inbox is. It's calculated using two things: the autowarmer score and the open rate. If you're using Deliverability AI, this index also helps decide when an inbox should be swapped out.
+The deliverability index shows how healthy an inbox is. It's calculated using two factors: the autowarmer score, which makes up 80% of the index, and the open rate, which makes up the remaining 20%. If you're using Deliverability AI, this index also helps decide when an inbox should be swapped out.
 
 ## Why don't some inboxes have a deliverability index?
 
