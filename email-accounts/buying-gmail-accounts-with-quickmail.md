@@ -1,4 +1,4 @@
-# Buying Gmail Accounts With QuickMail
+# Buying Google Domains With QuickMail
 
 **In this article:**
 
@@ -138,6 +138,8 @@ Once the email accounts are canceled, you can remove your Gmail package by going
 Email forwarding (also called email redirect or email redirection) can only be configured during the domain order process. If you need to add, remove, update, enable, disable, suspend, resume, or change email forwarding/redirects after your domain has been created, click on the chatbot at the lower right hand corner of your QuickMail account, type in your concern, and then click 'Escalate to Human'
 
 ![screenshot](../images/011_file-CcL5XIedCf.png)
+
+**Note:** We recently found that Google penalizes direct domain forwarding, which can hurt deliverability and sometimes cause forwarding to fail in web browsers. To protect your domain, we now use mini-sites with redirects, which work the same way as direct forwarding without the deliverability risk. Since making this change, we've seen clear improvements in deliverability, especially in Auto-Warmer scores.
 
 ## How to Add or Remove Domain Forwarding?
 
