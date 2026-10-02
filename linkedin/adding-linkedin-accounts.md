@@ -141,20 +141,20 @@ What I changed: I removed the dash and replaced it with "meaning" so the sentenc
 
 The way to reconnect depends on how the account was originally added:
 
-**Added via cookies:** Generate a new cookie and add it to the account.
+* **Added via cookies:** Generate a new cookie and add it to the account.
 
-**Added via the browser extension:** The account should reconnect automatically. If it doesn't, reconnect it using the browser extension, and make sure your LinkedIn account is open in another tab.
+* **Added via the browser extension:** The account should reconnect automatically. If it doesn't, reconnect it using the browser extension, and make sure your LinkedIn account is open in another tab.
 
-**Added via 2FA:** Reconnect it using the browser extension, and make sure your LinkedIn account is open in another tab. If you're still getting an error, click the question mark icon to open the chatbot, type in your issue, and then click "Escalate to Human."
+* **Added via 2FA:** Reconnect it using the browser extension, and make sure your LinkedIn account is open in another tab. If you're still getting an error, click the question mark icon to open the chatbot, type in your issue, and then click "Escalate to Human."
 
 
 ### I'm Getting an Error When Adding My LinkedIn Account.
 
-**Error: _We failed to create your LinkedIn account due to network issues. Please try again later_**
+* **Error: _We failed to create your LinkedIn account due to network issues. Please try again later_**
 
 If you are seeing this, it's a temporary error caused by high server load. Wait a few minutes and try again.
 
-**Error: _2FA Challenge Not Found**
+* **Error: _2FA Challenge Not Found**
 
 This can happen if you've just set up two-factor authentication (2FA). Try logging out of your LinkedIn account, then logging back in before attempting to connect it to QuickMail again.
 
