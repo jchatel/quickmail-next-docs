@@ -131,11 +131,9 @@ If you can't see a LinkedIn account, it may be set to private. Private LinkedIn 
 
 If you're logged in with a different email address, the private LinkedIn account won't appear, and you won't be able to edit its settings.
 
-To fix this, try logging in with the email address that was used to add the account. If you still can't find it, click the AI chatbot in the lower right corner of your QuickMail account, then click "Escalate to Human."
+To fix this, log in with the email address used to add the account. If you still can't find it, click the AI chatbot in the lower right corner of your QuickMail account, then click "Escalate to Human."
 
-It's also possible that something went wrong when the LinkedIn account was added. To check, go to Settings → Team → Ellipsis → Changelog and look for any errors.
-
-What I changed: I removed the dash and replaced it with "meaning" so the sentence flows naturally. I also used contractions for a friendlier tone, changed "click on" to "click," changed "any error" to "any errors," and added a short lead-in to each step so readers know what to do and why.
+Something may have gone wrong when the LinkedIn account was added. To verify, go to Settings → Team → Ellipsis → Changelog and look for any errors.
 
 ## My LinkedIn Account Lost Permission. How Do I Reconnect It?
 
