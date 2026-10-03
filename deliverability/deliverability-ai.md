@@ -28,11 +28,11 @@ A Smart Sending Group consists of email accounts that can be swapped in or out i
 
 # How does Deliverability AI work?
 
-Email accounts must first be assigned to smart sending groups in order to utilize Deliverability AI. Once assigned, the system conducts daily checks and swaps out underperforming email accounts in the campaigns.
+To use Deliverability AI, your email accounts must first be assigned to a smart sending group. Once they're assigned, the system checks them every day and swaps out any email account that falls below the [Deliverability Index](https://help.quickmail.com/deliverability/deliverability-index/).
 
-By default, email accounts with a deliverability score of less than 40%, or those that have lost permission, will be swapped with those having a score of 40% or more within the same smart sending group. If no qualified email account is available in the same smart-sending group, the email account will remain assigned to the campaign.
+By default, an email account is swapped out if its deliverability score drops below 60% or if it has lost permission. It will be replaced with another email account from the same smart sending group that has a score of 60% or higher. If there's no qualified email account available in that group, the original email account will stay assigned to the campaign.
 
-If you would like to change the threshold, see 'How to change deliverability score threshold' section below.
+To change the threshold, see the How to change the deliverability score threshold section below.
 
 **Note:** Open tracking needs to be enabled for the Deliverability AI to work.
 
