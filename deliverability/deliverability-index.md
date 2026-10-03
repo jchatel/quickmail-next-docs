@@ -14,6 +14,4 @@ Most users aim for a threshold of 40%. That said, the right number really depend
 
 ## What does the fire icon mean?
 
-The fire icon means the email account is currently being warmed up. If you bought the account from QuickMail, the warmup happens in QuickMail. If you bought it elsewhere, the warm-up happens in Mailflow. The icon also shows the account's autowarmer score.
-
-Main fixes I made: "basedon" became "based on," "mean" became "means," "out side" became "outside," and I added a missing period at the end of the first paragraph. I also lowercased "If" inside the parentheses and broke longer sentences into shorter ones so they're easier to read.
+The fire icon means the email account is currently being warmed up. If you bought the account from QuickMail, the warm-up happens in QuickMail. If you bought it elsewhere, the warm-up happens in Mailflow. The icon also shows the account's autowarmer score.
