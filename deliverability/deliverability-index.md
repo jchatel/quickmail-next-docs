@@ -10,8 +10,14 @@ There are two common reasons:
 
 ## What's the suggested deliverability index threshold?
 
-Most users aim for a threshold of 40%. That said, the right number really depends on your own needs and goals, so feel free to adjust it to what works best for you.
+Most users aim for a threshold of 60%. However, the right number really depends on your own needs and goals, so feel free to adjust it to what works best for you.
+
+## How to adjust the deliverability index threshold?
+
+To adjust the deliverability index threshold, go to Settings → General → Under Deliverability AI, adjust the Deliverability Index Threshold
+
+<img width="1282" height="679" alt="image" src="https://github.com/user-attachments/assets/a1006e49-6fcc-47f7-82f4-988004f1be4a" />
 
 ## What does the fire icon mean?
 
-The fire icon means the email account is currently being warmed up. If you bought the account from QuickMail, the warm-up happens in QuickMail. If you bought it elsewhere, the warm-up happens in Mailflow. The icon also shows the account's autowarmer score.
+The fire icon means the email account is currently being warmed up. If you bought the account from QuickMail, the warm-up happens in QuickMail. If you bought it elsewhere, the warm-up happens in Mailflow. The icon also shows the email account's autowarmer score.
