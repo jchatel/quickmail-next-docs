@@ -10,6 +10,7 @@
 ### FEATURE
 - Ability to retrieve LinkedIn profile visits, connection requests sent, and accepted connection requests stats via API and MCP
 - Improved backend process for ordering domains with QuickMail
+- Google has started penalizing direct domain forwarding, so we've switched to mini-sites with redirects to protect your domain and improve deliverability and autowarmer scores
   
 ## September 21, 2026
 ### FEATURE
@@ -28,6 +29,7 @@
 - Fixed missing deliverability reports for Outlook and Microsoft 365 inboxes
 - Improved the error message shown when a domain purchase payment fails
 - Improved Auto Warmer email content by replacing gibberish messages with more natural, relevant emails to help improve autowarmer results
+- Increased the reply rate of autowarmer emails to get more natural conversation and improve deliverability
 - Fixed an issue that occasionally caused an error when adding email accounts created through QuickMail to user accounts
 
 ## September 2, 2026
