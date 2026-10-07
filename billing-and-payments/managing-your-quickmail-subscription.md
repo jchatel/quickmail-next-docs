@@ -31,7 +31,7 @@ When creating a new account, your workspace is placed on a **14-day free trial b
 
 - You will **not be charged automatically**
 
-- Your account will exit trial mode
+- Your account will exit trial
 
 - To continue using QuickMail, you must **manually subscribe to a plan**
 
@@ -58,7 +58,7 @@ QuickMail offers three plans designed for different stages of outreach, whether 
 | **Users** | Unlimited | Unlimited | Unlimited |
 | **Workspaces** | 1 Workspace | 1 Workspace | 2 Workspaces included (+$49/mo per extra workspace) |
 | **Uploaded Contacts** | 1,000 (No lead add-on option) | 25,000 (+$10/mo per extra 10,000)| 100,000 (+$10/mo per extra 10,000) |
-| **Emails Sent per Month** | 5,000 | 100,000 | 500,000 |
+| **Emails Sent per Month** | 5,000 (+$100/mo per extra 100,000 sends) | 100,000 (+$100/mo per extra 100,000 sends) | 500,000 (+$100/mo per extra 100,000 sends) |
 | **Free AutoWarmer with MailFlow** | 30 autowarmer emails daily per email account | 40 autowarmer emails daily per email account | 50 autowarmer emails daily per email account |
 | **Pipedrive/Hubspot Integration** | — | ✅ | ✅ |
 | **Zapier Integration** | ✅ | ✅ | ✅ |
