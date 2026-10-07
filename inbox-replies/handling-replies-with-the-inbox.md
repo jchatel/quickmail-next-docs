@@ -88,6 +88,10 @@ The Inbox also uses AI to summarize conversations, suggest responses, and catego
 
 The Inbox can be found on the **Inbox** page or in a lead's quick view. Note that it will only appear in the quick view if there is a conversation associated with that lead.
 
+**Note:** You can now also view and manage replies for a specific campaign directly from the Campaigns tab.
+
+<img width="1062" height="619" alt="image" src="https://github.com/user-attachments/assets/47981b30-8a5f-494f-b4f7-c8b9d9fd7761" />
+
 ## Responding to Replies
 
 Replies displayed in bold are active items that need to be addressed. Opening a reply will not remove the bold formatting on its own.
