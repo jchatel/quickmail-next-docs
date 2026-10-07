@@ -68,14 +68,6 @@ There are two ways to set up Auto-Warmer:
 
 Go to **Email** → click on an email account to open the quick view → go to the **Fire** icon tab → click **Join the Auto-Warmer Group**.
 
-The system will test the email account's sending and receiving settings and check the MX, SPF, and DKIM records. This helps prevent bounces that could negatively affect other email accounts in the Auto-Warmer group.
-
-You will receive an email confirming that the email account has been added to the group. Once accepted, the email account will start sending Auto-Warmer emails within 5 hours.
-
-**Note:** To check whether your domain has the correct MX, SPF, and DKIM records, visit [MxToolbox](https://mxtoolbox.com/). If the records are not set up, check this guide: How to Set Up SPF, DKIM, and DMARC Records.
-
-**Note:** QuickMail will send some Auto-Warmer emails to your email account before it begins sending regular outreach emails, to help establish deliverability.
-
 ### Option 2: When Purchasing Domains
 
 When buying domains in QuickMail, you have the option to enable Auto-Warmer in Step 4. When the email account is added to the workspace, Auto-Warmer will be enabled by default and will start sending emails within 24 hours.
