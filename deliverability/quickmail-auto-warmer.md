@@ -67,10 +67,15 @@ There are two ways to set up Auto-Warmer:
 ### Option 1: Through Email Account Settings
 
 Go to **Email** → click on an email account to open the quick view → go to the **Fire** icon tab → click **Join the Auto-Warmer Group**.
+<img width="1125" height="716" alt="image" src="https://github.com/user-attachments/assets/02ae4479-e351-4d1e-a1ff-868619f23391" />
+
 
 ### Option 2: When Purchasing Domains
 
 When buying domains in QuickMail, you have the option to enable Auto-Warmer in the order processes. When the email account is added to the workspace, Auto-Warmer will be enabled by default and will start sending emails within 24 hours.
+<img width="1794" height="1234" alt="image" src="https://github.com/user-attachments/assets/5cb9547b-7e7b-40f5-9917-b3ef4e9fb08b" />
+
+
 
 ## How Do I Check the Auto-Warmer Report?
 
