@@ -85,13 +85,13 @@ There are three ways to connect your LinkedIn account. For detailed instructions
 
 Once a connection request is sent to the lead, the lead will have an orange LinkedIn icon in its thumbnail. 
 
-**Note:** The system checks the status of the LinkedIn connection request once a day. So when a prospect accepts the LinkedIn connection request and "Wait until the connection is accepted to resume campaign" is checked, the journey of the prospect won't move to the next step in real time.
+**Note:** The system checks the status of LinkedIn connection requests every 1 to 3 hours. So if "Wait until the connection is accepted to resume campaign" is checked, the lead won't move to the next step right away after accepting the request. In addition, it may take up to 24 hours for the lead to move to the next step once a LinkedIn connection request is accepted.
 
 ## How to cancel a LinkedIn connection request?
 
 Once a connection request is sent to the lead, the lead will have an orange LinkedIn icon in its thumbnail. 
 
-To cancel a LinkedIn connection request, go to Leads → Search for the lead → Open lead's quickview → Click X to cancel pending connection request
+To cancel a LinkedIn connection request, go to Leads → Search for the lead → Open the lead's quick view → Click X to cancel the pending connection request
 
 FYI: QuickMail automatically withdraws them after 90 days of the connection request.
 
