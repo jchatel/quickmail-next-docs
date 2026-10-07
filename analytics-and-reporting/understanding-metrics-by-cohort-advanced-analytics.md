@@ -26,7 +26,7 @@ There are two ways to see Metrics by Cohort in QuickMail.
 
 ### Overall Metrics
 
-The overall metrics by cohort can be found on the Analytics page.
+The overall metrics by cohort can be found on the Analytics page in the left-side navigation.
 
 ![screenshot](../images/000_file-fvWojfrAJD.png)
 
@@ -34,11 +34,13 @@ The overall metrics by cohort can be found on the Analytics page.
 
 The metrics per campaign can be found on the dashboard of each campaign.
 
-Go to the **Campaigns** page → select a campaign → scroll down to see the metrics by cohort.
+Go to the **Campaigns** page → select a campaign → scroll down to the bottom to see the metrics by cohort.
 
 ![screenshot](../images/001_file-Nai2JVRvMU.png)
 
 ## What Are the Types of Data in the Analytics?
+
+Click on the ellipsis button at the upper right-hand side of the metrics by cohort to filter metrics by data type: 
 
 ### Data Type
 
