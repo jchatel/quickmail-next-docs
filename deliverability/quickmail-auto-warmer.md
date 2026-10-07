@@ -75,13 +75,13 @@ Go to **Email** → click on an email account to open the quick view → go to t
 When buying domains in QuickMail, you have the option to enable Auto-Warmer in the order processes. When the email account is added to the workspace, Auto-Warmer will be enabled by default and will start sending emails within 24 hours.
 <img width="1794" height="1234" alt="image" src="https://github.com/user-attachments/assets/5cb9547b-7e7b-40f5-9917-b3ef4e9fb08b" />
 
-
-
 ## How Do I Check the Auto-Warmer Report?
 
 The Auto-Warmer report shows how many emails were sent and how many landed in spam.
 
 Go to **Email** → click on an email account to open the quick view → go to the **Fire** icon tab → scroll to the bottom to view the Auto-Warmer report.
+
+<img width="1099" height="717" alt="image" src="https://github.com/user-attachments/assets/00f87095-07bb-4377-bc5a-db187a0859d4" />
 
 ## How Many Auto-Warmer Emails Can I Send?
 
