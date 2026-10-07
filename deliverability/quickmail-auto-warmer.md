@@ -70,7 +70,7 @@ Go to **Email** → click on an email account to open the quick view → go to t
 
 ### Option 2: When Purchasing Domains
 
-When buying domains in QuickMail, you have the option to enable Auto-Warmer in Step 4. When the email account is added to the workspace, Auto-Warmer will be enabled by default and will start sending emails within 24 hours.
+When buying domains in QuickMail, you have the option to enable Auto-Warmer in the order processes. When the email account is added to the workspace, Auto-Warmer will be enabled by default and will start sending emails within 24 hours.
 
 ## How Do I Check the Auto-Warmer Report?
 
