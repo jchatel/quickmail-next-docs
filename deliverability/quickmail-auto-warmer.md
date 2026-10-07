@@ -91,6 +91,8 @@ The maximum number of Auto-Warmer emails an email account can send per day is cu
 
 Go to **Email** → click on an email account to open the quick view → go to the **Fire** icon tab → **Maximum Daily Emails**.
 
+<img width="1122" height="719" alt="image" src="https://github.com/user-attachments/assets/745e68c4-4845-4d0f-8cae-1619a63e20d2" />
+
 ## Can I Warm Up an IP or SMTP?
 
 QuickMail's Auto-Warmer may not be suitable for warming up new IPs, as warming up a specific IP requires a very high volume of emails.
@@ -118,6 +120,8 @@ In most cases, keeping Auto-Warmer on even after you begin sending outreach is r
 ## How to Turn Off Auto-Warmer? 
 
 Go to **Email** → click on an email account to open the quick view → go to the **Fire** icon tab → At the bottom, click **Leave Group**. There's no option yet to do it in bulk.
+
+<img width="1137" height="714" alt="image" src="https://github.com/user-attachments/assets/62b1db61-ce71-4a17-bf66-fa20a3826a47" />
 
 ## How to Stop Auto-Warmer Emails from Cluttering Your Inbox?
 
