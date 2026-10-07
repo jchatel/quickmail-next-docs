@@ -1,5 +1,11 @@
 # QuickMail Changelog
 
+## October 5, 2026
+### FEATURE
+- Opportunities page in the Campaigns tab, so users can see campaign replies more conveniently. 
+- <img width="1074" height="713" alt="image" src="https://github.com/user-attachments/assets/57a578b9-4da5-467f-b87d-82fd45cb8823" />
+
+
 ## October 1, 2026
 ### FEATURE
 - Users can now easily see the max daily volume set for each email account on the Email page
