@@ -35,7 +35,7 @@ API rate limit is 10 requests per 10 seconds.
   - Setting email account daily sending limit
   - Setting email account recovery period
   - Setting email account sending groups (Deliverability AI)
-  - Getting email account sending limit / recovery period / deliverability index / autowarmer score / smart sending group
+  - Getting sender email account info
   - Creating custom properties
   - Setting custom properties
   - Creating Tags
@@ -151,8 +151,6 @@ This URL is different from the GraphiQL page URL: `https://api.quickmail.com/v2/
 ```
 
 ### Getting campaign stats based on a specific campaign
-Users can now get detailed performance stats for your campaigns through the API. This makes it easy to track results, build custom reports, and connect your campaign data to the tools your team already uses.
-
 The following stats are available for each campaign:
 - Total emails sent
 - Delivered
@@ -202,6 +200,7 @@ The following stats are available for each campaign:
 ```
 
 ### Getting email account IDs
+This only pulls up the list of inboxes/email sender in the account. It doesn't pull up the stats related to the inboxes such as open, clicks, replies, sent emails, etc.
 
 ```graphql
 {
@@ -224,8 +223,6 @@ The following stats are available for each campaign:
   }
 }
 ```
-
-This only pulls up the list of inboxes/email sender in the account. It doesn't pull up the stats related to the inboxes such as open, clicks, replies, sent emails, etc.
 
 ### Creating campaigns
 
@@ -480,7 +477,13 @@ mutation {
 }
 ```
 
-### Getting email account sending limit / recovery period / deliverability index / autowarmer score / smart sending group
+### Getting email account info
+The following email account info is available to get via the API:
+- Daily sending limit
+- Smart sending group (Deliverability AI)
+- Recovery Period (Deliverability AI)
+- Deliverability Index
+- Autowarmer score
 
 ```graphql
 query {
