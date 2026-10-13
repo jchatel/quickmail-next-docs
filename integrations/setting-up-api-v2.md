@@ -502,6 +502,22 @@ mutation setTags {
 }
 ```
 
+### Setting Leads as Do Not Contact  / Adding to Exclude List
+```
+mutation {
+  setLeadsAsDoNotContact(
+    input: {workspaceId: "workspace_xxx", leadIds: ["lead_xxx", "lead_yyy"], doNotContact: true}
+  ) {
+    leads {
+      id
+      email
+      doNotContact
+    }
+  }
+}
+```
+
+
 ### Getting number of available, active, and completed leads in a campaign
 
 ```graphql
