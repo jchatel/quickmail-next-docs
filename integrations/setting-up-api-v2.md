@@ -78,15 +78,17 @@ Here's an **article** to help you generate an API key.
 
 ![screenshot](../images/001_file-d2Jhfcwfaz.png)
 
-Next, click the play button. If the API key is valid, it should show the name of your agency, as well as the ID. Like this:
+Next, click the play button. 
+
+If the API key is valid, it should show the name of your agency, as well as the ID. Like this:
 
 ![screenshot](../images/002_file-oRbUyXcmkU.png)
 
-**Common error/s when setting up authorization**
-
-If it shows an error, please double-check that the API key pasted is correct and that it's still on the agency dashboard. (It can be deleted by other team members)
-
-Once the API key has been corrected or a new one added, just replace the old one on the headers and press the play button again.
+> [!WARNING]
+>
+> If an error appears, please double-check that the API key you pasted is correct, that it has access to the workspaces, and that it still exists on the agency dashboard, since other team members can delete it.
+>
+> Once you've corrected the API key or added a new one, just replace the old key in the headers and press the play button again.
 
 # Documentation
 
