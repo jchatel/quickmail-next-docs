@@ -31,6 +31,11 @@ API rate limit is 10 requests per 10 seconds.
   - Setting up Campaign Email Verification
   - Updating send times
   - Assigning/unassigning email accounts to/from campaigns
+  - Changing email account sender name
+  - Setting email account daily sending limit
+  - Setting email account recovery period
+  - Setting email account sending groups (Deliverability AI)
+  - Getting email account sending limit / recovery period / deliverability index / autowarmer score / smart sending group
   - Creating custom properties
   - Setting custom properties
   - Creating Tags
@@ -406,6 +411,89 @@ mutation setCampaignEmailAccounts {
     }
     campaign {
       id
+    }
+  }
+}
+```
+
+### Changing email account sender name
+```
+mutation {
+  renameEmailAccount(input: {
+    emailAccountId: "email_xxx"
+    name: "Jane Smith"
+  }) {
+    emailAccount { id name }
+  }
+}
+```
+
+### Setting email account daily sending limit
+```
+mutation {
+  setEmailAccountDailySendingLimit(input: {
+    emailAccountId: "email_xxx"
+    dailySendingLimit: 20
+  }) {
+    emailAccount { id dailySendingLimit }
+  }
+}
+```
+
+### Setting email account recovery period
+```
+mutation {
+  setEmailAccountRecoveryPeriod(input: {
+    emailAccountId: "email_xxx"
+    recoveryPeriodDays: 10
+  }) {
+    emailAccount {
+      id
+      recoveryPeriodDays
+      effectiveRecoveryPeriodDays
+    }
+  }
+}
+```
+
+### Setting email account sending groups (Deliverability AI)
+```
+mutation {
+  setEmailAccountsSmartSendingGroups(input: {
+    emailAccountIds: ["email_xxx"]
+    groups: [RED, BLUE, GREEN]
+    assign: true
+  }) {
+    emailAccounts {
+      id
+      email
+      smartSendingGroups {
+        name
+        color
+      }
+    }
+  }
+}
+```
+
+### Getting email account sending limit / recovery period / deliverability index / autowarmer score / smart sending group
+```
+query {
+  emailAccount(id: "email_xxx") {
+    id
+    name
+    dailySendingLimit
+    deliverabilityScoreThreshold
+    effectiveDeliverabilityScoreThreshold
+    recoveryPeriodDays
+    effectiveRecoveryPeriodDays
+
+    deliverabilityScore
+    autoWarmerScore
+
+    smartSendingGroups {
+        name
+        color
     }
   }
 }
