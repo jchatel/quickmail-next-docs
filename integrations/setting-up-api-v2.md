@@ -44,7 +44,7 @@ API rate limit is 10 requests per 10 seconds.
   - Getting the number of leads that ran into an error
   - Getting leads
   - Deleting Leads
-  - Setting Leads as Do Not Contact / Add to Exclude list
+  - Setting Leads as Do Not Contact (Add to Exclude list)
   - Canceling Journeys (Canceling Leads in a Campaign)
   - Removing Journeys (Removing Leads from a Campaign)
   - Listing Opportunities
