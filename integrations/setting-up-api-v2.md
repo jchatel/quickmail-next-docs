@@ -18,7 +18,7 @@ API rate limit is 10 requests per 10 seconds.
 - API Endpoint
 - JSON samples for API calls:
   - Getting Agency information including name, ID, and URL
-  - Getting workspaces IDs, names, and URLs
+  - Getting workspace IDs, names, and URLs
   - Getting campaign IDs, names, and URLs
   - Getting campaign stats
   - Getting email account IDs
@@ -27,7 +27,7 @@ API rate limit is 10 requests per 10 seconds.
   - Renaming a campaign
   - Creating email steps
   - Creating email variation
-  - Creating Wait step
+  - Creating a Wait step
   - Setting up Campaign Email Verification
   - Updating send times
   - Assigning/unassigning email accounts to/from campaigns
