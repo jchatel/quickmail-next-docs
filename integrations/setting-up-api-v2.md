@@ -39,6 +39,7 @@ API rate limit is 10 requests per 10 seconds.
   - Getting the number of leads that ran into an error
   - Getting leads
   - Deleting Leads
+  - Settings Leads as Do Not Contact / Add to Exclude list
   - Canceling Journeys (Canceling Leads in a Campaign)
   - Removing Journeys (Removing Leads from a Campaign)
   - Moving to the next page
@@ -502,21 +503,6 @@ mutation setTags {
 }
 ```
 
-### Setting Leads as Do Not Contact  / Adding to Exclude List
-```
-mutation {
-  setLeadsAsDoNotContact(
-    input: {workspaceId: "workspace_xxx", leadIds: ["lead_xxx", "lead_yyy"], doNotContact: true}
-  ) {
-    leads {
-      id
-      email
-      doNotContact
-    }
-  }
-}
-```
-
 
 ### Getting number of available, active, and completed leads in a campaign
 
@@ -584,6 +570,21 @@ query getLeads {
 mutation {
   deleteLeads(input: { workspaceId: "workspace_a3ZyeOmKbzDXAiLzMXDY5APE", leadIds: ["lead_r6zQLkOd0pnQiGVERvwaj14g", "lead_KQdYzj8W7OnJiY90AbaBeL6p"], permanent: false }) {
     clientMutationId
+  }
+}
+```
+
+### Setting Leads as Do Not Contact  / Adding to Exclude List
+```
+mutation {
+  setLeadsAsDoNotContact(
+    input: {workspaceId: "workspace_xxx", leadIds: ["lead_xxx", "lead_yyy"], doNotContact: true}
+  ) {
+    leads {
+      id
+      email
+      doNotContact
+    }
   }
 }
 ```
