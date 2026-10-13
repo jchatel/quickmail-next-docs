@@ -44,12 +44,16 @@ API rate limit is 10 requests per 10 seconds.
   - Getting the number of leads that ran into an error
   - Getting leads
   - Deleting Leads
-  - Settings Leads as Do Not Contact / Add to Exclude list
+  - Setting Leads as Do Not Contact / Add to Exclude list
   - Canceling Journeys (Canceling Leads in a Campaign)
   - Removing Journeys (Removing Leads from a Campaign)
+  - Listing Opportunities
+  - Getting an Opportunity
+  - Replying to an Opportunity
   - Moving to the next page
   - Filtering: Search leads by tags
-  - Filtering: Exclude/Include workspace IDs
+  - Filtering: Search leads by campaign name/IDs
+  - Filtering: Exclude/Include workspace name/IDs
 - Ruby samples
   - Creating a lead
   - Retrieving a lead's information
@@ -717,6 +721,95 @@ mutation {
 }
 ```
 
+### Listing Opportunities
+
+```graphql
+{
+  opportunities(first: 10) {
+    nodes {
+      id
+      subject
+      preview
+      state
+      status
+      createdAt
+      updatedAt
+      appUrl
+      lead {
+        id
+        email
+        fullName
+      }
+      campaign {
+        id
+        name
+      }
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+    totalCount
+  }
+}
+```
+
+### Getting an Opportunity
+
+```graphql
+{
+  opportunity(id: "opportunity_Nr516X8OwN7Ef9G5DVl7v2aM") {
+    id
+    subject
+    state
+    status
+    aiSummary
+    appUrl
+    lead {
+      id
+      email
+      fullName
+    }
+    parts(first: 10) {
+      nodes {
+        id
+        type
+        from
+        to
+        author
+        createdAt
+        content
+      }
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+    }
+  }
+}
+```
+
+### Replying to an Opportunity
+
+```graphql
+mutation {
+  replyToOpportunity(
+    input: {
+      opportunityId: "opportunity_Nr516X8OwN7Ef9G5DVl7v2aM"
+      html: "<div>Hi! Thanks for getting back to me.</div><div><br></div><div>Talk soon!</div>"
+    }
+  ) {
+    sentPart {
+      id
+      type
+      from
+      to
+      createdAt
+      content
+    }
+  }
+}
+```
 
 ### Moving to the next page
 
