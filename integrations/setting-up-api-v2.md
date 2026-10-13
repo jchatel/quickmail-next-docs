@@ -417,7 +417,8 @@ mutation setCampaignEmailAccounts {
 ```
 
 ### Changing email account sender name
-```
+
+```graphql
 mutation {
   renameEmailAccount(input: {
     emailAccountId: "email_xxx"
@@ -429,7 +430,8 @@ mutation {
 ```
 
 ### Setting email account daily sending limit
-```
+
+```graphql
 mutation {
   setEmailAccountDailySendingLimit(input: {
     emailAccountId: "email_xxx"
@@ -441,7 +443,8 @@ mutation {
 ```
 
 ### Setting email account recovery period
-```
+
+```graphql
 mutation {
   setEmailAccountRecoveryPeriod(input: {
     emailAccountId: "email_xxx"
@@ -457,7 +460,8 @@ mutation {
 ```
 
 ### Setting email account sending groups (Deliverability AI)
-```
+
+```graphql
 mutation {
   setEmailAccountsSmartSendingGroups(input: {
     emailAccountIds: ["email_xxx"]
@@ -477,7 +481,8 @@ mutation {
 ```
 
 ### Getting email account sending limit / recovery period / deliverability index / autowarmer score / smart sending group
-```
+
+```graphql
 query {
   emailAccount(id: "email_xxx") {
     id
@@ -663,7 +668,8 @@ mutation {
 ```
 
 ### Setting Leads as Do Not Contact  / Adding to Exclude List
-```
+
+```graphql
 mutation {
   setLeadsAsDoNotContact(
     input: {workspaceId: "workspace_xxx", leadIds: ["lead_xxx", "lead_yyy"], doNotContact: true}
@@ -679,7 +685,7 @@ mutation {
 
 ### Canceling Journeys (Canceling leads in a campaign)
 
-```# cancelLeadsFromCampaign
+```graphql
 mutation {
   cancelLeadsFromCampaign(input: {
     campaignId: "campaign_xxx",
@@ -695,8 +701,7 @@ mutation {
 
 ### Removing Journeys (Removing leads from a campaign)
 
-```
-# removeLeadsFromCampaign
+```graphql
 mutation {
   removeLeadsFromCampaign(input: {
     campaignId: "campaign_xxx",
@@ -736,7 +741,8 @@ To move to the next pages, use the endCursor code and insert it into `campaigns(
 ![screenshot](../images/003_file-QCvSmZ028e.png)
 
 ### Filtering: Search leads by tags
-```
+
+```graphql
 query {
   leads(text: "tags:xxxx"){
     nodes{
@@ -748,6 +754,34 @@ query {
 
 ```
 
+### Filtering: Search leads by campaign ID
+
+```graphql
+{
+  leads(includeCampaignPrefixIds: ["campaign_xxx"], first: 20) {
+    nodes {
+      id
+      email
+      firstName
+      lastName
+    }
+  }
+}
+
+```
+
+### Filtering: Search leads by campaign name
+
+```graphql
+{
+  leads(includeCampaignNames: ["search term"], first: 20) {
+    nodes {
+      id
+      email
+    }
+  }
+}
+```
 
 ### Filtering: Exclude Workspace IDs
 
