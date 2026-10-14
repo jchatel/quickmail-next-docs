@@ -27,18 +27,44 @@ Your AI assistant can retrieve the campaign data from QuickMail and present the 
 With QuickMail connected, your AI assistant can help you work with your campaigns and leads, answer questions about your data, and perform specific campaign-related actions. Everything available in QuickMail's API is also available through MCP.
 
 Here are some of the things you can do:
+
+### Campaigns
 - Get campaign statistics, such as opens, clicks, replies, and bounces
 - Analyze your campaign data and ask questions about your outreach
+- Get campaign IDs, names, and URLs
 - Create, clone, and rename campaigns
+- Create and update email, wait, and LinkedIn steps
+- Add email variations to your steps
+- Update campaign send times and email verification settings
+
+### Leads
 - Create and delete leads
 - Add, cancel, and remove leads in campaigns
 - Search for leads by name, email, phone, or LinkedIn ID
+- Filter leads by tag or campaign
+- See how many leads in a campaign are available, active, completed, or have run into an error
+- Mark leads as Do Not Contact (add them to your exclude list)
 - Create tags and assign them to leads
-- Create and update email, wait, and LinkedIn steps
-- Update campaign send times and email verification settings
-- Assign email accounts to campaigns and set custom tracking domains
-- Access workspace and account information
-- Create and update custom lead properties
+- Create custom properties and set their values on leads
+
+### Email accounts
+- Get email account IDs and sender account information
+- Assign and unassign email accounts to and from campaigns
+- Set custom tracking domains
+- Change an email account’s sender name
+- Set an email account’s daily sending limit and recovery period
+- Set sending groups for Deliverability AI
+
+### Opportunities
+- List and view your opportunities
+- Reply to an opportunity
+
+### Agency and workspaces
+- Get agency information, including name, ID, and URL
+- Get workspace IDs, names, and URLs
+- Include or exclude specific workspaces when searching
+
+And more
 - Retrieve other data and perform other actions supported by the QuickMail API
 
 ## ⚠️ Before you start 
