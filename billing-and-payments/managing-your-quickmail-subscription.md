@@ -1,6 +1,6 @@
 # Managing Your QuickMail Subscription
 
-In this article:
+**In this article:**
 - What's included in the 14-day trial?
 
 - What happens after the 14-day trial?
