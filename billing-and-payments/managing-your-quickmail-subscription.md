@@ -13,6 +13,8 @@ In this article:
 
 - How to Cancel Your Subscription?
 
+- Can I Pause My Subscription?
+
 ## What's Included in the 14-Day Trial?
 
 When creating a new account, your workspace is placed on a **14-day free trial by default**.
@@ -112,3 +114,7 @@ Team members can make changes to the subscription but guests and inbox access ca
 To cancel your plan, go to the **Billing/Plan** page → click the **Manage** button → click **Cancel Subscription** → follow the on-screen instructions to confirm the cancellation.
 
 ![screenshot](../images/004_file-8BPqrAZY2t.png)
+
+## Can I Pause My Subscription?
+
+There's currently no option to pause a subscription in QuickMail. 
