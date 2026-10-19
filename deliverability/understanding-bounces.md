@@ -66,10 +66,6 @@ We automatically pause the inbox if we detect sender-related bounces to prevent 
 
 To solve it, please revisit your cold email strategy to avoid bounces from happening again.
 
-For detailed fixes on these issues, refer to our Fixing Bounces Guide.
-
--https://help.quickmail.com/deliverability/troubleshooting-handling-sender-related-bounces/
-
 ## My leads opened and clicked but they're marked as invalid
 
 Spam filters or opening the sent emails on the inbox can lead to false opens and clicks.
