@@ -1,8 +1,6 @@
 # QuickMail's AutoWarmer 🔥
 
-QuickMail's Auto-Warmer will be available to everyone soon. In the meantime, if you don't see the Auto-Warmer option in your account, you can use Mailflow instead.
-
-Here's a guide to help you get started: [Auto-Warmer for email accounts not purchased with QuickMail](https://help.quickmail.com/deliverability/auto-warmer-for-non-quickmail-inboxes/)
+QuickMail's built-in Auto Warmer is now available for all types of email accounts. There's no need to use Mailflow or any other third-party Auto Warmer tool.
 
 **In this article:**
 
