@@ -98,5 +98,12 @@ For more information on understanding campaign analytics, check out this guide: 
 
 <img width="1048" height="716" alt="image" src="https://github.com/user-attachments/assets/2e671ae8-5341-4209-a01b-91c700e31ad1" />
 
+### Email Provider Split
+
+This section shows the percentage of recipients for each email provider, helping users develop better email deliverability strategies.
+
+<img width="601" height="365" alt="image" src="https://github.com/user-attachments/assets/ec363011-06c7-4bb7-b9c9-f56a24e2effe" />
+
+
 
 
