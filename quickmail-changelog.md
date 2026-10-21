@@ -9,6 +9,8 @@
 - Blacklist monitoring stoppe
 
 ## October 12, 2026
+### FEATURE
+- Expanded API and MCP capabilities with new options for managing inbox settings, filtering leads and opportunities, managing campaign assignments, accessing deliverability metrics, and replying to opportunities.
 ### FIXES
 - Fixed an issue where the Deliverability Index was not displayed for email accounts that aren't using Auto Warmer or haven't sent any campaigns yet.
   
