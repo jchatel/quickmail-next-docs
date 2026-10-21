@@ -20,7 +20,7 @@
 
 ICP (Ideal Customer Profile) filters let you control which LinkedIn profiles get imported into your campaigns. You can target specific job titles, industries, and locations, and exclude companies you do not want to contact.
 
-ICP filters are applied to LinkedIn post and profile viewer imports.
+ICP filters apply to LinkedIn post and profile viewer imports. They don't currently apply to regular email imports.
 
 ## Why Use ICP Filters?
 
