@@ -2,17 +2,17 @@
 
 ## October 20, 2026
 ### FEATURE
-- QuickMail's built-in Auto Warmer is now available for all types of email accounts. There's no need to use a third-party Auto Warmer tool.
-- Added the inbox name and email address to the payload of bounced events in webhooks to identify which inbox bounced.
-- Added the message thread ID to the payload of email reply events in webhooks.
+- QuickMail's built-in Auto Warmer is now available for all types of email accounts. There's no need to use a third-party Auto Warmer tool
+- Added the inbox name and email address to the payload of bounced events in webhooks to identify which inbox bounced
+- Added the message thread ID to the payload of email reply events in webhooks
 ### FIXES
-- Blacklist monitoring stoppe
+- Blacklist monitoring stopped working for some workspaces
 
 ## October 12, 2026
 ### FEATURE
-- Expanded API and MCP capabilities with new options for managing inbox settings, filtering leads and opportunities, managing campaign assignments, accessing deliverability metrics, and replying to opportunities.
+- Expanded API and MCP capabilities with new options for managing inbox settings, filtering leads and opportunities, managing campaign assignments, accessing deliverability metrics, and replying to opportunities
 ### FIXES
-- Fixed an issue where the Deliverability Index was not displayed for email accounts that aren't using Auto Warmer or haven't sent any campaigns yet.
+- Fixed an issue where the Deliverability Index was not displayed for email accounts that aren't using Auto Warmer or haven't sent any campaigns yet
   
 ## October 5, 2026
 ### FEATURE
