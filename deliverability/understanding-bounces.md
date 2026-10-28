@@ -68,6 +68,24 @@ We automatically pause the inbox if we detect sender-related bounces to prevent 
 
 To solve it, please revisit your cold email strategy to avoid bounces from happening again.
 
+- **Google SMTP error:Message not delivered: Your message appears suspicious and wasn’t delivered**
+
+This means Google is flagging the sending inbox’s emails as suspicious and blocking them before they reach your prospect. 
+This isn’t caused by QuickMail. It’s also not due to invalid email addresses among your prospects.
+
+This can happen if the inbox sends many emails with identical content, sends too many emails too quickly, has a low sender reputation, or has SPF, DKIM, or DMARC records that are missing or set up wrong.
+
+To fix it:
+- Add variations to your emails
+- Revise the content of your emails
+- Avoid a lot of links, images, and keep the email as simple as possible, especially the 1st email
+- Throttle your volume by increasing minimum time delay and time variation
+
+Once the issue is resolved, remember to unpause the inbox in QuickMail. 
+We automatically pause the inbox if we detect sender-related bounces to prevent further issues.
+
+Note: Bounces are not automatically retried.
+
 ## My leads opened and clicked but they're marked as invalid
 
 Spam filters or opening the sent emails on the inbox can lead to false opens and clicks.
