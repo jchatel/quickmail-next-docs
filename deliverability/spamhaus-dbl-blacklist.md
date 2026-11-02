@@ -39,8 +39,8 @@ Check all campaigns that used the domain and look for the causes listed above.
 
 **3. Use variations so your emails don't all look the same.**
 This makes it harder for email providers to flag your content.
-* [Creating an Email Variation](https://help.quickmail.com/article/345-variations)
-* [Creating Text Variations](https://help.quickmail.com/article/308-how-to-use-text-variations)
+* [Creating an Email Variation](https://help.quickmail.com/campaigns/email-variations-for-ab-testing/)
+* [Creating Text Variations](https://help.quickmail.com/campaigns/text-variations-spintax/)
 
 **4. Check your copy for spam trigger words.**
 Run your emails through a spam checker before you send them:
@@ -48,7 +48,7 @@ Run your emails through a spam checker before you send them:
 * [SpamTester.ai](https://spamtester.ai/)
 
 **5. Use custom domain tracking.**
-This helps your deliverability. See [Adding Custom Domain Tracking](https://help.quickmail.com/article/333-how-to-set-up-custom-domain-tracking).
+This helps your deliverability. See [Adding Custom Domain Tracking](https://help.quickmail.com/deliverability/custom-domain-tracking-to-improve-deliverability/).
 
 **6. Check your website, email accounts, and DNS records.**
 Make sure there is nothing you don't recognize, in case the domain was misused by someone else.
