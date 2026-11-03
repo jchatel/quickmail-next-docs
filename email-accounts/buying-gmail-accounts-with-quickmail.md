@@ -16,7 +16,7 @@
 - [What happens to expired domains?](#what-happens-when-a-domain-expires)
 - [Can I bring my own domain and get email accounts with QuickMail?](#can-i-bring-my-own-domain-and-get-email-accounts-with-quickmail)
 - [How to update my email account avatar?](#how-to-update-my-email-account-avatar)
-- 
+
 ## Why Buy Google Email Accounts in QuickMail?
 
 - **Create new Google inboxes in just a few clicks** — No manual setup needed. Each email account is automatically added to your QuickMail workspace.
@@ -185,3 +185,7 @@ Emails not purchased with QuickMail don't have the auto-warmer tab. For those, y
 ## How to update my email account avatar?
 
 To update your email account avatar, go to **Emails** → click the email → Upload Avatar.
+
+## Can I change the identity of the email once it's created?
+It's not possible to change the identity of the emails.
+You need to buy new domains to create new emails for another person.
