@@ -26,7 +26,9 @@ If you need help with adding inboxes in Mailflow & QuickMail, check out these gu
 
 An inbox cannot be scored if it's not sending auto-warmer emails in Mailflow. Here are several reasons why the inbox isn't sending auto-warmer emails:
 
-The inbox hasn't started sending auto-warmer emailsThe inbox must be added to the auto-warmer group to enable Auto-Warmer. Otherwise, the inbox won't start sending auto-warmer emails. 
+## The inbox hasn't started sending auto-warmer emails
+
+The inbox must be added to the auto-warmer group to enable Auto-Warmer. Otherwise, the inbox won't start sending auto-warmer emails. 
 It may take up to 48 hours before the inbox starts sending auto-warmer emails. So you may not see auto-warmer emails being sent from the inbox immediately.
 
 If you need help with adding the inbox to the auto-warmer group, check out this guide: [Auto-Warmer](https://help.mailflow.io/article/414-how-to-use-the-auto-warmer-feature)
