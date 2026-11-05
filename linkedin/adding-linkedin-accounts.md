@@ -146,7 +146,7 @@ The way to reconnect depends on how the account was originally added:
 * **Added via 2FA:** Reconnect it using the browser extension, and make sure your LinkedIn account is open in another tab. If you're still getting an error, click the question mark icon to open the chatbot, type in your issue, and then click "Escalate to Human."
 
 
-### I'm Getting an Error When Adding My LinkedIn Account.
+### I'm Getting an Error When Adding/Reconnecting My LinkedIn Account.
 
 * **Error: _We failed to create your LinkedIn account due to network issues. Please try again later_**
 
@@ -157,6 +157,11 @@ If you are seeing this, it's a temporary error caused by high server load. Wait 
 This can happen if you've just set up two-factor authentication (2FA). Try logging out of your LinkedIn account, then logging back in before attempting to connect it to QuickMail again.
 
 Alternatively, wait a few minutes and then try connecting it again.
+
+* **Error: Network error**
+
+This can happen when the location where your LinkedIn is located, is busy.
+Waiting for an hour or two and trying again should do the trick.
 
 ### What does gold LinkedIn icon means?
 
