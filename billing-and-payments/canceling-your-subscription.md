@@ -10,6 +10,9 @@
 
 - I'm having an error canceling my subscription
 
+NOTE: An account with no subscription for longer than 20 days will be purged.
+All purged data can't be recovered anymore.
+
 ## Team Account (Starter and Growth Plans)
 
 To cancel your workspace subscription, go to your billing page and click manage.
