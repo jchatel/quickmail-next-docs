@@ -118,3 +118,9 @@ To cancel your plan, go to the **Billing/Plan** page → click the **Manage** bu
 ## Can I Pause My Subscription?
 
 There's currently no option to pause a subscription in QuickMail. 
+If an account remains canceled for longer than 20 days, all its data will be purged.
+
+The data includes leads, campaigns, campaign info, emails, and LinkedIn accounts.
+
+All purged data can't be recovered anymore.
+
