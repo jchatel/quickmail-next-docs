@@ -48,7 +48,7 @@ This will translate to:
 
 Custom properties allow you to include personalized details in your emails for each lead, such as their city, industry, or a unique opening line tailored to each individual.
 
-**Important:** If you need to use formatting and line breaks in custom properties, you will need to use HTML.
+**Important:** If you need to use formatting and line breaks in custom properties, you will need to use HTML. Make sure Plain text only is turned off. If it's on, the HTML won't work and html syntax will show up in the email as plain text. The Review tab can still look fine, so send yourself a test email to check.
 
 **Note:** It is not possible to filter leads based on custom property fields.
 
