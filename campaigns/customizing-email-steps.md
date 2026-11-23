@@ -44,7 +44,7 @@ Name your custom property → paste the HTML code as the default value → **Con
 
 **Note:** Make sure your HTML code is finalized before saving it as the default value. Custom property default values cannot be edited after creation.
 
-Once the custom property is created, insert it into your email step. The HTML will render when the recipient receives the email.
+Once the custom property is created, insert it into your email step. Also on the 3 dot menu, make sure Plain Text is toggled off. The HTML will render when the recipient receives the email.
 
 ![screenshot](../images/004_file-xr6bJbuZBR.png)
 
