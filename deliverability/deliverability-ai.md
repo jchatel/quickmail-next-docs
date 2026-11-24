@@ -34,8 +34,6 @@ By default, an email account is swapped out if its deliverability score drops be
 
 To change the threshold, see the How to change the deliverability score threshold section below.
 
-**Note:** Open tracking needs to be enabled for the Deliverability AI to work.
-
 Paused email accounts won't be swapped
 
 # How are Deliverability Scores generated?
