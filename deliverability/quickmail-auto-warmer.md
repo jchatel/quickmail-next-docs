@@ -73,6 +73,8 @@ This works for all email accounts, including accounts not purchased with QuickMa
 
 <img width="1125" height="716" alt="image" src="https://github.com/user-attachments/assets/02ae4479-e351-4d1e-a1ff-868619f23391" />
 
+**Note:** Custom domain tracking is required. [Here's how to set it up](https://help.quickmail.com/deliverability/custom-domain-tracking-to-improve-deliverability/).
+
 **FYI:** We verify that your email account can send and receive emails before accepting it into the group. This prevents bounces that could hurt the reputation of the other members of the group.
 
 Once your email account is accepted, it should start sending and receiving Auto-Warmer emails within 1 to 48 hours.
