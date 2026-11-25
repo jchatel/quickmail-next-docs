@@ -23,7 +23,7 @@
 
 QuickMail does not provide servers or IPs for sending emails. To use QuickMail, you will need an email account that can both send and receive messages.
 
-If you do not have email accounts for sending yet, QuickMail sells Google email accounts. Here is a detailed guide: Buying Gmail Accounts & Domains Through QuickMail.
+If you do not have email accounts for sending yet, QuickMail sells Google email accounts. Here is a detailed guide: [Buying Gmail Accounts & Domains Through QuickMail](https://help.quickmail.com/email-accounts/buying-gmail-accounts-with-quickmail/).
 
 **Tip:** Email deliverability depends on the sender reputation of your email accounts. Here are some QuickMail features to help improve deliverability: Maximizing Email Deliverability in QuickMail.
 
