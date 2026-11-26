@@ -1,9 +1,5 @@
 # QuickMail Changelog
 
-## November 26, 2026
-### FEATURE
-- Campaigns, email accounts, and LinkedIn accounts are now shared across your workspace
-
 ## October 20, 2026
 ### FEATURE
 - QuickMail's built-in Auto Warmer is now available for all types of email accounts. There's no need to use a third-party Auto Warmer tool
