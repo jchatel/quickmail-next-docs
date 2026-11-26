@@ -10,7 +10,6 @@
 - [How to change Team Member roles?](#how-to-change-team-members-role)
 - [How to add Guests?](#how-to-invite-clients-as-guests)
 - [Where can I see each Team Member's activities?](#where-can-i-see-each-team-members-activities)
-- [Why are campaigns, replies, or email accounts not visible to other team members?](#why-are-my-email-accounts-opportunities-responses-and-campaigns-not-visible-to-my-team-members)
 - [FAQs](#faqs)
 
 In QuickMail, users can easily grant access to colleagues or clients by utilizing their own email addresses. This allows seamless collaboration in managing an account without the need to share logins.
