@@ -10,7 +10,6 @@
 - [How to change Team Member roles?](#how-to-change-team-members-role)
 - [How to add Guests?](#how-to-invite-clients-as-guests)
 - [Where can I see each Team Member's activities?](#where-can-i-see-each-team-members-activities)
-- [Why are campaigns, replies, or email accounts not visible to other team members?](#why-are-my-email-accounts-opportunities-responses-and-campaigns-not-visible-to-my-team-members)
 - [FAQs](#faqs)
 
 In QuickMail, users can easily grant access to colleagues or clients by utilizing their own email addresses. This allows seamless collaboration in managing an account without the need to share logins.
@@ -23,15 +22,12 @@ There are three types of team access in QuickMail: Admins, Team Members, and Gue
 
 ### 1 - Admins
 
-Admins can do everything except for:
-
-- Manage private inboxes and campaigns owned by a different team member
+Admins can do everything.
 
 ### 2 - Team Members
 
 Team members can do everything except for:
 
-- Manage private inboxes and campaigns owned by a different team member
 - Change the card on the billing page
 - Purchase or update the subscription
 - Buy email verification credits
@@ -40,7 +36,6 @@ Team members can do everything except for:
 
 Guests can or cannot have edit access. If a guest has edit access, they can do everything except for:
 
-- Manage private inboxes and campaigns owned by a different team member
 - Access other workspaces in the organization dashboard (Agency accounts)
 
 ## How to Add a Team Member to an Agency
@@ -95,29 +90,6 @@ To remove or provide admin access, simply click on the team member listed and ch
 To access the Changelog, go to the **'Team'** tab in the agency dashboard → click the vertical ellipsis → **Change log**.
 
 <img width="1536" height="1164" alt="image" src="https://github.com/user-attachments/assets/d574f7a0-1987-457c-893b-6db454b8c822" />
-
-
-## Why Are My Email Accounts, Opportunities Responses, and Campaigns Not Visible to My Team Members?
-
-The reason email accounts, Opportunities items, and campaigns are not visible to other team members is that they are **Private**. Private inboxes and campaigns are only visible to their owners. To fix this, the campaign must be set to **'Shared'**.
-
-### Share an Email Account
-
-If an email account is visible on your end but not to other team members, check whether it is set to Private. Private email accounts are only visible to the user they are assigned to.
-To share an email account, go to **Channel** → **Email** → click on your preferred email → change sharing settings.
-
-<img width="1538" height="1156" alt="image" src="https://github.com/user-attachments/assets/d5964ff1-b6eb-4e77-a656-4ea907b61599" />
-
-### Share a Campaign
-
-If a campaign is visible on your end but not to other team members, check whether it is set to Private. Private email accounts are only visible to the user they are assigned to.
-To share a campaign, go to the **Campaign** → click on the vertical ellipsis → **Settings**.
-
-<img width="1536" height="1150" alt="image" src="https://github.com/user-attachments/assets/4a6fddec-a35b-4bb8-ad93-33dfb2c10dab" />
-
-Change the Sharing Settings to **'Shared'**.
-
-<img width="1540" height="1150" alt="image" src="https://github.com/user-attachments/assets/1b7615a3-5c50-486a-bdad-8bbedc64c34b" />
 
 ## FAQs
 

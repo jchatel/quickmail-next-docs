@@ -105,7 +105,6 @@ Building, running, and managing outreach campaigns.
 - [Sending Email Variations Based On Conditions](campaigns/sending-email-variations-based-on-conditions.md)
 - [Sending Emails Manually](campaigns/sending-emails-manually.md)
 - [Sending Test Emails](campaigns/sending-test-emails.md)
-- [Setting A Campaign Private](campaigns/setting-a-campaign-private.md)
 - [Starting Campaigns Immediately](campaigns/starting-campaigns-immediately.md)
 - [Sub Campaigns For All Replies](campaigns/sub-campaigns-for-all-replies.md)
 - [Sub Campaigns For All Replies](campaigns/sub-campaigns-for-all-replies.md)
