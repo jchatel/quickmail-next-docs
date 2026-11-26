@@ -32,7 +32,7 @@ There are three types of team access in QuickMail: **Admins**, **Team Members**,
 
 ## Admins
 
-Admins can do everything except.
+Admins can do everything.
 
 ## Team Members
 
