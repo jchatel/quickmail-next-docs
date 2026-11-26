@@ -1,5 +1,9 @@
 # QuickMail Changelog
 
+## November 26, 2026
+### FEATURE
+- Campaigns, email accounts, and LinkedIn accounts are now shared across your workspace
+
 ## October 20, 2026
 ### FEATURE
 - QuickMail's built-in Auto Warmer is now available for all types of email accounts. There's no need to use a third-party Auto Warmer tool
@@ -74,8 +78,6 @@
 ## August 4, 2026
 ### FEATURES
 - When importing leads from LinkedIn post, language and location info are now being imported as well 
-- Introduced the Prospecting page, allowing users to search, filter, and discover leads directly within the app. Requires the LinkedIn Browser Extension to access and import prospects.
-<img width="1356" height="704" alt="image" src="https://github.com/user-attachments/assets/167883a5-a5d8-45c9-825b-d1848230e05c" />
 
 ### FIXES
 - LinkedIn instant messages were sometimes not being sent
