@@ -127,13 +127,7 @@ If you're encountering the “2FA challenge not found” error, please try loggi
 
 ### I Added the LinkedIn Account but I Can't Find It. Why?
 
-If you can't see a LinkedIn account, it may be set to private. Private LinkedIn accounts are only visible to the person who added them, meaning the email address that was used to log in to QuickMail when the account was added.
-
-If you're logged in with a different email address, the private LinkedIn account won't appear, and you won't be able to edit its settings.
-
-To fix this, log in with the email address used to add the account. If you still can't find it, click the AI chatbot in the lower right corner of your QuickMail account, then click "Escalate to Human."
-
-Something may have gone wrong when the LinkedIn account was added. To verify, go to Settings → Team → Ellipsis → Changelog and look for any errors.
+Something may have gone wrong when the LinkedIn account was added. To verify, go to Settings → Team → Ellipsis → Changelog and look for any errors. If you still can't find it, click the AI chatbot in the lower right corner of your QuickMail account, then click "Escalate to Human."
 
 ## My LinkedIn Account Lost Permission. How Do I Reconnect It?
 
