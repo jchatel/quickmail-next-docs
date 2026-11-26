@@ -45,8 +45,6 @@ When creating a campaign, you will need to:
 
 - Give the campaign a name
 
-- Choose whether it is shared (visible to everyone) or private (only visible to you)
-
 - Choose the days you'd like to send
 
 - Specify the timezone for sending
@@ -64,8 +62,6 @@ When creating a campaign, you will need to:
 Consider using automation by setting the number of leads to start daily instead.
 
 ![screenshot](../images/001_file-9uPSUyKFlh.png)
-
-**Note:** Private campaigns are only visible to the email address that created them. They are not visible to other team members or admins.
 
 ## Step 2: Create Steps
 
