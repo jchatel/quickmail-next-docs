@@ -24,8 +24,6 @@ If you have an agency, please refer to this guide instead: [Managing Team Member
 
 - Where can I see each team member's activities?
 
-- Why are campaigns, replies, or email accounts not visible to other team members?
-
 - FAQs
 
 ## What Are the Types of Team Access in QuickMail?
@@ -34,15 +32,11 @@ There are three types of team access in QuickMail: **Admins**, **Team Members**,
 
 ## Admins
 
-Admins can do everything except:
-
-- Manage private email accounts and campaigns owned by a different team member.
+Admins can do everything except.
 
 ## Team Members
 
 Team members can do everything except:
-
-- Manage private email accounts and campaigns owned by a different team member.
 
 - Change the card on the billing page.
 
@@ -53,8 +47,6 @@ Team members can do everything except:
 ## Guests
 
 Guests can or cannot have edit access. If a guest has edit access, they can do everything except:
-
-- Manage private email accounts and campaigns owned by a different team member.
 
 - Access workspace settings.
 
@@ -103,26 +95,6 @@ All activities can be seen and filtered on the Changelog page.
 Go to **Settings** → **Team** → **Changelog**.
 
 ![screenshot](../images/006_file-mKvaea6RQV.png)
-
-## Why Are My Email Accounts, Inbox Items, and Campaigns Not Visible to Other Team Members?
-
-Email accounts, Inbox items, and campaigns are private by default and are only visible to their owners. To make them visible to other team members, they must be set to Shared.
-
-### Share an email account
-
-Go to **Email** → click the thumbnail of the email account → change the sharing settings.
-
-![screenshot](../images/007_file-bjKB6Y3ctM.png)
-
-### Share a campaign
-
-Go to the campaign → click the gear icon.
-
-![screenshot](../images/008_file-2hjVh3PQhV.png)
-
-Change the **Sharing Settings** to **Shared**.
-
-![screenshot](../images/009_file-pA7qXWBzd9.png)
 
 ## FAQs
 
